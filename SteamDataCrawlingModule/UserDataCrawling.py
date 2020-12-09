@@ -4,9 +4,10 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+import time
 
 start_id = 76561197960265728
-start_user = 0; end_user = 1000; num_user = 10
+start_user = 100; end_user = 20000; num_user = 100000
 base_url = 'http://steamcommunity.com/profiles/'
 file_dir = 'results/userdata/'
 
@@ -14,6 +15,7 @@ def get_user_game_data(user_url, driver):
     all_game_url = user_url + 'games?tab=all&sort=playtime/'
     driver.get(all_game_url)
     driver.implicitly_wait(3)
+    time.sleep(20)
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
     game_list = soup.select('.gameListRowItem')
@@ -34,6 +36,7 @@ def get_user_review_data(user_url, driver):
     all_review_url = user_url + 'reviews'
     driver.get(all_review_url)
     driver.implicitly_wait(3)
+    time.sleep(20)
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
     review_list = soup.select('.review_box_content')
@@ -56,7 +59,7 @@ def write_user_data_file(game_data, review_data, user_id):
     f.close()
 
 options = webdriver.ChromeOptions()
-options.add_argument('--headless')
+#options.add_argument('--headless')
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 options.add_argument("--disable-gpu")
@@ -65,14 +68,13 @@ driver.implicitly_wait(3)
 
 count = 0; user_i = 0
 while True:
-    print('in processing user ',start_id + start_user + user_i)
+    print('in processing user ',start_id + start_user + user_i, user_i, count)
     user_url = base_url + str(start_id + start_user + user_i) + '/'
     reviews_url = user_url + 'reviews'
     user_game_data = get_user_game_data(user_url, driver)
-    user_review_data = get_user_review_data(user_url, driver)
-
     if len(user_game_data)>0:
         count += 1
+        user_review_data = get_user_review_data(user_url, driver)
         write_user_data_file(user_game_data, user_review_data, str(start_id+start_user+user_i))
     
     user_i += 1

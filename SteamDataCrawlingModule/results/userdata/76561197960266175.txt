@@ -1,0 +1,628 @@
+@@GAME
+3DMark##0
+3DMark API Overhead feature test##0
+3DMark Cloud Gate benchmark##0
+3DMark Fire Strike benchmark##0
+3DMark Ice Storm benchmark##0
+3DMark Night Raid benchmark##0
+3DMark PCI Express feature test##0
+3DMark Port Royal upgrade##0
+3DMark Sky Diver benchmark##0
+3DMark VRS feature test##0
+7 Days to Die##0
+911 Operator##0
+Adam Wolfe##0
+ADR1FT##0
+Age of Empires II (2013)##0
+Age of Empires II (2013): The Forgotten##0
+Age of Wonders III##0
+Alan Wake##0
+Alien: Isolation##0
+Aliens versus Predator Classic 2000##0
+Aliens vs. Predator##0
+Amnesia: A Machine for Pigs##0
+Amnesia: The Dark Descent##0
+Among Us##0
+APE OUT##0
+Aragami##0
+Arx Fatalis##0
+Baldur's Gate: Enhanced Edition##0
+Baldur's Gate II: Enhanced Edition##0
+Bastion##0
+Batman: Arkham Asylum GOTY Edition##0
+Batman: Arkham City GOTY##0
+Batman: The Enemy Within - The Telltale Series##0
+Batman™: Arkham Knight##0
+Batman™: Arkham Origins##0
+Battlefield: Bad Company 2 Vietnam##0
+Battlefield: Bad Company™ 2##0
+Bayonetta##0
+BDSM: Big Drunk Satanic Massacre##0
+Beat Hazard##0
+Besiege##0
+Beyond a Steel Sky##0
+Beyond Divinity##0
+Beyond Good & Evil##0
+Bionic Commando##0
+Bionic Commando Rearmed##0
+BioShock Infinite##0
+Blood Omen 2: Legacy of Kain##0
+Blur##0
+Book of Demons##0
+Borderlands 2##0
+Borderlands: The Pre-Sequel##0
+Borderlands DLC: Claptrap’s New Robot Revolution##0
+Borderlands DLC: Mad Moxxi's Underdome Riot##0
+Borderlands DLC: The Secret Armory of General Knoxx##0
+Borderlands DLC: The Zombie Island of Dr. Ned##0
+Borderlands GOTY##0
+Borderlands GOTY Enhanced##0
+Braid##0
+Broforce##0
+Broken Sword 1 - Shadow of the Templars: Director's Cut##0
+Broken Sword 2 - the Smoking Mirror: Remastered##0
+Broken Sword 3 - the Sleeping Dragon##0
+Broken Sword 4 - the Angel of Death##0
+Broken Sword 5 - the Serpent's Curse##0
+Brothers - A Tale of Two Sons##0
+Brütal Legend##0
+Bulletstorm: Full Clip Edition##0
+Call of Duty##0
+Call of Duty 2##0
+Call of Duty: United Offensive##0
+Call of Juarez##0
+Call of Juarez: Bound in Blood##0
+Call of Juarez Gunslinger##0
+Carcassonne: The Official Board Game##0
+CASE: Animatronics##0
+Castlevania: Lords of Shadow - Ultimate Edition##0
+Castlevania: Lords of Shadow 2##0
+Castlevania: Lords of Shadow – Mirror of Fate HD##0
+Chaser##0
+Chronicon##0
+City Of Brass##0
+Civilization V - Scrambled Continents Map Pack##0
+Cloudpunk##0
+COLLAPSED##0
+Commander Keen Complete Pack##0
+Commandos 2: Men of Courage##0
+Commandos 3: Destination Berlin##0
+Commandos: Behind Enemy Lines##0
+Commandos: Beyond the Call of Duty##0
+Counter-Strike##0
+Counter-Strike: Condition Zero##0
+Counter-Strike: Condition Zero Deleted Scenes##0
+Counter-Strike: Global Offensive##0
+Counter-Strike: Source##0
+Crysis##0
+Crysis 2 Maximum Edition##0
+Crysis Warhead##0
+Crysis Wars##0
+Darkest Dungeon®##0
+Darksiders##0
+Darksiders II Deathinitive Edition##0
+Darksiders Warmastered Edition##0
+Darkwood##0
+DARQ##0
+Day of Defeat##0
+Day of Defeat: Source##0
+Dead Island##0
+Dead Island Definitive Edition##0
+Dead Man's Draw##0
+Dead Space##0
+Dead Space 2##0
+Dead Space™ 3##0
+Deathmatch Classic##0
+Defense Grid: Containment DLC##0
+Defense Grid: Resurgence Map Pack 1##0
+Defense Grid: Resurgence Map Pack 2 ##0
+Defense Grid: Resurgence Map Pack 3##0
+Defense Grid: Resurgence Map Pack 4##0
+Defense Grid: The Awakening##0
+Descent##0
+Descent 2##0
+Descent 3##0
+Descent: Freespace - The Great War##0
+Desperados - Wanted Dead or Alive##0
+Desperados 2: Cooper’s Revenge##0
+Deus Ex: Game of the Year Edition##0
+Deus Ex: Human Revolution##0
+Deus Ex: Human Revolution - Director's Cut##0
+Deus Ex: Human Revolution - The Missing Link##0
+Deus Ex: Invisible War##0
+Deus Ex: Mankind Divided™##0
+Deus Ex: Revision##0
+Devil Daggers##0
+DiRT Rally##0
+Dishonored##0
+Dishonored 2##0
+Divine Divinity##0
+Divinity: Original Sin 2##0
+Divinity II: Developer's Cut##0
+Don't Starve##0
+DOOM##0
+DOOM 3##0
+DOOM 3: BFG Edition##0
+DOOM 3: Resurrection of Evil##0
+DOOM 64##0
+DOOM II: Hell on Earth##0
+Door Kickers##0
+Dota 2 Test##0
+Dragon's Dogma: Dark Arisen##0
+Dragon Age: Origins - Ultimate Edition##0
+Drake Hollow##0
+Drox Operative 2##0
+Dungeon Siege##0
+Dungeon Siege 2##0
+Dungeon Siege III##0
+Dungeons of Dredmor##0
+Dust: An Elysian Tail##0
+Elite Dangerous##0
+Ember##0
+Enclave##0
+Enderal: Forgotten Stories##0
+ENSLAVED™: Odyssey to the West™ Premium Edition##0
+Escape from Monkey Island™##0
+EVERSPACE™##0
+Evil Genius##0
+F.E.A.R.##0
+F.E.A.R. 2: Project Origin##0
+F.E.A.R. 3##0
+F.E.A.R.: Extraction Point##0
+F.E.A.R.: Perseus Mandate##0
+Fable - The Lost Chapters##0
+Fable Anniversary##0
+Fallout##0
+Fallout 2##0
+Fallout 3##0
+Fallout 4##0
+Fallout: New Vegas##0
+Fallout Tactics##0
+Far Cry##0
+Far Cry 2##0
+Far Cry 2: Fortunes Pack##0
+Far Cry® 3##0
+Far Cry® 3 Blood Dragon##0
+Fictorum##0
+Fight The Dragon##0
+Final DOOM##0
+Firewatch##0
+FIVE: Champions of Canaan##0
+FIVE: Guardians of David##0
+FIVE: Guardians of David Art Book##0
+FIVE: Guardians of David Soundtrack##0
+Flood of Light##0
+Freespace 2##0
+Frontlines: Fuel of War##0
+Frostpunk##0
+FTL: Faster Than Light##0
+Full Spectrum Warrior##0
+Full Spectrum Warrior: Ten Hammers##0
+Full Throttle Remastered##0
+Gauntlet™ ##0
+GemCraft - Chasing Shadows##0
+Gloom##0
+Gothic##0
+Gothic 3##0
+Gothic II: Gold Edition##0
+Gothic Playable Teaser##0
+Grand Theft Auto: San Andreas##0
+Grand Theft Auto: San Andreas##0
+Grand Theft Auto: Vice City##0
+Grand Theft Auto: Vice City##0
+Grand Theft Auto III##0
+Grand Theft Auto III##0
+Grim Dawn##0
+Grim Fandango Remastered##0
+GUN##0
+Gunfire Reborn##0
+Gunpoint##0
+Hacknet##0
+Half-Life##0
+Half-Life 2##0
+Half-Life 2: Deathmatch##0
+Half-Life 2: Episode One##0
+Half-Life 2: Episode Two##0
+Half-Life 2: Lost Coast##0
+Half-Life: Blue Shift##0
+Half-Life: Opposing Force##0
+Half-Life: Source##0
+Half-Life Deathmatch: Source##0
+Halo: Spartan Assault##0
+Halo: Spartan Strike##0
+Halo Wars: Definitive Edition##0
+Hand of Fate##0
+Hard Reset##0
+Hard Reset: Exile DLC##0
+Hard Reset Redux##0
+Haydee##0
+Heat Signature##0
+Heaven Dust##0
+Hellblade: Senua's Sacrifice##0
+Hellblade: Senua's Sacrifice VR Edition##0
+Heretic: Shadow of the Serpent Riders##0
+Hero Siege##0
+Her Story##0
+HeXen: Beyond Heretic##0
+HeXen: Deathkings of the Dark Citadel##0
+HeXen II##0
+Hitman 2: Silent Assassin##0
+Hitman: Absolution##0
+Hitman: Blood Money##0
+Hitman: Codename 47##0
+Hitman: Contracts##0
+Hitman: Sniper Challenge##0
+Hitman GO: Definitive Edition##0
+Hollow Knight##0
+How to Survive##0
+Hunted: The Demon's Forge##0
+ibb & obb##0
+Icewind Dale: Enhanced Edition##0
+Ikaruga##0
+Immortal Redneck##0
+INSIDE##0
+Insurgency##0
+Invisible, Inc.##0
+IS Defense##0
+ISLANDERS##0
+Judge Dredd: Dredd vs Death##0
+Just Cause##0
+Just Cause 2##0
+Just Cause 3##0
+Keep Talking and Nobody Explodes##0
+Killing Floor##0
+Killing Floor Mod: Defence Alliance 2##0
+King and Assassins##0
+Kingdom: Classic##0
+Kingdoms of Amalur: Reckoning™##0
+Kohate##0
+Lara Croft and the Guardian of Light##0
+Lara Croft GO##0
+Left 4 Dead##0
+Left 4 Dead 2##0
+Legacy of Kain: Defiance##0
+Legacy of Kain: Soul Reaver##0
+Legacy of Kain: Soul Reaver 2##0
+Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded##0
+Let Them Come##0
+Life is Strange™##0
+LIMBO##0
+Little Nightmares##0
+Lost Planet: Extreme Condition##0
+Love Letter##0
+Machinarium##0
+Mad Max##0
+Magicka##0
+Magicka 2##0
+Mark of the Ninja##0
+Mark of the Ninja: Remastered##0
+Mark of the Ninja: Special Edition DLC##0
+Mass Effect##0
+Mass Effect 2##0
+Master Levels for DOOM II##0
+Max Payne##0
+Max Payne 2: The Fall of Max Payne##0
+Max Payne 3##0
+Metro 2033 Redux##0
+Metro: Last Light Redux##0
+Middle-earth™: Shadow of Mordor™##0
+Middle-earth™: Shadow of War™##0
+Mini Ninjas##0
+Mirror's Edge##0
+MO:Astray##0
+Monkey Island 2: Special Edition##0
+Monstrum ##0
+MOTHERGUNSHIP##0
+MURDERED: SOUL SUSPECT™##0
+MX vs. ATV Reflex##0
+Mysterium##0
+Natural Selection 2##0
+Near Death##0
+Neversong##0
+Neverwinter##0
+Nexomon: Extinction##0
+No Man's Sky##0
+Nova Drift##0
+Obsurity##0
+Oddworld: Abe's Exoddus##0
+Oddworld: Abe's Oddysee##0
+Oddworld: Munch's Oddysee##0
+Oddworld: Stranger's Wrath HD##0
+OneShot##0
+Orcs Must Die!##0
+Orcs Must Die! 2##0
+Orcs Must Die! Unchained##0
+Ori and the Blind Forest##0
+Ori and the Blind Forest: Definitive Edition##0
+Outcast 1.1##0
+Outer Wilds##0
+Outlast##0
+Outlast 2##0
+Outlast: Whistleblower DLC##0
+Overlord##0
+Overlord: Fellowship of Evil##0
+Overlord: Raising Hell##0
+Overlord II##0
+Pacify##0
+Painkiller: Black Edition##0
+Painkiller: Recurring Evil##0
+Painkiller: Redemption##0
+Painkiller: Resurrection##0
+Painkiller Hell & Damnation##0
+Painkiller Overdose##0
+Papers, Please##0
+Patchwork##0
+Path of Exile##0
+Pathologic Classic HD##0
+PAYDAY 2##0
+Penumbra: Black Plague##0
+Penumbra: Overture##0
+Penumbra: Requiem##0
+Plague Inc: Evolved##0
+Poly Bridge##0
+Portal##0
+Portal 2##0
+POSTAL##0
+POSTAL 2##0
+POSTAL 2: Paradise Lost##0
+POSTAL Redux##0
+Potion Explosion##0
+Prey##0
+Primordia##0
+Prince of Persia: The Sands of Time##0
+Prince of Persia: The Two Thrones##0
+Prince of Persia: Warrior Within##0
+Project Warlock##0
+Prototype##0
+Pyre##0
+Quake##0
+Quake 4##0
+Quake II##0
+Quake II: Ground Zero##0
+Quake II: The Reckoning##0
+Quake III: Team Arena##0
+Quake III Arena##0
+Quake II RTX##0
+Quake Mission Pack 1: Scourge of Armagon##0
+Quake Mission Pack 2: Dissolution of Eternity##0
+Quantum Conundrum##0
+RAGE##0
+Rebel Galaxy##0
+Receiver##0
+Redeemer##0
+Red Faction##0
+Red Faction: Armageddon##0
+Red Faction: Guerrilla Steam Edition##0
+Red Faction Armageddon Soundtrack##0
+Red Faction Guerrilla Re-Mars-tered##0
+Red Faction II##0
+Red Planet Farming##0
+Remember Me##0
+Remnant: From the Ashes##0
+Resident Evil##0
+Resident Evil 4##0
+Resident Evil 5##0
+Resident Evil 6##0
+Resident Evil 7 Teaser: Beginning Hour##0
+Return to Castle Wolfenstein##0
+Ricochet##0
+RiME##0
+Risen##0
+Risen 2 - Dark Waters##0
+Risen 3 - Titan Lords##0
+Rise of the Tomb Raider##0
+Rising Storm/Red Orchestra 2 Multiplayer##0
+Risk of Rain##0
+Riven##0
+Road Redemption##0
+Rogue Trooper##0
+RUINER##0
+S.T.A.L.K.E.R.: Call of Pripyat##0
+S.T.A.L.K.E.R.: Clear Sky##0
+S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+Sacred 2 Gold##0
+Sacred Gold##0
+Saints Row 2##0
+Saints Row: Gat out of Hell##0
+Saints Row: The Third##0
+Saints Row IV##0
+Sanctum##0
+Sanctum 2##0
+Sanitarium##0
+Satisfactory##0
+Scythe: Digital Edition##0
+Seen##0
+Serious Sam 2##0
+Serious Sam 3: BFE##0
+Serious Sam: The Random Encounter##0
+Serious Sam Classic: The First Encounter##0
+Serious Sam Classic: The Second Encounter##0
+Serious Sam Classics: Revolution##0
+Serious Sam Double D XXL##0
+Serious Sam Fusion 2017 (beta)##0
+Serious Sam HD: The First Encounter##0
+Serious Sam HD: The Second Encounter##0
+Shadowrun: Dragonfall - Director's Cut##0
+Shadowrun: Hong Kong - Extended Edition##0
+Shadowrun Returns##0
+Shadow Tactics: Blades of the Shogun##0
+Shadow Warrior##0
+Shadow Warrior 2##0
+Shadow Warrior Classic (1997)##0
+Shadow Warrior Classic Redux##0
+Shadwen##0
+shapez.io##0
+Sid Meier's Civilization III: Complete##0
+Sid Meier's Civilization IV##0
+Sid Meier's Civilization IV##0
+Sid Meier's Civilization IV: Beyond the Sword##0
+Sid Meier's Civilization IV: Beyond the Sword##0
+Sid Meier's Civilization IV: Colonization##0
+Sid Meier's Civilization IV: Colonization##0
+Sid Meier's Civilization IV: Warlords##0
+Sid Meier's Civilization IV: Warlords##0
+Sid Meier's Civilization V##0
+Sid Meier's Civilization V: Brave New World##0
+SiN: Gold##0
+SiN Episodes: Emergence##0
+Singularity##0
+SiN Multiplayer##0
+Skullgirls##0
+Skullgirls ∞Endless Beta∞##0
+Skyrim High Resolution Texture Pack##0
+Skyrim Script Extender (SKSE)##0
+Slay the Spire##0
+Small World##0
+Small World 2 - Be Not Afraid...##0
+Small World 2 - Cursed!##0
+Small World 2 - Grand Dames##0
+Sniper Elite##0
+Sniper Elite 3##0
+Sniper Elite: Nazi Zombie Army##0
+Sniper Elite V2##0
+SOMA##0
+Space Engineers##0
+Sparklite##0
+Spec Ops: The Line##0
+Spelunky##0
+Splendor##0
+Spore##0
+Star Realms##0
+STAR WARS™: Knights of the Old Republic™##0
+STAR WARS™ Republic Commando##0
+STASIS##0
+Stories: The Path of Destinies##0
+Stories Untold##0
+Strange Brigade##0
+Styx: Master of Shadows##0
+Styx: Shards of Darkness##0
+Subnautica##0
+Summoner##0
+Supraland##0
+Survivalist: Invisible Strain##0
+SYNTHETIK##0
+System Shock 2##0
+System Shock: Classic##0
+System Shock: Enhanced Edition##0
+Tales from the Borderlands##0
+Team Fortress Classic##0
+TERA##0
+Terraforming Mars##0
+Terraria##0
+Tharsis##0
+The Bard's Tale##0
+The Beginner's Guide##0
+The Curse of Monkey Island##0
+The Darkness II##0
+The Elder Scrolls III: Morrowind##0
+The Elder Scrolls IV: Oblivion ##0
+The Elder Scrolls V: Skyrim##0
+The Elder Scrolls V: Skyrim - Dawnguard##0
+The Elder Scrolls V: Skyrim - Dragonborn##0
+The Elder Scrolls V: Skyrim - Hearthfire##0
+The Escapists 2##0
+The Evil Within##0
+The Flame in the Flood##0
+The Free Ones##0
+The House of Da Vinci##0
+The Incredible Adventures of Van Helsing##0
+The Incredible Adventures of Van Helsing II##0
+The Incredible Adventures of Van Helsing II - OST##0
+The Incredible Adventures of Van Helsing III##0
+The Lab##0
+The Long Dark##0
+The Longest Journey##0
+The Lord of the Rings: Adventure Card Game - Definitive Edition##0
+The Outer Worlds##0
+The Room##0
+The Room Three##0
+The Room Two##0
+The Secret of Monkey Island: Special Edition##0
+The Silent Age##0
+The Spectrum Retreat##0
+The Stanley Parable##0
+The Station##0
+The Surge##0
+The Swapper##0
+The Talos Principle##0
+The Talos Principle - Bonus Content##0
+The Talos Principle - Prototype##0
+The Talos Principle - Soundtrack##0
+The Talos Principle: Road To Gehenna##0
+The Turing Test##0
+The Ultimate DOOM##0
+The Witcher 2: Assassins of Kings Enhanced Edition##0
+The Witcher: Enhanced Edition##0
+The Witcher Adventure Game##0
+The Wolf Among Us##0
+Thief##0
+Thief 2##0
+Thief: Deadly Shadows##0
+Thief Gold##0
+This War of Mine##0
+Through the Woods##0
+TimeShift##0
+Titan Quest Anniversary Edition##0
+Tomb Raider##0
+Tomb Raider (VI): The Angel of Darkness##0
+Tomb Raider: Anniversary##0
+Tomb Raider: Chronicles##0
+Tomb Raider: Legend##0
+Tomb Raider: The Last Revelation##0
+Tomb Raider: Underworld##0
+Tomb Raider I##0
+Tomb Raider II##0
+Tomb Raider III: Adventures of Lara Croft##0
+Tom Clancy's Rainbow Six 3: Athena Sword##0
+Tom Clancy's Rainbow Six 3: Gold Edition##0
+Tom Clancy's Rainbow Six: Lockdown##0
+Tom Clancy's Rainbow Six: Vegas##0
+Tom Clancy's Rainbow Six: Vegas 2##0
+Torchlight##0
+Torchlight II##0
+Tower 57##0
+Townscaper##0
+Transformers: War for Cybertron##0
+Transistor##0
+Trine##0
+Trine 2##0
+Trine 3: The Artifacts of Power##0
+Trine 4: The Nightmare Prince##0
+Turok##0
+Turok 2: Seeds of Evil##0
+Twilight Struggle##0
+Undertale##0
+Unreal Gold##0
+Unreal II: The Awakening##0
+Unreal Tournament 3: Black Edition##0
+Unreal Tournament 2004##0
+Unreal Tournament: Game of the Year Edition##0
+Uplink##0
+Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™##0
+Valley##0
+Vampire: The Masquerade - Bloodlines##0
+Vampire: The Masquerade - Redemption##0
+Vanquish##0
+Vaporum##0
+Victor Vran##0
+Viscera Cleanup Detail: Shadow Warrior##0
+Warhammer 40,000: Dawn of War - Dark Crusade##0
+Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+Warhammer 40,000: Dawn of War - Soulstorm##0
+Warhammer 40,000: Dawn of War - Winter Assault##0
+Warhammer: End Times - Vermintide##0
+Warhammer: End Times - Vermintide Quests and Contracts##0
+Warhammer: End Times - Vermintide Sigmar's Blessing##0
+Warhammer: Vermintide 2##0
+Wasteland 1 - The Original Classic##0
+Wasteland 2##0
+Wasteland 2: Director's Cut##0
+We Were Here Together##0
+What Remains of Edith Finch##0
+Wolfenstein 3D##0
+Wolfenstein 3D: Spear of Destiny##0
+Wolfenstein: The New Order##0
+Wolfenstein: The Old Blood ##0
+XCOM 2##0
+XCOM: Enemy Unknown##0
+@@REVIEW
