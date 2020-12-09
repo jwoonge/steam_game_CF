@@ -71,7 +71,7 @@ while True:
     user_game_data = get_user_game_data(user_url, driver)
     user_review_data = get_user_review_data(user_url, driver)
 
-    if len(user_game_data)+len(user_review_data)>0:
+    if len(user_game_data)>0:
         count += 1
         write_user_data_file(user_game_data, user_review_data, str(start_id+start_user+user_i))
     
