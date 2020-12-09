@@ -6,9 +6,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
 start_id = 76561197960265728
-#start_id = 76561198306724327 #비공개됨
-#start_id = 76561198120029537 #for test
+start_user = 0; end_user = 1000; num_user = 10
 base_url = 'http://steamcommunity.com/profiles/'
+file_dir = 'results/userdata/'
 
 def get_user_game_data(user_url, driver):
     all_game_url = user_url + 'games?tab=all&sort=playtime/'
@@ -44,6 +44,16 @@ def get_user_review_data(user_url, driver):
         user_review_data.append([game_id, recommend])
     return user_review_data
 
+def write_user_data_file(game_data, review_data, user_id):
+    f = open(file_dir + user_id + '.txt','w', encoding='utf-8')
+    write_string = '@@GAME\n'
+    for game_name, game_playtime in game_data:
+        write_string += game_name + '##' + str(game_playtime) + '\n'
+    write_string += '@@REVIEW\n'
+    for game_id, recommend in review_data:
+        write_string += game_id + '##' + recommend + '\n'
+    f.write(write_string)
+    f.close()
 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
@@ -53,16 +63,18 @@ options.add_argument("--disable-gpu")
 driver = webdriver.Chrome('resource/chromedriver_win32/chromedriver', chrome_options=options)
 driver.implicitly_wait(3)
 
-f = open('user_data.csv')
-count = 0
+count = 0; user_i = 0
 while True:
-    user_url = base_url + str(start_id+i) + '/'
+    print('in processing user ',start_id + start_user + user_i)
+    user_url = base_url + str(start_id + start_user + user_i) + '/'
     reviews_url = user_url + 'reviews'
     user_game_data = get_user_game_data(user_url, driver)
     user_review_data = get_user_review_data(user_url, driver)
 
     if len(user_game_data)+len(user_review_data)>0:
         count += 1
-#https://steamcommunity.com/profiles/76561197960265728/ 사람 없음
-#https://steamcommunity.com/profiles/76561197960265729/ 비공개됨
-#https://steamcommunity.com/profiles/76561198120029537/ 공개됨
+        write_user_data_file(user_game_data, user_review_data, str(start_id+start_user+user_i))
+    
+    user_i += 1
+    if count >= num_user or start_user+user_i > end_user:
+        break
