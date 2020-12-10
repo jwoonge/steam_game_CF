@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 key = '33C798A71E856B20EC314196A31C6AB6'
 start_user = 1000; end_user=20000; num_user = 0
-file_dir = 'results/userdatatest'
+file_dir = 'results/userdata/'
 
 valid_user_list = open('results/valid_user_list.txt', 'a', encoding='utf-8')
 
@@ -35,7 +35,7 @@ def write_user_game_data(user_id, game_data):
     f = open(file_dir + user_id + '.txt', 'w', encoding='utf-8')
     write_string = '@@ GAME\n'
     for gid, gname, gtime in game_data:
-        write_string += str(gid) + ' ## ' + gname + '##' + str(gtime) + '\n'
+        write_string += str(gid) + '##' + gname + '##' + str(gtime) + '\n'
     f.write(write_string)
     f.close()
 
@@ -45,5 +45,6 @@ for user_i in range(start_user, end_user):
     if valid:
         valid_user_list.write(str(user_id)+'\n')
         write_user_game_data(user_id, game_data)
+    print('processed user', user_id, valid)
 
 
