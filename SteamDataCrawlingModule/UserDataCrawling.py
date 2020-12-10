@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 import time
 
 start_id = 76561197960265728
-start_user = 100; end_user = 20000; num_user = 100000
+start_user = 500000; end_user = 20000; num_user = 100000
 base_url = 'http://steamcommunity.com/profiles/'
 file_dir = 'results/userdata/'
 
@@ -15,7 +15,7 @@ def get_user_game_data(user_url, driver):
     all_game_url = user_url + 'games?tab=all&sort=playtime/'
     driver.get(all_game_url)
     driver.implicitly_wait(3)
-    time.sleep(20)
+    #time.sleep(20)
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
     game_list = soup.select('.gameListRowItem')
@@ -36,7 +36,7 @@ def get_user_review_data(user_url, driver):
     all_review_url = user_url + 'reviews'
     driver.get(all_review_url)
     driver.implicitly_wait(3)
-    time.sleep(20)
+    #time.sleep(20)
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
     review_list = soup.select('.review_box_content')
@@ -72,11 +72,14 @@ while True:
     user_url = base_url + str(start_id + start_user + user_i) + '/'
     reviews_url = user_url + 'reviews'
     user_game_data = get_user_game_data(user_url, driver)
+    '''
     if len(user_game_data)>0:
         count += 1
         user_review_data = get_user_review_data(user_url, driver)
         write_user_data_file(user_game_data, user_review_data, str(start_id+start_user+user_i))
-    
+    '''
     user_i += 1
+    '''
     if count >= num_user or start_user+user_i > end_user:
         break
+    '''

@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 key = '33C798A71E856B20EC314196A31C6AB6'
-start_user = 0; end_user=100000; num_user = 0
+start_user = 5500; end_user=100000; num_user = 0
 file_dir = 'results/userdata/'
 
 valid_user_list = open('results/valid_user_list.txt', 'a', encoding='utf-8')
@@ -35,6 +35,7 @@ def get_user_game_data(user_id):
                 return [], False
 
         else:
+            print(json)
             return [], False
     except:
         print('API ERROR')
@@ -54,6 +55,7 @@ for user_i in range(start_user, end_user):
     if valid:
         valid_user_list.write(str(user_id)+'\n')
         write_user_game_data(user_id, game_data)
-    print('processed user', user_id, valid)
+        num_user += 1
+    print(user_i, 'processed user', user_id, valid, num_user)
 
 

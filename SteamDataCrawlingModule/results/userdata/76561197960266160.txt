@@ -1,0 +1,161 @@
+@@ GAME
+730##Counter-Strike: Global Offensive##425878
+42910##Magicka##6466
+35450##Rising Storm/Red Orchestra 2 Multiplayer##4701
+42710##Call of Duty: Black Ops - Multiplayer##3861
+49520##Borderlands 2##2580
+307690##Sleeping Dogs: Definitive Edition##2514
+200710##Torchlight II##2411
+20820##Shatter##2260
+201020##NBA 2K12##1782
+41500##Torchlight##1653
+24960##Battlefield: Bad Company™ 2##1506
+42700##Call of Duty: Black Ops##1292
+500##Left 4 Dead##1157
+78000##Bejeweled 3##1135
+10500##Total War: EMPIRE - Definitive Edition##869
+212480##Sonic & All-Stars Racing Transformed Collection##844
+214510##LEGO® The Lord of the Rings™##826
+360430##Mafia III: Definitive Edition##811
+204100##Max Payne 3##807
+34190##Sonic and SEGA All Stars Racing##796
+242760##The Forest##767
+204360##Castle Crashers##731
+333930##Dirty Bomb##729
+10090##Call of Duty: World at War##718
+976730##Halo: The Master Chief Collection##714
+1174180##Red Dead Redemption 2##699
+209690##Fieldrunners##690
+292030##The Witcher 3: Wild Hunt##647
+753640##Outer Wilds##644
+57400##Batman: Arkham City™##553
+201810##Wolfenstein: The New Order##553
+3830##Psychonauts##460
+493520##GTFO##447
+10180##Call of Duty: Modern Warfare 2##354
+22000##World of Goo##346
+4560##Company of Heroes - Legacy Edition##340
+581320##Insurgency: Sandstorm##321
+10##Counter-Strike##311
+447820##Day of Infamy##309
+7940##Call of Duty 4: Modern Warfare##308
+359550##Tom Clancy's Rainbow Six Siege##272
+1250##Killing Floor##271
+213670##South Park™: The Stick of Truth™##249
+287450##Rise of Nations: Extended Edition##245
+26900##Crayon Physics Deluxe##224
+95500##Your Doodles Are Bugged!##209
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##205
+105450##Age of Empires® III (2007)##184
+1091500##Cyberpunk 2077##181
+240##Counter-Strike: Source##168
+350080##Wolfenstein: The Old Blood ##168
+774861##Project Winter##152
+63380##Sniper Elite V2##146
+8880##Freedom Force##142
+55230##Saints Row: The Third##140
+107410##Arma 3##140
+418240##Shadow Tactics: Blades of the Shogun##132
+111100##Snuggle Truck##127
+475150##Titan Quest Anniversary Edition##124
+21000##LEGO® Batman™: The Videogame##120
+413150##Stardew Valley##117
+31100##Wallace & Gromit Ep 1: Fright of the Bumblebees##106
+31270##Puzzle Agent##95
+241930##Middle-earth™: Shadow of Mordor™##93
+311210##Call of Duty: Black Ops III##91
+221260##Little Inferno##89
+91310##Dead Island##83
+4540##Titan Quest##82
+272670##Out of the Park Baseball 15##61
+234140##Mad Max##54
+2700##RollerCoaster Tycoon 3: Platinum!##53
+50650##Darksiders II##52
+393380##Squad##43
+219150##Hotline Miami##42
+55020##Air Forte ##39
+440##Team Fortress 2##39
+65800##Dungeon Defenders##23
+220200##Kerbal Space Program##21
+107100##Bastion##17
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##16
+26500##Cogs##11
+107200##Space Pirates and Zombies##11
+91200##Anomaly Warzone Earth##8
+29180##Osmos##7
+55040##Atom Zombie Smasher ##5
+200390##Oil Rush##5
+221380##Age of Empires II (2013)##5
+65300##Dustforce##4
+48000##LIMBO##3
+204060##Superbrothers: Sword & Sworcery EP##3
+55000##Flotilla##1
+1510##Uplink##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+1280##Darkest Hour: Europe '44-'45##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+4760##Rome: Total War##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+28050##Deus Ex: Human Revolution##0
+200260##Batman: Arkham City GOTY##0
+57300##Amnesia: The Dark Descent##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+63700##BIT.TRIP BEAT##0
+92800##SpaceChem##0
+38740##EDGE##0
+214700##Thirty Flights of Loving##0
+107800##Rochard##0
+108500##Vessel##0
+41800##Gratuitous Space Battles##0
+63710##BIT.TRIP RUNNER##0
+94200##Jamestown##0
+207420##Wizorb##0
+4920##Natural Selection 2##0
+20540##Company of Heroes: Tales of Valor##0
+43110##Metro 2033##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+462780##Darksiders Warmastered Edition##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+8870##BioShock Infinite##0
+31110##Wallace & Gromit Ep 2: The Last Resort##0
+31120##Wallace & Gromit Ep 3: Muzzled!##0
+31130##Wallace & Gromit Ep 4: The Bogey Man##0
+31220##Sam & Max 301: The Penal Zone##0
+31230##Sam & Max 302: The Tomb of Sammun-Mak##0
+31240##Sam & Max 303: They Stole Max's Brain!##0
+31250##Sam & Max 304: Beyond the Alley of the Dolls##0
+31260##Sam & Max 305: The City that Dares not Sleep##0
+31280##Poker Night at the Inventory##0
+31290##Back to the Future: Ep 1 - It's About Time##0
+94500##Back to the Future: Ep 2 - Get Tannen!##0
+94510##Back to the Future: Ep 3 - Citizen Brown##0
+94520##Back to the Future: Ep 4 - Double Visions##0
+94530##Back to the Future: Ep 5 - OUTATIME##0
+94590##Puzzle Agent 2##0
+94600##Hector: Ep 1##0
+94610##Hector: Ep 2##0
+94620##Hector: Ep 3##0
+250500##Super Amazing Wagon Adventure##0
+550##Left 4 Dead 2##0
+222880##Insurgency##0
+24240##PAYDAY: The Heist##0
+774941##Squad - Public Testing##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0

@@ -1,0 +1,566 @@
+@@ GAME
+730##Counter-Strike: Global Offensive##171825
+4000##Garry's Mod##80959
+570##Dota 2##67402
+240##Counter-Strike: Source##58087
+10##Counter-Strike##15284
+431600##Automobilista##12074
+271590##Grand Theft Auto V##10159
+391040##F1 2016##8990
+211##Source SDK##8652
+255710##Cities: Skylines##8542
+236390##War Thunder##7973
+346900##AdVenture Capitalist##7343
+737800##F1 2018##7204
+515220##F1 2017##6861
+292030##The Witcher 3: Wild Hunt##5662
+223670##F1 2013##5485
+244210##Assetto Corsa##5389
+221100##DayZ##5039
+1080110##F1 2020##4864
+306130##The Elder Scrolls Online##4721
+928600##F1 2019##4394
+8930##Sid Meier's Civilization V##3239
+812140##Assassin's Creed Odyssey##2977
+255220##GRID Autosport##2909
+55230##Saints Row: The Third##2858
+226580##F1 2014##2769
+976730##Halo: The Master Chief Collection##2576
+105600##Terraria##2337
+286570##F1 2015##2319
+22380##Fallout: New Vegas##2256
+304050##Trove##2232
+234630##Project CARS##2148
+91310##Dead Island##2117
+552520##Far Cry 5##1922
+518790##theHunter: Call of the Wild™##1870
+377160##Fallout 4##1864
+386360##SMITE##1751
+220240##Far Cry® 3##1603
+294100##RimWorld##1569
+239820##Game Dev Tycoon##1516
+227940##Heroes & Generals##1469
+218230##PlanetSide 2##1427
+1066890##Automobilista 2##1422
+209170##Call of Duty: Ghosts - Multiplayer##1388
+252950##Rocket League##1380
+222880##Insurgency##1352
+863550##HITMAN™ 2##1237
+24740##Burnout Paradise: The Ultimate Box##1222
+275850##No Man's Sky##1096
+550##Left 4 Dead 2##1095
+206420##Saints Row IV##1043
+319630##Life is Strange™##1013
+298110##Far Cry 4##922
+17430##Need for Speed: Undercover##903
+24960##Battlefield: Bad Company™ 2##903
+436150##Governor of Poker 3##887
+532210##Life is Strange 2##831
+72850##The Elder Scrolls V: Skyrim##737
+10500##Total War: EMPIRE - Definitive Edition##735
+620##Portal 2##710
+236110##Dungeon Defenders II##709
+220200##Kerbal Space Program##703
+107410##Arma 3##684
+218620##PAYDAY 2##672
+220##Half-Life 2##644
+1151340##Fallout 76##642
+22370##Fallout 3 - Game of the Year Edition##612
+213120##Transformers: Fall of Cybertron##610
+440##Team Fortress 2##583
+581320##Insurgency: Sandstorm##555
+339790##rFactor##550
+1174180##Red Dead Redemption 2##549
+205100##Dishonored##526
+44350##GRID 2##512
+8870##BioShock Infinite##472
+1250##Killing Floor##438
+110800##L.A. Noire##436
+361420##ASTRONEER##426
+44310##F1 2010™##407
+362890##Black Mesa##389
+49520##Borderlands 2##387
+12750##GRID##369
+203140##Hitman: Absolution##358
+393380##Squad##353
+216250##Dead Island Riptide##345
+431240##Golf With Your Friends##345
+47920##Shift 2 Unleashed##313
+209160##Call of Duty: Ghosts##313
+227300##Euro Truck Simulator 2##301
+9200##RAGE##292
+65800##Dungeon Defenders##284
+252490##Rust##274
+245760##TRANSFORMERS: Rise of the Dark Spark##271
+226700##Infestation: Survivor Stories 2020##269
+470220##UNO##269
+1222730##STAR WARS™: Squadrons##255
+267550##The Amazing Spider-Man 2##252
+45750##Lost Planet 2##247
+420##Half-Life 2: Episode Two##234
+47870##Need for Speed: Hot Pursuit##232
+939960##Far Cry New Dawn##219
+50300##Spec Ops: The Line##212
+466240##Deceit##208
+220260##Farming Simulator 2013##200
+12210##Grand Theft Auto IV: The Complete Edition##187
+378860##Project CARS 2##182
+242050##Assassin's Creed IV Black Flag##178
+234140##Mad Max##171
+33910##Arma 2##168
+278360##A Story About My Uncle##166
+383870##Firewatch##161
+44360##F1 2011##149
+380##Half-Life 2: Episode One##146
+242860##Verdun##140
+400##Portal##136
+24240##PAYDAY: The Heist##135
+208500##F1 2012##134
+1262580##Need for Speed™ Payback##120
+203160##Tomb Raider##119
+433850##Z1 Battle Royale##119
+223850##3DMark##119
+243800##Gas Guzzlers Extreme##117
+690790##DiRT Rally 2.0##113
+310380##Fractured Space##108
+242760##The Forest##107
+224060##Deadpool##103
+310560##DiRT Rally##102
+394690##Tower Unite##98
+33930##Arma 2: Operation Arrowhead##96
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##96
+218680##Scribblenauts Unlimited##94
+243470##Watch_Dogs##91
+264710##Subnautica##90
+202990##Call of Duty: Black Ops II - Multiplayer##87
+239140##Dying Light##85
+434460##Rock of Ages 2##85
+4760##Rome: Total War##84
+201810##Wolfenstein: The New Order##82
+225260##Brütal Legend##81
+42650##Transformers: War for Cybertron##76
+462930##AdVenture Communist##75
+17410##Mirror's Edge##74
+221910##The Stanley Parable##67
+265550##Dead Rising 3##67
+1520##DEFCON##66
+322330##Don't Starve Together##66
+202970##Call of Duty: Black Ops II##65
+12200##Bully: Scholarship Edition##64
+34830##Sniper: Ghost Warrior##61
+9930##Test Drive Unlimited 2##59
+251570##7 Days to Die##59
+379720##DOOM##58
+476600##Call of Duty: WWII##56
+108800##Crysis 2 Maximum Edition##54
+235600##Tom Clancy's Splinter Cell Blacklist##54
+12900##Audiosurf##53
+22350##BRINK##52
+253370##Axis Game Factory's AGFPRO 3.0##52
+17520##Synergy##50
+57900##Duke Nukem Forever##49
+230410##Warframe##48
+403640##Dishonored 2##48
+43110##Metro 2033##47
+8140##Tomb Raider: Underworld##47
+31280##Poker Night at the Inventory##46
+45740##Dead Rising 2##44
+1172380##STAR WARS Jedi: Fallen Order™ ##44
+70##Half-Life##40
+108710##Alan Wake##40
+204450##Call of Juarez Gunslinger##40
+17450##Dragon Age: Origins##39
+321040##DiRT 3 Complete Edition##39
+379430##Kingdom Come: Deliverance##38
+113400##APB Reloaded##37
+244930##SNOW##37
+340##Half-Life 2: Lost Coast##36
+200710##Torchlight II##36
+312280##Simply Chess##36
+449540##There's Poop In My Soup##35
+996580##Spyro™ Reignited Trilogy##35
+16450##F.E.A.R. 2: Project Origin##34
+9480##Saints Row 2##34
+214490##Alien: Isolation##34
+20900##The Witcher: Enhanced Edition##33
+48700##Mount & Blade: Warband##33
+238320##Outlast##33
+630##Alien Swarm##33
+20510##S.T.A.L.K.E.R.: Clear Sky##32
+220050##The Walking Dead™: Survival Instinct##32
+44320##DiRT 3##31
+45770##Dead Rising 2: Off the Record##31
+211500##RaceRoom Racing Experience ##31
+35140##Batman: Arkham Asylum GOTY Edition##30
+300##Day of Defeat: Source##29
+238010##Deus Ex: Human Revolution - Director's Cut##29
+231140##Cities XL Platinum##28
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##27
+6860##Hitman: Blood Money##27
+207610##The Walking Dead##26
+238090##Sniper Elite 3##26
+212580##The Amazing Spider-Man##24
+233290##MURDERED: SOUL SUSPECT™##24
+229580##Dream##24
+219640##Chivalry: Medieval Warfare##23
+233270##Far Cry® 3 Blood Dragon##23
+239160##Thief##23
+243870##Tom Clancy's Ghost Recon Phantoms - NA##22
+263760##Turbo Dismount##22
+270850##Car Mechanic Simulator 2014##22
+225540##Just Cause 3##22
+585840##Leaving Lyndow##22
+206740##Who Wants To Be A Millionaire? Special Editions##20
+287290##Resident Evil Revelations 2##20
+1127980##NASCAR Heat 4##19
+226720##Lost Planet 3##18
+47790##Medal of Honor(TM) Single Player##18
+24010##Train Simulator##17
+271290##HAWKEN##17
+236510##Takedown: Red Sabre##16
+301910##Saints Row: Gat out of Hell##15
+24780##SimCity 4 Deluxe##14
+200170##Worms Revolution##14
+261820##Estranged: Act I##14
+10180##Call of Duty: Modern Warfare 2##13
+21130##LEGO® Harry Potter: Years 1-4##13
+50620##Darksiders##13
+232910##TrackMania² Stadium##13
+731490##Crash Bandicoot™ N. Sane Trilogy##13
+34030##Total War: NAPOLEON - Definitive Edition##12
+225080##Brothers - A Tale of Two Sons##12
+277430##Halo: Spartan Assault##12
+292410##Street Racing Syndicate##12
+554620##Life is Strange: Before the Storm##12
+201700##DiRT Showdown##11
+8190##Just Cause 2##10
+70300##VVVVVV##10
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##10
+2210##Quake 4##10
+239030##Papers, Please##10
+1238080##Burnout™ Paradise Remastered##10
+7520##Two Worlds II##9
+20540##Company of Heroes: Tales of Valor##9
+8600##RACE 07##9
+13630##Tom Clancy's Ghost Recon: Island Thunder##8
+10680##Aliens vs. Predator##8
+202170##Sleeping Dogs™##8
+31290##Back to the Future: Ep 1 - It's About Time##7
+55110##Red Faction: Armageddon##6
+12110##Grand Theft Auto: Vice City##6
+370240##NBA 2K16##6
+224580##Arma 2: DayZ Mod##5
+526880##Chess Knight 2##5
+960090##Bloons TD 6##5
+12120##Grand Theft Auto: San Andreas##4
+25900##King's Bounty: The Legend##4
+40700##Machinarium##4
+27300##Saw##4
+3130##Men of War: Red Tide##4
+211440##Adventures of Shuggy##4
+4700##Total War: MEDIEVAL II - Definitive Edition##4
+35420##Killing Floor Mod: Defence Alliance 2##4
+286160##Tabletop Simulator##4
+100##Counter-Strike: Condition Zero Deleted Scenes##4
+6220##FlatOut##3
+320##Half-Life 2: Deathmatch##3
+47830##Medal of Honor(TM) Multiplayer##3
+273110##Counter-Strike Nexon: Studio##3
+7850##Cryostasis##2
+55140##MX vs. ATV Reflex##2
+207170##Legend of Grimrock##2
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##2
+238430##Contagion##2
+281370##Real Horror Stories Ultimate Edition##2
+244630##NEOTOKYO°##2
+17470##Dead Space##1
+49800##Flight of the Icarus##1
+91600##Sanctum##1
+46500##Syberia##1
+46510##Syberia 2##1
+33680##Eversion ##1
+113200##The Binding of Isaac##1
+34330##Total War: SHOGUN 2##1
+221640##Super Hexagon##1
+2310##Quake##1
+200900##Cave Story+##1
+233250##Planetary Annihilation##1
+268850##EVGA Precision X1##1
+290930##Half-Life 2: Update##1
+222900##Dead Island: Epidemic##1
+8660##GTR Evolution##1
+80##Counter-Strike: Condition Zero##1
+200510##XCOM: Enemy Unknown##1
+487700##Conan the mighty pig##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+20##Team Fortress Classic##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+12250##Grand Theft Auto: San Andreas##0
+15300##Tom Clancy's Ghost Recon##0
+11240##Space Trader: Merchant Marine##0
+500##Left 4 Dead##0
+7860##NecroVisioN##0
+21680##Bionic Commando Rearmed##0
+11390##Crash Time II##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+23490##Tropico 3 - Steam Special Edition##0
+24980##Mass Effect 2##0
+46410##Avencast##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+65700##Arma 2: British Armed Forces##0
+65720##Arma 2: Private Military Company##0
+78000##Bejeweled 3##0
+94500##Back to the Future: Ep 2 - Get Tannen!##0
+94510##Back to the Future: Ep 3 - Citizen Brown##0
+94520##Back to the Future: Ep 4 - Double Visions##0
+94530##Back to the Future: Ep 5 - OUTATIME##0
+4540##Titan Quest##0
+475150##Titan Quest Anniversary Edition##0
+21100##F.E.A.R. 3##0
+31270##Puzzle Agent##0
+7610##Railroad Tycoon 3##0
+11360##Chains##0
+19200##Tank Universal##0
+11370##Nikopol: Secrets of the Immortals##0
+11330##Obulis##0
+32800##The Lord of the Rings: War in the North##0
+46520##Wasteland Angel##0
+102840##Shank 2##0
+94590##Puzzle Agent 2##0
+67370##The Darkness II##0
+65300##Dustforce##0
+104900##ORION: Prelude##0
+211360##Offspring Fling!##0
+207080##Indie Game: The Movie##0
+205790##Dota 2 Test##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+1280##Darkest Hour: Europe '44-'45##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+214850##GameMaker: Studio##0
+204220##Snapshot##0
+31220##Sam & Max 301: The Penal Zone##0
+31230##Sam & Max 302: The Tomb of Sammun-Mak##0
+31240##Sam & Max 303: They Stole Max's Brain!##0
+31250##Sam & Max 304: Beyond the Alley of the Dolls##0
+31260##Sam & Max 305: The City that Dares not Sleep##0
+204630##Retro City Rampage™ DX##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+214790##The Basement Collection##0
+72000##Closure##0
+218640##Lucius##0
+7830##Men of War##0
+46250##NecroVisioN: Lost Company##0
+63900##Fantasy Wars##0
+34420##XIII Century##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+211160##Viking: Battle for Asgard##0
+217060##Total War Battles: SHOGUN##0
+57690##Tropico 4##0
+4720##Condemned: Criminal Origins##0
+212910##Call of Duty: Black Ops II - Zombies##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+63800##Delve Deeper##0
+46260##Star Wolves 3: Civil War##0
+12240##Grand Theft Auto: Vice City##0
+201790##Orcs Must Die! 2##0
+2200##Quake III Arena##0
+2320##Quake II##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+22320##The Elder Scrolls III: Morrowind##0
+22330##The Elder Scrolls IV: Oblivion ##0
+208200##DOOM 3: BFG Edition##0
+203290##America's Army: Proving Grounds##0
+1083500##PlanetSide 2 - Test##0
+238960##Path of Exile##0
+65780##Arma: Gold Edition##0
+22600##Worms Reloaded##0
+70600##Worms Ultimate Mayhem##0
+70620##Worms Crazy Golf##0
+70640##Worms##0
+70650##Worms Blast##0
+70660##Worms Pinball##0
+217200##Worms Armageddon##0
+7000##Tomb Raider: Legend##0
+8000##Tomb Raider: Anniversary##0
+224960##Tomb Raider I##0
+224980##Tomb Raider: The Last Revelation##0
+225000##Tomb Raider: Chronicles##0
+225020##Tomb Raider (VI): The Angel of Darkness##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+6850##Hitman 2: Silent Assassin##0
+6900##Hitman: Codename 47##0
+205930##Hitman: Sniper Challenge##0
+3910##Sid Meier's Civilization III: Complete##0
+224760##FEZ##0
+236730##Anomaly 2##0
+11340##Larva Mortus##0
+65930##The Bureau: XCOM Declassified##0
+236790##Agricultural Simulator 2013 Steam Edition##0
+40390##Risen 2 - Dark Waters##0
+225640##Sacred 2 Gold##0
+950670##Gothic Playable Teaser##0
+40300##Risen##0
+207930##Sacred Citadel##0
+247020##Cook, Serve, Delicious!##0
+700580##Rust - Staging Branch##0
+252910##Skyscraper Simulator##0
+254320##Duskers##0
+223220##Giana Sisters: Twisted Dreams##0
+246960##Giana Sisters: Twisted Dreams - Rise of the Owlverlord##0
+58520##Blood Bowl: Legendary Edition##0
+204560##Confrontation##0
+208730##Game of Thrones ##0
+209730##RAW - Realms of Ancient War##0
+219780##Divinity II: Developer's Cut##0
+256370##MXGP - The Official Motocross Videogame##0
+258880##Professional Farmer 2014##0
+259280##Earth 2150: The Moon Project##0
+259890##Agricultural Simulator: Historical Farming##0
+261760##Lichdom: Battlemage##0
+267600##Airport Simulator 2014##0
+267610##Woodcutter Simulator 2013##0
+269050##Year Walk##0
+273760##Towtruck Simulator 2015##0
+273820##Mining & Tunneling Simulator##0
+273940##Warehouse and Logistics Simulator##0
+280040##A Wizard's Lizard##0
+235210##Strider##0
+8880##Freedom Force##0
+8890##Freedom Force vs. the 3rd Reich##0
+286340##FarSky##0
+261110##Killer is Dead##0
+298140##Rhiannon: Curse of the Four Branches##0
+300380##Road Redemption##0
+304930##Unturned##0
+202090##Magicka: Wizard Wars##0
+306660##Ultimate General: Gettysburg##0
+307880##Savage Lands##0
+310070##The Nightmare Cooperative##0
+311480##Vertical Drop Heroes HD##0
+315260##Space Hack##0
+321920##Schein##0
+233610##Distance##0
+322920##theHunter: Primal##0
+323060##Tharsis##0
+241930##Middle-earth™: Shadow of Mordor™##0
+312960##Starion Tactics##0
+333930##Dirty Bomb##0
+334070##Hektor##0
+334940##Yoku's Island Express##0
+343710##KHOLAT##0
+345130##Dark Matter##0
+352520##The Silent Age##0
+352900##Giana Sisters: Dream Runners##0
+355130##MotoGP™15##0
+355840##Survarium##0
+359100##Q.U.B.E. 2##0
+359800##Copa Petrobras de Marcas##0
+47780##Dead Space 2##0
+247950##Sacred 3##0
+371510##Gunnheim##0
+858460##SMITE - Public Test##0
+295790##Never Alone (Kisima Ingitchuna)##0
+395170##DISTRAINT: Deluxe Edition##0
+396350##Bleed 2##0
+396710##The Adventure Pals##0
+774941##Squad - Public Testing##0
+57300##Amnesia: The Dark Descent##0
+416600##Full Metal Furies##0
+421020##DiRT 4##0
+391220##Rise of the Tomb Raider##0
+432950##Orange Moon##0
+3920##Sid Meier's Pirates!##0
+244070##Sid Meier's Ace Patrol##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+439700##H1Z1: Test Server##0
+437630##State of Mind##0
+438100##VRChat##0
+445980##Wizard of Legend##0
+453910##Love is Dead##0
+368390##The Darkside Detective##0
+464920##Surviving Mars##0
+466560##Northgard##0
+470780##She Remembered Caterpillars##0
+473690##Absolver##0
+50130##Mafia II (Classic)##0
+1030830##Mafia II: Definitive Edition##0
+488730##God's Trigger##0
+361230##Super Daryl Deluxe##0
+499890##Aaero##0
+503560##911 Operator##0
+513550##Vive le Roi##0
+514900##Observer##0
+522240##Pool Panic##0
+528300##Soulless: Ray Of Hope##0
+530320##Wandersong##0
+534550##Guacamelee! 2##0
+544750##SOULCALIBUR VI##0
+337340##Finding Paradise##0
+562800##HOUND##0
+574090##MOTHERGUNSHIP##0
+579760##The Journey Down: Chapter Three##0
+208140##Endless Space##0
+584980##Late Shift##0
+600370##Paradigm##0
+601510##Yu-Gi-Oh! Duel Links##0
+606150##Moonlighter##0
+609490##Minit##0
+612390##Dandara: Trials of Fear Edition##0
+619700##Steel Rats##0
+633460##Tannenberg##0
+646270##60 Parsecs!##0
+646570##Slay the Spire##0
+614570##Dishonored®: Death of the Outsider™ ##0
+658850##Do Not Feed the Monkeys##0
+666140##My Time At Portia##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+674520##Fight'N Rage##0
+680360##Regions Of Ruin##0
+686600##Rapture Rejects##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+535480##Sundered: Eldritch Edition##0
+621830##WRC 7##0
+38400##Fallout##0
+732810##Slipstream##0
+743450##Monster Prom##0
+476620##Call of Duty: WWII - Multiplayer##0
+760060##Mutant Year Zero: Road to Eden##0
+802450##NAIRI: Tower of Shirin##0
+826600##I’m not a Monster##0
+552500##Warhammer: Vermintide 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+845070##The Awesome Adventures of Captain Spirit##0
+750920##Shadow of the Tomb Raider##0
+718670##Cultist Simulator##0
+834530##Yakuza Kiwami##0
+897030##Paratopic##0
+638970##Yakuza 0##0
+673880##Warhammer 40,000: Mechanicus##0
+951940##Almost There: The Platformer##0
+703880##Swords and Soldiers 2 Shawarmageddon##0
+450390##The Lab##0
+418460##Rising Storm 2: Vietnam##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+1091500##Cyberpunk 2077##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+1085660##Destiny 2##0
+1262560##Need for Speed™ Most Wanted##0
+1262600##Need for Speed™ Rivals##0

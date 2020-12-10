@@ -1,0 +1,177 @@
+@@ GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+380##Half-Life 2: Episode One##0
+6880##Just Cause##0
+2200##Quake III Arena##0
+2310##Quake##0
+2320##Quake II##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+420##Half-Life 2: Episode Two##0
+7940##Call of Duty 4: Modern Warfare##0
+13240##Unreal Tournament: Game of the Year Edition##0
+13210##Unreal Tournament 3: Black Edition##0
+500##Left 4 Dead##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+17430##Need for Speed: Undercover##0
+9480##Saints Row 2##0
+23310##The Last Remnant##0
+29720##Guild Wars##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+21660##Street Fighter IV##0
+38430##Kingpin##0
+550##Left 4 Dead 2##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+24960##Battlefield: Bad Company™ 2##0
+8190##Just Cause 2##0
+49600##Beat Hazard##0
+28000##Kane & Lynch 2: Dog Days##0
+42700##Call of Duty: Black Ops##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+91310##Dead Island##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+24240##PAYDAY: The Heist##0
+9200##RAGE##0
+201700##DiRT Showdown##0
+209120##Street Fighter X Tekken##0
+730##Counter-Strike: Global Offensive##0
+209100##Resident Evil: Operation Raccoon City##0
+205790##Dota 2 Test##0
+208200##DOOM 3: BFG Edition##0
+45760##Ultra Street Fighter IV##0
+113400##APB Reloaded##0
+231060##Ragnarok Online 2##0
+242720##GunZ 2: The Second Duel##0
+203160##Tomb Raider##0
+216250##Dead Island Riptide##0
+225160##Shadow Warrior Classic Redux##0
+218620##PAYDAY 2##0
+252950##Rocket League##0
+242860##Verdun##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+49520##Borderlands 2##0
+235460##METAL GEAR RISING: REVENGEANCE##0
+273110##Counter-Strike Nexon: Studio##0
+222880##Insurgency##0
+235210##Strider##0
+282440##Quake Live##0
+282660##Easy eSports##0
+254700##Resident Evil 4##0
+43160##Metro: Last Light##0
+286690##Metro 2033 Redux##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+222900##Dead Island: Epidemic##0
+310950##Street Fighter V##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+291480##Warface##0
+239140##Dying Light##0
+21690##Resident Evil 5##0
+222480##Resident Evil Revelations##0
+323370##TERA##0
+221040##Resident Evil 6##0
+307690##Sleeping Dogs: Definitive Edition##0
+238320##Outlast##0
+324800##Shadow Warrior 2##0
+328470##Slave Zero##0
+209650##Call of Duty: Advanced Warfare##0
+209660##Call of Duty: Advanced Warfare - Multiplayer##0
+215470##Primal Carnage##0
+304240##Resident Evil##0
+271590##Grand Theft Auto V##0
+348550##GUILTY GEAR XX ACCENT CORE PLUS R##0
+359870##FINAL FANTASY X/X-2 HD Remaster##0
+363440##Mega Man Legacy Collection##0
+329050##Devil May Cry 4 Special Edition##0
+350080##Wolfenstein: The Old Blood ##0
+379720##DOOM##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+389730##TEKKEN 7##0
+391720##Layers of Fear##0
+225540##Just Cause 3##0
+414700##Outlast 2##0
+287290##Resident Evil Revelations 2##0
+208650##Batman™: Arkham Knight##0
+339340##Resident Evil 0##0
+429660##Tales of Berseria##0
+391220##Rise of the Tomb Raider##0
+434050##Duke Nukem 3D: 20th Anniversary World Tour##0
+438490##GOD EATER 2 Rage Burst##0
+460870##GOD EATER RESURRECTION##0
+444560##Agent Origins: Escape##0
+491950##Orwell##0
+498240##Batman - The Telltale Series##0
+71340##Sonic Generations##0
+525480##.hack//G.U. Last Recode##0
+418370##Resident Evil 7 Biohazard##0
+550210##Layers of Fear - Soundtrack##0
+577940##Killer Instinct##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+593880##Street Fighter V NEW CFN Beta##0
+582160##Assassin's Creed Origins##0
+350280##LawBreakers##0
+675260##Batman: The Enemy Within - The Telltale Series##0
+678950##DRAGON BALL FighterZ##0
+22350##BRINK##0
+743650##Quake Champions PTS##0
+743890##Mega Man X Legacy Collection##0
+743900##Mega Man X Legacy Collection 2##0
+637100##Sonic Forces##0
+586200##Street Fighter 30th Anniversary Collection##0
+750920##Shadow of the Tomb Raider##0
+863550##HITMAN™ 2##0
+611500##Quake Champions##0
+883710##Resident Evil 2##0
+885150##Capcom Beat 'Em Up Bundle##0
+714010##Aim Lab##0
+814380##Sekiro™: Shadows Die Twice##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+460930##Tom Clancy's Ghost Recon® Wildlands##0
+601150##Devil May Cry 5##0
+985890##Streets of Rage 4##0
+976310##Mortal Kombat 11##0
+1017900##Age of Empires: Definitive Edition##0
+1056640##Phantasy Star Online 2##0
+1057240##Crucible##0
+1091500##Cyberpunk 2077##0
+976730##Halo: The Master Chief Collection##0
+1097840##Gears 5##0
+1139900##Ghostrunner##0
+1085660##Destiny 2##0
+1172470##Apex Legends##0
+231430##Company of Heroes 2##0
+1237970##Titanfall® 2##0
+1249200##Ghostrunner Demo##0
+1262540##Need for Speed™##0
+408900##Unfortunate Spacemen##0
+1368430##Streets Of Kamurocho##0
+1454890##Titanfall™##0

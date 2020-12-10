@@ -1,0 +1,137 @@
+@@ GAME
+275850##No Man's Sky##5516
+227300##Euro Truck Simulator 2##3048
+221680##Rocksmith® 2014 Edition - Remastered##2518
+464920##Surviving Mars##2141
+270880##American Truck Simulator##1061
+72850##The Elder Scrolls V: Skyrim##1010
+620##Portal 2##721
+207610##The Walking Dead##520
+241930##Middle-earth™: Shadow of Mordor™##500
+462930##AdVenture Communist##458
+220##Half-Life 2##443
+224480##Octodad: Dadliest Catch##441
+648350##Jurassic World Evolution##432
+359320##Elite Dangerous##402
+206440##To the Moon##374
+257510##The Talos Principle##364
+598490##Healer's Quest##313
+255710##Cities: Skylines##302
+384310##Dead In Bermuda##256
+4920##Natural Selection 2##196
+240##Counter-Strike: Source##190
+400##Portal##140
+203160##Tomb Raider##139
+292030##The Witcher 3: Wild Hunt##137
+232430##Gone Home##120
+636450##Rez Infinite##95
+10##Counter-Strike##83
+550##Left 4 Dead 2##78
+243470##Watch_Dogs##69
+730##Counter-Strike: Global Offensive##65
+370360##TIS-100##56
+220200##Kerbal Space Program##47
+24670##Trainz Simulator 12##37
+420##Half-Life 2: Episode Two##29
+442120##Pinball FX3##22
+211##Source SDK##10
+20900##The Witcher: Enhanced Edition##9
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##8
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##8
+340##Half-Life 2: Lost Coast##6
+232010##Euro Truck Simulator##1
+267600##Airport Simulator 2014##1
+273760##Towtruck Simulator 2015##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+1510##Uplink##0
+4900##Zen of Sudoku##0
+17470##Dead Space##0
+17410##Mirror's Edge##0
+24740##Burnout Paradise: The Ultimate Box##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+6000##STAR WARS™ Republic Commando##0
+32350##STAR WARS™ Starfighter™##0
+32400##STAR WARS™: Dark Forces##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##0
+22370##Fallout 3 - Game of the Year Edition##0
+40100##Supreme Commander 2##0
+43110##Metro 2033##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+24640##Trainz: Classic Cabon City##0
+24650##Trainz: Settle & Carlisle##0
+24660##Trainz: Murchison 2##0
+35130##Lara Croft and the Guardian of Light##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+205790##Dota 2 Test##0
+48000##LIMBO##0
+22380##Fallout: New Vegas##0
+207650##A Virus Named TOM##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+209610##Roller Coaster Rampage##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+212680##FTL: Faster Than Light##0
+108800##Crysis 2 Maximum Edition##0
+107100##Bastion##0
+215280##Secret World Legends##0
+215510##Rocketbirds: Hardboiled Chicken##0
+214560##Mark of the Ninja##0
+203140##Hitman: Absolution##0
+35720##Trine 2##0
+225260##Brütal Legend##0
+232950##Bridge Project##0
+3910##Sid Meier's Civilization III: Complete##0
+224760##FEZ##0
+236790##Agricultural Simulator 2013 Steam Edition##0
+248370##Bridge It (plus)##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+214550##Eets Munchies##0
+251730##Legend of Grimrock 2##0
+252910##Skyscraper Simulator##0
+243040##Startopia##0
+258880##Professional Farmer 2014##0
+259890##Agricultural Simulator: Historical Farming##0
+254440##Pool Nation##0
+262280##Dungeons 2##0
+267610##Woodcutter Simulator 2013##0
+273940##Warehouse and Logistics Simulator##0
+239160##Thief##0
+287200##Wildlife Park 3##0
+233290##MURDERED: SOUL SUSPECT™##0
+300570##Infinifactory##0
+63380##Sniper Elite V2##0
+317400##Portal Stories: Mel##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+8080##Kane & Lynch: Dead Men##0
+28000##Kane & Lynch 2: Dog Days##0
+319630##Life is Strange™##0
+202170##Sleeping Dogs™##0
+365770##Volume##0
+253030##Race The Sun##0
+57300##Amnesia: The Dark Descent##0
+391220##Rise of the Tomb Raider##0
+578720##A Mortician's Tale##0
+698780##Doki Doki Literature Club##0
+38400##Fallout##0
+753640##Outer Wilds##0
+370910##Kathy Rain##0
+310560##DiRT Rally##0
+750920##Shadow of the Tomb Raider##0
+406970##The Uncertain: Last Quiet Day##0
+729660##Blackout Z: Slaughterhouse Edition##0

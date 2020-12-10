@@ -1,0 +1,131 @@
+@@ GAME
+250820##SteamVR##161557
+252950##Rocket League##112380
+202990##Call of Duty: Black Ops II - Multiplayer##49957
+837380##DeoVR Video Player##14761
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##13198
+721090##SKYBOX VR Video Player##11063
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##10629
+42710##Call of Duty: Black Ops - Multiplayer##10257
+268500##XCOM 2##3530
+378860##Project CARS 2##2886
+201810##Wolfenstein: The New Order##2323
+271590##Grand Theft Auto V##2321
+348250##Google Earth VR##2247
+515220##F1 2017##2240
+255220##GRID Autosport##2127
+65980##Sid Meier's Civilization: Beyond Earth##2110
+535230##Domina##1752
+1151640##Horizon Zero Dawn##1704
+252110##Lovers in a Dangerous Spacetime##1537
+10180##Call of Duty: Modern Warfare 2##1223
+223850##3DMark##1121
+257510##The Talos Principle##1079
+617290##Remnant: From the Ashes##896
+908520##fpsVR##880
+8930##Sid Meier's Civilization V##846
+928600##F1 2019##678
+1085660##Destiny 2##675
+489600##The Golf Club VR##546
+209650##Call of Duty: Advanced Warfare##486
+379720##DOOM##396
+450390##The Lab##393
+383870##Firewatch##383
+218620##PAYDAY 2##315
+391220##Rise of the Tomb Raider##312
+45760##Ultra Street Fighter IV##311
+548430##Deep Rock Galactic##283
+1172380##STAR WARS Jedi: Fallen Order™ ##261
+382110##Virtual Desktop##249
+304430##INSIDE##231
+208650##Batman™: Arkham Knight##225
+500##Left 4 Dead##223
+42700##Call of Duty: Black Ops##212
+480490##Prey##209
+1051200##Trover Saves the Universe##208
+42680##Call of Duty: Modern Warfare 3##185
+261570##Ori and the Blind Forest##184
+8870##BioShock Infinite##171
+205100##Dishonored##158
+976730##Halo: The Master Chief Collection##140
+209660##Call of Duty: Advanced Warfare - Multiplayer##136
+793690##Final Assault##134
+527100##Star Trek: Bridge Crew##127
+612880##Wolfenstein II: The New Colossus##102
+451650##Whirligig##96
+264710##Subnautica##94
+342180##Arizona Sunshine##87
+502820##Batman™: Arkham VR##84
+582160##Assassin's Creed Origins##76
+244210##Assetto Corsa##73
+611660##Fallout 4 VR##72
+10##Counter-Strike##69
+636450##Rez Infinite##69
+559330##A Fisherman's Tale##66
+646200##Dead Effect 2 VR##64
+617830##SUPERHOT VR##58
+202970##Call of Duty: Black Ops II##47
+1057090##Ori and the Will of the Wisps##41
+1222730##STAR WARS™: Squadrons##38
+446750##Portal Stories: VR##35
+406350##KartKraft##30
+230410##Warframe##29
+310560##DiRT Rally##27
+555160##Pavlov VR##24
+384190##ABZÛ##22
+319630##Life is Strange™##20
+392110##Endless Space® 2 - Digital Deluxe Edition##20
+750920##Shadow of the Tomb Raider##19
+555880##Sairento VR##16
+805550##Assetto Corsa Competizione##16
+1079800##Pistol Whip##14
+365300##Transmissions: Element 120##10
+471710##Rec Room##9
+967490##Microsoft Maquette##6
+245620##Tropico 5##5
+524390##PCMark 10##4
+578620##GORN##3
+2310##Quake##1
+235210##Strider##1
+418650##Space Pirate Trainer##1
+768100##GizmoVR Video Player##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+21680##Bionic Commando Rearmed##0
+620##Portal 2##0
+400##Portal##0
+212910##Call of Duty: Black Ops II - Zombies##0
+220440##DmC Devil May Cry##0
+211500##RaceRoom Racing Experience ##0
+21690##Resident Evil 5##0
+222480##Resident Evil Revelations##0
+226720##Lost Planet 3##0
+7670##BioShock##0
+8850##BioShock 2##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+287290##Resident Evil Revelations 2##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+200260##Batman: Arkham City GOTY##0
+209000##Batman™: Arkham Origins##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+400940##Budget Cuts##0
+427240##Cosmic Trip##0
+464170##VRMark##0
+530350##Smashbox Arena##0
+552440##The Talos Principle VR##0
+846470##Moss##0
+885000##Synth Riders##0
+611500##Quake Champions##0
+412020##Metro Exodus##0

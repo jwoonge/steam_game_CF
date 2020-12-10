@@ -1,0 +1,457 @@
+@@ GAME
+363970##Clicker Heroes##155340
+220200##Kerbal Space Program##95118
+427520##Factorio##61550
+281990##Stellaris##42559
+8930##Sid Meier's Civilization V##37899
+294100##RimWorld##35096
+346900##AdVenture Capitalist##27049
+8500##EVE Online##24919
+314160##Microsoft Flight Simulator X: Steam Edition##13491
+255710##Cities: Skylines##9060
+289070##Sid Meier's Civilization VI##8694
+640820##Pathfinder: Kingmaker##6682
+9900##Star Trek Online##6146
+1250410##Microsoft Flight Simulator##5480
+226860##Galactic Civilizations III##5192
+1066780##Transport Fever 2##5135
+392160##X4: Foundations##5026
+313160##Farming Simulator 15##4466
+270880##American Truck Simulator##4343
+1286830##STAR WARS™: The Old Republic™##4231
+72850##The Elder Scrolls V: Skyrim##4153
+227300##Euro Truck Simulator 2##3994
+261470##Distant Worlds: Universe##3732
+292030##The Witcher 3: Wild Hunt##3224
+394360##Hearts of Iron IV##2964
+271590##Grand Theft Auto V##2950
+203770##Crusader Kings II##2776
+1158310##Crusader Kings III##2735
+242920##Banished##2606
+377160##Fallout 4##2569
+464920##Surviving Mars##2458
+8800##Sid Meier's Civilization IV: Beyond the Sword##2365
+447020##Farming Simulator 17##2311
+240##Counter-Strike: Source##2169
+244850##Space Engineers##2079
+238960##Path of Exile##1918
+359320##Elite Dangerous##1908
+415200##Motorsport Manager##1885
+637090##BATTLETECH##1805
+236850##Europa Universalis IV##1633
+269950##X-Plane 11##1581
+321410##Command: Modern Air / Naval Operations WOTY##1558
+413150##Stardew Valley##1470
+57740##Jagged Alliance - Back in Action##1450
+445220##Avorion##1394
+241240##Contraption Maker##1327
+65980##Sid Meier's Civilization: Beyond Earth##1216
+306130##The Elder Scrolls Online##1206
+42960##Victoria II##985
+446800##Transport Fever##978
+1072480##The Fisherman - Fishing Planet##959
+17460##Mass Effect##950
+24720##Spore: Galactic Adventures##915
+375910##Anno 2205##911
+275850##No Man's Sky##902
+594770##Legends of Aria##879
+457140##Oxygen Not Included##858
+223850##3DMark##790
+268500##XCOM 2##705
+730##Counter-Strike: Global Offensive##679
+435150##Divinity: Original Sin 2##641
+298050##Master of Orion##624
+201310##X3: Albion Prelude##608
+24980##Mass Effect 2##468
+380600##Fishing Planet##462
+239820##Game Dev Tycoon##441
+208140##Endless Space##373
+703080##Planet Zoo##373
+803050##Per Aspera##372
+440900##Conan Exiles##321
+253250##Stonehearth##289
+202200##Galactic Civilizations II: Ultimate Edition##280
+320300##Car Mechanic Simulator 2015##262
+560130##Pillars of Eternity II: Deadfire##238
+364360##Total War: WARHAMMER##225
+291650##Pillars of Eternity##204
+271240##Offworld Trading Company##177
+289130##Endless Legend™ - Emperor Edition##177
+220##Half-Life 2##167
+353640##Train Valley##167
+391040##F1 2016##153
+300570##Infinifactory##149
+621060##PC Building Simulator##147
+1046930##Dota Underlords##145
+239120##FINAL FANTASY III##144
+13230##Unreal Tournament 2004##143
+290080##Life is Feudal: Your Own##140
+765810##Mars Horizon##138
+521150##Another Brick in The Mall##135
+24010##Train Simulator##128
+1416260##SpellForce 3: Versus Edition##126
+17390##Spore##115
+105450##Age of Empires® III (2007)##115
+200510##XCOM: Enemy Unknown##113
+109600##Neverwinter##113
+282560##RollerCoaster Tycoon World##111
+297000##Heroes of Might & Magic III - HD Edition##110
+48240##Anno 2070##108
+20##Team Fortress Classic##107
+57690##Tropico 4##107
+214510##LEGO® The Lord of the Rings™##104
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##104
+221380##Age of Empires II (2013)##97
+301120##Eastside Hockey Manager##97
+230290##Universe Sandbox##92
+271260##Star Control: Origins##79
+367450##Poly Bridge##79
+246090##Spacebase DF-9##78
+32470##STAR WARS™ Empire at War: Gold Pack##78
+481190##Stable Orbit##78
+251150##The Legend of Heroes: Trails in the Sky##74
+2700##RollerCoaster Tycoon 3: Platinum!##72
+544550##Stationeers##68
+290020##LogicBots##67
+419480##Starpoint Gemini Warlords##67
+245470##Democracy 3##64
+24780##SimCity 4 Deluxe##59
+570##Dota 2##57
+236150##Starpoint Gemini 2##53
+107410##Arma 3##48
+342200##MechWarrior Online##46
+47890##The Sims(TM) 3##44
+453090##Parkitect##44
+2870##X Rebirth##41
+484900##Aven Colony##41
+208600##Lunar Flight##39
+262060##Darkest Dungeon®##39
+362620##Software Inc.##38
+233450##Prison Architect##37
+212680##FTL: Faster Than Light##36
+598960##Mashinky##35
+365670##Blender##33
+489830##The Elder Scrolls V: Skyrim Special Edition##33
+240760##Wasteland 2##30
+464350##Screeps##30
+226840##Age of Wonders III##29
+376870##Minecraft: Story Mode - A Telltale Games Series##29
+514670##Satellite Command##29
+223830##Xenonauts##28
+221910##The Stanley Parable##26
+400##Portal##24
+244210##Assetto Corsa##24
+269110##Super Motherload##24
+241600##Rogue Legacy##23
+695290##The Golf Club™ 2019 Featuring PGA TOUR##23
+716490##EXAPUNKS##23
+588030##Derail Valley##22
+224500##Gnomoria##20
+329110##Gems of War##20
+228880##Ashes of the Singularity: Classic##19
+493340##Planet Coaster##19
+39000##Moonbase Alpha##18
+290300##Rebel Galaxy##18
+220260##Farming Simulator 2013##17
+376570##WildStar##17
+688480##EVE: Valkyrie - Warzone##17
+269730##The Golf Club##16
+404730##Wasteland 2: Director's Cut##16
+1343400##RuneScape##16
+239350##Spelunky##14
+292180##X-Plane 10 Global - 64 Bit##14
+292330##Starship Corporation##14
+48220##Might & Magic: Heroes VI##13
+39140##FINAL FANTASY VII##13
+365360##Battle Brothers##13
+374410##TransPlan##13
+392110##Endless Space® 2 - Digital Deluxe Edition##13
+544610##Battlestar Galactica Deadlock##13
+252450##StarDrive 2##12
+289950##Construction-Simulator 2015##12
+954870##Astrox Imperium##12
+582660##Black Desert Online##11
+25890##Hearts of Iron III##10
+384180##Prominence Poker##10
+595420##Franchise Hockey Manager 4##10
+266840##Age of Mythology: Extended Edition##9
+237870##Planet Explorers##9
+387370##Sol 0: Mars Colonization##9
+405900##Disgaea PC##8
+1112790##Automation Empire##8
+4000##Garry's Mod##7
+8400##Geometry Wars: Retro Evolved##7
+218410##Defender's Quest: Valley of the Forgotten##7
+269210##Hero Siege##7
+280320##Adventurer Manager##7
+343090##SimpleRockets##7
+113200##The Binding of Isaac##6
+236450##PAC-MAN Championship Edition DX+##6
+297920##Space Colony##6
+313010##Cities XXL##6
+333300##ADOM (Ancient Domains Of Mystery)##6
+365450##Hacknet##6
+378720##Thea: The Awakening##6
+12500##Puzzle Quest##5
+70900##Star Ruler##5
+278440##0RBITALIS##5
+308270##Buzz Aldrin's Space Program Manager##5
+330460##Celestial Command##5
+361420##ASTRONEER##5
+397420##Hoyle Official Card Games Collection##5
+418250##Polaris Sector##5
+572410##Steel Division: Normandy 44##5
+722060##Dominions 5##5
+1076160##Command: Modern Operations##5
+346850##Chip's Challenge 1##5
+72200##Universe Sandbox Legacy##4
+105600##Terraria##4
+244030##Take On Mars##4
+263280##Spintires®##4
+211820##Starbound##4
+294160##Galcon 2##4
+310790##Geometry Wars 3: Dimensions Evolved##4
+400020##Atari Vault##4
+354430##STAR WARS™: X-Wing Special Edition##4
+485900##Hardware Engineers##4
+766570##Russian Fishing 4##4
+282590##Star Ruler 2##3
+346110##ARK: Survival Evolved##3
+366220##Wurm Unlimited##3
+410980##Master of Orion 2##3
+414720##Astrox: Hostile Space Excavation##3
+465660##Franchise Hockey Manager 3##3
+466560##Northgard##3
+70400##Recettear: An Item Shop's Tale##2
+2820##X3: Terran Conflict##2
+226620##Desktop Dungeons##2
+259060##Dominions 4##2
+285310##RollerCoaster Tycoon: Deluxe##2
+289930##TransOcean: The Shipping Company##2
+410990##Master of Orion 3##2
+388080##Borderless Gaming##2
+434520##Simutrans##2
+465650##Out of the Park Baseball 18##2
+423580##Project Highrise##2
+563390##Children of the Galaxy##2
+945360##Among Us##2
+92800##SpaceChem##1
+108200##Ticket to Ride##1
+213650##Dwarfs F2P##1
+223750##DCS World Steam Edition##1
+245550##Free to Play##1
+259130##Wasteland 1 - The Original Classic##1
+266210##One Way Heroics##1
+266430##Anarchy Arcade##1
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##1
+310060##Knights of Pen and Paper 2##1
+304730##Train Fever##1
+322540##Galactic Inheritors##1
+333640##Caves of Qud##1
+344850##Big Pharma##1
+356430##Chris Sawyer's Locomotion##1
+410970##Master of Orion 1##1
+370360##TIS-100##1
+373420##Divinity: Original Sin Enhanced Edition##1
+383120##Empyrion - Galactic Survival##1
+402430##Out of the Park Baseball 17##1
+403950##Conquest of Elysium 4##1
+441550##STAR WARS™ Rebellion##1
+482890##Fantasy Kingdom Simulator##1
+504210##SHENZHEN I/O##1
+573060##LOGistICAL##1
+588430##Fallout Shelter##1
+591370##Production Line##1
+619150##while True: learn()##1
+704450##Neverwinter Nights: Enhanced Edition##1
+758370##Through the Ages##1
+10##Counter-Strike##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+1520##DEFCON##0
+3910##Sid Meier's Civilization III: Complete##0
+1610##Space Empires IV Deluxe##0
+1690##Space Empires V##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+40400##AI War: Fleet Command##0
+32440##LEGO® Star Wars™: The Complete Saga##0
+34030##Total War: NAPOLEON - Definitive Edition##0
+33210##Dawn of Discovery##0
+33340##Dawn of Discovery - Venice##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+39680##The Guild II: Renaissance##0
+620##Portal 2##0
+73020##Majesty 2 Collection##0
+9420##Supreme Commander: Forged Alliance##0
+201290##Sins of a Solar Empire: Trinity##0
+205790##Dota 2 Test##0
+41900##The Bard's Tale##0
+204880##Sins of a Solar Empire: Rebellion##0
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##0
+42890##Sword of the Stars Complete Collection##0
+42990##Sword of the Stars II: Enhanced Edition##0
+98800##Dungeons of Dredmor##0
+200710##Torchlight II##0
+220700##RPG Maker VX Ace##0
+228280##Baldur's Gate: Enhanced Edition##0
+99900##Spiral Knights##0
+236390##War Thunder##0
+239220##The Mighty Quest For Epic Loot##0
+343450##Free To Play (Streaming)##0
+220660##StarDrive##0
+232050##Eador. Masters of the Broken World##0
+224440##Folk Tale##0
+231740##Knights of Pen and Paper +1##0
+244770##StarMade##0
+239070##Hammerwatch##0
+248390##Craft The World##0
+239410##Catan##0
+251060##Wargame: Red Dragon##0
+251470##TowerFall Ascension##0
+254200##FortressCraft Evolved##0
+243040##Startopia##0
+256010##Jagged Alliance Flashback##0
+225200##Farming Simulator 2013 - Modding Tutorials##0
+257350##Baldur's Gate II: Enhanced Edition##0
+259680##Tales of Maj'Eyal##0
+235620##Small World##0
+40950##Stronghold HD##0
+367690##Spintires® - Editor##0
+108600##Project Zomboid##0
+367540##Starbound - Unstable##0
+270850##Car Mechanic Simulator 2014##0
+271360##Industry Giant 2##0
+274190##Broforce##0
+48700##Mount & Blade: Warband##0
+278910##Interplanetary##0
+650220##Interplanetary: Enhanced Edition##0
+236130##Horizon##0
+282210##Sid Meier's Starships##0
+286160##Tabletop Simulator##0
+700030##Life is Feudal: MMO##0
+291930##Industry Empire##0
+293760##Automation - The Car Company Tycoon Game##0
+208520##Omerta - City of Gangsters##0
+245620##Tropico 5##0
+296470##Mount Your Friends##0
+299340##Habitat##0
+301520##Robocraft##0
+244160##Homeworld Remastered Collection##0
+305840##Shallow Space##0
+305940##Project AURA##0
+63380##Sniper Elite V2##0
+302380##Floating Point##0
+313120##Stranded Deep##0
+314240##RPG Tycoon##0
+314520##Euro Fishing##0
+314980##Supreme Ruler Ultimate##0
+916500##Supreme Ruler - Content Editor##0
+316010##Magic Duels##0
+241990##Sorcerer King##0
+287450##Rise of Nations: Extended Edition##0
+323370##TERA##0
+328080##Rise to Ruins##0
+329970##KeeperRL##0
+246070##Hack 'n' Slash##0
+331920##Airline Tycoon Deluxe##0
+332310##LEGO® Worlds##0
+332500##GRAV##0
+249050##Dungeon of the Endless™ - Crystal Edition##0
+333950##Medieval Engineers##0
+349110##Medieval Engineers - Mod SDK##0
+919670##Medieval Engineers - Remote Client##0
+250900##The Binding of Isaac: Rebirth##0
+340210##Predestination##0
+341000##Mad Games Tycoon##0
+341930##Space Station Alpha##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+346010##Besiege##0
+407530##ARK: Survival Of The Fittest##0
+346420##The Spatials##0
+450700##The Spatials: Galactology##0
+349790##Galaxy of Pen & Paper##0
+352700##Subspace Continuum##0
+363360##Interstellar Rift##0
+507490##Ashes of the Singularity: Escalation##0
+365800##AdvertCity##0
+6000##STAR WARS™ Republic Commando##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+32350##STAR WARS™ Starfighter™##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+32420##STAR WARS™: The Clone Wars - Republic Heroes™##0
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+369290##Airport Madness: World Edition##0
+219740##Don't Starve##0
+372800##RPG MO##0
+230230##Divinity: Original Sin (Classic)##0
+381120##Shoppe Keep##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+384080##Industry Manager: Future Technologies##0
+397180##Command: Northern Inferno##0
+399670##Game Corp DX##0
+377900##Empire TV Tycoon##0
+403190##Planetbase##0
+406290##Twilight Struggle##0
+408990##Timber and Stone##0
+415800##X Rebirth: Home of Light##0
+273070##The Last Federation##0
+427570##Dawn of Andromeda##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+428690##Youtubers Life##0
+931180##Conan Exiles - Testlive Client##0
+446000##Stellar Monarch##0
+449300##Planar Conquest##0
+450120##Capitalism Plus##0
+454060##Blueprint Tycoon##0
+455980##Judgment: Apocalypse Survival Simulation##0
+464880##Stars in Shadow##0
+355250##STAR WARS™: TIE Fighter Special Edition##0
+356500##STAR WARS™ Galactic Battlegrounds Saga##0
+361670##STAR WARS™: X-Wing Alliance™##0
+361690##STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™##0
+455910##STAR WARS™: Rogue Squadron 3D##0
+456540##STAR WARS™: Rebel Assault I + II##0
+493220##After the Empire##0
+476530##Children of a Dead Earth##0
+503560##911 Operator##0
+514290##Factory Engineer##0
+522030##Eclipse: New Dawn for the Galaxy##0
+496730##Sorcerer King: Rivals##0
+534570##Survival Kingdom##0
+536930##MOBIUS FINAL FANTASY##0
+573490##Interstellar Transport Company##0
+590380##Into the Breach##0
+598330##SimAirport##0
+606230##Thea 2: The Shattering##0
+614130##Command: Chains of War##0
+644930##They Are Billions##0
+671440##Rise of Industry##0
+784150##Workers & Resources: Soviet Republic##0
+979110##Space Haven##0
+984680##Interstellar Space: Genesis##0
+1248060##Realpolitiks II##0
