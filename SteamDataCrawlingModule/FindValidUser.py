@@ -6,13 +6,13 @@ from selenium.webdriver.common.by import By
 import time
 
 start_id = 76561197960265728
-start_user = 0; end_user = 100000; num_user = 0
+start_user = 32000; end_user = 100000; num_user = 0
 base_url = 'http://steamcommunity.com/profiles/'
 file_dir = 'results/userdata/'
 valid_user_list = open('results/valid_user_list.txt', 'a', encoding='utf-8')
 
 options = webdriver.ChromeOptions()
-#options.add_argument('--headless')
+options.add_argument('--headless')
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 options.add_argument("--disable-gpu")
