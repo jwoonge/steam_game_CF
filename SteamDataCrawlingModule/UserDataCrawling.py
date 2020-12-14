@@ -7,8 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import time
 
-key = '33C798A71E856B20EC314196A31C6AB6'
-file_no = 0
+key = 'AA42310FB950BC2FC0461974EC1EC06B'
 src_dir = 'results/validusers/'
 dst_dir = 'results/userdata/'
 base_url = 'http://steamcommunity.com/profiles/'
@@ -79,16 +78,17 @@ options.add_argument("--disable-gpu")
 driver = webdriver.Chrome('resource/chromedriver_win32/chromedriver', chrome_options=options)
 driver.implicitly_wait(3)
 
-collected_data = 0; row_index = 0
-valid_user_list = open(src_dir+'user_list_'+str(file_no)+'.txt', 'r', encoding='utf-8')
-for row in valid_user_list:
-    user_id = row[:-1]
-    user_game_data, valid = get_user_game_data(user_id)
-    time.sleep(20)
-    if valid:
-        collected_data += 1
-        user_review_data = get_user_review_data(user_id, driver)
+for file_no in range(45,90):
+    collected_data = 0; row_index = 0
+    valid_user_list = open(src_dir+'user_list_'+str(file_no)+'.txt', 'r', encoding='utf-8')
+    for row in valid_user_list:
+        user_id = row[:-1]
+        user_game_data, valid = get_user_game_data(user_id)
         time.sleep(20)
-        write_user_data_file(user_game_data, user_review_data, user_id)
-    row_index += 1
-    print(row_index, user_id,'processed')
+        if valid:
+            collected_data += 1
+            user_review_data = get_user_review_data(user_id, driver)
+            time.sleep(20)
+            write_user_data_file(user_game_data, user_review_data, user_id)
+        row_index += 1
+        print(file_no, row_index, user_id,'processed')

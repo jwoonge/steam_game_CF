@@ -1,0 +1,29 @@
+@@GAME
+730##Counter-Strike: Global Offensive##40515
+10##Counter-Strike##29541
+240##Counter-Strike: Source##4580
+4000##Garry's Mod##2087
+444090##Paladins##1948
+282660##Easy eSports##853
+444640##Bloons TD Battles##558
+50##Half-Life: Opposing Force##315
+220##Half-Life 2##48
+40##Deathmatch Classic##47
+343440##Crash Drive 2##36
+130##Half-Life: Blue Shift##33
+20##Team Fortress Classic##19
+70##Half-Life##1
+30##Day of Defeat##0
+60##Ricochet##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+251910##Solar Flux##0
+292410##Street Racing Syndicate##0
+306350##Slipstream 5000##0
+382300##Kidnapped##0
+596350##Paladins - Public Test##0
+489220##Unforgiving Trials: The Darkest Crusade##0
+508380##Amnesia: Final Revelations##0
+218620##PAYDAY 2##0
+@@REVIEW
+10##Recommended
