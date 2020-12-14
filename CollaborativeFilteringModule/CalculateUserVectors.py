@@ -3,7 +3,6 @@ import csv
 from collections import namedtuple
 MAXV = 999999
 user_data_dir = '../SteamDataCrawlingModule/results/userdata/'
-user_data_dir_test = 'fortesting/'
 
 def get_game_data(filename='gamedata.txt'):
     game_datas = dict()

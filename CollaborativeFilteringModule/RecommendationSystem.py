@@ -4,9 +4,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from CalculateUserVectors import get_game_data
 import random
 
-def recommend_CF(k, train_set_g, test_set_g, train_set_t, test_set_t):
+def recommend_CF(k, train_set_g, test_set_g, train_set_t, test_set_t, game_datas, game_range, tag_range):
     num_test = len(test_set_g)
-    game_datas, game_range, tag_range = get_game_data()
     game_range = np.array(game_range); tag_range = np.array(tag_range)
     recommend_rates = []
     for i in range(len(game_range)):
@@ -68,6 +67,7 @@ def normalize(vectors):
 
 if __name__=='__main__':
     ## Read Data & Normalize
+    game_datas, game_range, tag_range = get_game_data()
     user_game_vectors = np.array(np.loadtxt('user_game_vectors.csv', dtype=np.float, delimiter=','))
     user_tag_vectors = np.array(np.loadtxt('user_tag_vectors.csv', dtype=np.float, delimiter=','))
     user_tag_vectors = normalize(user_tag_vectors)
@@ -77,5 +77,5 @@ if __name__=='__main__':
     test_set_t = user_tag_vectors[:5, :]
     train_set_t = user_tag_vectors[5:,:]
     ## Find most similar user by tag
-    recommend_game_id = recommend_CF(3, train_set_g, test_set_g, train_set_t, test_set_t)
+    recommend_game_id = recommend_CF(3, train_set_g, test_set_g, train_set_t, test_set_t, game_datas, game_range, tag_range)
     print(recommend_game_id)
