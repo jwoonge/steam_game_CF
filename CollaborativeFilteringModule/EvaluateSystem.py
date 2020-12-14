@@ -12,6 +12,7 @@ def average_precision(recommended, relevant):
                 count += 1
                 AP += count / (j+1)
         MAP += AP/len(relevant)
+    MAP = MAP/len(recommended)
     return MAP
 
 
@@ -34,8 +35,8 @@ train_set_t = user_tag_vectors[num_test_users:,:]
 recommended_game_id_CF = recommend_CF(10, train_set_g, test_set_g, train_set_t, test_set_t, game_datas, game_range, tag_range)
 recommended_game_id_RD = recommend_RD(10, test_set_g, game_range)
 recommended_game_id_TS = recommend_TS(10, test_set_g)
-origin_game_ids = np.array(game_range)[(-test_set_g).argsort(axis=1)[:,:5]]
+origin_game_ids = np.array(game_range)[(-test_set_g).argsort(axis=1)[:,:3]]
 
-print('MAP score of CF :\t',average_precision(recommended_game_id_CF, origin_game_ids))
-print('MAP score of Random :\t',average_precision(recommended_game_id_RD, origin_game_ids))
+print('MAP score of CF :\t\t',average_precision(recommended_game_id_CF, origin_game_ids))
+print('MAP score of Random :\t\t',average_precision(recommended_game_id_RD, origin_game_ids))
 print('MAP score or TopSellers :\t',average_precision(recommended_game_id_TS, origin_game_ids))
