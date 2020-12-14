@@ -1,0 +1,96 @@
+@@GAME
+281990##Stellaris##105657
+47410##Stronghold Kingdoms##61387
+48220##Might & Magic: Heroes VI##19524
+813780##Age of Empires II: Definitive Edition##16345
+730##Counter-Strike: Global Offensive##12446
+1017900##Age of Empires: Definitive Edition##7476
+321960##Might & Magic Heroes VII ##5981
+239820##Game Dev Tycoon##5941
+18500##Defense Grid: The Awakening##5414
+464880##Stars in Shadow##5186
+223830##Xenonauts##3851
+218620##PAYDAY 2##2815
+49520##Borderlands 2##2481
+268870##Satellite Reign##2480
+378120##Football Manager 2016##2454
+40950##Stronghold HD##2348
+200510##XCOM: Enemy Unknown##2207
+239840##Dead State##2073
+268500##XCOM 2##1799
+226840##Age of Wonders III##1776
+397460##The Jackbox Party Pack 2##1535
+242920##Banished##1095
+46330##Space Rangers 2: Reboot##987
+289130##Endless Legend™ - Emperor Edition##920
+285310##RollerCoaster Tycoon: Deluxe##837
+243780##PixelJunk™ Monsters Ultimate##723
+208520##Omerta - City of Gangsters##646
+331670##The Jackbox Party Pack##640
+535930##Two Point Hospital##545
+228260##Fallen Enchantress: Legendary Heroes##482
+307880##Savage Lands##450
+25900##King's Bounty: The Legend##394
+393380##Squad##393
+38400##Fallout##296
+434170##The Jackbox Party Pack 3##289
+394310##Punch Club##275
+297000##Heroes of Might & Magic III - HD Edition##231
+57690##Tropico 4##229
+219150##Hotline Miami##221
+65800##Dungeon Defenders##176
+392110##Endless Space® 2 - Digital Deluxe Edition##172
+264710##Subnautica##112
+280540##GhostControl Inc.##106
+238960##Path of Exile##85
+289520##King's Bounty: Dark Side##81
+1055090##Embark##77
+285110##GearCity##44
+292030##The Witcher 3: Wild Hunt##39
+7840##Death Track: Resurrection##37
+270790##Etherlords II##34
+1500##Darwinia##27
+1520##DEFCON##20
+270770##Etherlords##18
+10##Counter-Strike##15
+203770##Crusader Kings II##11
+33520##Tropico##10
+243040##Startopia##7
+377160##Fallout 4##4
+203350##King's Bounty: Warriors of the North##1
+824270##KovaaK 2.0##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+9400##Juiced 2: Hot Import Nights##0
+33530##Tropico 2: Pirate Cove##0
+23490##Tropico 3 - Steam Special Edition##0
+1510##Uplink##0
+1530##Multiwinia##0
+8930##Sid Meier's Civilization V##0
+16700##Stronghold Crusader Extreme HD##0
+40960##Stronghold 2##0
+40970##Stronghold Crusader HD##0
+40980##Stronghold Legends##0
+47400##Stronghold 3##0
+234650##Shadowrun Returns##0
+300550##Shadowrun: Dragonfall - Director's Cut##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+255710##Cities: Skylines##0
+774941##Squad - Public Testing##0
+3170##King's Bounty: Armored Princess##0
+63910##King's Bounty: Crossworlds##0
+105450##Age of Empires® III (2007)##0
+221380##Age of Empires II (2013)##0
+848450##Subnautica: Below Zero##0
+@@REVIEW
+321960##Recommended

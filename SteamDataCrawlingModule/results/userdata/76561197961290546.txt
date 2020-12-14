@@ -1,0 +1,25 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+730##Counter-Strike: Global Offensive##0
+255300##Journey of a Roach##0
+291480##Warface##0
+15700##Oddworld: Abe's Oddysee##0
+363600##Holy Potatoes! A Weapon Shop?!##0
+401190##Dinosaur Hunt##0
+416110##Blitz Breaker##0
+431710##Space Pilgrim Episode II: Epsilon Indi##0
+446150##GUNS UP!##0
+517470##King of Booze: Drinking Game##0
+576470##ANIMALITY##0
+356420##Interloper##0
+976310##Mortal Kombat 11##0
+1069740##Seen##0
+231430##Company of Heroes 2##0
+@@REVIEW

@@ -1,0 +1,43 @@
+@@GAME
+730##Counter-Strike: Global Offensive##190543
+570##Dota 2##37767
+440##Team Fortress 2##37749
+761890##Albion Online##37621
+550650##Black Squad##37604
+231430##Company of Heroes 2##37586
+544920##Darwin Project##37568
+1085660##Destiny 2##37551
+588430##Fallout Shelter##37533
+227940##Heroes & Generals##37516
+560380##MapleStory 2##37498
+444090##Paladins##37481
+700330##SCP: Secret Laboratory##37463
+304930##Unturned##37446
+291480##Warface##37428
+767560##War Robots##37411
+236390##War Thunder##37394
+444200##World of Tanks Blitz##37376
+552990##World of Warships##37359
+322170##Geometry Dash##37358
+8500##EVE Online##37341
+60##Ricochet##37324
+20##Team Fortress Classic##37307
+70##Half-Life##37289
+40##Deathmatch Classic##37271
+10##Counter-Strike##37254
+438100##VRChat##37247
+431960##Wallpaper Engine##10
+30##Day of Defeat##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+304050##Trove##0
+596350##Paladins - Public Test##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+797410##Headsnatchers##0
+760620##Deiland##0
+442070##Drawful 2##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+465760##Scrap Garden##0
+@@REVIEW

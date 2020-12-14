@@ -1,0 +1,183 @@
+@@GAME
+570##Dota 2##64540
+594570##Total War: WARHAMMER II##48305
+24960##Battlefield: Bad Company™ 2##23809
+1250##Killing Floor##20820
+292030##The Witcher 3: Wild Hunt##19182
+236430##DARK SOULS™ II##16625
+232090##Killing Floor 2##16494
+214950##Total War: ROME II - Emperor Edition##16026
+374320##DARK SOULS™ III##14713
+211420##DARK SOULS™: Prepare To Die Edition##12013
+730##Counter-Strike: Global Offensive##11377
+72850##The Elder Scrolls V: Skyrim##8567
+281990##Stellaris##8451
+335300##DARK SOULS™ II: Scholar of the First Sin##4806
+204880##Sins of a Solar Empire: Rebellion##4355
+271590##Grand Theft Auto V##4066
+814380##Sekiro™: Shadows Die Twice##4030
+1190460##DEATH STRANDING##3666
+364360##Total War: WARHAMMER##3452
+346110##ARK: Survival Evolved##3098
+359870##FINAL FANTASY X/X-2 HD Remaster##3007
+570940##DARK SOULS™: REMASTERED##2946
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2713
+24980##Mass Effect 2##2369
+325610##Total War: ATTILA##2359
+524220##NieR:Automata™##2163
+454650##DRAGON BALL XENOVERSE 2##2146
+20900##The Witcher: Enhanced Edition##1940
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##1908
+12210##Grand Theft Auto IV: The Complete Edition##1888
+433850##Z1 Battle Royale##1686
+550##Left 4 Dead 2##1594
+207610##The Walking Dead##1525
+239140##Dying Light##1520
+883710##Resident Evil 2##1490
+391220##Rise of the Tomb Raider##1484
+8980##Borderlands GOTY##1473
+485510##Nioh: Complete Edition##1417
+976730##Halo: The Master Chief Collection##1335
+378540##The Surge##1291
+35720##Trine 2##1185
+4920##Natural Selection 2##1169
+620##Portal 2##1143
+9420##Supreme Commander: Forged Alliance##1047
+17470##Dead Space##1035
+4550##Titan Quest: Immortal Throne##853
+256290##Child of Light##844
+261030##The Walking Dead: Season Two##813
+1057090##Ori and the Will of the Wisps##794
+107410##Arma 3##789
+49520##Borderlands 2##784
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##709
+500##Left 4 Dead##703
+15620##Warhammer 40,000: Dawn of War II##701
+300##Day of Defeat: Source##685
+209540##Strike Suit Zero##670
+7940##Call of Duty 4: Modern Warfare##649
+234160##Strike Suit Infinity##602
+261570##Ori and the Blind Forest##575
+275850##No Man's Sky##547
+12750##GRID##546
+40100##Supreme Commander 2##542
+489830##The Elder Scrolls V: Skyrim Special Edition##529
+32370##STAR WARS™: Knights of the Old Republic™##528
+379720##DOOM##528
+418370##Resident Evil 7 Biohazard##488
+3730##Aliens versus Predator Classic 2000##430
+288370##Strike Suit Zero: Director's Cut##403
+1091500##Cyberpunk 2077##400
+240##Counter-Strike: Source##355
+43110##Metro 2033##338
+386070##Planetary Annihilation: TITANS##324
+17700##Insurgency: Modern Infantry Combat##274
+33930##Arma 2: Operation Arrowhead##272
+283640##Salt and Sanctuary##251
+388210##Day of the Tentacle Remastered##246
+234140##Mad Max##218
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##213
+265300##Lords Of The Fallen##210
+34330##Total War: SHOGUN 2##202
+355840##Survarium##200
+238320##Outlast##199
+1172470##Apex Legends##193
+630##Alien Swarm##187
+7670##BioShock##182
+230410##Warframe##169
+359320##Elite Dangerous##149
+17330##Crysis Warhead##146
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##144
+400##Portal##139
+582500##We Were Here##134
+236870##HITMAN™##123
+205100##Dishonored##115
+319910##Trine 3: The Artifacts of Power##114
+367500##Dragon's Dogma: Dark Arisen##114
+268050##The Evil Within##100
+224260##No More Room in Hell##92
+238010##Deus Ex: Human Revolution - Director's Cut##88
+108800##Crysis 2 Maximum Edition##86
+39120##RIFT##83
+9450##Warhammer 40,000: Dawn of War - Soulstorm##76
+10090##Call of Duty: World at War##73
+204030##Fable - The Lost Chapters##73
+41500##Torchlight##71
+440##Team Fortress 2##60
+13210##Unreal Tournament 3: Black Edition##52
+1280##Darkest Hour: Europe '44-'45##51
+387290##Ori and the Blind Forest: Definitive Edition##50
+24790##Command and Conquer 3: Tiberium Wars##45
+30##Day of Defeat##41
+20540##Company of Heroes: Tales of Valor##38
+6060##Star Wars: Battlefront 2 (Classic, 2005)##35
+355180##Codename CURE##34
+22200##Zeno Clash##31
+286690##Metro 2033 Redux##24
+273350##Evolve Stage 2##22
+530620##Resident Evil 7 Teaser: Beginning Hour##22
+291480##Warface##21
+13240##Unreal Tournament: Game of the Year Edition##20
+227940##Heroes & Generals##20
+33230##Assassin's Creed II##19
+10##Counter-Strike##13
+35450##Rising Storm/Red Orchestra 2 Multiplayer##13
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##13
+35700##Trine##11
+203160##Tomb Raider##11
+304240##Resident Evil##10
+736220##Post Scriptum##10
+35420##Killing Floor Mod: Defence Alliance 2##7
+13200##Unreal II: The Awakening##6
+228200##Company of Heroes ##6
+24810##Command and Conquer 3: Kane's Wrath##5
+17300##Crysis##4
+224580##Arma 2: DayZ Mod##3
+4540##Titan Quest##2
+9350##Supreme Commander##2
+273110##Counter-Strike Nexon: Studio##2
+33910##Arma 2##1
+365720##Skyrim Script Extender (SKSE)##1
+339340##Resident Evil 0##1
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+475150##Titan Quest Anniversary Edition##0
+409710##BioShock Remastered##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+13230##Unreal Tournament 2004##0
+13250##Unreal Gold##0
+729040##Borderlands GOTY Enhanced##0
+12830##Operation Flashpoint: Dragon Rising##0
+17020##Global Agenda##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+17340##Crysis Wars##0
+205790##Dota 2 Test##0
+212070##Star Conflict##0
+238960##Path of Exile##0
+236090##Dust: An Elysian Tail##0
+255220##GRID Autosport##0
+222880##Insurgency##0
+287390##Metro: Last Light Redux##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+407530##ARK: Survival Of The Fittest##0
+232150##Killing Floor 2 - SDK##0
+415960##Energy Cycle##0
+439700##H1Z1: Test Server##0
+1286830##STAR WARS™: The Old Republic™##0
+@@REVIEW

@@ -1,0 +1,87 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+12840##DiRT 2##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+620##Portal 2##0
+730##Counter-Strike: Global Offensive##0
+43160##Metro: Last Light##0
+221100##DayZ##0
+239160##Thief##0
+281990##Stellaris##0
+296070##MIND Path to Thalamus E.Edition##0
+300060##ADR1FT##0
+313630##The Solus Project##0
+322770##Vanishing Realms##0
+348250##Google Earth VR##0
+360950##Descent: Underground##0
+372650##Envelop for Windows##0
+380220##Hover Junkers##0
+382000##Mindshow##0
+382110##Virtual Desktop##0
+214490##Alien: Isolation##0
+408250##Eagle Flight##0
+412740##Audioshield##0
+418650##Space Pirate Trainer##0
+425720##Cloudlands : VR Minigolf##0
+391220##Rise of the Tomb Raider##0
+433190##CDF Starfighter VR##0
+436320##Raw Data##0
+439550##'n Verlore Verstand##0
+446750##Portal Stories: VR##0
+327140##Tilt Brush##0
+386690##Fantastic Contraption##0
+448280##Job Simulator##0
+450390##The Lab##0
+451520##theBlu##0
+452710##Realities##0
+457550##Bigscreen Beta##0
+457580##The Visitor##0
+457670##Vrideo##0
+458590##ABE VR##0
+464170##VRMark##0
+468700##NVIDIA® VR Funhouse##0
+485780##SoundStage##0
+223850##3DMark##0
+501180##Acan's Call: Act 1##0
+319630##Life is Strange™##0
+513320##ALICE VR##0
+527100##Star Trek: Bridge Crew##0
+586210##OVRdrop##0
+594330##Visage##0
+635680##Alien Covenant In Utero: ALIEN: COVENANT In Utero##0
+635681##Alien Covenant In Utero: 异形 ：契约##0
+635682##Alien Covenant In Utero: ALIEN : COVENANT In Utero (French)##0
+635683##Alien Covenant In Utero: Alien: Covenant – In Utero (German)##0
+635684##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Italian)##0
+635685##Alien Covenant In Utero: 『エイリアン : コヴェナント』 - 胎内-##0
+635686##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Spanish)##0
+635687##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Norwegian)##0
+635688##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Brazilian Portugese)##0
+635689##Alien Covenant In Utero: VR-видео «ЧУЖОЙ: В УТРОБЕ»##0
+635690##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Castilian Spanish)##0
+635691##Alien Covenant In Utero: เอเลี่ยน: โคเวแนนท์##0
+750920##Shadow of the Tomb Raider##0
+611500##Quake Champions##0
+406970##The Uncertain: Last Quiet Day##0
+532210##Life is Strange 2##0
+@@REVIEW
+214490##Recommended
+458590##Not Recommended

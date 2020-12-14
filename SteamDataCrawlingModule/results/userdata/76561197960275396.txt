@@ -1,0 +1,23 @@
+@@GAME
+570##Dota 2##22901
+1046930##Dota Underlords##3992
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2878
+374040##Portal Knights##2201
+200710##Torchlight II##741
+434650##Lost Castle##291
+322330##Don't Starve Together##199
+269770##Secrets of Grindea##173
+730##Counter-Strike: Global Offensive##73
+755790##Ring of Elysium##30
+257510##The Talos Principle##27
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+@@REVIEW
+570##Recommended

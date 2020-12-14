@@ -1,0 +1,420 @@
+@@GAME
+582010##Monster Hunter: World##14630
+236430##DARK SOULS™ II##5970
+107410##Arma 3##5205
+814380##Sekiro™: Shadows Die Twice##4727
+552500##Warhammer: Vermintide 2##4671
+230410##Warframe##3698
+1217060##Gunfire Reborn##3668
+617290##Remnant: From the Ashes##3318
+1145360##Hades##2745
+221020##Towns##2718
+424370##Wolcen: Lords of Mayhem##2626
+211420##DARK SOULS™: Prepare To Die Edition##2188
+374320##DARK SOULS™ III##1966
+485510##Nioh: Complete Edition##1924
+883710##Resident Evil 2##1681
+8930##Sid Meier's Civilization V##1656
+40800##Super Meat Boy##1651
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1636
+265300##Lords Of The Fallen##1599
+378540##The Surge##1511
+812140##Assassin's Creed Odyssey##1466
+588650##Dead Cells##1459
+206420##Saints Row IV##1432
+292030##The Witcher 3: Wild Hunt##1429
+644830##The Surge 2##1305
+4920##Natural Selection 2##1270
+1213210##Command & Conquer™ Remastered Collection##1196
+310950##Street Fighter V##1123
+208650##Batman™: Arkham Knight##1087
+311210##Call of Duty: Black Ops III##1055
+367520##Hollow Knight##968
+268910##Cuphead##948
+692850##Bloodstained: Ritual of the Night##935
+292730##Call of Duty: Infinite Warfare##928
+750920##Shadow of the Tomb Raider##926
+385770##Time Clickers##912
+570##Dota 2##865
+241600##Rogue Legacy##823
+250820##SteamVR##822
+379720##DOOM##821
+391220##Rise of the Tomb Raider##810
+268050##The Evil Within##804
+24780##SimCity 4 Deluxe##801
+730##Counter-Strike: Global Offensive##773
+339280##Strife##754
+49520##Borderlands 2##738
+1139900##Ghostrunner##720
+524220##NieR:Automata™##719
+207350##Ys Origin##700
+10180##Call of Duty: Modern Warfare 2##695
+238960##Path of Exile##683
+234630##Project CARS##677
+601150##Devil May Cry 5##668
+235460##METAL GEAR RISING: REVENGEANCE##661
+288570##Wolfenstein: The New Order German Edition##622
+72850##The Elder Scrolls V: Skyrim##616
+204100##Max Payne 3##607
+232090##Killing Floor 2##600
+440900##Conan Exiles##586
+219990##Grim Dawn##577
+218230##PlanetSide 2##542
+232790##Broken Age##524
+261570##Ori and the Blind Forest##501
+302510##Ryse: Son of Rome##495
+474960##Quantum Break##493
+714010##Aim Lab##490
+356400##Thumper##485
+418370##Resident Evil 7 Biohazard##483
+209650##Call of Duty: Advanced Warfare##465
+363970##Clicker Heroes##437
+493340##Planet Coaster##428
+200710##Torchlight II##424
+239140##Dying Light##423
+439190##Stories: The Path of Destinies##406
+42700##Call of Duty: Black Ops##405
+207610##The Walking Dead##402
+262060##Darkest Dungeon®##397
+404540##Nex Machina##395
+335300##DARK SOULS™ II: Scholar of the First Sin##381
+251470##TowerFall Ascension##380
+282440##Quake Live##355
+747350##Hellblade: Senua's Sacrifice VR Edition##352
+553640##ICEY##351
+255710##Cities: Skylines##345
+324800##Shadow Warrior 2##344
+1253920##Rogue Legacy 2##341
+632360##Risk of Rain 2##332
+346900##AdVenture Capitalist##330
+12840##DiRT 2##325
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##314
+304050##Trove##302
+265550##Dead Rising 3##300
+24740##Burnout Paradise: The Ultimate Box##284
+42910##Magicka##283
+200510##XCOM: Enemy Unknown##279
+273350##Evolve Stage 2##276
+240##Counter-Strike: Source##269
+275850##No Man's Sky##269
+367500##Dragon's Dogma: Dark Arisen##265
+550##Left 4 Dead 2##245
+274190##Broforce##236
+620##Portal 2##225
+221640##Super Hexagon##221
+517710##Redout: Enhanced Edition##219
+252950##Rocket League##217
+239820##Game Dev Tycoon##213
+42710##Call of Duty: Black Ops - Multiplayer##203
+476600##Call of Duty: WWII##200
+218620##PAYDAY 2##188
+214770##Guacamelee! Gold Edition##177
+304430##INSIDE##175
+268850##EVGA Precision X1##171
+225080##Brothers - A Tale of Two Sons##169
+506540##Last Man Standing##167
+205730##Insanely Twisted Shadow Planet##161
+3830##Psychonauts##160
+264200##One Finger Death Punch##159
+17480##Command and Conquer: Red Alert 3##155
+247080##Crypt of the NecroDancer##155
+241930##Middle-earth™: Shadow of Mordor™##153
+239070##Hammerwatch##152
+546560##Half-Life: Alyx##149
+310560##DiRT Rally##146
+368230##Kingdom: Classic##143
+368370##Her Story##141
+215530##The Incredible Adventures of Van Helsing##135
+405640##Pony Island##134
+444090##Paladins##132
+115800##Owlboy##128
+283640##Salt and Sanctuary##123
+452640##Back to Dinosaur Island 2##121
+402840##Crusaders of the Lost Idols##116
+321040##DiRT 3 Complete Edition##114
+322110##20XX##114
+400##Portal##105
+293560##TOME: Immortal Arena##105
+212480##Sonic & All-Stars Racing Transformed Collection##105
+2990##FlatOut 2##101
+65930##The Bureau: XCOM Declassified##100
+233290##MURDERED: SOUL SUSPECT™##100
+200260##Batman: Arkham City GOTY##100
+226320##Marvel Heroes Omega##90
+281990##Stellaris##90
+225260##Brütal Legend##89
+35720##Trine 2##88
+420##Half-Life 2: Episode Two##84
+327690##Gigantic##84
+40970##Stronghold Crusader HD##83
+627690##Idle Champions of the Forgotten Realms##81
+813820##Realm Royale##81
+384190##ABZÛ##79
+794600##LET IT DIE##79
+221260##Little Inferno##78
+221100##DayZ##78
+757240##Aimtastic##78
+495910##Dungeon Fighter Online##77
+113020##Monaco##76
+12210##Grand Theft Auto IV: The Complete Edition##75
+252410##SteamWorld Dig##75
+268990##The Dishwasher: Vampire Smile##75
+108800##Crysis 2 Maximum Edition##73
+259530##Savant - Ascent##70
+246620##Plague Inc: Evolved##70
+323370##TERA##69
+414340##Hellblade: Senua's Sacrifice##68
+312990##The Expendabros##67
+200110##Nosgoth##67
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##66
+809960##Radical Heights##66
+996580##Spyro™ Reignited Trilogy##65
+17410##Mirror's Edge##64
+113200##The Binding of Isaac##64
+310380##Fractured Space##63
+499520##The Turing Test##63
+210770##Sanctum 2##62
+384250##Super Rude Bear Resurrection##61
+67370##The Darkness II##60
+221910##The Stanley Parable##60
+209660##Call of Duty: Advanced Warfare - Multiplayer##60
+1056640##Phantasy Star Online 2##60
+1085660##Destiny 2##60
+322500##SUPERHOT##59
+280790##Creativerse##59
+44350##GRID 2##56
+231430##Company of Heroes 2##56
+236090##Dust: An Elysian Tail##54
+698780##Doki Doki Literature Club##54
+257850##Hyper Light Drifter##53
+94400##Nidhogg##52
+50300##Spec Ops: The Line##51
+107100##Bastion##49
+262280##Dungeons 2##48
+222900##Dead Island: Epidemic##48
+961440##Resident Evil 2 "1-Shot Demo"##48
+630##Alien Swarm##48
+70300##VVVVVV##47
+39120##RIFT##47
+214560##Mark of the Ninja##46
+223220##Giana Sisters: Twisted Dreams##46
+205020##Lumino City##46
+267340##Beware Planet Earth##45
+291550##Brawlhalla##45
+408120##Cibele##45
+71340##Sonic Generations##45
+530620##Resident Evil 7 Teaser: Beginning Hour##45
+220##Half-Life 2##44
+591530##Hyper Universe##44
+278930##Gigantic Army##43
+550040##Steep Open Beta##43
+238320##Outlast##42
+297130##Titan Souls##42
+731490##Crash Bandicoot™ N. Sane Trilogy##42
+1249200##Ghostrunner Demo##41
+440##Team Fortress 2##41
+204300##Awesomenauts##40
+248310##Freedom Planet##40
+270450##Robot Roller-Derby Disco Dodgeball##40
+236450##PAC-MAN Championship Edition DX+##40
+339610##FreeStyle 2: Street Basketball##38
+209080##Guns of Icarus Online##38
+608800##Guns of Icarus Alliance##38
+20900##The Witcher: Enhanced Edition##37
+255220##GRID Autosport##36
+283680##Astebreed: Definitive Edition##35
+266430##Anarchy Arcade##33
+438100##VRChat##33
+231160##The Swapper##32
+507490##Ashes of the Singularity: Escalation##32
+611500##Quake Champions##32
+207140##SpeedRunners##31
+338000##Echoes+##31
+21690##Resident Evil 5##30
+305050##Outland##29
+204880##Sins of a Solar Empire: Rebellion##28
+218820##Mercenary Kings##28
+261110##Killer is Dead##28
+203250##Star Trek##26
+274250##OlliOlli##26
+286160##Tabletop Simulator##26
+584170##Freedom Locomotion VR##26
+273110##Counter-Strike Nexon: Studio##25
+222940##THE KING OF FIGHTERS XIII STEAM EDITION##24
+755770##YouTube VR##24
+105600##Terraria##23
+373990##Metrico+##23
+268870##Satellite Reign##22
+272470##The Incredible Adventures of Van Helsing II##22
+203160##Tomb Raider##21
+333930##Dirty Bomb##21
+211400##Deadlight##19
+2430##The Ship Tutorial##19
+471710##Rec Room##19
+845070##The Awesome Adventures of Captain Spirit##19
+245280##ENSLAVED™: Odyssey to the West™ Premium Edition##18
+203140##Hitman: Absolution##18
+319630##Life is Strange™##18
+287290##Resident Evil Revelations 2##18
+443810##This Is the Police##18
+284460##DeadCore##17
+21100##F.E.A.R. 3##16
+105800##PixelJunk Eden##16
+201790##Orcs Must Die! 2##16
+404410##Endless Sky##15
+563560##Alien Swarm: Reactive Drop##14
+225840##Sven Co-op##13
+450390##The Lab##13
+226720##Lost Planet 3##12
+437570##GoNNER##12
+220780##Thomas Was Alone##11
+244730##Divekick##11
+307290##Velvet Sundown##11
+208140##Endless Space##10
+393410##World of Soccer ##10
+259080##Just Cause 2: Multiplayer Mod##10
+228400##ACE COMBAT™ ASSAULT HORIZON Enhanced Edition##9
+227700##Firefall##9
+476620##Call of Duty: WWII - Multiplayer##9
+214510##LEGO® The Lord of the Rings™##8
+360870##Ultimate Tic-Tac-Toe##8
+407250##Pro Evolution Soccer 2016 myClub##8
+412940##Back to Dinosaur Island ##8
+55150##Warhammer 40,000: Space Marine##7
+304930##Unturned##7
+213610##Sonic Adventure™ 2 ##7
+34270##SEGA Mega Drive & Genesis Classics##7
+264540##Platformines##5
+202310##Ridge Racer™ Unbounded##5
+2400##The Ship##5
+424280##Iron Snout##5
+23380##Gyromancer##4
+235210##Strider##4
+317360##Double Action: Boogaloo##4
+436820##Waltz of the Wizard##4
+533780##Zombie Defense##4
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##4
+264690##Coin Crypt##3
+301970##Screencheat##3
+202530##SONIC THE HEDGEHOG 4 Episode I##3
+737010##Warhammer: Vermintide 2 Closed Test##3
+23300##Yosumin!##2
+359960##Choice Chamber##2
+292500##Kero Blaster##1
+496920##Moirai##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+8000##Tomb Raider: Anniversary##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+17470##Dead Space##0
+23310##The Last Remnant##0
+21680##Bionic Commando Rearmed##0
+43000##Front Mission Evolved##0
+95300##Capsized##0
+44340##Operation Flashpoint: Red River##0
+8140##Tomb Raider: Underworld##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+203810##Dear Esther##0
+520720##Dear Esther: Landmark Edition##0
+205790##Dota 2 Test##0
+203770##Crusader Kings II##0
+207170##Legend of Grimrock##0
+201700##DiRT Showdown##0
+7000##Tomb Raider: Legend##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+12750##GRID##0
+11590##Hospital Tycoon##0
+12830##Operation Flashpoint: Dragon Rising##0
+12810##Overlord II##0
+12770##Rise of the Argonauts##0
+11450##Overlord##0
+12710##Overlord: Raising Hell##0
+224960##Tomb Raider I##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+227220##Sang-Froid - Tales of Werewolves##0
+228260##Fallen Enchantress: Legendary Heroes##0
+1083500##PlanetSide 2 - Test##0
+239220##The Mighty Quest For Epic Loot##0
+206190##Gunpoint##0
+235720##Cubetractor##0
+368730##No Time To Explain Remastered##0
+234390##Teleglitch: Die More Edition##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+214550##Eets Munchies##0
+255870##PixelJunk™ Shooter##0
+249330##Unholy Heights##0
+16700##Stronghold Crusader Extreme HD##0
+263620##Mitsurugi Kamui Hikae##0
+266110##Tower of Guns##0
+266210##One Way Heroics##0
+278360##A Story About My Uncle##0
+284240##Maize##0
+286570##F1 2015##0
+287260##Toybox Turbos##0
+287340##Colin McRae Rally##0
+292910##Deponia: The Complete Journey##0
+205930##Hitman: Sniper Challenge##0
+265590##The Red Solstice##0
+6880##Just Cause##0
+8190##Just Cause 2##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+15700##Oddworld: Abe's Oddysee##0
+330820##2064: Read Only Memories##0
+289690##Lara Croft and the Temple of Osiris##0
+2420##The Ship Single Player##0
+350640##Sherlock Holmes: The Devil's Daughter##0
+232150##Killing Floor 2 - SDK##0
+361770##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)##0
+361780##Mortal Kombat: Legacy: Cyrax & Sektor##0
+372000##Tree of Savior (English Ver.)##0
+226860##Galactic Civilizations III##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+209000##Batman™: Arkham Origins##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+385710##INK##0
+290340##Armello##0
+391540##Undertale##0
+397340##SimplePlanes##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+931180##Conan Exiles - Testlive Client##0
+596350##Paladins - Public Test##0
+274500##Brigador: Up-Armored Edition##0
+381120##Shoppe Keep##0
+34190##Sonic and SEGA All Stars Racing##0
+71250##Sonic Adventure DX##0
+200940##Sonic CD##0
+203650##SONIC THE HEDGEHOG 4 Episode II##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+329440##Sonic Lost World##0
+48000##LIMBO##0
+629770##Tiny Echo##0
+878760##Realm Royale - Test Server##0
+222880##Insurgency##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+226840##Age of Wonders III##0
+582660##Black Desert Online##0
+34330##Total War: SHOGUN 2##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW
+757240##Recommended
+644830##Recommended
+617290##Recommended
+692850##Recommended
+582010##Recommended
+809960##Not Recommended
+578080##Recommended
+553640##Recommended
+378540##Recommended
+588650##Recommended

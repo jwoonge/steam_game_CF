@@ -1,0 +1,172 @@
+@@GAME
+231430##Company of Heroes 2##36556
+234530##War of the Vikings##21314
+42160##War of the Roses##18913
+35450##Rising Storm/Red Orchestra 2 Multiplayer##11340
+48700##Mount & Blade: Warband##10566
+72850##The Elder Scrolls V: Skyrim##7022
+42710##Call of Duty: Black Ops - Multiplayer##3998
+224600##Defiance##3032
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2297
+218620##PAYDAY 2##2185
+219640##Chivalry: Medieval Warfare##2168
+300##Day of Defeat: Source##1909
+686810##Hell Let Loose##1799
+241540##State of Decay##1406
+20540##Company of Heroes: Tales of Valor##1377
+418460##Rising Storm 2: Vietnam##1275
+240##Counter-Strike: Source##1264
+227940##Heroes & Generals##1132
+207610##The Walking Dead##1128
+242860##Verdun##1093
+202990##Call of Duty: Black Ops II - Multiplayer##1086
+730##Counter-Strike: Global Offensive##1047
+346110##ARK: Survival Evolved##1000
+203140##Hitman: Absolution##850
+13140##America's Army 3##830
+200710##Torchlight II##788
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##732
+203290##America's Army: Proving Grounds##731
+110800##L.A. Noire##615
+261550##Mount & Blade II: Bannerlord##568
+30##Day of Defeat##547
+329430##State of Decay: Year-One##517
+42680##Call of Duty: Modern Warfare 3##497
+236390##War Thunder##492
+236870##HITMAN™##428
+10090##Call of Duty: World at War##405
+327070##Gloria Victis##378
+49520##Borderlands 2##352
+736220##Post Scriptum##346
+209160##Call of Duty: Ghosts##340
+42700##Call of Duty: Black Ops##324
+202970##Call of Duty: Black Ops II##300
+440##Team Fortress 2##283
+209170##Call of Duty: Ghosts - Multiplayer##275
+222880##Insurgency##242
+202170##Sleeping Dogs™##234
+55230##Saints Row: The Third##232
+63380##Sniper Elite V2##227
+217750##Age of Conan: Unchained##227
+476620##Call of Duty: WWII - Multiplayer##226
+447820##Day of Infamy##219
+296770##Real Boxing™##216
+241930##Middle-earth™: Shadow of Mordor™##205
+48720##Mount & Blade: With Fire and Sword##201
+22380##Fallout: New Vegas##188
+107410##Arma 3##182
+505460##Foxhole##169
+239820##Game Dev Tycoon##159
+587450##Saurian##158
+306660##Ultimate General: Gettysburg##149
+304390##For Honor##145
+238090##Sniper Elite 3##135
+248630##Kingdoms Rise##134
+230410##Warframe##122
+295110##Just Survive##105
+582660##Black Desert Online##88
+221100##DayZ##83
+743090##Defiance 2050##79
+212910##Call of Duty: Black Ops II - Zombies##69
+4920##Natural Selection 2##69
+17700##Insurgency: Modern Infantry Combat##60
+1280##Darkest Hour: Europe '44-'45##59
+905370##Conqueror's Blade##56
+22100##Mount & Blade##53
+17480##Command and Conquer: Red Alert 3##47
+33930##Arma 2: Operation Arrowhead##41
+476600##Call of Duty: WWII##39
+555570##Infestation: The New Z##37
+222900##Dead Island: Epidemic##35
+9880##Champions Online##32
+200110##Nosgoth##25
+1200##Red Orchestra: Ostfront 41-45##24
+349700##Aftermath##24
+238960##Path of Exile##18
+323370##TERA##18
+366160##Hounds: The Last Hope##18
+10##Counter-Strike##17
+24480##King Arthur II - The Role-playing Wargame##17
+287920##Mortal Online##15
+203770##Crusader Kings II##13
+415660##Tiger Knight##13
+224580##Arma 2: DayZ Mod##11
+228200##Company of Heroes ##8
+42120##Lead and Gold - Gangs of the Wild West##7
+547180##Company of Heroes: Far East War##7
+293220##H-Hour: World's Elite##6
+530700##Argo##6
+49540##Aliens: Colonial Marines##4
+360150##How To Survive Third Person##4
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##3
+225420##Cities in Motion 2##3
+251950##World War II Online##3
+202090##Magicka: Wizard Wars##2
+433850##Z1 Battle Royale##2
+381210##Dead by Daylight##2
+440090##Heroes of the West##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1230##Mare Nostrum##0
+400##Portal##0
+6800##Commandos: Behind Enemy Lines##0
+6810##Commandos: Beyond the Call of Duty##0
+6830##Commandos 2: Men of Courage##0
+6840##Commandos 3: Destination Berlin##0
+33900##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+3700##Sniper Elite##0
+206980##War of the Roses Balance Beta##0
+205790##Dota 2 Test##0
+217920##Alien Rage - Unlimited##0
+256190##Enemy Front##0
+25800##Europa Universalis III##0
+25890##Hearts of Iron III##0
+42850##Arsenal of Democracy##0
+42910##Magicka##0
+42920##The Kings' Crusade##0
+42960##Victoria II##0
+42990##Sword of the Stars II: Enhanced Edition##0
+48800##Ship Simulator Extremes##0
+49300##Commander: Conquest of the Americas##0
+73010##Cities in Motion##0
+73020##Majesty 2 Collection##0
+73060##Defenders of Ardania##0
+73210##Sengoku##0
+200370##A Game of Dwarves##0
+202130##Impire##0
+204080##The Showdown Effect##0
+218130##Dungeonland##0
+227760##March of the Eagles##0
+231740##Knights of Pen and Paper +1##0
+234390##Teleglitch: Die More Edition##0
+236850##Europa Universalis IV##0
+239160##Thief##0
+286340##FarSky##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+407530##ARK: Survival Of The Fittest##0
+376570##WildStar##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+273350##Evolve Stage 2##0
+534500##Tiger Knight: Empire War##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+700030##Life is Feudal: MMO##0
+654310##For Honor - Public Test##0
+1206240##Talvisota - Winter War##0
+203160##Tomb Raider##0
+@@REVIEW
+686810##Recommended
+231430##Recommended
+234530##Recommended
+42160##Recommended

@@ -1,0 +1,81 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+33910##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+730##Counter-Strike: Global Offensive##0
+205790##Dota 2 Test##0
+113400##APB Reloaded##0
+236390##War Thunder##0
+238960##Path of Exile##0
+39120##RIFT##0
+271290##HAWKEN##0
+202090##Magicka: Wizard Wars##0
+224580##Arma 2: DayZ Mod##0
+217200##Worms Armageddon##0
+242760##The Forest##0
+218620##PAYDAY 2##0
+222880##Insurgency##0
+252950##Rocket League##0
+107410##Arma 3##0
+221100##DayZ##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+299740##Miscreated##0
+912290##Miscreated: Experimental Server##0
+301520##Robocraft##0
+227700##Firefall##0
+215080##WAKFU##0
+227940##Heroes & Generals##0
+222900##Dead Island: Epidemic##0
+295270##Football Manager 2015##0
+305620##The Long Dark##0
+323470##DRAGON BALL XENOVERSE##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+347030##The Bluecoats: North vs South##0
+355840##Survarium##0
+320590##Warside##0
+322330##Don't Starve Together##0
+393410##World of Soccer ##0
+239140##Dying Light##0
+440900##Conan Exiles##0
+931180##Conan Exiles - Testlive Client##0
+454650##DRAGON BALL XENOVERSE 2##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+489940##BATTALION 1944##0
+526160##The Wild Eight##0
+221680##Rocksmith® 2014 Edition - Remastered##0
+302590##Of Guards And Thieves##0
+568810##FreeStyleFootball##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+582010##Monster Hunter: World##0
+629760##MORDHAU##0
+678950##DRAGON BALL FighterZ##0
+592580##PRO EVOLUTION SOCCER 2018##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+755790##Ring of Elysium##0
+802200##Hellbound: Survival Mode##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+815370##Green Hell##0
+823130##Totally Accurate Battlegrounds##0
+544920##Darwin Project##0
+883710##Resident Evil 2##0
+1097150##Fall Guys: Ultimate Knockout##0
+996470##eFootball PES 2020##0
+@@REVIEW

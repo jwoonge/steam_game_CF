@@ -1,0 +1,116 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+105600##Terraria##0
+216150##MapleStory##0
+252950##Rocket League##0
+257750##Bloody Trapland##0
+8930##Sid Meier's Civilization V##0
+286160##Tabletop Simulator##0
+313740##Sakura Spirit##0
+730##Counter-Strike: Global Offensive##0
+342380##Sakura Angels##0
+219740##Don't Starve##0
+322330##Don't Starve Together##0
+375200##Sakura Fantasy Chapter 1##0
+377680##Sakura Beach##0
+383080##Sakura Clicker##0
+402180##Sakura Swim Club##0
+407330##Sakura Dungeon##0
+407980##Sakura Beach 2##0
+421700##Sakura Santa##0
+427730##Who's Your Daddy?!##0
+433340##Slime Rancher##0
+438100##VRChat##0
+457550##Bigscreen Beta##0
+512900##Streets of Rogue##0
+517000##Sakura Shrine Girls##0
+520010##Climbey##0
+521500##Sakura Space##0
+531510##Just Shapes & Beats##0
+539670##Sakura Nova##0
+553310##Lethal League Blaze##0
+575510##Sakura Agent##0
+581520##Sakura Magical Girls##0
+629760##MORDHAU##0
+644560##Mirror##0
+648800##Raft##0
+685680##Sakura Gamer##0
+700330##SCP: Secret Laboratory##0
+729530##Legends of Talia: Arcadia##0
+732690##FIVE NIGHTS AT FREDDY'S: HELP WANTED##0
+733740##Sakura Cupid##0
+739630##Phasmophobia##0
+813700##Sakura Sadist##0
+851890##Gal*Gun 2##0
+878750##Hentai Girl##0
+880940##Pummel Party##0
+714010##Aim Lab##0
+927890##Hentai Girl Linda##0
+935070##Sakura MMO##0
+939850##The Dark Pictures Anthology: Man of Medan##0
+945360##Among Us##0
+963690##Hentai Girl Hime##0
+968950##Sakura MMO 2##0
+993740##Hentai Mosaique Puzzle##0
+519860##DUSK##0
+998930##Seek Girl##0
+1003520##Hentai Crush##0
+1004240##Hentai Girl Karen##0
+1007350##Mirror Maker##0
+1035610##Hentai Mosaique Vip Room##0
+1060670##Taboos: Cracks##0
+1064130##Sakura MMO 3##0
+1073440##コイカツ / Koikatsu Party##0
+1079800##Pistol Whip##0
+1083210##符文女孩/Rune Girl##0
+1097150##Fall Guys: Ultimate Knockout##0
+1101450##Miss Neko##0
+1085660##Destiny 2##0
+1109360##Hentai Mosaique Fix-IT Shoppe##0
+1126290##Lost##0
+1146630##妖語り/Yokai's Secret##0
+1146950##Hentai Girl Fantasy##0
+1147560##Skul: The Hero Slayer##0
+1148510##Pretty Angel##0
+1149660##Seek Girl Ⅱ##0
+1153430##Love wish##0
+1157640##Sakura Fox Adventure##0
+1161650##Sakura Gamer 2##0
+1172620##Sea of Thieves##0
+1174690##Love Wish 2##0
+1189050##hot and lovely##0
+1191210##Seek Girl Ⅲ##0
+1192640##Hentai Mosaique Neko Waifus##0
+1202310##Sakura Succubus##0
+1212620##Pretty Neko##0
+1212830##Seek Girl Ⅳ##0
+1217060##Gunfire Reborn##0
+1229490##ULTRAKILL##0
+1222680##Need for Speed™ Heat ##0
+1256690##Hot And Lovely 2##0
+1263370##Seek Girl:Fog Ⅰ##0
+1268110##ISEKAI QUEST##0
+1281930##tModLoader##0
+1290070##Hot And Lovely 3##0
+1296260##Sakura Knight 2##0
+1299120##Mosaique Neko Waifus 2##0
+1299370##Friendship with Benefits##0
+1303740##Love n Dream##0
+1327080##Tower and Sword of Succubus##0
+1347430##Cute Honey##0
+788100##Neon Abyss##0
+1385730##Mosaique Neko Waifus 3##0
+1393410##Seek Girl V##0
+1394800##Rebirth:Mr Wang##0
+1399370##Cute Honey 2##0
+1419730##Seek Girl Ⅵ##0
+@@REVIEW
+399810##Not Recommended
+252950##Recommended

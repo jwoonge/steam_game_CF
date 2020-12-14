@@ -1,0 +1,21 @@
+@@GAME
+570##Dota 2##39068
+730##Counter-Strike: Global Offensive##32709
+306130##The Elder Scrolls Online##29166
+755790##Ring of Elysium##25670
+581320##Insurgency: Sandstorm##23366
+10##Counter-Strike##22957
+1046930##Dota Underlords##22337
+70##Half-Life##21622
+761890##Albion Online##20610
+4000##Garry's Mod##18062
+967250##DOKA 2 KISHKI EDITION##4917
+50##Half-Life: Opposing Force##1531
+30##Day of Defeat##1448
+20##Team Fortress Classic##1430
+40##Deathmatch Classic##1227
+130##Half-Life: Blue Shift##654
+60##Ricochet##457
+@@REVIEW
+1046930##Recommended
+730##Not Recommended

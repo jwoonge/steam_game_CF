@@ -1,0 +1,94 @@
+@@GAME
+440##Team Fortress 2##284536
+550##Left 4 Dead 2##84280
+72850##The Elder Scrolls V: Skyrim##13945
+8930##Sid Meier's Civilization V##10732
+255710##Cities: Skylines##9675
+812140##Assassin's Creed Odyssey##8754
+242050##Assassin's Creed IV Black Flag##7846
+220200##Kerbal Space Program##7287
+582160##Assassin's Creed Origins##6068
+292030##The Witcher 3: Wild Hunt##5426
+250820##SteamVR##5175
+203770##Crusader Kings II##4404
+24980##Mass Effect 2##4259
+1174180##Red Dead Redemption 2##3765
+241930##Middle-earth™: Shadow of Mordor™##3631
+234140##Mad Max##3389
+271590##Grand Theft Auto V##3258
+28050##Deus Ex: Human Revolution##2238
+220##Half-Life 2##2197
+17460##Mass Effect##2120
+220240##Far Cry® 3##2005
+270880##American Truck Simulator##1994
+208480##Assassin's Creed® III##1975
+730##Counter-Strike: Global Offensive##1822
+319630##Life is Strange™##1288
+203160##Tomb Raider##1238
+493340##Planet Coaster##1237
+460920##Steep##1103
+420##Half-Life 2: Episode Two##1095
+382110##Virtual Desktop##928
+50300##Spec Ops: The Line##844
+337000##Deus Ex: Mankind Divided™##838
+245620##Tropico 5##831
+546560##Half-Life: Alyx##748
+500##Left 4 Dead##745
+8870##BioShock Infinite##733
+201810##Wolfenstein: The New Order##591
+380##Half-Life 2: Episode One##566
+620##Portal 2##498
+976730##Halo: The Master Chief Collection##477
+10180##Call of Duty: Modern Warfare 2##452
+12210##Grand Theft Auto IV: The Complete Edition##440
+209540##Strike Suit Zero##425
+1091500##Cyberpunk 2077##389
+611670##The Elder Scrolls V: Skyrim VR##387
+383870##Firewatch##329
+91310##Dead Island##280
+1172380##STAR WARS Jedi: Fallen Order™ ##253
+617830##SUPERHOT VR##237
+264710##Subnautica##164
+359320##Elite Dangerous##136
+17470##Dead Space##113
+47890##The Sims(TM) 3##106
+823500##BONEWORKS##106
+22300##Fallout 3##79
+400##Portal##62
+10##Counter-Strike##60
+43160##Metro: Last Light##54
+916840##The Walking Dead: Saints & Sinners##46
+798810##Natural Locomotion##38
+378860##Project CARS 2##36
+431960##Wallpaper Engine##32
+782330##DOOM Eternal##29
+57300##Amnesia: The Dark Descent##25
+450390##The Lab##19
+348250##Google Earth VR##16
+224260##No More Room in Hell##10
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##7
+787790##Epic Roller Coasters##5
+721090##SKYBOX VR Video Player##3
+130##Half-Life: Blue Shift##1
+80##Counter-Strike: Condition Zero##1
+365720##Skyrim Script Extender (SKSE)##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+214950##Total War: ROME II - Emperor Edition##0
+230840##Daylight##0
+363970##Clicker Heroes##0
+911400##Assassin's Creed III Remastered##0
+@@REVIEW

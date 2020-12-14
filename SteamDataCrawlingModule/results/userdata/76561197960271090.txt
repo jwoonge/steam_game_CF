@@ -1,0 +1,67 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+300##Day of Defeat: Source##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+2630##Call of Duty 2##0
+3970##Prey##0
+10000##Enemy Territory: Quake Wars##0
+420##Half-Life 2: Episode Two##0
+7940##Call of Duty 4: Modern Warfare##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+13230##Unreal Tournament 2004##0
+15260##Chessmaster: Grandmaster Edition##0
+500##Left 4 Dead##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+24860##Battlefield 2##0
+550##Left 4 Dead 2##0
+730##Counter-Strike: Global Offensive##0
+109600##Neverwinter##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+273110##Counter-Strike Nexon: Studio##0
+282440##Quake Live##0
+291480##Warface##0
+227940##Heroes & Generals##0
+323370##TERA##0
+342200##MechWarrior Online##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+530700##Argo##0
+550650##Black Squad##0
+677620##Splitgate: Arena Warfare##0
+743090##Defiance 2050##0
+755790##Ring of Elysium##0
+767560##War Robots##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+884660##CRSED##0
+611500##Quake Champions##0
+1085660##Destiny 2##0
+1286830##STAR WARS™: The Old Republic™##0
+@@REVIEW

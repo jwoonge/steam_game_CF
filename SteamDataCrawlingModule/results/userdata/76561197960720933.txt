@@ -1,0 +1,33 @@
+@@GAME
+730##Counter-Strike: Global Offensive##194601
+252490##Rust##3073
+10##Counter-Strike##657
+368070##Sniper Ghost Warrior 3##655
+239140##Dying Light##649
+714210##Zula Online##617
+227300##Euro Truck Simulator 2##561
+310560##DiRT Rally##221
+307780##Mortal Kombat X##219
+44350##GRID 2##192
+448780##Sixtieth Kilometer##191
+533300##Zup!##185
+242760##The Forest##164
+615610##Orbt XL##131
+632200##Kuro survival##131
+431960##Wallpaper Engine##53
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+552990##World of Warships##0
+444200##World of Tanks Blitz##0
+700580##Rust - Staging Branch##0
+231430##Company of Heroes 2##0
+1284410##GWENT: The Witcher Card Game##0
+@@REVIEW
+730##Recommended

@@ -1,0 +1,255 @@
+@@GAME
+244850##Space Engineers##23630
+219640##Chivalry: Medieval Warfare##13893
+294100##RimWorld##12087
+105600##Terraria##10873
+252490##Rust##10483
+346110##ARK: Survival Evolved##8150
+240##Counter-Strike: Source##7316
+359320##Elite Dangerous##7270
+251570##7 Days to Die##6124
+236390##War Thunder##6011
+427520##Factorio##5890
+227940##Heroes & Generals##5756
+234650##Shadowrun Returns##5636
+730##Counter-Strike: Global Offensive##5493
+221100##DayZ##5052
+322330##Don't Starve Together##5030
+582010##Monster Hunter: World##3838
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##3810
+211820##Starbound##3584
+288120##Dungeonmans##3368
+239070##Hammerwatch##2807
+108600##Project Zomboid##2644
+383120##Empyrion - Galactic Survival##2488
+212680##FTL: Faster Than Light##2354
+677120##Heroes of Hammerwatch##2277
+1085660##Destiny 2##2197
+315460##Dig or Die##2087
+570##Dota 2##2051
+200710##Torchlight II##2000
+267750##Shadowrun Chronicles - Boston Lockdown##1977
+371660##Far Cry Primal##1968
+333950##Medieval Engineers##1928
+207140##SpeedRunners##1908
+233450##Prison Architect##1786
+269770##Secrets of Grindea##1682
+648800##Raft##1678
+269210##Hero Siege##1542
+219740##Don't Starve##1525
+258970##Gauntlet™ ##1439
+305620##The Long Dark##1299
+397540##Borderlands 3##1237
+49520##Borderlands 2##1147
+328080##Rise to Ruins##1080
+582660##Black Desert Online##1080
+325600##Sword Coast Legends##1078
+107410##Arma 3##1047
+249650##Blackguards##1034
+261760##Lichdom: Battlemage##1013
+979110##Space Haven##947
+747200##Keplerth##922
+250400##How to Survive##913
+264200##One Finger Death Punch##862
+255710##Cities: Skylines##849
+224540##Ace of Spades##810
+321800##Icewind Dale: Enhanced Edition##791
+32370##STAR WARS™: Knights of the Old Republic™##765
+9900##Star Trek Online##740
+242760##The Forest##728
+361420##ASTRONEER##713
+550##Left 4 Dead 2##613
+238240##Edge of Space##597
+35000##Mini Ninjas##583
+829590##CryoFall##543
+813780##Age of Empires II: Definitive Edition##519
+271240##Offworld Trading Company##505
+219150##Hotline Miami##491
+625960##Stoneshard##470
+396480##Battlevoid: Harbinger##449
+563560##Alien Swarm: Reactive Drop##433
+200170##Worms Revolution##432
+272620##Serious Sam's Bogus Detour##414
+241540##State of Decay##409
+48240##Anno 2070##407
+222880##Insurgency##388
+46570##Grotesque Tactics 2 - Dungeons and Donuts##385
+39140##FINAL FANTASY VII##368
+382140##SKYHILL##362
+252350##Double Dragon Neon##361
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##356
+356040##Sheltered##354
+227680##StarForge##341
+33930##Arma 2: Operation Arrowhead##330
+581320##Insurgency: Sandstorm##312
+274190##Broforce##274
+512900##Streets of Rogue##240
+233250##Planetary Annihilation##231
+33910##Arma 2##218
+314810##Randal's Monday##218
+233980##Unepic##216
+230190##War for the Overworld##216
+280520##Crea##211
+1404210##Red Dead Online##194
+45760##Ultra Street Fighter IV##189
+280##Half-Life: Source##186
+226860##Galactic Civilizations III##186
+305050##Outland##185
+108710##Alan Wake##173
+300##Day of Defeat: Source##156
+230410##Warframe##153
+374320##DARK SOULS™ III##152
+280790##Creativerse##152
+568570##Force of Nature##144
+228560##Teenage Mutant Ninja Turtles: Out of the Shadows##143
+248820##Risk of Rain##140
+236090##Dust: An Elysian Tail##133
+292910##Deponia: The Complete Journey##129
+314830##Blackguards 2##113
+564050##Bud Spencer & Terence Hill - Slaps And Beans##112
+215530##The Incredible Adventures of Van Helsing##111
+588430##Fallout Shelter##110
+619780##The Swords of Ditto: Mormo's Curse##105
+209730##RAW - Realms of Ancient War##104
+813820##Realm Royale##104
+507490##Ashes of the Singularity: Escalation##103
+375230##Warhammer 40,000: Eternal Crusade##99
+386360##SMITE##96
+220##Half-Life 2##95
+298890##Adventure Time: The Secret Of The Nameless Kingdom##95
+212070##Star Conflict##92
+611500##Quake Champions##91
+274290##Gods Will Be Watching##89
+674940##Stick Fight: The Game##89
+41070##Serious Sam 3: BFE##88
+364470##The Elder Scrolls: Legends##86
+211400##Deadlight##84
+236110##Dungeon Defenders II##80
+440##Team Fortress 2##80
+365160##Kona##78
+273110##Counter-Strike Nexon: Studio##72
+314150##Double Dragon Trilogy##72
+339280##Strife##71
+292930##Black Mirror I##70
+219910##Edna & Harvey: Harvey's New Eyes##68
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##67
+32470##STAR WARS™ Empire at War: Gold Pack##67
+283640##Salt and Sanctuary##67
+311700##BloodRealm: Battlegrounds##67
+339190##Dead Synchronicity: Tomorrow Comes Today##66
+360170##How to Survive 2##62
+419480##Starpoint Gemini Warlords##57
+238960##Path of Exile##53
+233290##MURDERED: SOUL SUSPECT™##53
+237950##UFO: Afterlight##50
+8500##EVE Online##49
+305640##Shattered Planet##48
+340##Half-Life 2: Lost Coast##47
+366910##The Long Journey Home##47
+226840##Age of Wonders III##47
+274230##RONIN##46
+317250##Airscape: The Fall of Gravity##42
+678800##SAS: Zombie Assault 4##42
+203160##Tomb Raider##41
+32500##STAR WARS™: The Force Unleashed™ II##36
+233130##Shadow Warrior##35
+578850##64.0##33
+65730##Take On Helicopters##32
+214150##Galactic Civilizations I: Ultimate Edition##31
+274270##NOT A HERO##30
+564310##Serious Sam Fusion 2017 (beta)##29
+32350##STAR WARS™ Starfighter™##28
+433950##Bit Blaster XL##26
+203830##The Dark Eye: Chains of Satinav##25
+530700##Argo##25
+225080##Brothers - A Tale of Two Sons##24
+600750##Star Trek Timelines##24
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##22
+32400##STAR WARS™: Dark Forces##20
+755790##Ring of Elysium##19
+224580##Arma 2: DayZ Mod##17
+204880##Sins of a Solar Empire: Rebellion##16
+255070##Abyss Odyssey##16
+961440##Resident Evil 2 "1-Shot Demo"##16
+586880##Mini Ghost##15
+593880##Street Fighter V NEW CFN Beta##15
+281920##Splatter - Zombiecalypse Now##14
+304930##Unturned##14
+24240##PAYDAY: The Heist##12
+238280##Legend of Dungeon##11
+65740##Carrier Command: Gaea Mission##10
+41010##Serious Sam HD: The Second Encounter##10
+201480##Serious Sam: The Random Encounter##10
+32380##STAR WARS™ Jedi Knight: Dark Forces II##10
+255520##Viscera Cleanup Detail: Shadow Warrior##10
+291550##Brawlhalla##10
+6000##STAR WARS™ Republic Commando##7
+229810##A Fistful of Gun##7
+373180##Kung Fury: Street Rage##7
+6060##Star Wars: Battlefront 2 (Classic, 2005)##5
+358480##DarkBase 01##5
+327220##Anna's Quest##5
+444930##Zaccaria Pinball##5
+431930##Kabounce##5
+1128000##Cube World##4
+111600##Serious Sam Double D XXL##2
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##1
+32420##STAR WARS™: The Clone Wars - Republic Heroes™##1
+300550##Shadowrun: Dragonfall - Director's Cut##1
+384570##ZanZarah: The Hidden Portal##1
+1284410##GWENT: The Witcher Card Game##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+2590##Alpha Prime##0
+420##Half-Life 2: Episode Two##0
+17450##Dragon Age: Origins##0
+24980##Mass Effect 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+78000##Bejeweled 3##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+205790##Dota 2 Test##0
+41000##Serious Sam HD: The First Encounter##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+204340##Serious Sam 2##0
+227780##Serious Sam Classics: Revolution##0
+51100##Tactical Intervention##0
+241640##Haunted Memories##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+700580##Rust - Staging Branch##0
+224860##Arma Tactics##0
+367540##Starbound - Unstable##0
+65780##Arma: Gold Edition##0
+274350##Dropsy##0
+278360##A Story About My Uncle##0
+310380##Fractured Space##0
+291480##Warface##0
+349110##Medieval Engineers - Mod SDK##0
+919670##Medieval Engineers - Remote Client##0
+407530##ARK: Survival Of The Fittest##0
+47780##Dead Space 2##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+385510##Hero Siege - Wrath of Mevius##0
+858460##SMITE - Public Test##0
+255300##Journey of a Roach##0
+260160##The Last Tinker: City of Colors##0
+265330##Gomo##0
+281750##Munin##0
+323720##Decay - The Mare##0
+351860##Cultures - Northland##0
+351870##Cultures - 8th Wonder of the World##0
+878760##Realm Royale - Test Server##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+1368440##Armor Of Heroes##0
+1368450##Endless Zone##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW

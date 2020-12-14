@@ -1,0 +1,19 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+203160##Tomb Raider##0
+730##Counter-Strike: Global Offensive##0
+795630##Movavi Video Suite 17##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+884660##CRSED##0
+@@REVIEW
+730##Recommended

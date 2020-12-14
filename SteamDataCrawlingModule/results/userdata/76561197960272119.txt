@@ -1,0 +1,54 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+13240##Unreal Tournament: Game of the Year Edition##0
+34900##Bad Rats##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+96100##Defy Gravity##0
+730##Counter-Strike: Global Offensive##0
+204360##Castle Crashers##0
+233450##Prison Architect##0
+238170##Afterfall InSanity - Dirty Arena Edition##0
+244850##Space Engineers##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+107410##Arma 3##0
+271590##Grand Theft Auto V##0
+281370##Real Horror Stories Ultimate Edition##0
+293180##Overcast - Walden and the Werewolf##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+209650##Call of Duty: Advanced Warfare##0
+209660##Call of Duty: Advanced Warfare - Multiplayer##0
+301480##GEARCRACK Arena##0
+303390##Dead Bits##0
+307880##Savage Lands##0
+315260##Space Hack##0
+323060##Tharsis##0
+250900##The Binding of Isaac: Rebirth##0
+500##Left 4 Dead##0
+273350##Evolve Stage 2##0
+343710##KHOLAT##0
+346010##Besiege##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+275100##Shelter 2##0
+431960##Wallpaper Engine##0
+437220##The Culling##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+466240##Deceit##0
+739630##Phasmophobia##0
+755790##Ring of Elysium##0
+611500##Quake Champions##0
+945360##Among Us##0
+787860##Farming Simulator 19##0
+@@REVIEW
+730##Recommended

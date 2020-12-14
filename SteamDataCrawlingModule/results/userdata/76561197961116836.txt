@@ -1,0 +1,137 @@
+@@GAME
+4000##Garry's Mod##39044
+570##Dota 2##35980
+730##Counter-Strike: Global Offensive##10619
+394360##Hearts of Iron IV##7683
+227300##Euro Truck Simulator 2##6927
+22490##Fallout: New Vegas RU##6548
+8930##Sid Meier's Civilization V##5351
+271590##Grand Theft Auto V##4601
+377160##Fallout 4##2930
+38410##Fallout 2##2300
+110800##L.A. Noire##1732
+107410##Arma 3##1057
+218620##PAYDAY 2##1016
+431960##Wallpaper Engine##956
+641990##The Escapists 2##848
+105600##Terraria##833
+393380##Squad##715
+38400##Fallout##655
+255710##Cities: Skylines##650
+35450##Rising Storm/Red Orchestra 2 Multiplayer##580
+761620##Beholder 2##577
+361300##Mother Russia Bleeds##530
+236850##Europa Universalis IV##453
+312530##Duck Game##384
+740200##The Mercury Man##354
+10##Counter-Strike##343
+244450##Men of War: Assault Squad 2##343
+220##Half-Life 2##310
+1840##Source Filmmaker##308
+218230##PlanetSide 2##223
+555570##Infestation: The New Z##208
+365670##Blender##162
+374030##Virginia##155
+251570##7 Days to Die##154
+33910##Arma 2##137
+40100##Supreme Commander 2##122
+331470##Everlasting Summer##122
+2290##Final DOOM##111
+1085660##Destiny 2##104
+233450##Prison Architect##102
+17520##Synergy##97
+588430##Fallout Shelter##94
+444090##Paladins##92
+50##Half-Life: Opposing Force##90
+244850##Space Engineers##85
+130##Half-Life: Blue Shift##73
+70##Half-Life##68
+557780##Atom Fishing II##51
+32470##STAR WARS™ Empire at War: Gold Pack##50
+240##Counter-Strike: Source##49
+340##Half-Life 2: Lost Coast##48
+562010##Tanki Online##42
+375950##Viridi##33
+945360##Among Us##23
+39000##Moonbase Alpha##22
+417860##Emily is Away##20
+438100##VRChat##19
+485390##Machine Made: Rebirth##12
+30##Day of Defeat##11
+1200##Red Orchestra: Ostfront 41-45##10
+441870##OutDrive##10
+346940##Shadowrun: Hong Kong - Extended Edition##7
+322330##Don't Starve Together##7
+557400##Midas Gold Plus##4
+578310##BRAIN / OUT##4
+22300##Fallout 3##2
+60##Ricochet##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+320##Half-Life 2: Deathmatch##0
+1230##Mare Nostrum##0
+1280##Darkest Hour: Europe '44-'45##0
+67370##The Darkness II##0
+6370##Bloodline Champions##0
+11610##Dragon Nest##0
+13140##America's Army 3##0
+17080##Tribes: Ascend##0
+36620##Forsaken World ##0
+36630##Rusty Hearts##0
+38830##CrimeCraft GangWars##0
+47410##Stronghold Kingdoms##0
+51100##Tactical Intervention##0
+55130##HOMEFRONT Demo##0
+99900##Spiral Knights##0
+99910##Puzzle Pirates##0
+102700##A.V.A. Alliance of Valiant Arms™##0
+104700##Super Monday Night Combat##0
+105430##Age of Empires Online##0
+106010##Pandora Saga: Weapons of Balance##0
+107900##War Inc. Battlezone##0
+108210##Memoir '44 Online##0
+109410##Brawl Busters##0
+109600##Neverwinter##0
+113400##APB Reloaded##0
+113420##Fallen Earth##0
+113900##World of Battles##0
+200210##Realm of the Mad God Exalt##0
+201190##Magic: The Gathering – Tactics##0
+201210##Pox Nora##0
+201230##EverQuest II##0
+203290##America's Army: Proving Grounds##0
+205710##EverQuest Free-to-Play##0
+206210##Gotham City Impostors: Free To Play##0
+207230##Archeblade##0
+208030##Moon Breakers##0
+208090##Loadout##0
+209710##War of the Immortals##0
+211500##RaceRoom Racing Experience ##0
+211880##Bullet Run##0
+212070##Star Conflict##0
+212200##Mabinogi##0
+212220##Dungeon Fighter Online##0
+212240##Atlantica Online##0
+212370##Arctic Combat##0
+212390##C9##0
+212500##The Lord of the Rings Online™##0
+212800##Super Crate Box##0
+213650##Dwarfs F2P##0
+215120##ROSE Online##0
+215870##Dungeon Party##0
+218130##Dungeonland##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+380600##Fishing Planet##0
+596350##Paladins - Public Test##0
+475550##Beholder##0
+375230##Warhammer 40,000: Eternal Crusade##0
+774941##Squad - Public Testing##0
+611500##Quake Champions##0
+203770##Crusader Kings II##0
+@@REVIEW
+22490##Recommended
+236850##Recommended
+38410##Recommended
+377160##Recommended
+361300##Recommended

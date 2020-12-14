@@ -1,0 +1,181 @@
+@@GAME
+730##Counter-Strike: Global Offensive##22559
+1100600##Football Manager 2020##11175
+292030##The Witcher 3: Wild Hunt##379
+10##Counter-Strike##188
+108800##Crysis 2 Maximum Edition##143
+10540##Football Manager 2009##132
+32370##STAR WARS™: Knights of the Old Republic™##71
+35140##Batman: Arkham Asylum GOTY Edition##38
+550##Left 4 Dead 2##28
+227260##DisplayFusion##12
+223850##3DMark##11
+6800##Commandos: Behind Enemy Lines##10
+268850##EVGA Precision X1##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+320##Half-Life 2: Deathmatch##0
+380##Half-Life 2: Episode One##0
+3920##Sid Meier's Pirates!##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+20900##The Witcher: Enhanced Edition##0
+6810##Commandos: Beyond the Call of Duty##0
+6830##Commandos 2: Men of Courage##0
+6840##Commandos 3: Destination Berlin##0
+41500##Torchlight##0
+17410##Mirror's Edge##0
+8930##Sid Meier's Civilization V##0
+50300##Spec Ops: The Line##0
+21100##F.E.A.R. 3##0
+55100##Homefront##0
+620##Portal 2##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+7600##Sid Meier's Railroads!##0
+7760##X-COM: UFO Defense##0
+21090##F.E.A.R.##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+16450##F.E.A.R. 2: Project Origin##0
+55150##Warhammer 40,000: Space Marine##0
+32800##The Lord of the Rings: War in the North##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+67370##The Darkness II##0
+48000##LIMBO##0
+207650##A Virus Named TOM##0
+201700##DiRT Showdown##0
+207610##The Walking Dead##0
+205350##Mortal Kombat Kollection##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+200260##Batman: Arkham City GOTY##0
+212680##FTL: Faster Than Light##0
+107100##Bastion##0
+12750##GRID##0
+214150##Galactic Civilizations I: Ultimate Edition##0
+209080##Guns of Icarus Online##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+215510##Rocketbirds: Hardboiled Chicken##0
+214560##Mark of the Ninja##0
+49520##Borderlands 2##0
+218680##Scribblenauts Unlimited##0
+57690##Tropico 4##0
+214510##LEGO® The Lord of the Rings™##0
+35720##Trine 2##0
+225260##Brütal Legend##0
+44350##GRID 2##0
+210770##Sanctum 2##0
+3910##Sid Meier's Civilization III: Complete##0
+224760##FEZ##0
+234650##Shadowrun Returns##0
+65930##The Bureau: XCOM Declassified##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+242820##140##0
+244070##Sid Meier's Ace Patrol##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+214550##Eets Munchies##0
+111900##Guardians of Middle-earth##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+261110##Killer is Dead##0
+262280##Dungeons 2##0
+226840##Age of Wonders III##0
+268870##Satellite Reign##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+285160##LEGO® The Hobbit™##0
+286570##F1 2015##0
+292910##Deponia: The Complete Journey##0
+310560##DiRT Rally##0
+265590##The Red Solstice##0
+203160##Tomb Raider##0
+321040##DiRT 3 Complete Edition##0
+238320##Outlast##0
+261640##Borderlands: The Pre-Sequel##0
+15700##Oddworld: Abe's Oddysee##0
+391720##Layers of Fear##0
+365450##Hacknet##0
+431960##Wallpaper Engine##0
+391220##Rise of the Tomb Raider##0
+491950##Orwell##0
+510620##THOTH##0
+489520##Minion Masters##0
+544330##Snake Pass##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+600420##Mob Rule Classic##0
+9480##Saints Row 2##0
+236150##Starpoint Gemini 2##0
+218620##PAYDAY 2##0
+38400##Fallout##0
+231430##Company of Heroes 2##0
+712100##Total War Saga: Thrones of Britannia##0
+797410##Headsnatchers##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+203770##Crusader Kings II##0
+232050##Eador. Masters of the Broken World##0
+13250##Unreal Gold##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+437220##The Culling##0
+43110##Metro 2033##0
+638070##Murderous Pursuits##0
+826600##I’m not a Monster##0
+1048540##Kao the Kangaroo: Round 2##0
+684680##Polygoneer##0
+1085660##Destiny 2##0
+431930##Kabounce##0
+1100620##Football Manager 2020 Touch##0
+406970##The Uncertain: Last Quiet Day##0
+555000##GOAT OF DUTY##0
+760620##Deiland##0
+442070##Drawful 2##0
+289690##Lara Croft and the Temple of Osiris##0
+588210##HELLION##0
+814200##Simple Story - Alex##0
+628950##Nephise Begins##0
+702150##Project Mercury##0
+335190##200% Mixed Juice!##0
+390710##Acceleration of SUGURI 2##0
+282800##100% Orange Juice##0
+420740##The Deed##0
+618140##Barro##0
+350300##Gang of Four##0
+442120##Pinball FX3##0
+680360##Regions Of Ruin##0
+368180##Polyball##0
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##0
+34330##Total War: SHOGUN 2##0
+209630##Magrunner: Dark Pulse##0
+@@REVIEW
+1100600##Recommended
+730##Recommended

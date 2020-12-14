@@ -1,0 +1,165 @@
+@@GAME
+570##Dota 2##249775
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##169965
+730##Counter-Strike: Global Offensive##108592
+15170##Heroes of Might & Magic V##4713
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##2090
+48220##Might & Magic: Heroes VI##1703
+39800##Nation Red##1552
+550##Left 4 Dead 2##1259
+27940##Dead Horde##1134
+221380##Age of Empires II (2013)##1073
+10##Counter-Strike##1065
+47890##The Sims(TM) 3##1060
+42910##Magicka##923
+252490##Rust##906
+500##Left 4 Dead##895
+21690##Resident Evil 5##862
+204100##Max Payne 3##850
+65800##Dungeon Defenders##770
+755790##Ring of Elysium##544
+91310##Dead Island##496
+813780##Age of Empires II: Definitive Edition##449
+55230##Saints Row: The Third##442
+10180##Call of Duty: Modern Warfare 2##420
+356570##Party Hard##390
+552520##Far Cry 5##346
+261550##Mount & Blade II: Bannerlord##313
+1091500##Cyberpunk 2077##311
+35700##Trine##305
+220##Half-Life 2##295
+48000##LIMBO##283
+48700##Mount & Blade: Warband##267
+24960##Battlefield: Bad Company™ 2##222
+235540##Warhammer: End Times - Vermintide##220
+49520##Borderlands 2##204
+359550##Tom Clancy's Rainbow Six Siege##198
+30##Day of Defeat##185
+228380##Wreckfest##173
+9900##Star Trek Online##145
+813820##Realm Royale##144
+1222730##STAR WARS™: Squadrons##134
+95300##Capsized##126
+42140##Hamilton's Great Adventure##114
+400##Portal##106
+42120##Lead and Gold - Gangs of the Wild West##104
+21680##Bionic Commando Rearmed##103
+945360##Among Us##98
+12360##FlatOut: Ultimate Carnage##96
+221040##Resident Evil 6##87
+310380##Fractured Space##86
+250180##METAL SLUG 3##85
+218230##PlanetSide 2##84
+223470##POSTAL 2##83
+630##Alien Swarm##83
+265630##Fistful of Frags##81
+204360##Castle Crashers##75
+24980##Mass Effect 2##67
+200710##Torchlight II##66
+35140##Batman: Arkham Asylum GOTY Edition##66
+211160##Viking: Battle for Asgard##63
+22600##Worms Reloaded##61
+63380##Sniper Elite V2##61
+22380##Fallout: New Vegas##58
+312610##METAL SLUG X##57
+204300##Awesomenauts##52
+227940##Heroes & Generals##50
+555570##Infestation: The New Z##47
+12210##Grand Theft Auto IV: The Complete Edition##46
+611500##Quake Champions##40
+238960##Path of Exile##38
+433850##Z1 Battle Royale##36
+43110##Metro 2033##32
+16450##F.E.A.R. 2: Project Origin##31
+71340##Sonic Generations##31
+462780##Darksiders Warmastered Edition##25
+317360##Double Action: Boogaloo##23
+504370##Battlerite##23
+17410##Mirror's Edge##19
+558100##Art of War: Red Tides##19
+71250##Sonic Adventure DX##18
+212480##Sonic & All-Stars Racing Transformed Collection##18
+211820##Starbound##17
+71230##Crazy Taxi##16
+91330##Iron Front : Liberation 1944##15
+33930##Arma 2: Operation Arrowhead##13
+228200##Company of Heroes ##13
+407530##ARK: Survival Of The Fittest##13
+99300##Renegade Ops##10
+238070##Shadow Warrior Classic (1997)##9
+33900##Arma 2##8
+12120##Grand Theft Auto: San Andreas##7
+2310##Quake##6
+218680##Scribblenauts Unlimited##6
+71240##SEGA Bass Fishing##6
+280##Half-Life: Source##4
+10500##Total War: EMPIRE - Definitive Edition##4
+21670##Bionic Commando##4
+44350##GRID 2##4
+8930##Sid Meier's Civilization V##4
+323580##Jotun: Valhalla Edition##4
+7940##Call of Duty 4: Modern Warfare##2
+34270##SEGA Mega Drive & Genesis Classics##2
+225840##Sven Co-op##1
+485610##Ball 3D: Soccer Online##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+240##Counter-Strike: Source##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+18500##Defense Grid: The Awakening##0
+41500##Torchlight##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+21100##F.E.A.R. 3##0
+32800##The Lord of the Rings: War in the North##0
+205790##Dota 2 Test##0
+200260##Batman: Arkham City GOTY##0
+219950##NiGHTS into Dreams...##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+71260##Space Channel 5: Part 2##0
+205950##Jet Set Radio##0
+1083500##PlanetSide 2 - Test##0
+700580##Rust - Staging Branch##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+262280##Dungeons 2##0
+367540##Starbound - Unstable##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+231430##Company of Heroes 2##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+444200##World of Tanks Blitz##0
+550040##Steep Open Beta##0
+218620##PAYDAY 2##0
+427460##Battlerite Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+878760##Realm Royale - Test Server##0
+439700##H1Z1: Test Server##0
+1046930##Dota Underlords##0
+1085660##Destiny 2##0
+@@REVIEW
+578080##Recommended

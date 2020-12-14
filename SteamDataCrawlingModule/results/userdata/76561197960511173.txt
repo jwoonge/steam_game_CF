@@ -1,0 +1,70 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+300##Day of Defeat: Source##0
+7600##Sid Meier's Railroads!##0
+4560##Company of Heroes - Legacy Edition##0
+228200##Company of Heroes ##0
+9340##Company of Heroes: Opposing Fronts##0
+7940##Call of Duty 4: Modern Warfare##0
+20540##Company of Heroes: Tales of Valor##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+24960##Battlefield: Bad Company™ 2##0
+33900##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+42700##Call of Duty: Black Ops##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+105600##Terraria##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+48240##Anno 2070##0
+105450##Age of Empires® III (2007)##0
+200390##Oil Rush##0
+234310##March of War##0
+236390##War Thunder##0
+34870##Sniper Ghost Warrior 2##0
+233450##Prison Architect##0
+231430##Company of Heroes 2##0
+263280##Spintires®##0
+367690##Spintires® - Editor##0
+271590##Grand Theft Auto V##0
+228380##Wreckfest##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+273800##Forestry 2017 - The Simulation##0
+245620##Tropico 5##0
+301520##Robocraft##0
+227940##Heroes & Generals##0
+221380##Age of Empires II (2013)##0
+730##Counter-Strike: Global Offensive##0
+346010##Besiege##0
+255710##Cities: Skylines##0
+400080##Out of Space##0
+415200##Motorsport Manager##0
+375910##Anno 2205##0
+431240##Golf With Your Friends##0
+448510##Overcooked##0
+494840##UBOAT##0
+535930##Two Point Hospital##0
+544730##Catan Universe##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+589290##Holdfast: Nations At War##0
+645630##Car Mechanic Simulator 2018##0
+476600##Call of Duty: WWII##0
+476620##Call of Duty: WWII - Multiplayer##0
+675010##MudRunner##0
+787860##Farming Simulator 19##0
+1213210##Command & Conquer™ Remastered Collection##0
+1238810##Battlefield™ V##0
+@@REVIEW

@@ -1,0 +1,180 @@
+@@GAME
+230410##Warframe##148540
+218620##PAYDAY 2##30398
+227700##Firefall##27754
+250820##SteamVR##24325
+304390##For Honor##17613
+440##Team Fortress 2##15975
+49520##Borderlands 2##12148
+261640##Borderlands: The Pre-Sequel##9818
+224580##Arma 2: DayZ Mod##5645
+65800##Dungeon Defenders##5443
+33930##Arma 2: Operation Arrowhead##5103
+211820##Starbound##5035
+8980##Borderlands GOTY##4886
+105600##Terraria##4294
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##3690
+233250##Planetary Annihilation##3457
+20540##Company of Heroes: Tales of Valor##3450
+231430##Company of Heroes 2##2806
+342200##MechWarrior Online##2629
+201790##Orcs Must Die! 2##2617
+427520##Factorio##2528
+58520##Blood Bowl: Legendary Edition##2526
+214360##Tower Wars##2440
+208140##Endless Space##2201
+210770##Sanctum 2##2009
+221540##Defense Grid 2##1973
+221100##DayZ##1643
+620980##Beat Saber##1609
+377160##Fallout 4##1271
+236690##Blood Bowl 2##1032
+552500##Warhammer: Vermintide 2##985
+367450##Poly Bridge##849
+334920##Zero-K##772
+550##Left 4 Dead 2##700
+233110##Defense Technica##616
+42910##Magicka##577
+22350##BRINK##504
+346010##Besiege##491
+91310##Dead Island##483
+392110##Endless Space® 2 - Digital Deluxe Edition##443
+1250##Killing Floor##389
+601770##Sparc##374
+281990##Stellaris##335
+620##Portal 2##296
+63380##Sniper Elite V2##275
+218130##Dungeonland##270
+22000##World of Goo##267
+253650##Sparkle 2 Evo##245
+342180##Arizona Sunshine##237
+35450##Rising Storm/Red Orchestra 2 Multiplayer##212
+35480##Dwarfs!?##212
+611660##Fallout 4 VR##174
+646200##Dead Effect 2 VR##166
+205910##Tiny and Big: Grandpa's Leftovers##155
+380##Half-Life 2: Episode One##144
+219150##Hotline Miami##137
+262120##Toy Soldiers: Complete##128
+507490##Ashes of the Singularity: Escalation##106
+9340##Company of Heroes: Opposing Fronts##102
+55150##Warhammer 40,000: Space Marine##100
+107410##Arma 3##92
+450390##The Lab##90
+2210##Quake 4##89
+237870##Planet Explorers##86
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##85
+471710##Rec Room##77
+340##Half-Life 2: Lost Coast##76
+359320##Elite Dangerous##75
+684410##Bridge Constructor Portal##68
+10##Counter-Strike##67
+9180##Commander Keen Complete Pack##64
+778250##Battle of Kings VR##55
+22310##Rogue Warrior##53
+798810##Natural Locomotion##50
+24240##PAYDAY: The Heist##47
+617830##SUPERHOT VR##42
+320##Half-Life 2: Deathmatch##39
+388210##Day of the Tentacle Remastered##38
+468700##NVIDIA® VR Funhouse##36
+787790##Epic Roller Coasters##32
+374570##Kung Fury##31
+22380##Fallout: New Vegas##28
+418650##Space Pirate Trainer##27
+753900##End Space##27
+560640##The Cabin: VR Escape the Room##26
+611160##Karnage Chronicles##26
+38410##Fallout 2##24
+305050##Outland##22
+642000##Regenesis Arcade Lite##21
+396560##Front Defense##21
+2270##Wolfenstein 3D##20
+465240##Serious Sam VR: The Last Hope##20
+4560##Company of Heroes - Legacy Edition##19
+723610##Dream Golf VR##17
+270130##The Gallery - Episode 1: Call of the Starseed##16
+602480##Kartong##15
+446750##Portal Stories: VR##14
+22370##Fallout 3 - Game of the Year Edition##12
+348250##Google Earth VR##11
+589460##Covert Syndrome##7
+2320##Quake II##6
+512080##Fancy Skiing VR##6
+763430##Front Defense Heroes##6
+564310##Serious Sam Fusion 2017 (beta)##5
+2200##Quake III Arena##5
+35420##Killing Floor Mod: Defence Alliance 2##5
+566880##Henry The Hamster Handler VR##5
+2310##Quake##3
+513320##ALICE VR##3
+2290##Final DOOM##2
+9010##Return to Castle Wolfenstein##2
+20##Team Fortress Classic##1
+70##Half-Life##1
+228200##Company of Heroes ##1
+2350##Quake III: Team Arena##1
+251570##7 Days to Die##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+41010##Serious Sam HD: The Second Encounter##0
+729040##Borderlands GOTY Enhanced##0
+2280##The Ultimate DOOM##0
+2300##DOOM II: Hell on Earth##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2360##HeXen: Beyond Heretic##0
+2370##HeXen: Deathkings of the Dark Citadel##0
+2390##Heretic: Shadow of the Serpent Riders##0
+9000##Wolfenstein 3D: Spear of Destiny##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+9050##DOOM 3##0
+9060##HeXen II##0
+9070##DOOM 3: Resurrection of Evil##0
+9160##Master Levels for DOOM II##0
+22320##The Elder Scrolls III: Morrowind##0
+22330##The Elder Scrolls IV: Oblivion ##0
+22340##Call of Cthulhu: Dark Corners of the Earth##0
+22450##Hunted: The Demon's Forge##0
+107100##Bastion##0
+360##Half-Life Deathmatch: Source##0
+207610##The Walking Dead##0
+234740##Tower Wars Editor##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+1280##Darkest Hour: Europe '44-'45##0
+35460##The Ball##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+205790##Dota 2 Test##0
+33900##Arma 2##0
+65700##Arma 2: British Armed Forces##0
+65720##Arma 2: Private Military Company##0
+236730##Anomaly 2##0
+367540##Starbound - Unstable##0
+391220##Rise of the Tomb Raider##0
+602490##Blood Bowl: Death Zone##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+552440##The Talos Principle VR##0
+552450##Serious Sam VR: The First Encounter##0
+552460##Serious Sam VR: The Second Encounter##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+567670##Serious Sam 3 VR: BFE##0
+572660##Nick##0
+654310##For Honor - Public Test##0
+700170##Deserving Life##0
+704360##SACRALITH : The Archer`s Tale##0
+754010##Medicalholodeck##0
+34270##SEGA Mega Drive & Genesis Classics##0
+211160##Viking: Battle for Asgard##0
+203750##Binary Domain##0
+99300##Renegade Ops##0
+34010##Alpha Protocol##0
+209670##Cortex Command##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+620980##Recommended
+304390##Recommended

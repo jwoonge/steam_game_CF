@@ -1,0 +1,209 @@
+@@GAME
+427520##Factorio##24383
+8930##Sid Meier's Civilization V##12734
+22380##Fallout: New Vegas##11293
+255710##Cities: Skylines##9257
+413150##Stardew Valley##8884
+457140##Oxygen Not Included##7859
+271590##Grand Theft Auto V##6422
+294100##RimWorld##5432
+292030##The Witcher 3: Wild Hunt##4421
+22370##Fallout 3 - Game of the Year Edition##4355
+65980##Sid Meier's Civilization: Beyond Earth##2943
+598330##SimAirport##2680
+200510##XCOM: Enemy Unknown##2543
+289070##Sid Meier's Civilization VI##2437
+49520##Borderlands 2##2423
+404730##Wasteland 2: Director's Cut##2371
+1158310##Crusader Kings III##2207
+8980##Borderlands GOTY##2181
+24980##Mass Effect 2##2068
+8800##Sid Meier's Civilization IV: Beyond the Sword##2028
+12210##Grand Theft Auto IV: The Complete Edition##1727
+423580##Project Highrise##1679
+1213210##Command & Conquer™ Remastered Collection##1536
+552990##World of Warships##1409
+50130##Mafia II (Classic)##1301
+530070##Train Sim World® 2020##1295
+362960##Tyranny##1243
+2810##X3: Reunion##1242
+15210##Silent Hunter III##1242
+359320##Elite Dangerous##1147
+227300##Euro Truck Simulator 2##1095
+236850##Europa Universalis IV##1084
+220200##Kerbal Space Program##1028
+620##Portal 2##996
+300550##Shadowrun: Dragonfall - Director's Cut##927
+322330##Don't Starve Together##927
+234650##Shadowrun Returns##863
+203770##Crusader Kings II##859
+8870##BioShock Infinite##830
+239140##Dying Light##818
+220##Half-Life 2##806
+57690##Tropico 4##771
+313340##Mountain##731
+9450##Warhammer 40,000: Dawn of War - Soulstorm##654
+239030##Papers, Please##577
+245620##Tropico 5##566
+420##Half-Life 2: Episode Two##552
+225260##Brütal Legend##425
+383870##Firewatch##424
+12900##Audiosurf##417
+464920##Surviving Mars##411
+400##Portal##405
+491950##Orwell##401
+32360##The Secret of Monkey Island: Special Edition##399
+32370##STAR WARS™: Knights of the Old Republic™##356
+245470##Democracy 3##341
+305620##The Long Dark##336
+444200##World of Tanks Blitz##303
+13210##Unreal Tournament 3: Black Edition##280
+48110##Silent Hunter 5: Battle of the Atlantic##279
+228280##Baldur's Gate: Enhanced Edition##265
+41500##Torchlight##257
+31190##Tales of Monkey Island: Chapter 3 - Lair of the Leviathan ##252
+380##Half-Life 2: Episode One##245
+323190##Frostpunk##236
+31170##Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal##235
+377160##Fallout 4##227
+718670##Cultist Simulator##220
+535930##Two Point Hospital##214
+219740##Don't Starve##176
+287980##Mini Metro##164
+31180##Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay ##161
+15620##Warhammer 40,000: Dawn of War II##152
+262060##Darkest Dungeon®##146
+35510##Cities XL##143
+48700##Mount & Blade: Warband##143
+1520##DEFCON##141
+241930##Middle-earth™: Shadow of Mordor™##139
+200710##Torchlight II##133
+550##Left 4 Dead 2##128
+251060##Wargame: Red Dragon##122
+356040##Sheltered##106
+221910##The Stanley Parable##104
+404410##Endless Sky##99
+356570##Party Hard##98
+13230##Unreal Tournament 2004##93
+316790##Grim Fandango Remastered##88
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##87
+367450##Poly Bridge##83
+31200##Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood ##80
+599140##Graveyard Keeper##78
+257510##The Talos Principle##70
+1280##Darkest Hour: Europe '44-'45##65
+58610##Wargame: European Escalation##62
+275670##Space Run##61
+12150##Max Payne 2: The Fall of Max Payne##56
+1049410##Superliminal##55
+50300##Spec Ops: The Line##52
+220460##Cargo Commander##52
+223470##POSTAL 2##51
+346940##Shadowrun: Hong Kong - Extended Edition##48
+475550##Beholder##48
+3200##Painkiller: Gold Edition##47
+868360##Project Hospital##47
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##43
+699920##Despotism 3k##43
+240##Counter-Strike: Source##42
+4700##Total War: MEDIEVAL II - Definitive Edition##42
+307670##Hard West##40
+417860##Emily is Away##37
+379720##DOOM##34
+1200##Red Orchestra: Ostfront 41-45##29
+3700##Sniper Elite##28
+396750##EVERSPACE™##27
+9350##Supreme Commander##26
+38400##Fallout##24
+440##Team Fortress 2##24
+362890##Black Mesa##23
+47400##Stronghold 3##22
+494840##UBOAT##22
+236870##HITMAN™##21
+13240##Unreal Tournament: Game of the Year Edition##19
+265930##Goat Simulator##16
+434290##Typefighters (Steam Edition)##16
+3830##Psychonauts##11
+281990##Stellaris##11
+286690##Metro 2033 Redux##11
+365300##Transmissions: Element 120##10
+225420##Cities in Motion 2##8
+324070##iO##7
+12140##Max Payne##5
+7670##BioShock##4
+20##Team Fortress Classic##3
+298260##Only If##3
+331920##Airline Tycoon Deluxe##3
+55150##Warhammer 40,000: Space Marine##1
+17710##Nuclear Dawn##1
+236390##War Thunder##1
+242880##Sir, You Are Being Hunted##1
+533690##Think To Die##1
+10##Counter-Strike##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1230##Mare Nostrum##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+360##Half-Life Deathmatch: Source##0
+1600##Dangerous Waters##0
+2900##688(I) Hunter/Killer##0
+2910##Fleet Command##0
+2920##Sub Command##0
+3990##Sid Meier's Civilization IV: Warlords##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+9180##Commander Keen Complete Pack##0
+409710##BioShock Remastered##0
+13200##Unreal II: The Awakening##0
+13250##Unreal Gold##0
+17460##Mass Effect##0
+3720##Evil Genius##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+20900##The Witcher: Enhanced Edition##0
+31210##Tales of Monkey Island: Chapter 5 - Rise of the Pirate God##0
+1030830##Mafia II: Definitive Edition##0
+729040##Borderlands GOTY Enhanced##0
+93200##Revenge of the Titans##0
+9420##Supreme Commander: Forged Alliance##0
+203810##Dear Esther##0
+520720##Dear Esther: Landmark Edition##0
+110800##L.A. Noire##0
+204100##Max Payne 3##0
+208140##Endless Space##0
+244730##Divekick##0
+248410##Legends of Aethereus##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+257350##Baldur's Gate II: Enhanced Edition##0
+263080##Pixel Boy and the Ever Expanding Dungeon##0
+222880##Insurgency##0
+277510##Shiny The Firefly##0
+278640##Terrian Saga: KR-17##0
+293200##Sentinel##0
+287390##Metro: Last Light Redux##0
+222750##Wargame: AirLand Battle##0
+240760##Wasteland 2##0
+259130##Wasteland 1 - The Original Classic##0
+203160##Tomb Raider##0
+261640##Borderlands: The Pre-Sequel##0
+329640##Eradicator##0
+329650##NAM##0
+282070##This War of Mine##0
+334120##Armikrog##0
+443810##This Is the Police##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+323580##Jotun: Valhalla Edition##0
+1207650##Suzerain##0
+1238020##Mass Effect 3##0
+@@REVIEW
+383870##Recommended

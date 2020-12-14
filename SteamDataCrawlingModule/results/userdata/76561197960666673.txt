@@ -1,0 +1,68 @@
+@@GAME
+570##Dota 2##36435
+500##Left 4 Dead##16843
+550##Left 4 Dead 2##11072
+240##Counter-Strike: Source##7669
+440##Team Fortress 2##2698
+33900##Arma 2##2288
+250820##SteamVR##1458
+496240##Onward##836
+24960##Battlefield: Bad Company™ 2##683
+1097840##Gears 5##660
+412740##Audioshield##580
+471710##Rec Room##547
+333420##Cossacks 3##539
+333930##Dirty Bomb##410
+219640##Chivalry: Medieval Warfare##348
+380220##Hover Junkers##306
+620980##Beat Saber##292
+10##Counter-Strike##291
+617830##SUPERHOT VR##255
+243870##Tom Clancy's Ghost Recon Phantoms - NA##233
+450390##The Lab##211
+457550##Bigscreen Beta##207
+269170##SportsBar VR ##191
+436320##Raw Data##177
+268850##EVGA Precision X1##155
+457960##Holopoint##121
+2780##Arma: Combat Operations##116
+386360##SMITE##116
+438100##VRChat##106
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##94
+327140##Tilt Brush##93
+202090##Magicka: Wizard Wars##91
+339280##Strife##85
+291480##Warface##75
+386690##Fantastic Contraption##58
+107900##War Inc. Battlezone##43
+113200##The Binding of Isaac##40
+212070##Star Conflict##34
+448280##Job Simulator##32
+271290##HAWKEN##25
+468700##NVIDIA® VR Funhouse##23
+227940##Heroes & Generals##21
+266430##Anarchy Arcade##19
+768100##GizmoVR Video Player##18
+273350##Evolve Stage 2##17
+530350##Smashbox Arena##15
+730##Counter-Strike: Global Offensive##13
+353130##Time of Dragons##5
+458890##Within VR - Cinematic Virtual Reality##5
+355840##Survarium##4
+469650##Disney Movies VR##4
+212160##Vindictus##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+222900##Dead Island: Epidemic##0
+858460##SMITE - Public Test##0
+408650##ChromaGun##0
+1131720##Prop and Seek##0
+@@REVIEW
+496240##Not Recommended
+436320##Recommended
+380220##Not Recommended

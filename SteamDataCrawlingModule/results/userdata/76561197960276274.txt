@@ -1,0 +1,72 @@
+@@GAME
+730##Counter-Strike: Global Offensive##281089
+10##Counter-Strike##181274
+570##Dota 2##142542
+440##Team Fortress 2##73248
+282660##Easy eSports##15505
+70000##Dino D-Day##10946
+201570##Really Big Sky##8923
+253980##Enclave##8681
+91200##Anomaly Warzone Earth##6216
+239450##Gun Monkeys##5972
+359550##Tom Clancy's Rainbow Six Siege##4919
+214950##Total War: ROME II - Emperor Edition##3395
+261550##Mount & Blade II: Bannerlord##2950
+253900##Knights and Merchants##2073
+92800##SpaceChem##1891
+301520##Robocraft##1495
+532210##Life is Strange 2##1268
+845070##The Awesome Adventures of Captain Spirit##67
+407530##ARK: Survival Of The Fittest##30
+304930##Unturned##27
+588430##Fallout Shelter##24
+223650##F.E.A.R. Online##23
+413858##CS:GO Player Profiles: device - Team SoloMid##20
+273110##Counter-Strike Nexon: Studio##7
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##7
+51100##Tactical Intervention##6
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##6
+413856##CS:GO Player Profiles: Edward - Na'Vi##5
+413851##CS:GO Player Profiles: n0thing - Cloud9##4
+413855##CS:GO Player Profiles: kennyS - Team Envyus##4
+70##Half-Life##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+107400##Arma 2: Free##0
+254000##East India Company Gold##0
+266430##Anarchy Arcade##0
+290930##Half-Life 2: Update##0
+8600##RACE 07##0
+8660##GTR Evolution##0
+211500##RaceRoom Racing Experience ##0
+222900##Dead Island: Epidemic##0
+317410##Color Symphony##0
+205790##Dota 2 Test##0
+413850##CS:GO Player Profiles##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+1128810##RISK: Global Domination##0
+@@REVIEW
+261550##Recommended
+10##Recommended

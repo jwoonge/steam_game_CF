@@ -1,0 +1,51 @@
+@@GAME
+730##Counter-Strike: Global Offensive##28528
+10##Counter-Strike##26315
+570##Dota 2##25615
+444090##Paladins##3604
+630100##SoulWorker##2345
+268420##Aura Kingdom##1449
+300040##Divine Souls##1431
+109600##Neverwinter##1000
+304050##Trove##906
+397060##Faeria##696
+227300##Euro Truck Simulator 2##604
+230410##Warframe##483
+386360##SMITE##394
+238960##Path of Exile##371
+202090##Magicka: Wizard Wars##325
+291550##Brawlhalla##295
+215830##Closers##207
+372000##Tree of Savior (English Ver.)##180
+1046930##Dota Underlords##159
+339280##Strife##118
+380600##Fishing Planet##117
+504370##Battlerite##86
+43110##Metro 2033##75
+301520##Robocraft##67
+70##Half-Life##51
+253490##CABAL Online##42
+215080##WAKFU##41
+286940##S.K.I.L.L. - Special Force 2##21
+915580##Dungeon Hunter Champions##5
+465710##Heroes Tactics##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+212070##Star Conflict##0
+236390##War Thunder##0
+214420##Gear Up##0
+266150##Lost Saga North America##0
+282660##Easy eSports##0
+364110##Swordsman##0
+376570##WildStar##0
+858460##SMITE - Public Test##0
+596350##Paladins - Public Test##0
+427460##Battlerite Public Test##0
+638070##Murderous Pursuits##0
+@@REVIEW
+300040##Recommended

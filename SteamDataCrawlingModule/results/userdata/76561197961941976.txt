@@ -1,0 +1,455 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+34270##SEGA Mega Drive & Genesis Classics##0
+50300##Spec Ops: The Line##0
+63110##Alter Ego##0
+60350##Glowfish##0
+67370##The Darkness II##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+204440##Pickers##0
+205830##Luxor Evolved##0
+200260##Batman: Arkham City GOTY##0
+216930##Luxor Amun Rising HD##0
+208630##Midnight Mysteries 3: Devil on the Mississippi##0
+208620##Midnight Mysteries: Salem Witch Trials##0
+213610##Sonic Adventure™ 2 ##0
+223000##7 Wonders: Ancient Alien Makeover##0
+1900##Earth 2160##0
+215930##Jagged Alliance 2 - Wildfire ##0
+18480##Mata Hari##0
+113400##APB Reloaded##0
+200210##Realm of the Mad God Exalt##0
+212200##Mabinogi##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+236390##War Thunder##0
+238960##Path of Exile##0
+217750##Age of Conan: Unchained##0
+223750##DCS World Steam Edition##0
+224260##No More Room in Hell##0
+218700##Angelica Weaver: Catch Me When You Can - Collector’s Edition##0
+16020##Samantha Swift and the Hidden Roses of Athena##0
+16040##Luxor: Quest for the Afterlife##0
+16060##Samantha Swift and the Golden Touch##0
+32110##Luxor Mahjong##0
+32120##Chainz 2: Relinked##0
+113020##Monaco##0
+234350##Luxor 2 HD##0
+33910##Arma 2##0
+218620##PAYDAY 2##0
+247120##Portal 2 Sixense Perceptual Pack##0
+260270##Shadows: Price For Our Sins##0
+260410##Get Off My Lawn!##0
+61510##Age of Wonders 2: The Wizard's Throne##0
+260550##Haunted##0
+252150##Grimm##0
+266290##Helicopter Simulator 2014: Search and Rescue##0
+266940##Alex Hunter - Lord of the Mind##0
+226840##Age of Wonders III##0
+272060##Serena##0
+274980##Influent##0
+275810##7 Wonders of the Ancient World##0
+279420##Gardens Inc. – From Rakes to Riches##0
+286570##F1 2015##0
+271570##Space Farmers##0
+302110##Small Town Terrors Pilgrim's Hook Collector's Edition##0
+302120##House of 1000 Doors: The Palm of Zoroaster Collector's Edition##0
+304050##Trove##0
+302380##Floating Point##0
+308320##Total Pro Golf 3##0
+308330##Lost Chronicles of Zerzura##0
+310560##DiRT Rally##0
+9900##Star Trek Online##0
+91200##Anomaly Warzone Earth##0
+236730##Anomaly 2##0
+251530##Anomaly Korea##0
+252170##Anomaly Warzone Earth Mobile Campaign##0
+294750##Anomaly Defenders##0
+291480##Warface##0
+215080##WAKFU##0
+227940##Heroes & Generals##0
+320310##World Truck Racing##0
+320330##Earthworms##0
+320970##IGT Slots Paradise Garden##0
+312150##Wild Warfare##0
+322040##Cooking Academy Fire and Knives##0
+328870##Draft Day Sports Pro Basketball 4##0
+328880##Space Legends: At the Edge of the Universe##0
+331360##Heavy Metal Machines##0
+333930##Dirty Bomb##0
+334470##Adventures of Robinson Crusoe##0
+334480##Robinson Crusoe and the Cursed Pirates##0
+334490##The Fool##0
+334920##Zero-K##0
+339120##Fork Parker's Holiday Profit Hike##0
+319630##Life is Strange™##0
+343990##Anti-Opoly##0
+344030##Ghost Pirates of Vooju Island##0
+344790##Mystery Masters: Psycho Train Deluxe Edition##0
+344800##World of Mixed Martial Arts 3##0
+344810##Total Extreme Wrestling 2010##0
+346290##Penumbra: Necrologue##0
+347820##Street Arena##0
+356160##The Emptiness Deluxe Edition##0
+356880##Eron##0
+346270##Fortune's Tavern - The Fantasy Tavern Simulator!##0
+372260##Weird Park Trilogy##0
+377120##Chronicle Keepers: The Dreaming Garden##0
+379600##Diner Mania##0
+382490##Relic Hunters Zero##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+291550##Brawlhalla##0
+388160##Project Druid - 2D Labyrinth Explorer-##0
+395920##Playing History - The Plague##0
+397440##Lost Legends: The Weeping Woman Collector's Edition##0
+397840##Car Mechanic Manager##0
+398620##Living Legends: The Frozen Fear Collection##0
+398630##Twisted Lands Trilogy Collector's Edition##0
+402670##Space Thinger##0
+409160##Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist##0
+413460##Draft Day Sports College Basketball 3##0
+417860##Emily is Away##0
+418360##Gurgamoth##0
+422130##Comic Book Hero: The Greatest Cape##0
+422140##Wrestling Spirit 3##0
+429470##Space Pilgrim Episode I: Alpha Centauri##0
+429680##Spellweaver##0
+432760##Small Town Terrors: Galdor's Bluff Collector's Edition##0
+432770##Small Town Terrors: Livingston##0
+438100##VRChat##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+447270##IKEA VR Experience##0
+447570##Regeria Hope Episode 1##0
+450390##The Lab##0
+453480##Shadowverse##0
+468930##Phantaruk##0
+479130##ESEA##0
+442080##Riders of Icarus##0
+504990##VoxVR Viewer##0
+514920##Crash Wheels##0
+520380##Camper Jumper Simulator##0
+520910##Kokurase##0
+522210##Serial Cleaner##0
+523640##The Works of Mercy##0
+524030##Machine Learning: Episode I##0
+534600##Steam Dev Days##0
+534610##Steam Dev Days: Welcome Address##0
+534611##Steam Dev Days: Steam Machines in 2014 - Opening up the Living Room##0
+534612##Steam Dev Days: The Steam Controller##0
+534613##Steam Dev Days: In-Game Economies in Team Fortress 2 and Dota 2##0
+534614##Steam Dev Days: Embracing User Generated Content##0
+534615##Steam Dev Days: Getting Started with Linux Game Development##0
+534616##Steam Dev Days: Marketing Your Game##0
+534617##Steam Dev Days: Music in Valve Games and Media##0
+534618##Steam Dev Days: Moving Your Games to OpenGL##0
+534619##Steam Dev Days: Community and Communication in Games-As-Services##0
+534620##Steam Dev Days: United We Win##0
+534621##Steam Dev Days: Getting Started Debugging on Linux##0
+534622##Steam Dev Days: Optimizing Linux games for AMD Graphics using GPU PerfStudio2##0
+534623##Steam Dev Days: Data to Drive Decision-Making##0
+534624##Steam Dev Days: Is Early Access Right for You?##0
+534625##Steam Dev Days: Performance Tuning Applications for Intel GEN Graphics for Linux##0
+534626##Steam Dev Days: Steam Business Update##0
+534627##Steam Dev Days: Portal 2 and Team Fortress 2 Alternate Reality Games Q&A##0
+534628##Steam Dev Days: The Evolution of Gaming Hardware##0
+534629##Steam Dev Days: Steamworks Features - A Technical Overview##0
+534630##Steam Dev Days: Beyond Porting##0
+534631##Steam Dev Days: 100% Steam (Dovetail Games)##0
+534632##Steam Dev Days: Game Development with SDL 2.0##0
+534633##Steam Dev Days: What VR Could, Should, and Almost Certainly Will Be in 2 Years##0
+534634##Steam Dev Days: Porting Games to Virtual Reality##0
+534635##Steam Dev Days: Wild West of VR##0
+534636##Steam Dev Days: Virtual Reality and Steam##0
+550760##Steam Dev Days: Welcome##0
+550761##Steam Dev Days: Steam Business Update##0
+550762##Steam Dev Days: Philosophy of VR##0
+550763##Steam Dev Days: The Future of VR and Games##0
+550764##Steam Dev Days: Steam 101 - Getting Started with Marketing Features and Tools##0
+550765##Steam Dev Days: Steam Controller##0
+550766##Steam Dev Days: Steam 201 - Sound Advice from Successful Developers##0
+550767##Steam Dev Days: Your Game's Back-End Item APIs##0
+550768##Steam Dev Days: SteamVR Hardware##0
+550769##Steam Dev Days: Building Unity Games for SteamOS/Linux##0
+550770##Steam Dev Days: UGC and Workshop in ARK: Survival Evolved##0
+550771##Steam Dev Days: Video Content on Steam##0
+550772##Steam Dev Days: Game Server Hosting##0
+550773##Steam Dev Days: Games as a Service##0
+550774##Steam Dev Days: Unity Development for VR##0
+550775##Steam Dev Days: Developing The Lab##0
+550776##Steam Dev Days: The Psychology of Games##0
+550777##Steam Dev Days: Vulkan Graphics Panel##0
+550778##Steam Dev Days: Early Access##0
+550779##Steam Dev Days: Anti-Cheat for Multiplayer Games##0
+550780##Steam Dev Days: Delivering Great VR With Simple Graphics##0
+550781##Steam Dev Days: Healthy Publisher Relationships##0
+550782##Steam Dev Days: The Art of Communication: Decoding the Creative Relationship##0
+550783##Steam Dev Days: UE4 Development + Shipping an UE4 VR Game##0
+550784##Steam Dev Days: VR Developer Panel##0
+544330##Snake Pass##0
+550650##Black Squad##0
+551570##Sarab: Duji Tower##0
+552990##World of Warships##0
+507490##Ashes of the Singularity: Escalation##0
+557030##Avenger Bird##0
+8500##EVE Online##0
+302590##Of Guards And Thieves##0
+565020##Global Adventures##0
+208140##Endless Space##0
+582890##Estranged: The Departure##0
+351940##The Descendant##0
+596380##Coffee Crisis##0
+597210##Bayou Island - Point and Click Adventure##0
+610570##Paradox Soul##0
+615610##Orbt XL##0
+640310##Drive By Hero##0
+644890##DarkLast##0
+652660##ESport Manager##0
+654300##Darkest Hunters##0
+654980##Inferno Puzzle##0
+655120##Space Hero Line##0
+661000##Flow:The Sliding##0
+667420##Redium##0
+667530##Drunken Wrestlers 2##0
+670930##Escape Doodland##0
+304930##Unturned##0
+680620##Bouncy Bob##0
+685790##Ruthless Safari##0
+685990##Forgotten Land##0
+687480##Trivia Vault: Science & History Trivia##0
+687490##Trivia Vault: Super Heroes Trivia##0
+689180##Trivia Vault: 1980's Trivia##0
+689350##Ruin City Gasolina##0
+694490##Quad Hopping##0
+699550##Forest Guardian##0
+699760##Triple Otakus Puzzle##0
+705740##Car Demolition Clicker##0
+707680##Slapshot##0
+707870##Hoo-Boy##0
+708930##Dice 1000 online##0
+709700##The Thing: Space X##0
+709800##Hardcore ZBoy##0
+711770##Hotel Dracula##0
+713600##Airstrike One##0
+714620##Snakeez##0
+715980##Eared Hero##0
+732070##Lost in the tomb##0
+732090##Dragon Perception##0
+466240##Deceit##0
+740410##Puzzle Chambers##0
+743640##Achievement Clicker##0
+744550##Tactical Operations##0
+745670##3D Tower##0
+745740##Reflex##0
+751240##Fractured Lands##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+755790##Ring of Elysium##0
+756260##Kingdom Defense##0
+608990##The Archotek Project##0
+757240##Aimtastic##0
+758400##The Ultimate Heist##0
+760350##Star Sweet##0
+760510##Cat Burglar: A Tail of Purrsuit##0
+763360##Nice Way##0
+765100##Labirinto##0
+765620##Last Hope##0
+767170##Dolphins-Cyborgs and open space##0
+769030##Twine3D##0
+769440##Beach Restaurant##0
+773920##scram##0
+319830##AX:EL##0
+776080##Dodge##0
+778830##Knights of Hearts##0
+778850##Please close the doors##0
+781440##OH MY GOD, LOOK AT THIS KNIGHT##0
+781610##Night Fly##0
+781800##Walhall##0
+782100###CuteSnake##0
+785030##Little Adventurer III##0
+786750##Squares##0
+790230##Zombie Clicker Defense##0
+790930##Primitive Shooter##0
+791590##Psychiatrist Simulator##0
+791790##No safety##0
+793990##Dupio##0
+796320##Potatoe##0
+796510##Monkey Slap##0
+797060##Qubika##0
+797410##Headsnatchers##0
+800280##FLYVALNY 20!8##0
+801020##Golden Dungeons##0
+801060##ArcBall##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+803390##Thunderbolt##0
+804130##EXIST##0
+806140##Achievement printer##0
+806240##RollingBall##0
+637090##BATTLETECH##0
+806970##Loader##0
+810570##FACE##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+817760##The Castle Disaster##0
+818730##Tower climber##0
+818790##Stunt Hill##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+822070##SAS VS Zombies##0
+822150##WAY HOME##0
+822530##Pukan Bye Bye##0
+823040##Griefer##0
+823100##Peace Duke##0
+823180##Bubble Strike##0
+823650##Zombow##0
+825000##Temptation##0
+825610##Viking's drakkars##0
+827920##Bounce##0
+828150##WIN THE GAME!##0
+828230##Dungeons of the dead##0
+828440##The other side of the screen##0
+833390##En Tactico##0
+834180###CuteSnake 2##0
+834420##RollingBall: Unlimited World##0
+835860##Dreadnought##0
+836260##Call of Bitcoin##0
+837390##My zero trip##0
+24200##DC Universe Online##0
+838540##City Escaper##0
+838980##Eon Fleet##0
+839730##Planum##0
+839920##9 Balls##0
+840170##Delivery man simulator##0
+842290##ArcBall 2##0
+842520##Neon Void Runner##0
+842530##Police Patrol##0
+842590##Knight Fighter##0
+843890##WIN THE GAME: DO IT!##0
+844050##Desert Child##0
+845070##The Awesome Adventures of Captain Spirit##0
+845480##Kinaman vs Gray Elephant##0
+849420##Professor Madhouse##0
+851580##Planet Unknown Runner##0
+498850##Ortus Arena, online strategy board game##0
+855050##Thunderbolt 2##0
+856490##Falling words##0
+857010##HUBE: Seeker of Achievements##0
+857050##Casual Penalty##0
+857520##Degrees##0
+357370##Return NULL - Episode 1##0
+860440##Goat Life##0
+860910##Hentai 3018##0
+865310##Dubstep Abasralsa##0
+866520##Defense the Farm##0
+867140##WIN THE GAME: WTF!##0
+869760##Stoneshard: Prologue##0
+882150##Drone Strike Force##0
+884660##CRSED##0
+887060##Asterix & Obelix XXL 2##0
+714010##Aim Lab##0
+905370##Conqueror's Blade##0
+906200##Tunche: Arena##0
+769920##Odysseus Kosmos and his Robot Quest - Episode 1##0
+920490##Driver Booster for Steam##0
+927840##Clinically Dead##0
+934600##Mech Rage##0
+730##Counter-Strike: Global Offensive##0
+949060##Love Thyself - A Horatio Story##0
+893520##CreativeDestruction##0
+962430##Warface - Free Anniversary Pack##0
+969680##Steel Circus##0
+973000##Die Young: Prologue##0
+979810##Grave Keeper##0
+49520##Borderlands 2##0
+261640##Borderlands: The Pre-Sequel##0
+225540##Just Cause 3##0
+489520##Minion Masters##0
+728540##Islands of Nyne: Battle Royale##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+421650##Breach##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+271240##Offworld Trading Company##0
+1046930##Dota Underlords##0
+1064610##Neon Beats##0
+761890##Albion Online##0
+1078000##Gamecraft##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+987350##PlanetSide Arena##0
+684680##Polygoneer##0
+1104640##New Frontier##0
+431930##Kabounce##0
+987020##DRONE The Game##0
+1144170##Warhammer: Chaos & Conquest##0
+1128000##Cube World##0
+1085660##Destiny 2##0
+231430##Company of Heroes 2##0
+522040##Princess Remedy In A Heap of Trouble##0
+203770##Crusader Kings II##0
+279560##Dracula 4 and  5 - Special Steam Edition##0
+490860##DashBored##0
+1193570##Drawkanoid: Review Breaker##0
+220820##Zombie Driver HD##0
+555440##Deathgarden: BLOODHARVEST##0
+418270##Draw Slasher##0
+298610##Ylands##0
+232770##POSTAL##0
+388840##CATS!##0
+393390##Cat Simulator##0
+567730##Merry Snowballs##0
+1250870##Cyrano Story##0
+582660##Black Desert Online##0
+1258080##Shop Titans##0
+251870##Go! Go! Nippon! ~My First Trip to Japan~##0
+287630##The Council##0
+406970##The Uncertain: Last Quiet Day##0
+555000##GOAT OF DUTY##0
+760620##Deiland##0
+442070##Drawful 2##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+588210##HELLION##0
+814200##Simple Story - Alex##0
+628950##Nephise Begins##0
+702150##Project Mercury##0
+335190##200% Mixed Juice!##0
+390710##Acceleration of SUGURI 2##0
+282800##100% Orange Juice##0
+420740##The Deed##0
+618140##Barro##0
+699240##Keyboard Killers##0
+348510##Autobahn Police Simulator##0
+640890##Will Glow the Wisp##0
+680360##Regions Of Ruin##0
+1291500##Kill It With Fire: IGNITION##0
+368180##Polyball##0
+308600##Geneshift##0
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##0
+34330##Total War: SHOGUN 2##0
+1076280##Showdown Bandit##0
+435790##10 Second Ninja X##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+579110##Interkosmos##0
+1048540##Kao the Kangaroo: Round 2##0
+1360000##The Infected##0
+266310##GameGuru##0
+729660##Blackout Z: Slaughterhouse Edition##0
+@@REVIEW
+252490##Recommended
+550650##Recommended
+226840##Recommended
+1158790##Recommended
+359550##Recommended
+10##Recommended
+211820##Not Recommended
+730##Recommended

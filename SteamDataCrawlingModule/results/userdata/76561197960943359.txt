@@ -1,0 +1,66 @@
+@@GAME
+730##Counter-Strike: Global Offensive##212365
+240##Counter-Strike: Source##66098
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##13995
+582160##Assassin's Creed Origins##7280
+209170##Call of Duty: Ghosts - Multiplayer##3322
+500##Left 4 Dead##2221
+209660##Call of Duty: Advanced Warfare - Multiplayer##2132
+282660##Easy eSports##1636
+8140##Tomb Raider: Underworld##1108
+476620##Call of Duty: WWII - Multiplayer##1101
+359550##Tom Clancy's Rainbow Six Siege##836
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##649
+209650##Call of Duty: Advanced Warfare##648
+220##Half-Life 2##572
+209160##Call of Duty: Ghosts##525
+420##Half-Life 2: Episode Two##404
+550##Left 4 Dead 2##324
+13210##Unreal Tournament 3: Black Edition##301
+476600##Call of Duty: WWII##297
+7670##BioShock##179
+221100##DayZ##114
+47700##Command and Conquer 4: Tiberian Twilight##90
+6510##Lost Planet: Extreme Condition##41
+10180##Call of Duty: Modern Warfare 2##41
+320##Half-Life 2: Deathmatch##31
+203680##F1 Race Stars##17
+12840##DiRT 2##15
+227940##Heroes & Generals##14
+30##Day of Defeat##7
+340##Half-Life 2: Lost Coast##6
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+409710##BioShock Remastered##0
+400##Portal##0
+12900##Audiosurf##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+24790##Command and Conquer 3: Tiberium Wars##0
+204100##Max Payne 3##0
+34870##Sniper Ghost Warrior 2##0
+6850##Hitman 2: Silent Assassin##0
+6860##Hitman: Blood Money##0
+6900##Hitman: Codename 47##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+218620##PAYDAY 2##0
+209000##Batman™: Arkham Origins##0
+22600##Worms Reloaded##0
+70600##Worms Ultimate Mayhem##0
+70620##Worms Crazy Golf##0
+70640##Worms##0
+70650##Worms Blast##0
+70660##Worms Pinball##0
+200170##Worms Revolution##0
+217200##Worms Armageddon##0
+233840##Worms Clan Wars##0
+243470##Watch_Dogs##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+730##Recommended

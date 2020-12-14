@@ -1,0 +1,190 @@
+@@GAME
+47890##The Sims(TM) 3##55389
+107410##Arma 3##43620
+244850##Space Engineers##22909
+427520##Factorio##13195
+440##Team Fortress 2##11534
+290080##Life is Feudal: Your Own##10400
+435150##Divinity: Original Sin 2##10197
+394360##Hearts of Iron IV##9970
+292030##The Witcher 3: Wild Hunt##8497
+72850##The Elder Scrolls V: Skyrim##7843
+22380##Fallout: New Vegas##7728
+377160##Fallout 4##7185
+294100##RimWorld##7177
+49520##Borderlands 2##6769
+203770##Crusader Kings II##5719
+17450##Dragon Age: Origins##4977
+382310##Eco##4106
+8930##Sid Meier's Civilization V##3878
+373420##Divinity: Original Sin Enhanced Edition##3703
+242920##Banished##3461
+230230##Divinity: Original Sin (Classic)##3411
+22300##Fallout 3##2962
+637650##FINAL FANTASY XV WINDOWS EDITION##2951
+560130##Pillars of Eternity II: Deadfire##2801
+39140##FINAL FANTASY VII##2731
+28050##Deus Ex: Human Revolution##2710
+666140##My Time At Portia##2708
+298110##Far Cry 4##2491
+292140##FINAL FANTASY XIII-2##2465
+242050##Assassin's Creed IV Black Flag##2351
+637090##BATTLETECH##2304
+248390##Craft The World##2063
+102820##The Sims(TM) Medieval##2036
+275850##No Man's Sky##2035
+57690##Tropico 4##1956
+337000##Deus Ex: Mankind Divided™##1905
+220240##Far Cry® 3##1869
+220200##Kerbal Space Program##1749
+383120##Empyrion - Galactic Survival##1729
+8870##BioShock Infinite##1704
+361420##ASTRONEER##1634
+599140##Graveyard Keeper##1595
+48210##The Settlers 7: Paths to a Kingdom - Gold Edition##1490
+552520##Far Cry 5##1406
+17460##Mass Effect##1241
+291650##Pillars of Eternity##1057
+221100##DayZ##961
+245620##Tropico 5##867
+35140##Batman: Arkham Asylum GOTY Edition##863
+7670##BioShock##845
+379430##Kingdom Come: Deliverance##802
+290300##Rebel Galaxy##653
+242860##Verdun##608
+251730##Legend of Grimrock 2##595
+377840##FINAL FANTASY IX##570
+203140##Hitman: Absolution##516
+589290##Holdfast: Nations At War##470
+110800##L.A. Noire##463
+252870##PULSAR: Lost Colony##451
+24980##Mass Effect 2##416
+241930##Middle-earth™: Shadow of Mordor™##400
+367500##Dragon's Dogma: Dark Arisen##398
+8800##Sid Meier's Civilization IV: Beyond the Sword##357
+3900##Sid Meier's Civilization IV##327
+500##Left 4 Dead##325
+221680##Rocksmith® 2014 Edition - Remastered##325
+307880##Savage Lands##319
+413150##Stardew Valley##311
+384180##Prominence Poker##296
+10180##Call of Duty: Modern Warfare 2##274
+234650##Shadowrun Returns##267
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##256
+204450##Call of Juarez Gunslinger##244
+7940##Call of Duty 4: Modern Warfare##235
+242760##The Forest##210
+243470##Watch_Dogs##204
+1091500##Cyberpunk 2077##200
+477160##Human: Fall Flat##194
+65930##The Bureau: XCOM Declassified##188
+251150##The Legend of Heroes: Trails in the Sky##180
+340050##Survivalist##176
+364360##Total War: WARHAMMER##133
+42910##Magicka##128
+300##Day of Defeat: Source##127
+334230##Town of Salem##120
+7600##Sid Meier's Railroads!##118
+962130##Grounded##111
+55230##Saints Row: The Third##98
+34330##Total War: SHOGUN 2##79
+311310##Naval Action##77
+409710##BioShock Remastered##72
+236390##War Thunder##71
+894940##Littlewood##71
+1086940##Baldur's Gate 3##70
+238960##Path of Exile##68
+271590##Grand Theft Auto V##67
+205100##Dishonored##57
+286160##Tabletop Simulator##43
+2620##Call of Duty##41
+630##Alien Swarm##39
+57620##Patrician IV: Steam Special Edition##38
+41500##Torchlight##37
+582010##Monster Hunter: World##34
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##32
+261640##Borderlands: The Pre-Sequel##22
+374040##Portal Knights##22
+400##Portal##21
+107100##Bastion##21
+359320##Elite Dangerous##20
+304930##Unturned##19
+1840##Source Filmmaker##18
+8190##Just Cause 2##17
+457140##Oxygen Not Included##15
+105450##Age of Empires® III (2007)##13
+236850##Europa Universalis IV##11
+32370##STAR WARS™: Knights of the Old Republic™##9
+237930##Transistor##9
+265630##Fistful of Frags##8
+239820##Game Dev Tycoon##8
+362960##Tyranny##8
+441830##I am Setsuna##6
+208140##Endless Space##2
+6880##Just Cause##2
+644390##D&D Lords of Waterdeep##2
+6900##Hitman: Codename 47##1
+489830##The Elder Scrolls V: Skyrim Special Edition##1
+569480##Kingdoms and Castles##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+2810##X3: Reunion##0
+1510##Uplink##0
+1690##Space Empires V##0
+34440##Sid Meier's Civilization IV##0
+1600##Dangerous Waters##0
+2900##688(I) Hunter/Killer##0
+2910##Fleet Command##0
+2920##Sub Command##0
+2630##Call of Duty 2##0
+2640##Call of Duty: United Offensive##0
+6870##Battlestations: Midway##0
+7610##Railroad Tycoon 3##0
+7620##Railroad Tycoon 2: Platinum##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+420##Half-Life 2: Episode Two##0
+16810##Sid Meier's Civilization IV: Colonization##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+24780##SimCity 4 Deluxe##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+620##Portal 2##0
+25800##Europa Universalis III##0
+21170##Gotham City Impostors##0
+57400##Batman: Arkham City™##0
+200260##Batman: Arkham City GOTY##0
+206210##Gotham City Impostors: Free To Play##0
+7510##X-Blades##0
+233470##Evoland##0
+6850##Hitman 2: Silent Assassin##0
+6860##Hitman: Blood Money##0
+205930##Hitman: Sniper Challenge##0
+48220##Might & Magic: Heroes VI##0
+218620##PAYDAY 2##0
+550##Left 4 Dead 2##0
+283640##Salt and Sanctuary##0
+207170##Legend of Grimrock##0
+330830##Tales from the Borderlands##0
+700030##Life is Feudal: MMO##0
+359310##Evoland 2##0
+1020470##Evoland Legendary Edition##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+404410##Endless Sky##0
+753640##Outer Wilds##0
+815370##Green Hell##0
+896160##Evil Bank Manager##0
+@@REVIEW
+203770##Recommended

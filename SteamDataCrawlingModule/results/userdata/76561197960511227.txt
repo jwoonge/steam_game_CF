@@ -1,0 +1,81 @@
+@@GAME
+107410##Arma 3##148677
+24960##Battlefield: Bad Company™ 2##66429
+393380##Squad##60969
+359320##Elite Dangerous##40392
+221100##DayZ##33890
+905370##Conqueror's Blade##23377
+227940##Heroes & Generals##23097
+228380##Wreckfest##20032
+440900##Conan Exiles##17803
+230410##Warframe##15278
+240##Counter-Strike: Source##15068
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##14189
+238960##Path of Exile##13706
+730##Counter-Strike: Global Offensive##12369
+10540##Football Manager 2009##11152
+212070##Star Conflict##9801
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##9302
+581320##Insurgency: Sandstorm##8033
+500##Left 4 Dead##5706
+207890##Football Manager 2013##4677
+44350##GRID 2##3209
+380600##Fishing Planet##3174
+214950##Total War: ROME II - Emperor Edition##2876
+219640##Chivalry: Medieval Warfare##2802
+48700##Mount & Blade: Warband##2669
+202170##Sleeping Dogs™##2564
+239820##Game Dev Tycoon##2281
+386180##Crossout##2218
+346900##AdVenture Capitalist##2182
+570##Dota 2##1812
+33930##Arma 2: Operation Arrowhead##1683
+563560##Alien Swarm: Reactive Drop##921
+224580##Arma 2: DayZ Mod##598
+1046930##Dota Underlords##528
+550##Left 4 Dead 2##493
+35450##Rising Storm/Red Orchestra 2 Multiplayer##329
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##283
+384180##Prominence Poker##243
+363970##Clicker Heroes##191
+10180##Call of Duty: Modern Warfare 2##163
+113400##APB Reloaded##154
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##137
+218230##PlanetSide 2##124
+300##Day of Defeat: Source##100
+404410##Endless Sky##90
+220##Half-Life 2##76
+376570##WildStar##68
+244930##SNOW##54
+208090##Loadout##52
+620##Portal 2##31
+268420##Aura Kingdom##14
+248570##Toribash##13
+823130##Totally Accurate Battlegrounds##5
+33910##Arma 2##3
+242920##Banished##3
+512470##The Pirate: Caribbean Hunt##3
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+22100##Mount & Blade##0
+48720##Mount & Blade: With Fire and Sword##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+774941##Squad - Public Testing##0
+931180##Conan Exiles - Testlive Client##0
+@@REVIEW
+393380##Recommended

@@ -1,0 +1,155 @@
+@@GAME
+730##Counter-Strike: Global Offensive##98232
+271590##Grand Theft Auto V##64286
+552520##Far Cry 5##6102
+4920##Natural Selection 2##3733
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##3236
+1174180##Red Dead Redemption 2##2527
+200710##Torchlight II##1774
+236110##Dungeon Defenders II##1080
+251470##TowerFall Ascension##787
+495910##Dungeon Fighter Online##745
+49520##Borderlands 2##719
+218230##PlanetSide 2##691
+620##Portal 2##676
+379720##DOOM##624
+10##Counter-Strike##548
+289690##Lara Croft and the Temple of Osiris##505
+945360##Among Us##499
+230410##Warframe##437
+292030##The Witcher 3: Wild Hunt##431
+564310##Serious Sam Fusion 2017 (beta)##404
+238960##Path of Exile##380
+493340##Planet Coaster##373
+40800##Super Meat Boy##352
+290930##Half-Life 2: Update##335
+477160##Human: Fall Flat##307
+376570##WildStar##300
+230190##War for the Overworld##278
+41070##Serious Sam 3: BFE##258
+220240##Far Cry® 3##240
+21130##LEGO® Harry Potter: Years 1-4##220
+269210##Hero Siege##216
+372000##Tree of Savior (English Ver.)##210
+706220##Black Desert Online SA##209
+387290##Ori and the Blind Forest: Definitive Edition##207
+362890##Black Mesa##156
+321400##Supraball##143
+761890##Albion Online##136
+35130##Lara Croft and the Guardian of Light##130
+314410##Rampage Knights##125
+242550##Rayman Legends##111
+560380##MapleStory 2##105
+323370##TERA##100
+307780##Mortal Kombat X##97
+414340##Hellblade: Senua's Sacrifice##93
+13210##Unreal Tournament 3: Black Edition##92
+1222670##The Sims™ 4##92
+359550##Tom Clancy's Rainbow Six Siege##90
+200210##Realm of the Mad God Exalt##89
+611500##Quake Champions##89
+321040##DiRT 3 Complete Edition##88
+282440##Quake Live##85
+34270##SEGA Mega Drive & Genesis Classics##85
+570##Dota 2##77
+319630##Life is Strange™##72
+471550##Nine Parchments##71
+111600##Serious Sam Double D XXL##68
+203160##Tomb Raider##64
+440##Team Fortress 2##63
+214510##LEGO® The Lord of the Rings™##59
+427270##Orcs Must Die! Unchained##59
+437920##Tricky Towers##58
+845070##The Awesome Adventures of Captain Spirit##56
+238370##Magicka 2##54
+351920##Crazy Machines 3##51
+434050##Duke Nukem 3D: 20th Anniversary World Tour##50
+41000##Serious Sam HD: The First Encounter##48
+218620##PAYDAY 2##45
+204360##Castle Crashers##44
+240320##Panzar##44
+714010##Aim Lab##44
+304050##Trove##37
+563560##Alien Swarm: Reactive Drop##35
+460810##Vanquish##33
+755790##Ring of Elysium##33
+436520##Line of Sight##31
+287920##Mortal Online##29
+333930##Dirty Bomb##28
+355840##Survarium##28
+435790##10 Second Ninja X##27
+207140##SpeedRunners##24
+874240##MU Legend##22
+324810##TOXIKK##21
+219640##Chivalry: Medieval Warfare##20
+41010##Serious Sam HD: The Second Encounter##19
+304390##For Honor##19
+961440##Resident Evil 2 "1-Shot Demo"##18
+201480##Serious Sam: The Random Encounter##17
+238320##Outlast##16
+273350##Evolve Stage 2##16
+13230##Unreal Tournament 2004##15
+1343400##RuneScape##14
+35720##Trine 2##13
+438100##VRChat##13
+222980##Dead Pixels##12
+223710##Cry of Fear##12
+13240##Unreal Tournament: Game of the Year Edition##11
+400##Portal##10
+261640##Borderlands: The Pre-Sequel##10
+204340##Serious Sam 2##9
+291550##Brawlhalla##9
+638110##Desert Bus VR##9
+797410##Headsnatchers##9
+282660##Easy eSports##8
+331360##Heavy Metal Machines##8
+304930##Unturned##8
+203290##America's Army: Proving Grounds##7
+444090##Paladins##7
+336520##Might & Magic Heroes Online##5
+226840##Age of Wonders III##5
+1172470##Apex Legends##5
+666220##CS2D##4
+1225570##Unravel Two##4
+680360##Regions Of Ruin##4
+449470##Atulos Online##3
+466910##Worm.is: The Game##3
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##3
+638490##Soldat##2
+1425880##9 Monkeys of Shaolin: Prologue##2
+70##Half-Life##1
+348250##Google Earth VR##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+13200##Unreal II: The Awakening##0
+13250##Unreal Gold##0
+204120##LEGO® Harry Potter: Years 5-7##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+227780##Serious Sam Classics: Revolution##0
+212500##The Lord of the Rings Online™##0
+1083500##PlanetSide 2 - Test##0
+273110##Counter-Strike Nexon: Studio##0
+316390##Anomaly Zone##0
+397080##Magicka 2: Spell Balance Beta##0
+261570##Ori and the Blind Forest##0
+439350##Kritika:REBOOT##0
+596350##Paladins - Public Test##0
+323580##Jotun: Valhalla Edition##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+466240##Deceit##0
+654310##For Honor - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+231430##Company of Heroes 2##0
+442070##Drawful 2##0
+640890##Will Glow the Wisp##0
+1283220##Devolverland Expo##0
+1078000##Gamecraft##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+579110##Interkosmos##0
+1368440##Armor Of Heroes##0
+@@REVIEW

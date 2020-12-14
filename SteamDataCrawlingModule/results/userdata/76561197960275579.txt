@@ -1,0 +1,164 @@
+@@GAME
+250900##The Binding of Isaac: Rebirth##41276
+238960##Path of Exile##40025
+289070##Sid Meier's Civilization VI##28849
+435150##Divinity: Original Sin 2##14177
+8930##Sid Meier's Civilization V##12010
+372000##Tree of Savior (English Ver.)##10783
+678950##DRAGON BALL FighterZ##10693
+582010##Monster Hunter: World##8838
+377160##Fallout 4##6210
+48220##Might & Magic: Heroes VI##6076
+247080##Crypt of the NecroDancer##5587
+373420##Divinity: Original Sin Enhanced Edition##5082
+456670##Hand of Fate 2##4628
+49520##Borderlands 2##4262
+72850##The Elder Scrolls V: Skyrim##3249
+212680##FTL: Faster Than Light##3166
+8870##BioShock Infinite##3108
+346830##FINAL FANTASY IV: THE AFTER YEARS##3053
+413150##Stardew Valley##2901
+262060##Darkest Dungeon®##2853
+113200##The Binding of Isaac##2798
+49470##Magic: The Gathering — Duels of the Planeswalkers 2012##2641
+1097150##Fall Guys: Ultimate Knockout##2601
+230230##Divinity: Original Sin (Classic)##2382
+239350##Spelunky##2187
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##2155
+544750##SOULCALIBUR VI##2153
+8190##Just Cause 2##1957
+205100##Dishonored##1845
+255710##Cities: Skylines##1546
+488790##South Park The Fractured But Whole##1543
+266510##Hand of Fate##1511
+291650##Pillars of Eternity##1509
+1145360##Hades##1350
+105600##Terraria##1346
+570##Dota 2##1245
+434650##Lost Castle##1170
+493340##Planet Coaster##988
+16810##Sid Meier's Civilization IV: Colonization##889
+730##Counter-Strike: Global Offensive##868
+489830##The Elder Scrolls V: Skyrim Special Edition##856
+35140##Batman: Arkham Asylum GOTY Edition##825
+207610##The Walking Dead##809
+330840##Game of Thrones - A Telltale Games Series##768
+945360##Among Us##759
+1253920##Rogue Legacy 2##693
+362960##Tyranny##682
+204360##Castle Crashers##654
+241600##Rogue Legacy##653
+247000##Talisman: Digital Edition##617
+1091500##Cyberpunk 2077##616
+239030##Papers, Please##613
+1046930##Dota Underlords##502
+207170##Legend of Grimrock##433
+238320##Outlast##412
+108710##Alan Wake##409
+286160##Tabletop Simulator##398
+241930##Middle-earth™: Shadow of Mordor™##397
+258520##The Vanishing of Ethan Carter##345
+252030##Valdis Story: Abyssal City##343
+240720##Getting Over It with Bennett Foddy##308
+219640##Chivalry: Medieval Warfare##289
+619150##while True: learn()##281
+242920##Banished##272
+57300##Amnesia: The Dark Descent##267
+231740##Knights of Pen and Paper +1##254
+233150##LUFTRAUSERS##250
+22380##Fallout: New Vegas##226
+10##Counter-Strike##218
+424840##Little Nightmares##215
+220##Half-Life 2##209
+239160##Thief##207
+205890##Chronicle: RuneScape Legends##204
+289130##Endless Legend™ - Emperor Edition##200
+239200##Amnesia: A Machine for Pigs##195
+17470##Dead Space##192
+221910##The Stanley Parable##182
+480490##Prey##180
+261640##Borderlands: The Pre-Sequel##171
+48000##LIMBO##167
+208140##Endless Space##166
+780290##Gloomhaven##159
+21690##Resident Evil 5##139
+368230##Kingdom: Classic##139
+427270##Orcs Must Die! Unchained##136
+346940##Shadowrun: Hong Kong - Extended Edition##134
+319630##Life is Strange™##132
+251730##Legend of Grimrock 2##107
+72200##Universe Sandbox Legacy##106
+241260##Sherlock Holmes: Crimes and Punishments##104
+8800##Sid Meier's Civilization IV: Beyond the Sword##100
+203160##Tomb Raider##98
+211820##Starbound##96
+44320##DiRT 3##89
+47870##Need for Speed: Hot Pursuit##88
+40800##Super Meat Boy##82
+550##Left 4 Dead 2##80
+209080##Guns of Icarus Online##69
+608800##Guns of Icarus Alliance##69
+8500##EVE Online##67
+242700##Injustice: Gods Among Us Ultimate Edition##67
+582660##Black Desert Online##65
+310380##Fractured Space##62
+698780##Doki Doki Literature Club##57
+391540##Undertale##54
+239070##Hammerwatch##51
+233250##Planetary Annihilation##47
+22120##Penumbra: Black Plague##41
+243950##Divinity: Dragon Commander##38
+400##Portal##33
+211600##Thief Gold##25
+259080##Just Cause 2: Multiplayer Mod##22
+203770##Crusader Kings II##14
+391720##Layers of Fear##9
+544920##Darwin Project##2
+70##Half-Life##1
+228260##Fallen Enchantress: Legendary Heroes##1
+301970##Screencheat##1
+205950##Jet Set Radio##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+22140##Penumbra: Requiem##0
+22180##Penumbra: Overture##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+47780##Dead Space 2##0
+321040##DiRT 3 Complete Edition##0
+39160##Dungeon Siege III##0
+205790##Dota 2 Test##0
+6980##Thief: Deadly Shadows##0
+211740##Thief 2##0
+217790##Dogfight 1942##0
+6860##Hitman: Blood Money##0
+230170##Divinity: Dragon Commander Beta##0
+264690##Coin Crypt##0
+367540##Starbound - Unstable##0
+400430##The Vanishing of Ethan Carter Redux##0
+312750##FINAL FANTASY IV##0
+272890##Vertiginous Golf##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+323580##Jotun: Valhalla Edition##0
+213670##South Park™: The Stick of Truth™##0
+611500##Quake Champions##0
+741820##Prey: Typhon Hunter##0
+489520##Minion Masters##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW
+413150##Recommended
+238960##Recommended
+8930##Recommended

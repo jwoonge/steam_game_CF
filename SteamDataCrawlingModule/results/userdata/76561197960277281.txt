@@ -1,0 +1,175 @@
+@@GAME
+342200##MechWarrior Online##64243
+570##Dota 2##63386
+24960##Battlefield: Bad Company™ 2##31392
+72850##The Elder Scrolls V: Skyrim##27945
+1085660##Destiny 2##25036
+230410##Warframe##21962
+440##Team Fortress 2##19803
+582010##Monster Hunter: World##18874
+17450##Dragon Age: Origins##13357
+201020##NBA 2K12##8577
+47900##Dragon Age II (Retired)##8038
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##7179
+107410##Arma 3##7151
+429660##Tales of Berseria##6896
+24980##Mass Effect 2##6227
+333930##Dirty Bomb##6029
+997070##Marvel's Avengers##5875
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##5389
+550##Left 4 Dead 2##4911
+8980##Borderlands GOTY##4754
+17460##Mass Effect##4579
+49520##Borderlands 2##4501
+364360##Total War: WARHAMMER##4384
+637090##BATTLETECH##3940
+200510##XCOM: Enemy Unknown##3839
+1250##Killing Floor##3817
+377160##Fallout 4##3656
+42710##Call of Duty: Black Ops - Multiplayer##3416
+22350##BRINK##3279
+351970##Tales of Zestiria##2615
+552500##Warhammer: Vermintide 2##2396
+500##Left 4 Dead##2309
+50650##Darksiders II##2235
+208650##Batman™: Arkham Knight##2024
+268500##XCOM 2##1995
+58540##Divinity II - The Dragon Knight Saga##1891
+790820##Valkyria Chronicles 4 Complete Edition##1832
+435150##Divinity: Original Sin 2##1695
+35450##Rising Storm/Red Orchestra 2 Multiplayer##1608
+91310##Dead Island##1589
+489830##The Elder Scrolls V: Skyrim Special Edition##1549
+33930##Arma 2: Operation Arrowhead##1528
+32370##STAR WARS™: Knights of the Old Republic™##1465
+28050##Deus Ex: Human Revolution##1455
+617290##Remnant: From the Ashes##1430
+883710##Resident Evil 2##1421
+34330##Total War: SHOGUN 2##1381
+55150##Warhammer 40,000: Space Marine##1335
+33220##Tom Clancy's Splinter Cell: Conviction##1313
+431960##Wallpaper Engine##1260
+678960##CODE VEIN##1233
+65800##Dungeon Defenders##1221
+15620##Warhammer 40,000: Dawn of War II##1187
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##1162
+791330##Fallen ~Makina and the City of Ruins~##1147
+403640##Dishonored 2##1140
+209000##Batman™: Arkham Origins##1133
+211420##DARK SOULS™: Prepare To Die Edition##1042
+238960##Path of Exile##1016
+47830##Medal of Honor(TM) Multiplayer##979
+55230##Saints Row: The Third##939
+8930##Sid Meier's Civilization V##918
+200260##Batman: Arkham City GOTY##896
+594570##Total War: WARHAMMER II##871
+20900##The Witcher: Enhanced Edition##870
+367500##Dragon's Dogma: Dark Arisen##867
+626690##Sword Art Online: Fatal Bullet##812
+606280##Darksiders III##788
+4920##Natural Selection 2##769
+22600##Worms Reloaded##705
+232090##Killing Floor 2##704
+620##Portal 2##676
+601150##Devil May Cry 5##666
+665180##Dark Elf##648
+201790##Orcs Must Die! 2##622
+10680##Aliens vs. Predator##621
+1328910##Otome the Exorcist##621
+241600##Rogue Legacy##600
+214950##Total War: ROME II - Emperor Edition##574
+220##Half-Life 2##565
+527430##Warhammer 40,000: Inquisitor - Martyr##555
+1257170##Saint Emiliana##555
+102600##Orcs Must Die!##545
+221100##DayZ##505
+379720##DOOM##480
+42650##Transformers: War for Cybertron##477
+40920##NBA 2K10##447
+630##Alien Swarm##446
+10180##Call of Duty: Modern Warfare 2##430
+644570##Material Girl##397
+337000##Deus Ex: Mankind Divided™##384
+1269820##Kozue's Strange Journey##369
+607890##Sword Art Online: Hollow Realization Deluxe Edition##364
+391220##Rise of the Tomb Raider##284
+42680##Call of Duty: Modern Warfare 3##264
+420##Half-Life 2: Episode Two##261
+12840##DiRT 2##252
+13210##Unreal Tournament 3: Black Edition##251
+924980##Trials of Mana##243
+47790##Medal of Honor(TM) Single Player##236
+3590##Plants vs. Zombies: Game of the Year##232
+42700##Call of Duty: Black Ops##226
+7670##BioShock##216
+219150##Hotline Miami##188
+41500##Torchlight##169
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##168
+17410##Mirror's Edge##162
+380##Half-Life 2: Episode One##161
+611500##Quake Champions##145
+22610##Alien Breed: Impact##139
+17330##Crysis Warhead##138
+400##Portal##110
+214560##Mark of the Ninja##110
+49600##Beat Hazard##107
+22380##Fallout: New Vegas##89
+286690##Metro 2033 Redux##86
+219990##Grim Dawn##83
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##79
+228400##ACE COMBAT™ ASSAULT HORIZON Enhanced Edition##64
+43110##Metro 2033##58
+13560##Tom Clancy's Splinter Cell##54
+39800##Nation Red##50
+17340##Crysis Wars##47
+13510##Tom Clancy's Ghost Recon: Advanced Warfighter 2##41
+12900##Audiosurf##24
+35700##Trine##23
+219640##Chivalry: Medieval Warfare##22
+110800##L.A. Noire##21
+254700##Resident Evil 4##20
+33910##Arma 2##18
+17300##Crysis##15
+105600##Terraria##14
+29650##Aion Collectors Edition##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+300##Day of Defeat: Source##0
+360##Half-Life Deathmatch: Source##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+475150##Titan Quest Anniversary Edition##0
+409710##BioShock Remastered##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+729040##Borderlands GOTY Enhanced##0
+47730##Dragon Age: Origins - Awakening##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+219780##Divinity II: Developer's Cut##0
+1238040##Dragon Age II##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+91600##Sanctum##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+57400##Batman: Arkham City™##0
+205790##Dota 2 Test##0
+49540##Aliens: Colonial Marines##0
+224580##Arma 2: DayZ Mod##0
+245280##ENSLAVED™: Odyssey to the West™ Premium Edition##0
+287390##Metro: Last Light Redux##0
+261640##Borderlands: The Pre-Sequel##0
+232150##Killing Floor 2 - SDK##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+638650##Sword Art Online Re: Hollow Fragment##0
+982150##Hentai Secrets##0
+1042800##Warhammer 40,000: Inquisitor - Prophecy##0
+@@REVIEW

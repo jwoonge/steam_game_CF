@@ -1,0 +1,52 @@
+@@GAME
+834910##ATLAS##30648
+730##Counter-Strike: Global Offensive##28793
+295110##Just Survive##24593
+202990##Call of Duty: Black Ops II - Multiplayer##15841
+10##Counter-Strike##11423
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##9160
+322300##The Repopulation##7241
+813820##Realm Royale##6847
+433850##Z1 Battle Royale##5530
+582660##Black Desert Online##5389
+504370##Battlerite##4416
+945360##Among Us##3774
+365590##Tom Clancy's The Division##2516
+240##Counter-Strike: Source##1774
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##1045
+1097150##Fall Guys: Ultimate Knockout##870
+222880##Insurgency##762
+271590##Grand Theft Auto V##684
+289070##Sid Meier's Civilization VI##507
+393380##Squad##496
+1222730##STAR WARS™: Squadrons##451
+1016120##PGA TOUR 2K21##420
+10180##Call of Duty: Modern Warfare 2##336
+431240##Golf With Your Friends##329
+879160##Battlerite Royale##286
+202970##Call of Duty: Black Ops II##147
+221100##DayZ##112
+440##Team Fortress 2##82
+10090##Call of Duty: World at War##71
+230410##Warframe##37
+212910##Call of Duty: Black Ops II - Zombies##15
+441790##Fragmented##6
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+209160##Call of Duty: Ghosts##0
+209170##Call of Duty: Ghosts - Multiplayer##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+524440##Tom Clancy's The Division PTS##0
+311210##Call of Duty: Black Ops III##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+774941##Squad - Public Testing##0
+427460##Battlerite Public Test##0
+878760##Realm Royale - Test Server##0
+1063730##New World##0
+@@REVIEW

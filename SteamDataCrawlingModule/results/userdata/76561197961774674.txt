@@ -1,0 +1,67 @@
+@@GAME
+570##Dota 2##252902
+10##Counter-Strike##71595
+730##Counter-Strike: Global Offensive##46975
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##34789
+1089350##NBA 2K20##10341
+761890##Albion Online##1993
+218620##PAYDAY 2##1785
+238960##Path of Exile##865
+236390##War Thunder##684
+1046930##Dota Underlords##600
+41070##Serious Sam 3: BFE##369
+996470##eFootball PES 2020##337
+219640##Chivalry: Medieval Warfare##290
+50##Half-Life: Opposing Force##218
+230410##Warframe##217
+666220##CS2D##180
+440##Team Fortress 2##174
+227940##Heroes & Generals##152
+304930##Unturned##127
+300380##Road Redemption##111
+550##Left 4 Dead 2##108
+755790##Ring of Elysium##105
+339280##Strife##90
+355180##Codename CURE##64
+386360##SMITE##64
+286940##S.K.I.L.L. - Special Force 2##60
+355840##Survarium##51
+319630##Life is Strange™##50
+130##Half-Life: Blue Shift##48
+224260##No More Room in Hell##45
+361700##Mortal Kombat: Legacy##43
+346330##BrainBread 2##42
+320540##Coffin Dodgers##38
+265630##Fistful of Frags##36
+393930##RoShamBo Arena##34
+563560##Alien Swarm: Reactive Drop##31
+630##Alien Swarm##28
+263500##Dragons and Titans##27
+444200##World of Tanks Blitz##26
+361780##Mortal Kombat: Legacy: Cyrax & Sektor##15
+361770##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)##12
+30##Day of Defeat##11
+391460##WARMODE##10
+361760##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 1)##9
+70##Half-Life##8
+60##Ricochet##6
+20##Team Fortress Classic##5
+361730##Mortal Kombat: Legacy: Kitana & Mileena (Part 1)##5
+346250##The Old Tree##4
+291550##Brawlhalla##4
+361710##Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 2)##3
+11020##TrackMania Nations Forever##1
+361720##Mortal Kombat: Legacy: Johnny Cage##1
+495460##Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 1)##1
+40##Deathmatch Classic##0
+564310##Serious Sam Fusion 2017 (beta)##0
+205790##Dota 2 Test##0
+203290##America's Army: Proving Grounds##0
+247830##Aerena##0
+361740##Mortal Kombat: Legacy: Kitana & Mileena (Part 2)##0
+361750##Mortal Kombat: Legacy: Raiden##0
+858460##SMITE - Public Test##0
+541180##PRO EVOLUTION SOCCER 2017 TRIAL EDITION##0
+550650##Black Squad##0
+@@REVIEW
+570##Not Recommended

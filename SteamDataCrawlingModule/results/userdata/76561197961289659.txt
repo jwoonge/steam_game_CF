@@ -1,0 +1,34 @@
+@@GAME
+730##Counter-Strike: Global Offensive##72249
+271590##Grand Theft Auto V##30426
+760620##Deiland##1499
+304930##Unturned##828
+304390##For Honor##664
+629520##Soundpad##576
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##293
+617670##Zup! S##283
+945360##Among Us##240
+240##Counter-Strike: Source##112
+10##Counter-Strike##79
+259080##Just Cause 2: Multiplayer Mod##74
+611500##Quake Champions##54
+920490##Driver Booster for Steam##38
+218620##PAYDAY 2##32
+302830##BLOCKADE 3D##22
+80##Counter-Strike: Condition Zero##20
+431960##Wallpaper Engine##14
+70##Half-Life##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+654310##For Honor - Public Test##0
+1172470##Apex Legends##0
+@@REVIEW
+730##Not Recommended
+271590##Recommended

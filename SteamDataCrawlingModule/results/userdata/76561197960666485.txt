@@ -1,0 +1,79 @@
+@@GAME
+440##Team Fortress 2##64863
+686810##Hell Let Loose##17854
+252950##Rocket League##15695
+113400##APB Reloaded##10244
+1085660##Destiny 2##8763
+550##Left 4 Dead 2##6816
+359550##Tom Clancy's Rainbow Six Siege##5339
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##5016
+65800##Dungeon Defenders##3504
+17080##Tribes: Ascend##2543
+1250##Killing Floor##2451
+261550##Mount & Blade II: Bannerlord##2189
+386360##SMITE##2039
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1743
+903950##Last Oasis##1633
+218230##PlanetSide 2##1553
+63200##Monday Night Combat##1303
+306130##The Elder Scrolls Online##1289
+34030##Total War: NAPOLEON - Definitive Edition##1062
+500##Left 4 Dead##918
+1057240##Crucible##845
+41300##Altitude##763
+620##Portal 2##732
+49470##Magic: The Gathering — Duels of the Planeswalkers 2012##547
+12900##Audiosurf##543
+7940##Call of Duty 4: Modern Warfare##406
+24790##Command and Conquer 3: Tiberium Wars##359
+49520##Borderlands 2##339
+227940##Heroes & Generals##313
+30##Day of Defeat##269
+400##Portal##267
+630##Alien Swarm##169
+17480##Command and Conquer: Red Alert 3##152
+12810##Overlord II##115
+42910##Magicka##89
+367450##Poly Bridge##79
+97100##Section 8: Prejudice##76
+219640##Chivalry: Medieval Warfare##74
+12120##Grand Theft Auto: San Andreas##70
+393380##Squad##66
+91310##Dead Island##61
+341800##Keep Talking and Nobody Explodes##42
+41700##S.T.A.L.K.E.R.: Call of Pripyat##40
+799960##Wizard101##38
+506540##Last Man Standing##33
+1172470##Apex Legends##23
+761890##Albion Online##17
+98600##Demolition, Inc.##9
+67000##The Polynomial##4
+300##Day of Defeat: Source##3
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+320##Half-Life 2: Deathmatch##0
+2630##Call of Duty 2##0
+12250##Grand Theft Auto: San Andreas##0
+13210##Unreal Tournament 3: Black Edition##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+10180##Call of Duty: Modern Warfare 2##0
+11450##Overlord##0
+12710##Overlord: Raising Hell##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+271290##HAWKEN##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+858460##SMITE - Public Test##0
+774941##Squad - Public Testing##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+1063730##New World##0
+@@REVIEW

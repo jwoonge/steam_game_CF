@@ -1,0 +1,136 @@
+@@GAME
+244850##Space Engineers##31985
+105600##Terraria##31767
+72850##The Elder Scrolls V: Skyrim##23367
+218230##PlanetSide 2##16192
+22380##Fallout: New Vegas##13228
+240##Counter-Strike: Source##12481
+107410##Arma 3##10542
+49520##Borderlands 2##10540
+4000##Garry's Mod##8789
+8980##Borderlands GOTY##8483
+24960##Battlefield: Bad Company™ 2##7944
+4920##Natural Selection 2##7851
+211##Source SDK##6797
+552500##Warhammer: Vermintide 2##6543
+495890##Montaro##4729
+548430##Deep Rock Galactic##4707
+264710##Subnautica##4608
+294100##RimWorld##3733
+15120##Tom Clancy's Rainbow Six: Vegas 2##2994
+251730##Legend of Grimrock 2##2656
+500##Left 4 Dead##2619
+200710##Torchlight II##2349
+251570##7 Days to Die##2007
+322330##Don't Starve Together##1950
+241930##Middle-earth™: Shadow of Mordor™##1771
+379720##DOOM##1758
+237990##The Banner Saga##1746
+47810##Dragon Age: Origins - Ultimate Edition##1722
+550##Left 4 Dead 2##1514
+440##Team Fortress 2##1505
+1250##Killing Floor##1419
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1387
+2400##The Ship##1356
+239070##Hammerwatch##1270
+17460##Mass Effect##1204
+219740##Don't Starve##1199
+35450##Rising Storm/Red Orchestra 2 Multiplayer##1181
+108600##Project Zomboid##1179
+212680##FTL: Faster Than Light##1099
+404410##Endless Sky##1097
+630##Alien Swarm##1047
+570##Dota 2##982
+221910##The Stanley Parable##959
+250900##The Binding of Isaac: Rebirth##943
+222880##Insurgency##901
+730##Counter-Strike: Global Offensive##859
+282800##100% Orange Juice##822
+413110##Hero's Song##811
+22330##The Elder Scrolls IV: Oblivion ##770
+218620##PAYDAY 2##712
+42910##Magicka##619
+356190##Middle-earth™: Shadow of War™##593
+620##Portal 2##573
+599390##Battle for Wesnoth##518
+220200##Kerbal Space Program##485
+15170##Heroes of Might & Magic V##483
+219340##The Banner Saga: Factions##465
+24980##Mass Effect 2##459
+20500##Red Faction: Guerrilla Steam Edition##369
+12900##Audiosurf##359
+304430##INSIDE##356
+12100##Grand Theft Auto III##354
+11020##TrackMania Nations Forever##325
+228200##Company of Heroes ##303
+729040##Borderlands GOTY Enhanced##255
+211600##Thief Gold##221
+70##Half-Life##217
+48720##Mount & Blade: With Fire and Sword##213
+17520##Synergy##213
+225840##Sven Co-op##208
+466240##Deceit##193
+1510##Uplink##183
+6910##Deus Ex: Game of the Year Edition##159
+2320##Quake II##154
+380##Half-Life 2: Episode One##149
+47920##Shift 2 Unleashed##149
+22370##Fallout 3 - Game of the Year Edition##135
+220##Half-Life 2##123
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##113
+232430##Gone Home##111
+320##Half-Life 2: Deathmatch##105
+248820##Risk of Rain##93
+1520##DEFCON##77
+50##Half-Life: Opposing Force##62
+340##Half-Life 2: Lost Coast##59
+30##Day of Defeat##42
+308600##Geneshift##26
+227260##DisplayFusion##17
+12110##Grand Theft Auto: Vice City##6
+408930##ePic Character Generator##5
+12210##Grand Theft Auto IV: The Complete Edition##1
+365720##Skyrim Script Extender (SKSE)##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+4560##Company of Heroes - Legacy Edition##0
+2200##Quake III Arena##0
+2310##Quake##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+360##Half-Life Deathmatch: Source##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+2420##The Ship Single Player##0
+2430##The Ship Tutorial##0
+1083500##PlanetSide 2 - Test##0
+238960##Path of Exile##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+25000##Overgrowth##0
+234190##Receiver##0
+6980##Thief: Deadly Shadows##0
+211740##Thief 2##0
+239160##Thief##0
+321040##DiRT 3 Complete Edition##0
+211420##DARK SOULS™: Prepare To Die Edition##0
+356670##Spooky's Jump Scare Mansion##0
+408900##Unfortunate Spacemen##0
+48000##LIMBO##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+209670##Cortex Command##0
+@@REVIEW
+397540##Not Recommended
+48720##Not Recommended

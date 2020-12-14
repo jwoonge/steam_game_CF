@@ -1,0 +1,120 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+220##Half-Life 2##0
+7650##X-COM: Terror from the Deep##0
+7200##TrackMania United Forever##0
+420##Half-Life 2: Episode Two##0
+7660##X-COM: Apocalypse##0
+22000##World of Goo##0
+18500##Defense Grid: The Awakening##0
+23500##Puzzle Quest: Galactrix##0
+12840##DiRT 2##0
+400##Portal##0
+70900##Star Ruler##0
+65800##Dungeon Defenders##0
+9350##Supreme Commander##0
+9420##Supreme Commander: Forged Alliance##0
+205530##Gratuitous Tank Battles##0
+216890##Blood Bowl: Chaos Edition##0
+200510##XCOM: Enemy Unknown##0
+43110##Metro 2033##0
+214510##LEGO® The Lord of the Rings™##0
+230410##Warframe##0
+236390##War Thunder##0
+238960##Path of Exile##0
+44350##GRID 2##0
+65930##The Bureau: XCOM Declassified##0
+208140##Endless Space##0
+244850##Space Engineers##0
+242570##Space Hulk##0
+251450##Heroes of Havoc##0
+251570##7 Days to Die##0
+8930##Sid Meier's Civilization V##0
+285160##LEGO® The Hobbit™##0
+293260##Card Hunter##0
+297000##Heroes of Might & Magic III - HD Edition##0
+298050##Master of Orion##0
+294770##Haegemonia: Legions of Iron##0
+294790##Haegemonia: The Solon Heritage##0
+244160##Homeworld Remastered Collection##0
+63380##Sniper Elite V2##0
+310560##DiRT Rally##0
+313730##Sunrider: Mask of Arcadius##0
+65980##Sid Meier's Civilization: Beyond Earth##0
+221540##Defense Grid 2##0
+312860##Defense Grid 2: A Matter of Endurance##0
+282070##This War of Mine##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+346900##AdVenture Capitalist##0
+356040##Sheltered##0
+378860##Project CARS 2##0
+396750##EVERSPACE™##0
+360170##How to Survive 2##0
+403190##Planetbase##0
+240760##Wasteland 2##0
+404730##Wasteland 2: Director's Cut##0
+404410##Endless Sky##0
+375910##Anno 2205##0
+418250##Polaris Sector##0
+236150##Starpoint Gemini 2##0
+2700##RollerCoaster Tycoon 3: Platinum!##0
+285310##RollerCoaster Tycoon: Deluxe##0
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##0
+239140##Dying Light##0
+268500##XCOM 2##0
+445720##Battle Islands: Commanders##0
+449140##Istrolid##0
+466560##Northgard##0
+494840##UBOAT##0
+504050##Planet Nomads##0
+234630##Project CARS##0
+533780##Zombie Defense##0
+507490##Ashes of the Singularity: Escalation##0
+588430##Fallout Shelter##0
+610080##Realm Grinder##0
+612020##Zombidle: REMONSTERED##0
+645630##Car Mechanic Simulator 2018##0
+323580##Jotun: Valhalla Edition##0
+705740##Car Demolition Clicker##0
+648350##Jurassic World Evolution##0
+220240##Far Cry® 3##0
+552520##Far Cry 5##0
+232050##Eador. Masters of the Broken World##0
+882100##XCOM: Chimera Squad##0
+737800##F1 2018##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+730##Counter-Strike: Global Offensive##0
+289070##Sid Meier's Civilization VI##0
+231430##Company of Heroes 2##0
+621060##PC Building Simulator##0
+359320##Elite Dangerous##0
+282100##Fearless Fantasy##0
+370910##Kathy Rain##0
+379430##Kingdom Come: Deliverance##0
+226840##Age of Wonders III##0
+1161580##Hardspace: Shipbreaker##0
+220820##Zombie Driver HD##0
+582660##Black Desert Online##0
+760620##Deiland##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+34330##Total War: SHOGUN 2##0
+1076280##Showdown Bandit##0
+1377380##Night of the Dead##0
+@@REVIEW
+232050##Not Recommended

@@ -1,0 +1,166 @@
+@@GAME
+10##Counter-Strike##92020
+386360##SMITE##27178
+730##Counter-Strike: Global Offensive##3195
+282660##Easy eSports##2300
+489520##Minion Masters##374
+262280##Dungeons 2##342
+301750##RADical ROACH Remastered##338
+526790##Monsti##334
+344130##Cataegis : The White Wind##312
+322970##Subject 13##291
+416020##Heavy Gear Assault##285
+361190##Sparkle 3 Genesis##283
+263060##Blockstorm##278
+422250##ShipLord##278
+1250##Killing Floor##274
+428430##Endorlight##271
+294040##Loot Hero DX##265
+485310##Head Shot##253
+355920##Pixel Puzzles 2: Space##250
+576440##Horror Hospital##247
+297020##The Culling Of The Cows##246
+444220##Asteroid Bounty Hunter##246
+308000##Gold Rush! Classic##245
+382120##Journey To The Center Of The Earth##245
+575490##Let's Draw##241
+518800##Lone Leader##238
+285090##Robowars##237
+350810##Pixel Puzzles 2: Anime##235
+200260##Batman: Arkham City GOTY##233
+326120##Horizon Shift##230
+321040##DiRT 3 Complete Edition##221
+448070##Red Risk##218
+522570##The Last Hope##218
+357280##Alter World##217
+447850##The Next Door##214
+466730##King's Guard TD##214
+284930##Speed Kills##210
+344300##Heckabomb##210
+562270##Shot Shot Tactic##202
+315060##Bloop Reloaded##201
+319830##AX:EL##189
+554530##CRACKHEAD##189
+434250##Masked Shooters 2##187
+252150##Grimm##185
+307070##Memories of a Vagabond##184
+378100##Nyctophobia##184
+498660##Mind Spheres##184
+509840##El Ninja (Beta)##184
+542340##Slingshot people##184
+586380##VITATIO 2##182
+463150##BARRIER X##177
+503820##A Detective's Novel##159
+351030##Pixel Puzzles Ultimate##156
+444090##Paladins##146
+345220##Agent Awesome##74
+286940##S.K.I.L.L. - Special Force 2##61
+893520##CreativeDestruction##49
+621880##Phoenix Dynasty 2##47
+295550##Royal Quest##37
+218620##PAYDAY 2##28
+378370##Nomad##25
+231430##Company of Heroes 2##24
+9480##Saints Row 2##23
+504370##Battlerite##15
+429790##AdventureQuest 3D##13
+440##Team Fortress 2##11
+227940##Heroes & Generals##10
+391460##WARMODE##8
+44350##GRID 2##7
+735360##Driver Booster 5 for Steam##5
+436520##Line of Sight##4
+35450##Rising Storm/Red Orchestra 2 Multiplayer##2
+285050##Showtime!##2
+291480##Warface##2
+321400##Supraball##2
+354860##The Adventures of Tree##2
+406090##Lost Moon##2
+455710##Project RPG Remastered##2
+540900##Nuclear Contingency##2
+305050##Outland##2
+489220##Unforgiving Trials: The Darkest Crusade##1
+319630##Life is Strange™##1
+531890##Guardian's Oath##1
+541370##Clickdraw Clicker##1
+575860##Tomb Joe##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+7760##X-COM: UFO Defense##0
+3830##Psychonauts##0
+201700##DiRT Showdown##0
+33120##Alien Shooter 2: Reloaded##0
+12750##GRID##0
+209080##Guns of Icarus Online##0
+224260##No More Room in Hell##0
+225260##Brütal Legend##0
+210770##Sanctum 2##0
+247120##Portal 2 Sixense Perceptual Pack##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+261110##Killer is Dead##0
+268870##Satellite Reign##0
+272060##Serena##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+285010##Pixel Puzzles: UndeadZ##0
+286440##Rover Rescue##0
+286570##F1 2015##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+306830##Zombies Monsters Robots##0
+315330##All Guns On Deck##0
+328100##Gunspell: Steam Edition##0
+17570##Pirates, Vikings, & Knights II##0
+331360##Heavy Metal Machines##0
+343180##Top Trumps Turbo##0
+42120##Lead and Gold - Gangs of the Wild West##0
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##0
+858460##SMITE - Public Test##0
+391720##Layers of Fear##0
+395170##DISTRAINT: Deluxe Edition##0
+382490##Relic Hunters Zero##0
+407730##Dungeons Of Kragmor##0
+365450##Hacknet##0
+397720##Romance of the Three Kingdoms Maker##0
+427920##FNaF World##0
+596350##Paladins - Public Test##0
+461910##Forge of Gods (RPG)##0
+345390##King's Quest##0
+502400##Redactem##0
+502880##The Janitor##0
+508380##Amnesia: Final Revelations##0
+510190##Lazarus##0
+530700##Argo##0
+535760##Unforgiving Trials: The Space Crusade##0
+546400##Cavern Escape##0
+529840##Brawl of Ages##0
+550210##Layers of Fear - Soundtrack##0
+570380##Death penalty: Beginning ##0
+576470##ANIMALITY##0
+342150##Games of Glory##0
+308040##Back to Bed##0
+436180##Spacelords##0
+427460##Battlerite Public Test##0
+236870##HITMAN™##0
+203770##Crusader Kings II##0
+13250##Unreal Gold##0
+608800##Guns of Icarus Alliance##0
+222880##Insurgency##0
+696370##BROKE PROTOCOL: Online City RPG##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+285800##Braveland##0
+706220##Black Desert Online SA##0
+251870##Go! Go! Nippon! ~My First Trip to Japan~##0
+555000##GOAT OF DUTY##0
+@@REVIEW
+730##Recommended
+386360##Recommended
+416020##Recommended
+10##Recommended

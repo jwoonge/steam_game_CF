@@ -1,0 +1,37 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+550##Left 4 Dead 2##0
+105600##Terraria##0
+236390##War Thunder##0
+218620##PAYDAY 2##0
+291480##Warface##0
+227940##Heroes & Generals##0
+730##Counter-Strike: Global Offensive##0
+381210##Dead by Daylight##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+513000##Kuboom##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+550650##Black Squad##0
+252950##Rocket League##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+582500##We Were Here##0
+604490##Running Through Russia##0
+700330##SCP: Secret Laboratory##0
+755790##Ring of Elysium##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+391720##Layers of Fear##0
+611500##Quake Champions##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+1046930##Dota Underlords##0
+@@REVIEW
+578080##Recommended

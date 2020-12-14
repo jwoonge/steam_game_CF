@@ -1,0 +1,153 @@
+@@GAME
+230410##Warframe##73538
+8500##EVE Online##70493
+730##Counter-Strike: Global Offensive##67047
+300##Day of Defeat: Source##35100
+500##Left 4 Dead##13943
+200710##Torchlight II##11052
+550##Left 4 Dead 2##10077
+363970##Clicker Heroes##7480
+30##Day of Defeat##6873
+219990##Grim Dawn##6207
+8980##Borderlands GOTY##6089
+72850##The Elder Scrolls V: Skyrim##5932
+238960##Path of Exile##5539
+17460##Mass Effect##5421
+24960##Battlefield: Bad Company™ 2##5286
+379720##DOOM##4536
+2760##Neverwinter Nights 2: Platinum##4495
+489830##The Elder Scrolls V: Skyrim Special Edition##4153
+20900##The Witcher: Enhanced Edition##3581
+232090##Killing Floor 2##3408
+24980##Mass Effect 2##2987
+12210##Grand Theft Auto IV: The Complete Edition##2708
+480490##Prey##2616
+17300##Crysis##2600
+43110##Metro 2033##2591
+203160##Tomb Raider##2548
+1250##Killing Floor##2395
+22370##Fallout 3 - Game of the Year Edition##1860
+99830##Crysis 2##1762
+28050##Deus Ex: Human Revolution##1648
+21090##F.E.A.R.##1538
+620##Portal 2##1353
+21690##Resident Evil 5##1197
+782330##DOOM Eternal##1125
+49520##Borderlands 2##1111
+17470##Dead Space##1070
+15130##Beyond Good & Evil##927
+440##Team Fortress 2##904
+240##Counter-Strike: Source##669
+400##Portal##636
+46510##Syberia 2##626
+12140##Max Payne##599
+12150##Max Payne 2: The Fall of Max Payne##589
+43160##Metro: Last Light##534
+9860##The Chronicles of Riddick: Assault on Dark Athena##469
+275850##No Man's Sky##451
+420##Half-Life 2: Episode Two##421
+219150##Hotline Miami##396
+12840##DiRT 2##368
+391540##Undertale##351
+714010##Aim Lab##323
+108710##Alan Wake##312
+220##Half-Life 2##284
+235540##Warhammer: End Times - Vermintide##284
+214490##Alien: Isolation##276
+10##Counter-Strike##255
+46500##Syberia##226
+13600##Prince of Persia: The Sands of Time##212
+976730##Halo: The Master Chief Collection##203
+945360##Among Us##197
+630##Alien Swarm##180
+17330##Crysis Warhead##162
+211420##DARK SOULS™: Prepare To Die Edition##157
+12130##Manhunt##154
+13210##Unreal Tournament 3: Black Edition##149
+204360##Castle Crashers##134
+380##Half-Life 2: Episode One##133
+304240##Resident Evil##133
+41000##Serious Sam HD: The First Encounter##129
+255520##Viscera Cleanup Detail: Shadow Warrior##128
+217140##Rise of the Triad##119
+41500##Torchlight##88
+13250##Unreal Gold##78
+362890##Black Mesa##70
+9200##RAGE##56
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##53
+17520##Synergy##50
+6910##Deus Ex: Game of the Year Edition##49
+13240##Unreal Tournament: Game of the Year Edition##44
+6800##Commandos: Behind Enemy Lines##44
+113200##The Binding of Isaac##44
+324800##Shadow Warrior 2##44
+21110##F.E.A.R.: Extraction Point##39
+12750##GRID##38
+57900##Duke Nukem Forever##36
+233130##Shadow Warrior##34
+219890##Antichamber##32
+611500##Quake Champions##32
+35140##Batman: Arkham Asylum GOTY Edition##28
+6060##Star Wars: Battlefront 2 (Classic, 2005)##24
+340##Half-Life 2: Lost Coast##21
+290930##Half-Life 2: Update##19
+32370##STAR WARS™: Knights of the Old Republic™##18
+47780##Dead Space 2##15
+205350##Mortal Kombat Kollection##14
+6920##Deus Ex: Invisible War##10
+70##Half-Life##8
+17340##Crysis Wars##8
+2280##The Ultimate DOOM##1
+2300##DOOM II: Hell on Earth##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+13200##Unreal II: The Awakening##0
+13230##Unreal Tournament 2004##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+729040##Borderlands GOTY Enhanced##0
+564310##Serious Sam Fusion 2017 (beta)##0
+11440##DiRT##0
+11500##ToCA Race Driver 3##0
+12800##FUEL##0
+6810##Commandos: Beyond the Call of Duty##0
+6830##Commandos 2: Men of Courage##0
+6840##Commandos 3: Destination Berlin##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12160##Midnight Club II##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12190##Wild Metal Country##0
+12200##Bully: Scholarship Edition##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+21120##F.E.A.R.: Perseus Mandate##0
+21100##F.E.A.R. 3##0
+42910##Magicka##0
+13500##Prince of Persia: Warrior Within##0
+13530##Prince of Persia: The Two Thrones##0
+19980##Prince of Persia##0
+33320##Prince of Persia: The Forgotten Sands##0
+16450##F.E.A.R. 2: Project Origin##0
+32800##The Lord of the Rings: War in the North##0
+201280##Deus Ex: Human Revolution - The Missing Link##0
+22380##Fallout: New Vegas##0
+200260##Batman: Arkham City GOTY##0
+202750##Alan Wake's American Nightmare##0
+205790##Dota 2 Test##0
+218680##Scribblenauts Unlimited##0
+2290##Final DOOM##0
+9160##Master Levels for DOOM II##0
+111900##Guardians of Middle-earth##0
+287290##Resident Evil Revelations 2##0
+232150##Killing Floor 2 - SDK##0
+741820##Prey: Typhon Hunter##0
+948900##macdows 95##0
+@@REVIEW

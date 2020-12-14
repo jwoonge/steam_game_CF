@@ -1,0 +1,60 @@
+@@GAME
+730##Counter-Strike: Global Offensive##67920
+10##Counter-Strike##11542
+295110##Just Survive##6349
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##5210
+570##Dota 2##5099
+238320##Outlast##3035
+413150##Stardew Valley##2015
+644930##They Are Billions##1895
+213670##South Park™: The Stick of Truth™##1509
+365590##Tom Clancy's The Division##1337
+252330##Slender: The Arrival##1054
+221100##DayZ##925
+203140##Hitman: Absolution##865
+433850##Z1 Battle Royale##804
+323190##Frostpunk##705
+240##Counter-Strike: Source##669
+242920##Banished##465
+49520##Borderlands 2##415
+201810##Wolfenstein: The New Order##339
+39120##RIFT##206
+1046930##Dota Underlords##189
+72850##The Elder Scrolls V: Skyrim##115
+304390##For Honor##111
+282070##This War of Mine##102
+489830##The Elder Scrolls V: Skyrim Special Edition##101
+243470##Watch_Dogs##90
+480490##Prey##73
+440##Team Fortress 2##61
+252490##Rust##50
+39140##FINAL FANTASY VII##34
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##30
+2400##The Ship##27
+328070##Reflex Arena##23
+28050##Deus Ex: Human Revolution##10
+224580##Arma 2: DayZ Mod##4
+239120##FINAL FANTASY III##2
+33930##Arma 2: Operation Arrowhead##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+33900##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+2420##The Ship Single Player##0
+2430##The Ship Tutorial##0
+350080##Wolfenstein: The Old Blood ##0
+524440##Tom Clancy's The Division PTS##0
+654310##For Honor - Public Test##0
+@@REVIEW

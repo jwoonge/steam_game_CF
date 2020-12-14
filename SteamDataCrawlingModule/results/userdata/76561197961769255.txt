@@ -1,0 +1,336 @@
+@@GAME
+250820##SteamVR##120825
+440##Team Fortress 2##120008
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##33628
+382110##Virtual Desktop##24000
+24960##Battlefield: Bad Company™ 2##12667
+377160##Fallout 4##11620
+4920##Natural Selection 2##9876
+72850##The Elder Scrolls V: Skyrim##9030
+346110##ARK: Survival Evolved##7528
+457140##Oxygen Not Included##5820
+286160##Tabletop Simulator##5561
+238960##Path of Exile##5171
+271590##Grand Theft Auto V##4936
+22380##Fallout: New Vegas##4739
+264710##Subnautica##4424
+489830##The Elder Scrolls V: Skyrim Special Edition##3671
+413150##Stardew Valley##3427
+1174180##Red Dead Redemption 2##3411
+570##Dota 2##3221
+632360##Risk of Rain 2##3045
+8980##Borderlands GOTY##2983
+550##Left 4 Dead 2##2973
+105600##Terraria##2931
+812140##Assassin's Creed Odyssey##2346
+8930##Sid Meier's Civilization V##2202
+8870##BioShock Infinite##2115
+275850##No Man's Sky##2115
+239140##Dying Light##1879
+333930##Dirty Bomb##1758
+433850##Z1 Battle Royale##1747
+261640##Borderlands: The Pre-Sequel##1699
+552520##Far Cry 5##1592
+359320##Elite Dangerous##1587
+219740##Don't Starve##1480
+49520##Borderlands 2##1452
+620##Portal 2##1225
+552500##Warhammer: Vermintide 2##1185
+730##Counter-Strike: Global Offensive##1148
+221100##DayZ##1105
+220200##Kerbal Space Program##1082
+8190##Just Cause 2##1069
+548570##RAGE 2##1054
+379720##DOOM##1039
+55230##Saints Row: The Third##1015
+252950##Rocket League##1007
+292030##The Witcher 3: Wild Hunt##1004
+438100##VRChat##993
+4550##Titan Quest: Immortal Throne##943
+611670##The Elder Scrolls V: Skyrim VR##905
+1091500##Cyberpunk 2077##890
+403640##Dishonored 2##759
+306130##The Elder Scrolls Online##758
+500##Left 4 Dead##754
+440900##Conan Exiles##744
+22350##BRINK##728
+9200##RAGE##710
+361420##ASTRONEER##710
+41500##Torchlight##679
+43110##Metro 2033##601
+91310##Dead Island##572
+611500##Quake Champions##545
+240##Counter-Strike: Source##532
+367450##Poly Bridge##532
+450540##Hot Dogs, Horseshoes & Hand Grenades##517
+220##Half-Life 2##513
+546560##Half-Life: Alyx##484
+232090##Killing Floor 2##458
+212680##FTL: Faster Than Light##447
+367520##Hollow Knight##447
+218230##PlanetSide 2##409
+617290##Remnant: From the Ashes##397
+620980##Beat Saber##391
+31290##Back to the Future: Ep 1 - It's About Time##366
+55100##Homefront##365
+42910##Magicka##363
+241930##Middle-earth™: Shadow of Mordor™##352
+65800##Dungeon Defenders##346
+43160##Metro: Last Light##326
+648800##Raft##305
+207210##Tony Hawk's Pro Skater HD##298
+287390##Metro: Last Light Redux##274
+213670##South Park™: The Stick of Truth™##270
+281990##Stellaris##257
+28050##Deus Ex: Human Revolution##255
+356400##Thumper##242
+729040##Borderlands GOTY Enhanced##240
+1520##DEFCON##239
+200710##Torchlight II##237
+739630##Phasmophobia##232
+17080##Tribes: Ascend##230
+57400##Batman: Arkham City™##227
+321040##DiRT 3 Complete Edition##222
+268910##Cuphead##222
+400##Portal##216
+94500##Back to the Future: Ep 2 - Get Tannen!##214
+737010##Warhammer: Vermintide 2 Closed Test##211
+755770##YouTube VR##210
+17330##Crysis Warhead##205
+381210##Dead by Daylight##205
+40800##Super Meat Boy##201
+207610##The Walking Dead##201
+342180##Arizona Sunshine##201
+94510##Back to the Future: Ep 3 - Citizen Brown##190
+104700##Super Monday Night Combat##190
+630##Alien Swarm##178
+55110##Red Faction: Armageddon##170
+233720##Surgeon Simulator##168
+489940##BATTALION 1944##167
+782330##DOOM Eternal##167
+108710##Alan Wake##159
+348250##Google Earth VR##159
+383870##Firewatch##151
+31280##Poker Night at the Inventory##146
+35720##Trine 2##139
+246620##Plague Inc: Evolved##129
+17340##Crysis Wars##128
+63200##Monday Night Combat##123
+362890##Black Mesa##117
+488790##South Park The Fractured But Whole##117
+44320##DiRT 3##116
+848450##Subnautica: Below Zero##116
+412740##Audioshield##112
+550040##Steep Open Beta##111
+102600##Orcs Must Die!##107
+273350##Evolve Stage 2##106
+48000##LIMBO##105
+823500##BONEWORKS##103
+98400##Hard Reset##97
+450390##The Lab##96
+218680##Scribblenauts Unlimited##94
+205710##EverQuest Free-to-Play##91
+469610##Rick and Morty: Virtual Rick-ality##91
+235540##Warhammer: End Times - Vermintide##90
+200510##XCOM: Enemy Unknown##81
+518580##Accounting##79
+223390##Forge##76
+1046930##Dota Underlords##72
+2320##Quake II##71
+203810##Dear Esther##67
+548430##Deep Rock Galactic##66
+249990##FORCED##65
+107100##Bastion##64
+219640##Chivalry: Medieval Warfare##61
+544920##Darwin Project##59
+221260##Little Inferno##56
+319630##Life is Strange™##55
+518030##Aim Hero##54
+252490##Rust##50
+219890##Antichamber##47
+471710##Rec Room##47
+529150##Lazerbait##45
+411820##The FOO Show##43
+238320##Outlast##36
+209540##Strike Suit Zero##34
+224580##Arma 2: DayZ Mod##34
+282440##Quake Live##32
+418650##Space Pirate Trainer##32
+235780##MINERVA: Metastasis##29
+203160##Tomb Raider##26
+300##Day of Defeat: Source##24
+205950##Jet Set Radio##24
+493340##Planet Coaster##24
+657200##Hand Simulator##24
+239030##Papers, Please##22
+319510##Five Nights at Freddy's##22
+629730##Blade & Sorcery##22
+560170##STAR WARS™: Shadows of the Empire##21
+503580##Duck Season##19
+95300##Capsized##17
+30##Day of Defeat##16
+485230##HALP!##16
+635680##Alien Covenant In Utero: ALIEN: COVENANT In Utero##16
+57300##Amnesia: The Dark Descent##15
+868020##Aperture Hand Lab##15
+457420##Surgeon Simulator VR: Meet The Medic##13
+598070##Nevrosa: Prelude##12
+10##Counter-Strike##11
+381940##Trials on Tatooine##11
+1079800##Pistol Whip##11
+204360##Castle Crashers##10
+71230##Crazy Taxi##9
+624460##Fantasynth One##9
+33930##Arma 2: Operation Arrowhead##8
+225600##Blade Symphony##8
+65300##Dustforce##7
+4540##Titan Quest##6
+233550##Another World##5
+242760##The Forest##5
+410390##Warhammer: Vermintide VR - Hero Trials##4
+448280##Job Simulator##4
+70##Half-Life##3
+2200##Quake III Arena##2
+380##Half-Life 2: Episode One##1
+33900##Arma 2##1
+201790##Orcs Must Die! 2##1
+613920##A CHALLENGE##1
+633210##The Hunger Games 360##1
+916840##The Walking Dead: Saints & Sinners##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+4000##Garry's Mod##0
+475150##Titan Quest Anniversary Edition##0
+2310##Quake##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+420##Half-Life 2: Episode Two##0
+24740##Burnout Paradise: The Ultimate Box##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+17410##Mirror's Edge##0
+94520##Back to the Future: Ep 4 - Double Visions##0
+94530##Back to the Future: Ep 5 - OUTATIME##0
+35130##Lara Croft and the Guardian of Light##0
+39120##RIFT##0
+22650##Alien Breed 2: Assault##0
+24240##PAYDAY: The Heist##0
+205790##Dota 2 Test##0
+200260##Batman: Arkham City GOTY##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+520720##Dear Esther: Landmark Edition##0
+207570##English Country Tune##0
+207650##A Virus Named TOM##0
+108800##Crysis 2 Maximum Edition##0
+3830##Psychonauts##0
+204060##Superbrothers: Sword & Sworcery EP##0
+200390##Oil Rush##0
+205910##Tiny and Big: Grandpa's Leftovers##0
+202750##Alan Wake's American Nightmare##0
+204300##Awesomenauts##0
+215510##Rocketbirds: Hardboiled Chicken##0
+214970##Intrusion 2##0
+214560##Mark of the Ninja##0
+220780##Thomas Was Alone##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+322330##Don't Starve Together##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+50620##Darksiders##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+214510##LEGO® The Lord of the Rings™##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+212480##Sonic & All-Stars Racing Transformed Collection##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+208090##Loadout##0
+212070##Star Conflict##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+225260##Brütal Legend##0
+224760##FEZ##0
+9480##Saints Row 2##0
+40390##Risen 2 - Dark Waters##0
+225640##Sacred 2 Gold##0
+950670##Gothic Playable Teaser##0
+225080##Brothers - A Tale of Two Sons##0
+232430##Gone Home##0
+209000##Batman™: Arkham Origins##0
+214550##Eets Munchies##0
+221910##The Stanley Parable##0
+265930##Goat Simulator##0
+25000##Overgrowth##0
+234190##Receiver##0
+271290##HAWKEN##0
+277930##TUG##0
+288160##The Room##0
+306760##Obduction##0
+316010##Magic Duels##0
+322500##SUPERHOT##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+326960##Killing Floor - Toy Master##0
+327690##Gigantic##0
+407530##ARK: Survival Of The Fittest##0
+232150##Killing Floor 2 - SDK##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+389260##Lucid Trips##0
+400940##Budget Cuts##0
+425580##The Room Two##0
+439700##H1Z1: Test Server##0
+455910##STAR WARS™: Rogue Squadron 3D##0
+457550##Bigscreen Beta##0
+453170##Destinations##0
+491790##Project Syria##0
+496240##Onward##0
+517130##Soundboxing##0
+520010##Climbey##0
+530620##Resident Evil 7 Teaser: Beginning Hour##0
+553640##ICEY##0
+555880##Sairento VR##0
+578620##GORN##0
+600140##Belko VR: An Escape Room Experiment##0
+582660##Black Desert Online##0
+617830##SUPERHOT VR##0
+635681##Alien Covenant In Utero: 异形 ：契约##0
+635682##Alien Covenant In Utero: ALIEN : COVENANT In Utero (French)##0
+635683##Alien Covenant In Utero: Alien: Covenant – In Utero (German)##0
+635684##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Italian)##0
+635685##Alien Covenant In Utero: 『エイリアン : コヴェナント』 - 胎内-##0
+635686##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Spanish)##0
+635687##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Norwegian)##0
+635688##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Brazilian Portugese)##0
+635689##Alien Covenant In Utero: VR-видео «ЧУЖОЙ: В УТРОБЕ»##0
+635690##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Castilian Spanish)##0
+635691##Alien Covenant In Utero: เอเลี่ยน: โคเวแนนท์##0
+646570##Slay the Spire##0
+218620##PAYDAY 2##0
+743650##Quake Champions PTS##0
+368420##Mirage: Arcane Warfare##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+700580##Rust - Staging Branch##0
+809960##Radical Heights##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+931180##Conan Exiles - Testlive Client##0
+883710##Resident Evil 2##0
+1057090##Ori and the Will of the Wisps##0
+1148590##DOOM 64##0
+835950##Transpose##0
+@@REVIEW
+450540##Recommended

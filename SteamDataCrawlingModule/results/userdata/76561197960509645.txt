@@ -1,0 +1,196 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+11200##Shadowgrounds: Survivor##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+35700##Trine##0
+23490##Tropico 3 - Steam Special Edition##0
+41000##Serious Sam HD: The First Encounter##0
+564310##Serious Sam Fusion 2017 (beta)##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+42910##Magicka##0
+70000##Dino D-Day##0
+7530##Two Worlds II Castle Defense##0
+205790##Dota 2 Test##0
+730##Counter-Strike: Global Offensive##0
+204360##Castle Crashers##0
+49520##Borderlands 2##0
+207730##Arena Wars 2##0
+220240##Far Cry® 3##0
+227300##Euro Truck Simulator 2##0
+51100##Tactical Intervention##0
+109600##Neverwinter##0
+207230##Archeblade##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+238960##Path of Exile##0
+243870##Tom Clancy's Ghost Recon Phantoms - NA##0
+202090##Magicka: Wizard Wars##0
+224260##No More Room in Hell##0
+256410##Might & Magic: Duel of Champions##0
+221040##Resident Evil 6##0
+65790##Arma: Cold War Assault##0
+44350##GRID 2##0
+234710##Poker Night 2##0
+222480##Resident Evil Revelations##0
+35720##Trine 2##0
+237110##Mortal Kombat Komplete Edition##0
+224540##Ace of Spades##0
+6880##Just Cause##0
+8190##Just Cause 2##0
+218620##PAYDAY 2##0
+250580##Paranautical Activity: Deluxe Atonement Edition##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+253880##Earth 2150 Trilogy##0
+259280##Earth 2150: The Moon Project##0
+259300##Earth 2150: Lost Souls##0
+107410##Arma 3##0
+258200##Talisman: Prologue##0
+238430##Contagion##0
+249130##LEGO® MARVEL Super Heroes##0
+39210##FINAL FANTASY XIV Online##0
+264340##Major Mayhem##0
+268850##EVGA Precision X1##0
+550##Left 4 Dead 2##0
+247730##Nether##0
+271590##Grand Theft Auto V##0
+222900##Dead Island: Epidemic##0
+250180##METAL SLUG 3##0
+282660##Easy eSports##0
+254700##Resident Evil 4##0
+286320##Oknytt##0
+209160##Call of Duty: Ghosts##0
+209170##Call of Duty: Ghosts - Multiplayer##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+297070##Nicolas Eymerich The Inquisitor Book II : The Village##0
+299740##Miscreated##0
+912290##Miscreated: Experimental Server##0
+301640##Zombie Army Trilogy##0
+304930##Unturned##0
+311480##Vertical Drop Heroes HD##0
+312050##Red Johnson's Chronicles - 1+2 - Steam Special Edition##0
+227940##Heroes & Generals##0
+316010##Magic Duels##0
+319910##Trine 3: The Artifacts of Power##0
+321040##DiRT 3 Complete Edition##0
+250400##How to Survive##0
+21690##Resident Evil 5##0
+323370##TERA##0
+261640##Borderlands: The Pre-Sequel##0
+331360##Heavy Metal Machines##0
+333930##Dirty Bomb##0
+337410##Karos##0
+339610##FreeStyle 2: Street Basketball##0
+323470##DRAGON BALL XENOVERSE##0
+349700##Aftermath##0
+355650##Pirates vs Corsairs: Davy Jones's Gold##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##0
+371100##Waste Walkers##0
+374040##Portal Knights##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+393420##Hurtworld##0
+445900##Hurtworld SDK##0
+252950##Rocket League##0
+280790##Creativerse##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+239140##Dying Light##0
+431240##Golf With Your Friends##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+275850##No Man's Sky##0
+381210##Dead by Daylight##0
+466890##Z.I.O.N.##0
+470220##UNO##0
+474960##Quantum Break##0
+442080##Riders of Icarus##0
+273350##Evolve Stage 2##0
+312660##Sniper Elite 4##0
+292030##The Witcher 3: Wild Hunt##0
+530700##Argo##0
+533300##Zup!##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+550650##Black Squad##0
+555570##Infestation: The New Z##0
+560380##MapleStory 2##0
+436520##Line of Sight##0
+489520##Minion Masters##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+586030##Shardbound##0
+460930##Tom Clancy's Ghost Recon® Wildlands##0
+601510##Yu-Gi-Oh! Duel Links##0
+506540##Last Man Standing##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+755790##Ring of Elysium##0
+770240##PRO EVOLUTION SOCCER 2019##0
+874240##MU Legend##0
+611500##Quake Champions##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+945360##Among Us##0
+231430##Company of Heroes 2##0
+1046930##Dota Underlords##0
+1091500##Cyberpunk 2077##0
+1085660##Destiny 2##0
+617290##Remnant: From the Ashes##0
+374280##Hired Ops##0
+690640##Trine 4: The Nightmare Prince##0
+1222680##Need for Speed™ Heat ##0
+203160##Tomb Raider##0
+1343400##RuneScape##0
+1404210##Red Dead Online##0
+@@REVIEW
+945360##Recommended
+1085660##Recommended
+578080##Recommended
+570##Recommended
+730##Recommended

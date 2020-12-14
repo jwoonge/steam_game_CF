@@ -1,0 +1,50 @@
+@@GAME
+730##Counter-Strike: Global Offensive##418
+240##Counter-Strike: Source##283
+1145360##Hades##150
+270010##Time Rifters##134
+220##Half-Life 2##120
+278360##A Story About My Uncle##107
+238370##Magicka 2##100
+507490##Ashes of the Singularity: Escalation##59
+658560##Zup! 7##58
+281990##Stellaris##53
+226840##Age of Wonders III##48
+383150##Dead Island Definitive Edition##48
+292910##Deponia: The Complete Journey##47
+310560##DiRT Rally##47
+239140##Dying Light##47
+403640##Dishonored 2##47
+44350##GRID 2##46
+208140##Endless Space##46
+225540##Just Cause 3##46
+239160##Thief##45
+292030##The Witcher 3: Wild Hunt##45
+544330##Snake Pass##45
+368230##Kingdom: Classic##45
+217980##Dishonored RHCP##41
+10##Counter-Strike##3
+60##Ricochet##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+8190##Just Cause 2##0
+67370##The Darkness II##0
+397080##Magicka 2: Spell Balance Beta##0
+371140##Aegis Defenders##0
+614570##Dishonored®: Death of the Outsider™ ##0
+729660##Blackout Z: Slaughterhouse Edition##0
+489520##Minion Masters##0
+@@REVIEW
+278360##Recommended
+1145360##Recommended
+220##Recommended

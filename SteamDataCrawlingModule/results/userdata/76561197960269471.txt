@@ -1,0 +1,52 @@
+@@GAME
+730##Counter-Strike: Global Offensive##410330
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##260564
+24960##Battlefield: Bad Company™ 2##9834
+10##Counter-Strike##8826
+755790##Ring of Elysium##4936
+271590##Grand Theft Auto V##1408
+221100##DayZ##910
+365590##Tom Clancy's The Division##881
+440##Team Fortress 2##856
+813820##Realm Royale##666
+550##Left 4 Dead 2##381
+433850##Z1 Battle Royale##341
+594650##Hunt: Showdown##282
+500##Left 4 Dead##182
+359550##Tom Clancy's Rainbow Six Siege##157
+295110##Just Survive##138
+218620##PAYDAY 2##134
+380600##Fishing Planet##57
+1213210##Command & Conquer™ Remastered Collection##55
+236110##Dungeon Defenders II##49
+300##Day of Defeat: Source##48
+630##Alien Swarm##22
+49520##Borderlands 2##20
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+7940##Call of Duty 4: Modern Warfare##0
+55230##Saints Row: The Third##0
+205790##Dota 2 Test##0
+109600##Neverwinter##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+524440##Tom Clancy's The Division PTS##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+770720##Hunt: Showdown (Test Server)##0
+878760##Realm Royale - Test Server##0
+611500##Quake Champions##0
+761890##Albion Online##0
+@@REVIEW

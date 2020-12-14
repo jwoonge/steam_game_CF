@@ -1,0 +1,31 @@
+@@GAME
+10##Counter-Strike##16911
+730##Counter-Strike: Global Offensive##14045
+570##Dota 2##11250
+444200##World of Tanks Blitz##1994
+407250##Pro Evolution Soccer 2016 myClub##289
+380600##Fishing Planet##12
+273110##Counter-Strike Nexon: Studio##7
+20##Team Fortress Classic##5
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+1930##Two Worlds: Epic Edition##0
+224220##Pressure##0
+253900##Knights and Merchants##0
+253980##Enclave##0
+254000##East India Company Gold##0
+254020##Commander: Conquest of the Americas Gold##0
+254040##Pirates of Black Cove Gold##0
+254060##KnightShift##0
+259300##Earth 2150: Lost Souls##0
+205790##Dota 2 Test##0
+335330##Brick-Force##0
+340540##TDP4:Team Battle##0
+449680##SAMOLIOTIK##0
+502910##The Return Home Remastered##0
+508380##Amnesia: Final Revelations##0
+@@REVIEW

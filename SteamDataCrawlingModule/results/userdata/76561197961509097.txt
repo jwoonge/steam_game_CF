@@ -1,0 +1,282 @@
+@@GAME
+730##Counter-Strike: Global Offensive##163252
+252490##Rust##158137
+440##Team Fortress 2##150698
+10##Counter-Strike##144512
+70##Half-Life##144479
+130##Half-Life: Blue Shift##134968
+50##Half-Life: Opposing Force##131565
+60##Ricochet##121666
+292030##The Witcher 3: Wild Hunt##97283
+552500##Warhammer: Vermintide 2##94986
+33930##Arma 2: Operation Arrowhead##94021
+33910##Arma 2##93537
+235540##Warhammer: End Times - Vermintide##91392
+30##Day of Defeat##90551
+552520##Far Cry 5##81598
+40##Deathmatch Classic##80712
+316790##Grim Fandango Remastered##80701
+443880##Loot Rascals##80693
+107410##Arma 3##71831
+227300##Euro Truck Simulator 2##69580
+486640##Cheaters Blackjack 21##68434
+20##Team Fortress Classic##65645
+570##Dota 2##63247
+270880##American Truck Simulator##62085
+700580##Rust - Staging Branch##61029
+340##Half-Life 2: Lost Coast##60321
+220##Half-Life 2##60315
+676730##Behind The Door##58608
+718920##Dead Noir the Heart##58593
+600230##Epsilon Jump Prime##58586
+722910##LightTrack##58578
+465650##Out of the Park Baseball 18##58571
+257170##Rebuild 3: Gangs of Deadsville##58567
+596630##Ricochet Kills: Noir##58559
+434960##Rolling Gauntlet##58556
+397340##SimplePlanes##58541
+236390##War Thunder##54591
+223850##3DMark##53529
+387290##Ori and the Blind Forest: Definitive Edition##53341
+438740##Friday the 13th: The Game##53213
+289070##Sid Meier's Civilization VI##51905
+620##Portal 2##51568
+261980##Half-Life: Before##50476
+383080##Sakura Clicker##50381
+210770##Sanctum 2##50354
+400##Portal##41099
+433850##Z1 Battle Royale##41085
+17510##Age of Chivalry##41015
+105600##Terraria##41003
+652980##Loading Screen Simulator##40610
+225260##Brütal Legend##40580
+457890##TumbleSeed##40140
+255710##Cities: Skylines##24884
+693190##Survival driver 2: Heavy vehicles##24846
+4000##Garry's Mod##23016
+420290##Blackwake##22319
+233290##MURDERED: SOUL SUSPECT™##22285
+220240##Far Cry® 3##22269
+456440##The Orphan Dreams##18019
+379720##DOOM##12964
+517630##Just Cause 4##12757
+413150##Stardew Valley##12676
+503560##911 Operator##12485
+230410##Warframe##12484
+737010##Warhammer: Vermintide 2 Closed Test##10508
+239820##Game Dev Tycoon##9916
+394360##Hearts of Iron IV##9913
+562570##Access Denied##9528
+252130##Divide by Sheep##9521
+632360##Risk of Rain 2##2340
+1174180##Red Dead Redemption 2##2163
+431960##Wallpaper Engine##955
+1397920##Mr.Mine##733
+201810##Wolfenstein: The New Order##492
+612880##Wolfenstein II: The New Colossus##405
+753640##Outer Wilds##326
+252950##Rocket League##245
+386360##SMITE##200
+374320##DARK SOULS™ III##163
+410900##Forts##75
+278360##A Story About My Uncle##63
+582500##We Were Here##60
+588430##Fallout Shelter##60
+312660##Sniper Elite 4##56
+444640##Bloons TD Battles##44
+265210##Viscera Cleanup Detail: Santa's Rampage##42
+246420##Kingdom Rush##41
+665180##Dark Elf##31
+512300##Unbox##26
+550650##Black Squad##21
+238960##Path of Exile##20
+462930##AdVenture Communist##12
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##12
+398710##Timberman##2
+878750##Hentai Girl##2
+963690##Hentai Girl Hime##2
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+320##Half-Life 2: Deathmatch##0
+380##Half-Life 2: Episode One##0
+4230##Race: The WTCC Game##0
+4290##RACE: Caterham Expansion##0
+420##Half-Life 2: Episode Two##0
+8600##RACE 07##0
+8660##GTR Evolution##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+500##Left 4 Dead##0
+41100##Hammerfight##0
+550##Left 4 Dead 2##0
+18820##Zero Gear##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+35320##Insane 2##0
+7520##Two Worlds II##0
+205830##Luxor Evolved##0
+60800##Numen: Contest of Heroes##0
+209520##Mini Motor Racing EVO##0
+1303990##Mini Motor Racing X##0
+210950##Rune Classic##0
+50300##Spec Ops: The Line##0
+216930##Luxor Amun Rising HD##0
+44690##GT Legends##0
+65790##Arma: Cold War Assault##0
+16020##Samantha Swift and the Hidden Roses of Athena##0
+16040##Luxor: Quest for the Afterlife##0
+32110##Luxor Mahjong##0
+12640##Drakensang##0
+65930##The Bureau: XCOM Declassified##0
+238210##System Shock 2##0
+243120##Betrayer##0
+228960##Skulls of the Shogun##0
+244710##Shelter 1##0
+241620##Inquisitor##0
+218620##PAYDAY 2##0
+250620##Among the Sleep##0
+252830##Claire##0
+253900##Knights and Merchants##0
+254320##Duskers##0
+245410##Wizardry 6: Bane of the Cosmic Forge##0
+245430##Wizardry 7: Crusaders of the Dark Savant##0
+215630##Demonicon##0
+255870##PixelJunk™ Shooter##0
+251170##Damned##0
+258220##Blood Knights##0
+219830##King Arthur's Gold##0
+261760##Lichdom: Battlemage##0
+262690##Little Racers STREET##0
+262830##Crimsonland##0
+263400##War of the Human Tanks##0
+264080##Vangers##0
+264200##One Finger Death Punch##0
+4800##Heroes of Annihilated Empires##0
+270770##Etherlords##0
+270790##Etherlords II##0
+208670##Blades of Time##0
+233350##Sudeki##0
+281280##Mashed##0
+116100##Super Toy Cars##0
+285820##Action Henk##0
+286320##Oknytt##0
+286340##FarSky##0
+293180##Overcast - Walden and the Werewolf##0
+293460##I Shall Remain##0
+296490##GemCraft - Chasing Shadows##0
+296710##Monstrum ##0
+298600##Lovely Planet##0
+312230##Spirits of Xanadu##0
+315860##Celestian Tales: Old North##0
+317040##Strife: Veteran Edition##0
+318230##Convoy##0
+321870##Silence of the Sleep##0
+325090##Deep Dungeons of Doom##0
+336030##Race.a.bit##0
+338060##Mahjong Pretty Girls Battle##0
+340050##Survivalist##0
+343360##Particula##0
+351990##Riff Racer##0
+354400##Tadpole Treble##0
+361190##Sparkle 3 Genesis##0
+364930##Koi-Koi Japan [Hanafuda playing cards]##0
+379960##Mahjong Pretty Girls Battle : School Girls Edition##0
+383700##Boneless Zombie##0
+383710##Princess KAGUYA##0
+858460##SMITE - Public Test##0
+261570##Ori and the Blind Forest##0
+392070##Pumped BMX +##0
+393980##Pretty Girls Mahjong Solitaire##0
+395170##DISTRAINT: Deluxe Edition##0
+397430##Zoombinis##0
+401190##Dinosaur Hunt##0
+407720##Poker Pretty Girls Battle: Texas Hold'em##0
+407780##Lethe - Episode One##0
+409100##The Purring Quest##0
+412880##Drift Streets Japan##0
+418300##Wick##0
+422250##ShipLord##0
+427030##軒轅劍外傳穹之扉(The Gate of Firmament)##0
+432010##World's Dawn##0
+438080##Surfingers##0
+438680##One Troll Army##0
+440730##Survival Zombies The Inverted Evolution##0
+440880##The Count Lucanor##0
+441870##OutDrive##0
+444220##Asteroid Bounty Hunter##0
+447890##Cat on a Diet##0
+448070##Red Risk##0
+450670##Table Top Racing: World Tour##0
+456810##Zombillie##0
+463150##BARRIER X##0
+463930##The Dweller##0
+466500##35MM##0
+467950##Survive in Space##0
+468490##Neon Space##0
+484830##Deep Blue##0
+319630##Life is Strange™##0
+505210##Neon Space 2##0
+506730##Dinosaur Forest##0
+508180##Fly and Destroy##0
+522210##Serial Cleaner##0
+522240##Pool Panic##0
+366640##Shiness: The Lightning Kingdom##0
+528660##Spin Rush##0
+529160##Moékuri: Adorable + Tactical SRPG##0
+538070##Bad Dream: Coma##0
+540610##Delicious! Pretty Girls Mahjong Solitaire##0
+546930##Machine Hunt##0
+555570##Infestation: The New Z##0
+556280##Neon Prism##0
+556870##Charlie's Adventure##0
+562470##天使帝國四《Empire of Angels IV》##0
+565720##Pretty Girls Panic!##0
+567280##Cube Runner##0
+567290##Slash It##0
+567580##Duke of Alpha Centauri##0
+575950##Blood Feed##0
+581230##Soul Saber 2##0
+583760##Slash It 2##0
+586960##Upside Down##0
+586970##Hungry Flame##0
+629440##Graze Counter##0
+374040##Portal Knights##0
+644570##Material Girl##0
+278910##Interplanetary##0
+650220##Interplanetary: Enhanced Edition##0
+650490##Dinosaur Hunt First Blood##0
+654610##Mr. Dubstep##0
+656610##Red Wake Carnage##0
+656880##Cybercube##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+674940##Stick Fight: The Game##0
+680320##The Heiress##0
+686190##Killing Time##0
+696360##仙劍奇俠傳六 (Chinese Paladin：Sword and Fairy 6)##0
+705710##Sense of The Devil##0
+709840##Bloody Glimpse##0
+709870##West of Red##0
+722870##The Mind of Marlo##0
+724430##Knights Hunt##0
+755790##Ring of Elysium##0
+475150##Titan Quest Anniversary Edition##0
+779360##Instant Death##0
+781260##Marco Polo##0
+790810##Voxel Baller##0
+439700##H1Z1: Test Server##0
+834060##Goblin Walker##0
+570940##DARK SOULS™: REMASTERED##0
+203770##Crusader Kings II##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+611500##Quake Champions##0
+897030##Paratopic##0
+450390##The Lab##0
+282100##Fearless Fantasy##0
+226840##Age of Wonders III##0
+@@REVIEW
+456440##Recommended
+730##Recommended

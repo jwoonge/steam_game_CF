@@ -1,0 +1,12 @@
+@@GAME
+10##Counter-Strike##525
+730##Counter-Strike: Global Offensive##375
+20##Team Fortress Classic##374
+30##Day of Defeat##374
+40##Deathmatch Classic##373
+50##Half-Life: Opposing Force##373
+70##Half-Life##373
+130##Half-Life: Blue Shift##373
+60##Ricochet##0
+310560##DiRT Rally##0
+@@REVIEW

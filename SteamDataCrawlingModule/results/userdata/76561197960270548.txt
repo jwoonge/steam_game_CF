@@ -1,0 +1,272 @@
+@@GAME
+730##Counter-Strike: Global Offensive##449378
+242760##The Forest##15320
+232090##Killing Floor 2##6782
+438740##Friday the 13th: The Game##6262
+306830##Zombies Monsters Robots##5993
+232150##Killing Floor 2 - SDK##4460
+620##Portal 2##3466
+110800##L.A. Noire##3351
+211##Source SDK##2563
+543460##Dead Rising 4##1971
+489520##Minion Masters##1618
+254700##Resident Evil 4##1577
+45770##Dead Rising 2: Off the Record##1540
+45740##Dead Rising 2##1514
+291480##Warface##1425
+239140##Dying Light##1062
+265550##Dead Rising 3##1005
+10##Counter-Strike##961
+550650##Black Squad##805
+108710##Alan Wake##784
+427190##Dead Rising##558
+274940##Depth##538
+386180##Crossout##446
+227940##Heroes & Generals##438
+795100##Friday the 13th: Killer Puzzle##377
+295110##Just Survive##367
+80##Counter-Strike: Condition Zero##309
+12100##Grand Theft Auto III##220
+809960##Radical Heights##213
+431960##Wallpaper Engine##189
+12200##Bully: Scholarship Edition##178
+301640##Zombie Army Trilogy##161
+755790##Ring of Elysium##148
+386360##SMITE##131
+222880##Insurgency##115
+740290##Irony Of Nightmare##105
+262510##Crimson Room: Decade##67
+332950##Dark Deception##54
+6220##FlatOut##46
+1840##Source Filmmaker##40
+22350##BRINK##39
+530330##Blameless##34
+213670##South Park™: The Stick of Truth™##20
+223470##POSTAL 2##12
+291550##Brawlhalla##9
+49520##Borderlands 2##8
+70##Half-Life##1
+130##Half-Life: Blue Shift##1
+306040##The Howler##1
+413850##CS:GO Player Profiles##1
+497813##CS:GO Player Profiles: Hiko - Team Liquid##1
+218620##PAYDAY 2##1
+704040##Castle Clicker##1
+884660##CRSED##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+320##Half-Life 2: Deathmatch##0
+380##Half-Life 2: Episode One##0
+7000##Tomb Raider: Legend##0
+8000##Tomb Raider: Anniversary##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+500##Left 4 Dead##0
+8140##Tomb Raider: Underworld##0
+9480##Saints Row 2##0
+17470##Dead Space##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+550##Left 4 Dead 2##0
+22370##Fallout 3 - Game of the Year Edition##0
+31290##Back to the Future: Ep 1 - It's About Time##0
+94500##Back to the Future: Ep 2 - Get Tannen!##0
+94510##Back to the Future: Ep 3 - Citizen Brown##0
+94520##Back to the Future: Ep 4 - Double Visions##0
+94530##Back to the Future: Ep 5 - OUTATIME##0
+47780##Dead Space 2##0
+55100##Homefront##0
+9200##RAGE##0
+201830##Jurassic Park: The Game##0
+10220##Postal 3##0
+67370##The Darkness II##0
+22380##Fallout: New Vegas##0
+207610##The Walking Dead##0
+202750##Alan Wake's American Nightmare##0
+211050##Battle vs Chess##0
+218510##Planets Under Attack##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+224900##Iron Sky Invasion##0
+55230##Saints Row: The Third##0
+220240##Far Cry® 3##0
+73220##Supreme Ruler Cold War##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+226320##Marvel Heroes Omega##0
+221040##Resident Evil 6##0
+44350##GRID 2##0
+233270##Far Cry® 3 Blood Dragon##0
+241600##Rogue Legacy##0
+237110##Mortal Kombat Komplete Edition##0
+214770##Guacamelee! Gold Edition##0
+239350##Spelunky##0
+237740##Angry Video Game Nerd Adventures##0
+254080##World War III: Black Gold##0
+205100##Dishonored##0
+247430##Hitman: Contracts##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+261030##The Walking Dead: Season Two##0
+209000##Batman™: Arkham Origins##0
+261110##Killer is Dead##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+268910##Cuphead##0
+269210##Hero Siege##0
+274920##FaceRig##0
+2990##FlatOut 2##0
+12360##FlatOut: Ultimate Carnage##0
+201510##Flatout 3##0
+279720##The I of the Dragon##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+288160##The Room##0
+233290##MURDERED: SOUL SUSPECT™##0
+293320##Coma: Mortuary##0
+201810##Wolfenstein: The New Order##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+244630##NEOTOKYO°##0
+206420##Saints Row IV##0
+203160##Tomb Raider##0
+268050##The Evil Within##0
+21690##Resident Evil 5##0
+307690##Sleeping Dogs: Definitive Edition##0
+238320##Outlast##0
+324800##Shadow Warrior 2##0
+326960##Killing Floor - Toy Master##0
+327010##Motorama##0
+261640##Borderlands: The Pre-Sequel##0
+298110##Far Cry 4##0
+334210##Fortified##0
+304240##Resident Evil##0
+301910##Saints Row: Gat out of Hell##0
+350080##Wolfenstein: The Old Blood ##0
+363440##Mega Man Legacy Collection##0
+329050##Devil May Cry 4 Special Edition##0
+372740##Second Warfare##0
+858460##SMITE - Public Test##0
+391720##Layers of Fear##0
+320300##Car Mechanic Simulator 2015##0
+11450##Overlord##0
+12710##Overlord: Raising Hell##0
+12810##Overlord II##0
+306670##Overlord: Fellowship of Evil##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+418530##Spelunky 2##0
+420290##Blackwake##0
+422130##Comic Book Hero: The Greatest Cape##0
+339340##Resident Evil 0##0
+429570##The Walking Dead: Michonne##0
+391220##Rise of the Tomb Raider##0
+441350##Assault Suit Leynos##0
+362300##Just Survive Test Server##0
+371660##Far Cry Primal##0
+409660##Angry Video Game Nerd II: ASSimilation##0
+379720##DOOM##0
+477170##Chamber 19##0
+337360##Dead Island Retro Revenge##0
+383150##Dead Island Definitive Edition##0
+383180##Dead Island Riptide Definitive Edition##0
+490220##Prismata##0
+513890##The Frostrune##0
+521890##Hello Neighbor##0
+528230##SYNTHETIK##0
+307780##Mortal Kombat X##0
+534550##Guacamelee! 2##0
+544750##SOULCALIBUR VI##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+582660##Black Desert Online##0
+601150##Devil May Cry 5##0
+601430##The Evil Within 2##0
+607580##Friday the 13th: The Game - Tom Savini designed Jason Voorhees Character##0
+646160##Friday the 13th: The Game - Tom Savini designed Jason Voorhees Character##0
+612880##Wolfenstein II: The New Colossus##0
+460790##Bayonetta##0
+645630##Car Mechanic Simulator 2018##0
+707030##POSTAL 4: No Regerts##0
+725780##PLAY WITH ME##0
+38400##Fallout##0
+731490##Crash Bandicoot™ N. Sane Trilogy##0
+466240##Deceit##0
+418370##Resident Evil 7 Biohazard##0
+743890##Mega Man X Legacy Collection##0
+476600##Call of Duty: WWII##0
+476620##Call of Duty: WWII - Multiplayer##0
+488790##South Park The Fractured But Whole##0
+552520##Far Cry 5##0
+312670##Strange Brigade##0
+750920##Shadow of the Tomb Raider##0
+866800##The Walking Dead: The Final Season##0
+883710##Resident Evil 2##0
+758330##Shenmue I & II##0
+834530##Yakuza Kiwami##0
+50620##Darksiders##0
+388410##Darksiders II Deathinitive Edition##0
+462780##Darksiders Warmastered Edition##0
+606280##Darksiders III##0
+320240##We Happy Few##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+766370##Dying Light: Bad Blood##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+200260##Batman: Arkham City GOTY##0
+208650##Batman™: Arkham Knight##0
+225540##Just Cause 3##0
+996580##Spyro™ Reignited Trilogy##0
+976310##Mortal Kombat 11##0
+450390##The Lab##0
+1010750##Blood: Fresh Supply##0
+1029890##Layers of Fear 2##0
+1162960##Angry Video Game Nerd I & II Deluxe##0
+232770##POSTAL##0
+@@REVIEW
+232090##Recommended
+242760##Recommended
+12200##Recommended
+543460##Recommended
+489520##Not Recommended
+306830##Recommended
+438740##Not Recommended
+262510##Recommended
+730##Not Recommended

@@ -1,0 +1,29 @@
+@@GAME
+570##Dota 2##163242
+10##Counter-Strike##78018
+230410##Warframe##40371
+221100##DayZ##14779
+272350##Tom Clancy's Ghost Recon Phantoms - EU##1509
+730##Counter-Strike: Global Offensive##1417
+41070##Serious Sam 3: BFE##464
+203160##Tomb Raider##423
+555570##Infestation: The New Z##422
+273110##Counter-Strike Nexon: Studio##199
+444090##Paladins##48
+374280##Hired Ops##4
+44350##GRID 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+564310##Serious Sam Fusion 2017 (beta)##0
+205790##Dota 2 Test##0
+208090##Loadout##0
+238960##Path of Exile##0
+238320##Outlast##0
+596350##Paladins - Public Test##0
+836620##Black Desert##0
+@@REVIEW

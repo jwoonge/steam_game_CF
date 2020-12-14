@@ -1,0 +1,45 @@
+@@GAME
+730##Counter-Strike: Global Offensive##101798
+583010##VoiceAttack##74347
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##21800
+221380##Age of Empires II (2013)##18074
+1104640##New Frontier##17904
+214950##Total War: ROME II - Emperor Edition##17110
+440##Team Fortress 2##6550
+271590##Grand Theft Auto V##5611
+1174180##Red Dead Redemption 2##4443
+252490##Rust##3841
+250820##SteamVR##3642
+236870##HITMAN™##1280
+620980##Beat Saber##1235
+1097150##Fall Guys: Ultimate Knockout##735
+438300##Shepherds of the Abyss##530
+570##Dota 2##457
+386360##SMITE##366
+438100##VRChat##101
+301520##Robocraft##89
+244210##Assetto Corsa##43
+494150##The Thrill of the Fight##7
+885000##Synth Riders##7
+488310##Eleven: Table Tennis VR##6
+302830##BLOCKADE 3D##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+700580##Rust - Staging Branch##0
+205790##Dota 2 Test##0
+858460##SMITE - Public Test##0
+444930##Zaccaria Pinball##0
+479130##ESEA##0
+1343400##RuneScape##0
+@@REVIEW
+1104640##Recommended
+730##Recommended

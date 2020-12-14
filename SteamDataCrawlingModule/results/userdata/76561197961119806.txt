@@ -1,0 +1,44 @@
+@@GAME
+730##Counter-Strike: Global Offensive##125229
+10##Counter-Strike##63505
+271590##Grand Theft Auto V##23477
+440##Team Fortress 2##4882
+570##Dota 2##3917
+302670##Call to Arms##1899
+530630##Empires Apart##787
+550650##Black Squad##612
+444090##Paladins##440
+755790##Ring of Elysium##308
+231430##Company of Heroes 2##247
+581320##Insurgency: Sandstorm##240
+863550##HITMAN™ 2##214
+291550##Brawlhalla##213
+735360##Driver Booster 5 for Steam##187
+304930##Unturned##126
+230410##Warframe##96
+480430##Hide and Shriek##25
+630##Alien Swarm##23
+555570##Infestation: The New Z##15
+966870##SinVR##9
+50##Half-Life: Opposing Force##1
+227940##Heroes & Generals##1
+400040##ShareX##1
+457550##Bigscreen Beta##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+224260##No More Room in Hell##0
+596350##Paladins - Public Test##0
+592600##PRO EVOLUTION SOCCER 2018 LITE##0
+466240##Deceit##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+845070##The Awesome Adventures of Captain Spirit##0
+@@REVIEW
+530630##Recommended
+730##Recommended

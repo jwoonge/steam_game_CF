@@ -1,0 +1,302 @@
+@@GAME
+730##Counter-Strike: Global Offensive##164133
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##41783
+10##Counter-Strike##17723
+4000##Garry's Mod##10782
+703080##Planet Zoo##7931
+1313860##EA SPORTS™ FIFA 21 ##6205
+292030##The Witcher 3: Wild Hunt##6069
+271590##Grand Theft Auto V##2694
+1222680##Need for Speed™ Heat ##2087
+613100##House Flipper##1792
+270880##American Truck Simulator##1713
+611500##Quake Champions##1418
+1174180##Red Dead Redemption 2##1235
+438740##Friday the 13th: The Game##954
+252950##Rocket League##855
+70##Half-Life##805
+1030840##Mafia: Definitive Edition##692
+1097150##Fall Guys: Ultimate Knockout##690
+996470##eFootball PES 2020##686
+1113000##Persona 4 Golden##588
+223710##Cry of Fear##559
+620##Portal 2##522
+863550##HITMAN™ 2##477
+414340##Hellblade: Senua's Sacrifice##450
+1262580##Need for Speed™ Payback##444
+1238810##Battlefield™ V##410
+681280##Descenders##399
+1172380##STAR WARS Jedi: Fallen Order™ ##347
+1222700##A Way Out##320
+359550##Tom Clancy's Rainbow Six Siege##310
+550##Left 4 Dead 2##274
+227300##Euro Truck Simulator 2##273
+261490##Bedlam##273
+220##Half-Life 2##272
+397540##Borderlands 3##267
+976730##Halo: The Master Chief Collection##243
+300##Day of Defeat: Source##242
+49520##Borderlands 2##242
+1237970##Titanfall® 2##228
+261640##Borderlands: The Pre-Sequel##227
+243470##Watch_Dogs##212
+562810##Monopoly Plus##203
+552520##Far Cry 5##180
+739630##Phasmophobia##151
+1091500##Cyberpunk 2077##151
+619150##while True: learn()##146
+673950##Farm Together##124
+945360##Among Us##117
+228380##Wreckfest##80
+567030##Under Leaves##73
+1190460##DEATH STRANDING##71
+880940##Pummel Party##70
+341800##Keep Talking and Nobody Explodes##69
+632470##Disco Elysium##59
+1172470##Apex Legends##58
+218620##PAYDAY 2##54
+570##Dota 2##54
+225840##Sven Co-op##49
+816490##Hidden Paws##43
+1085660##Destiny 2##37
+814380##Sekiro™: Shadows Die Twice##27
+557340##My Friend Pedro##26
+421020##DiRT 4##14
+1222730##STAR WARS™: Squadrons##14
+1046030##ISLANDERS##13
+1239520##Madden NFL 21##12
+440##Team Fortress 2##11
+1046930##Dota Underlords##6
+784150##Workers & Resources: Soviet Republic##2
+447040##Watch_Dogs 2##1
+379430##Kingdom Come: Deliverance##1
+783060##AIDEN##1
+830810##Death Game+##1
+203160##Tomb Raider##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+340##Half-Life 2: Lost Coast##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+320##Half-Life 2: Deathmatch##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+71230##Crazy Taxi##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+312990##The Expendabros##0
+214490##Alien: Isolation##0
+456440##The Orphan Dreams##0
+533690##Think To Die##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+549780##Rainbow Rage Squad##0
+598960##Mashinky##0
+636330##The God Paradox##0
+386180##Crossout##0
+649510##Bullet VR##0
+666250##Equalizer##0
+666290##Virus Z##0
+666320##Watergate Xtreme##0
+673660##Neon Hardcore##0
+675530##M1: A Death in the Desert##0
+678060##Super Ultra Monster Smash!##0
+685790##Ruthless Safari##0
+685950##Joy Pony##0
+686550##Trivia Vault: Mixed Trivia##0
+687480##Trivia Vault: Science & History Trivia##0
+687490##Trivia Vault: Super Heroes Trivia##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+688630##Nightork Adventures 2 - Legacy of Chaos##0
+689180##Trivia Vault: 1980's Trivia##0
+690240##Trivia Vault: Classic Rock Trivia##0
+693880##Trivia Vault: 1980's Trivia 2##0
+693890##Trivia Vault: Classic Rock Trivia 2##0
+699590##Trivia Vault: Science & History Trivia 2##0
+701720##2D Neon Cube##0
+703120##Keeplanet##0
+705090##Trivia Vault: Super Heroes Trivia 2##0
+706320##Trivia Vault: Mini Mixed Trivia##0
+706330##Trivia Vault: Mini Mixed Trivia 2##0
+707320##Keatz: The Lonely Bird##0
+708430##Kamikaze Cube##0
+710110##Trivia Vault: Mini Mixed Trivia 3##0
+710120##Trivia Vault: Mini Mixed Trivia 4##0
+710780##Sky Jump##0
+713570##Go Kart Survival##0
+713580##Nash Racing 2: Muscle cars##0
+715470##Rocks and Rockets##0
+716230##Galactic Lords##0
+722050##Dean Daimon##0
+722680##BLOK DROP NEO##0
+723830##Cyborg Invasion Shooter##0
+725660##Thundering Skies##0
+727480##Reach Me##0
+632050##The Village##0
+730220##Trivia Vault: Video Game Trivia Deluxe##0
+732090##Dragon Perception##0
+732840##Nullysun##0
+733090##Mustache Politics Shooter##0
+733250##Mover##0
+735520##Time Killers: CatchOut##0
+735530##Time Killers: Spot Race##0
+743640##Achievement Clicker##0
+745500##Pixel Space Battles##0
+745740##Reflex##0
+748430##Cube Color##0
+749670##Spinning Around##0
+749990##Trigonometry##0
+752700##Abscond##0
+752710##Infinity Trip##0
+756190##Sky Road##0
+756260##Kingdom Defense##0
+756560##Robot Warriors##0
+758470##Africa Hunting##0
+758480##Ukrainian ball in search of gas##0
+758920##Action Rush##0
+759610##House of Evil##0
+761100##Jump! Jump! Jump!##0
+761110##Infinity Escape##0
+761440##Santa Run##0
+761660##Stickman Destruction 2##0
+763090##Aqua Fish##0
+763490##Precision Archery: Competitive##0
+764490##Stickman Jetpack##0
+767030##Trivia Vault: Technology Trivia Deluxe##0
+767170##Dolphins-Cyborgs and open space##0
+769340##Zomby Soldier##0
+769440##Beach Restaurant##0
+771610##NeoBalls##0
+773640##Colony On Mars##0
+775720##Lozenge##0
+775730##Dialing##0
+776080##Dodge##0
+776320##Armada Skies##0
+776960##Sos i Pie Sos##0
+777270##Thirsty Bubble##0
+778230##Mighty Gemstones##0
+781760##Trivia Vault: Health Trivia Deluxe##0
+781800##Walhall##0
+783890##BRIGHTEST##0
+786560##NeoBalls2##0
+786750##Squares##0
+791960##Cactus Jumper##0
+796520##Ice Cream Factory##0
+798730##rOt##0
+798960##Putin takes taxes##0
+800320##Cubic Color##0
+800330##Color Circle##0
+801020##Golden Dungeons##0
+804600##Trivia Vault Football Trivia##0
+805360##Trivia Vault Baseball Trivia##0
+805880##Trivia Vault Olympics Trivia##0
+806140##Achievement printer##0
+806240##RollingBall##0
+806610##Trivia Vault Basketball Trivia##0
+810540##Monsters Attack##0
+810680##Zombie Murder##0
+810720##Zombie Murder Hell Arrives##0
+810740##Turtle Lu##0
+812850##Outline##0
+812860##Genius Calculator##0
+821520##Trivia Vault: Boxing Trivia##0
+821850##OldFactory##0
+821860##SecretLaboratory##0
+821910##Tower Defense Sudden Attack##0
+822460##Trivia Vault: Auto Racing Trivia##0
+823770##Labyrinths of Atlantis##0
+824190##Achievement Clicker 2019##0
+827270##Bounty Hunter: Space Detective##0
+827900##Bounty Hunter: Stampede##0
+830510##Bounty Hunter: Ocean Diver##0
+834420##RollingBall: Unlimited World##0
+838490##Theorem##0
+838980##Eon Fleet##0
+842130##Sunny Smiles##0
+842520##Neon Void Runner##0
+842530##Police Patrol##0
+842560##War Hunter##0
+842590##Knight Fighter##0
+842620##Funny Yo##0
+846370##OboStar##0
+849320##Tank rush##0
+849620##Trivia Vault: Celebrity Trivia##0
+851710##Trivia Vault: Art Trivia##0
+858420##Trivia Vault: Business Trivia##0
+860910##Hentai 3018##0
+868190##Sapper boom!##0
+450390##The Lab##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+1070330##Russian Life Simulator##0
+1106850##Totally Reliable Delivery Service Beta##0
+1113940##Electronic Super Joy 2##0
+226840##Age of Wonders III##0
+231430##Company of Heroes 2##0
+567730##Merry Snowballs##0
+1237980##STAR WARS™ Battlefront™##0
+1237950##STAR WARS™ Battlefront™ II##0
+555000##GOAT OF DUTY##0
+797410##Headsnatchers##0
+760620##Deiland##0
+1262540##Need for Speed™##0
+442070##Drawful 2##0
+289690##Lara Croft and the Temple of Osiris##0
+588210##HELLION##0
+814200##Simple Story - Alex##0
+628950##Nephise Begins##0
+702150##Project Mercury##0
+335190##200% Mixed Juice!##0
+390710##Acceleration of SUGURI 2##0
+282800##100% Orange Juice##0
+420740##The Deed##0
+618140##Barro##0
+379320##Clandestinity of Elsie##0
+600430##Ticket to Ride: First Journey##0
+699240##Keyboard Killers##0
+348510##Autobahn Police Simulator##0
+640890##Will Glow the Wisp##0
+442120##Pinball FX3##0
+680360##Regions Of Ruin##0
+835950##Transpose##0
+1078000##Gamecraft##0
+727020##Arcade Moonlander##0
+368180##Polyball##0
+1282690##Crysis® 3 ##0
+308600##Geneshift##0
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##0
+34330##Total War: SHOGUN 2##0
+1076280##Showdown Bandit##0
+435790##10 Second Ninja X##0
+371140##Aegis Defenders##0
+310360##Higurashi When They Cry Hou - Ch.1 Onikakushi##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+579110##Interkosmos##0
+406970##The Uncertain: Last Quiet Day##0
+1048540##Kao the Kangaroo: Round 2##0
+1289670##EA Play##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+1368440##Armor Of Heroes##0
+266310##GameGuru##0
+209630##Magrunner: Dark Pulse##0
+465760##Scrap Garden##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW
+1313860##Recommended
+1030840##Recommended
+1222680##Recommended
+1222700##Recommended
+996470##Recommended
+730##Recommended

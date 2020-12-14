@@ -1,0 +1,183 @@
+@@GAME
+730##Counter-Strike: Global Offensive##314876
+238960##Path of Exile##96088
+570##Dota 2##95592
+240##Counter-Strike: Source##53727
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##49344
+359550##Tom Clancy's Rainbow Six Siege##19608
+836620##Black Desert##14954
+292030##The Witcher 3: Wild Hunt##13061
+107410##Arma 3##12388
+435150##Divinity: Original Sin 2##8177
+221100##DayZ##6634
+33930##Arma 2: Operation Arrowhead##5531
+271590##Grand Theft Auto V##5173
+290340##Armello##4227
+582010##Monster Hunter: World##3863
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##3691
+230410##Warframe##3519
+903950##Last Oasis##2911
+1046930##Dota Underlords##2748
+222880##Insurgency##2650
+10##Counter-Strike##2551
+289130##Endless Legend™ - Emperor Edition##2546
+1172470##Apex Legends##2351
+1217060##Gunfire Reborn##2304
+289780##Requiem##2141
+1145360##Hades##1962
+269210##Hero Siege##1839
+4000##Garry's Mod##1565
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##1506
+440##Team Fortress 2##1386
+227300##Euro Truck Simulator 2##1240
+466560##Northgard##1095
+393380##Squad##704
+1254120##Bless Unleashed##696
+824270##KovaaK 2.0##689
+18500##Defense Grid: The Awakening##603
+42680##Call of Duty: Modern Warfare 3##488
+307780##Mortal Kombat X##384
+302670##Call to Arms##362
+236390##War Thunder##328
+248610##Door Kickers##328
+63710##BIT.TRIP RUNNER##290
+35140##Batman: Arkham Asylum GOTY Edition##287
+20900##The Witcher: Enhanced Edition##285
+70600##Worms Ultimate Mayhem##266
+282660##Easy eSports##262
+550##Left 4 Dead 2##234
+431960##Wallpaper Engine##215
+282070##This War of Mine##211
+220##Half-Life 2##208
+227940##Heroes & Generals##198
+1091500##Cyberpunk 2077##194
+10500##Total War: EMPIRE - Definitive Edition##188
+70000##Dino D-Day##186
+47400##Stronghold 3##178
+241560##The Crew##159
+204100##Max Payne 3##158
+554310##Rage Wars##152
+224260##No More Room in Hell##150
+503560##911 Operator##134
+105450##Age of Empires® III (2007)##119
+34900##Bad Rats##114
+244770##StarMade##103
+35450##Rising Storm/Red Orchestra 2 Multiplayer##100
+399820##Kopanito All-Stars Soccer##74
+105800##PixelJunk Eden##73
+282440##Quake Live##63
+7830##Men of War##60
+63500##Swords and Soldiers HD##55
+22490##Fallout: New Vegas RU##50
+219640##Chivalry: Medieval Warfare##48
+630##Alien Swarm##45
+94200##Jamestown##44
+202860##Real Warfare 2: Northern Crusades##43
+96100##Defy Gravity##36
+714010##Aim Lab##30
+338170##Ratz Instagib 2.0##28
+40800##Super Meat Boy##21
+6120##Shank##18
+17700##Insurgency: Modern Infantry Combat##18
+363970##Clicker Heroes##17
+223850##3DMark##17
+40950##Stronghold HD##13
+300##Day of Defeat: Source##9
+33910##Arma 2##6
+266150##Lost Saga North America##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+6270##Ducati World Championship##0
+19900##Far Cry 2##0
+12460##BC Kings##0
+6840##Commandos 3: Destination Berlin##0
+8190##Just Cause 2##0
+46740##World Basketball Manager 2010##0
+33650##Puzzler World ##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+8930##Sid Meier's Civilization V##0
+38720##RUSH##0
+47870##Need for Speed: Hot Pursuit##0
+105600##Terraria##0
+92100##DETOUR##0
+34830##Sniper: Ghost Warrior##0
+200130##Puzzler World 2##0
+48240##Anno 2070##0
+99700##NightSky##0
+22230##Rock of Ages##0
+15700##Oddworld: Abe's Oddysee##0
+15710##Oddworld: Abe's Exoddus##0
+15740##Oddworld: Munch's Oddysee##0
+15750##Oddworld: Stranger's Wrath HD##0
+97100##Section 8: Prejudice##0
+500##Left 4 Dead##0
+92800##SpaceChem##0
+33980##Pound of Ground##0
+205790##Dota 2 Test##0
+1500##Darwinia##0
+1510##Uplink##0
+1520##DEFCON##0
+1530##Multiwinia##0
+475190##Scanner Sombre##0
+3130##Men of War: Red Tide##0
+34420##XIII Century##0
+46290##Theatre of War##0
+46340##Theatre of War 2: Africa 1943##0
+46350##Real Warfare##0
+63940##Men of War: Vietnam##0
+63960##Theatre of War 3: Korea##0
+207570##English Country Tune##0
+219780##Divinity II: Developer's Cut##0
+47410##Stronghold Kingdoms##0
+247120##Portal 2 Sixense Perceptual Pack##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+244450##Men of War: Assault Squad 2##0
+48700##Mount & Blade: Warband##0
+281370##Real Horror Stories Ultimate Edition##0
+281430##Clans##0
+285480##The Entente Gold##0
+293180##Overcast - Walden and the Werewolf##0
+222900##Dead Island: Epidemic##0
+301480##GEARCRACK Arena##0
+65790##Arma: Cold War Assault##0
+303390##Dead Bits##0
+315260##Space Hack##0
+200110##Nosgoth##0
+221380##Age of Empires II (2013)##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+331181##Hero Siege - Avenger Paladin (Class + Skin)##0
+380020##Three Heroes##0
+774941##Squad - Public Testing##0
+368750##Nebula Online##0
+397060##Faeria##0
+520530##INTERSHELTER##0
+466240##Deceit##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+611500##Quake Champions##0
+944220##Gachi Heroes##0
+44350##GRID 2##0
+1097150##Fall Guys: Ultimate Knockout##0
+1063730##New World##0
+34330##Total War: SHOGUN 2##0
+266310##GameGuru##0
+@@REVIEW
+292030##Recommended
+1046930##Recommended
+230410##Recommended
+730##Recommended
+271590##Recommended
+222880##Recommended
+550##Recommended

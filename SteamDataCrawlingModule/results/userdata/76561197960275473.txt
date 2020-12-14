@@ -1,0 +1,82 @@
+@@GAME
+730##Counter-Strike: Global Offensive##248949
+10##Counter-Strike##64385
+742300##Mega Man 11##5110
+252950##Rocket League##5043
+952060##Resident Evil 3##4430
+295110##Just Survive##4161
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##3892
+212740##TERA##3694
+271590##Grand Theft Auto V##3323
+883710##Resident Evil 2##3293
+237630##DuckTales Remastered##2809
+282660##Easy eSports##2689
+254700##Resident Evil 4##2551
+570##Dota 2##2355
+268050##The Evil Within##1802
+218620##PAYDAY 2##1604
+221040##Resident Evil 6##1578
+207610##The Walking Dead##1467
+107410##Arma 3##1331
+239140##Dying Light##1024
+218640##Lucius##820
+21690##Resident Evil 5##803
+550##Left 4 Dead 2##767
+261030##The Walking Dead: Season Two##736
+108710##Alan Wake##692
+296830##Lucius II##633
+945360##Among Us##518
+222480##Resident Evil Revelations##500
+304240##Resident Evil##408
+549260##Alwa's Awakening##374
+221100##DayZ##358
+209100##Resident Evil: Operation Raccoon City##330
+429570##The Walking Dead: Michonne##289
+563180##Dispersio##258
+525040##The Disney Afternoon Collection##239
+582660##Black Desert Online##231
+550650##Black Squad##200
+287290##Resident Evil Revelations 2##189
+455120##Stay Close##179
+601430##The Evil Within 2##163
+319630##Life is Strange™##137
+226700##Infestation: Survivor Stories 2020##136
+91310##Dead Island##98
+130##Half-Life: Blue Shift##38
+12100##Grand Theft Auto III##30
+2270##Wolfenstein 3D##16
+238320##Outlast##14
+207140##SpeedRunners##13
+70##Half-Life##1
+330830##Tales from the Borderlands##1
+623990##Tom Clancy's Rainbow Six Siege - Test Server##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+12230##Grand Theft Auto III##0
+19000##Silent Hill: Homecoming##0
+57300##Amnesia: The Dark Descent##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+205790##Dota 2 Test##0
+42170##Krater##0
+368730##No Time To Explain Remastered##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+261640##Borderlands: The Pre-Sequel##0
+339850##Overclocked: A History of Violence##0
+349720##Audition Online##0
+339340##Resident Evil 0##0
+359550##Tom Clancy's Rainbow Six Siege##0
+532210##Life is Strange 2##0
+961440##Resident Evil 2 "1-Shot Demo"##0
+952070##RESIDENT EVIL RESISTANCE##0
+@@REVIEW
+730##Recommended

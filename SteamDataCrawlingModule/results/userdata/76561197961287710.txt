@@ -1,0 +1,121 @@
+@@GAME
+570##Dota 2##477526
+730##Counter-Strike: Global Offensive##63546
+306130##The Elder Scrolls Online##29831
+252490##Rust##25601
+4920##Natural Selection 2##14462
+39210##FINAL FANTASY XIV Online##14043
+316010##Magic Duels##13588
+435150##Divinity: Original Sin 2##6448
+291650##Pillars of Eternity##5901
+365590##Tom Clancy's The Division##5750
+200710##Torchlight II##5319
+373420##Divinity: Original Sin Enhanced Edition##4356
+294100##RimWorld##4290
+236430##DARK SOULS™ II##3943
+230230##Divinity: Original Sin (Classic)##3740
+377160##Fallout 4##3204
+898920##Axis & Allies 1942 Online##3060
+218620##PAYDAY 2##3042
+640820##Pathfinder: Kingmaker##2794
+289130##Endless Legend™ - Emperor Edition##2695
+594570##Total War: WARHAMMER II##2634
+228280##Baldur's Gate: Enhanced Edition##2493
+1145360##Hades##2289
+22380##Fallout: New Vegas##2276
+550##Left 4 Dead 2##2217
+203770##Crusader Kings II##2152
+413150##Stardew Valley##2103
+1046930##Dota Underlords##2098
+24960##Battlefield: Bad Company™ 2##1994
+779340##Total War: THREE KINGDOMS##1949
+374320##DARK SOULS™ III##1846
+500##Left 4 Dead##1760
+28050##Deus Ex: Human Revolution##1556
+271590##Grand Theft Auto V##1476
+238960##Path of Exile##1464
+32370##STAR WARS™: Knights of the Old Republic™##1461
+22370##Fallout 3 - Game of the Year Edition##1385
+34330##Total War: SHOGUN 2##1096
+330020##Children of Morta##1081
+560130##Pillars of Eternity II: Deadfire##1047
+262060##Darkest Dungeon®##972
+400##Portal##859
+242920##Banished##849
+252950##Rocket League##849
+221380##Age of Empires II (2013)##767
+394360##Hearts of Iron IV##757
+40950##Stronghold HD##716
+620##Portal 2##622
+1086940##Baldur's Gate 3##619
+255710##Cities: Skylines##543
+258970##Gauntlet™ ##533
+4760##Rome: Total War##519
+102600##Orcs Must Die!##491
+8980##Borderlands GOTY##488
+241930##Middle-earth™: Shadow of Mordor™##488
+503940##Railway Empire##434
+108600##Project Zomboid##391
+10##Counter-Strike##376
+252110##Lovers in a Dangerous Spacetime##361
+42910##Magicka##286
+319630##Life is Strange™##282
+379720##DOOM##241
+527230##For The King##203
+630##Alien Swarm##175
+204360##Castle Crashers##168
+440##Team Fortress 2##167
+637650##FINAL FANTASY XV WINDOWS EDITION##161
+235540##Warhammer: End Times - Vermintide##130
+219150##Hotline Miami##98
+431240##Golf With Your Friends##94
+65800##Dungeon Defenders##92
+300##Day of Defeat: Source##90
+394510##HELLDIVERS™##89
+56400##Warhammer 40,000: Dawn of War II - Retribution##82
+232090##Killing Floor 2##70
+48000##LIMBO##67
+364470##The Elder Scrolls: Legends##50
+241600##Rogue Legacy##49
+222880##Insurgency##43
+286690##Metro 2033 Redux##38
+98200##Frozen Synapse##30
+448510##Overcooked##26
+240##Counter-Strike: Source##21
+945360##Among Us##19
+271290##HAWKEN##16
+250900##The Binding of Isaac: Rebirth##15
+24920##Dragon Age: Origins Character Creator##14
+355180##Codename CURE##9
+47410##Stronghold Kingdoms##6
+72850##The Elder Scrolls V: Skyrim##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+4770##Rome: Total War - Alexander##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+729040##Borderlands GOTY Enhanced##0
+205790##Dota 2 Test##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+257730##Infinity Wars - Animated Trading Card Game##0
+700580##Rust - Staging Branch##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+287390##Metro: Last Light Redux##0
+227940##Heroes & Generals##0
+232150##Killing Floor 2 - SDK##0
+362890##Black Mesa##0
+524440##Tom Clancy's The Division PTS##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+@@REVIEW
+4920##Recommended
+570##Recommended

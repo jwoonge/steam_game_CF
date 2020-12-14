@@ -1,0 +1,83 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+12810##Overlord II##0
+49520##Borderlands 2##0
+212390##C9##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+233860##Kenshi##0
+244850##Space Engineers##0
+236850##Europa Universalis IV##0
+214950##Total War: ROME II - Emperor Edition##0
+289950##Construction-Simulator 2015##0
+294100##RimWorld##0
+261640##Borderlands: The Pre-Sequel##0
+730##Counter-Strike: Global Offensive##0
+255710##Cities: Skylines##0
+361420##ASTRONEER##0
+322330##Don't Starve Together##0
+292030##The Witcher 3: Wild Hunt##0
+359320##Elite Dangerous##0
+381210##Dead by Daylight##0
+291550##Brawlhalla##0
+394360##Hearts of Iron IV##0
+423580##Project Highrise##0
+239140##Dying Light##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+457140##Oxygen Not Included##0
+281990##Stellaris##0
+505460##Foxhole##0
+447020##Farming Simulator 17##0
+552990##World of Warships##0
+8500##EVE Online##0
+438740##Friday the 13th: The Game##0
+588970##Oik##0
+606800##Startup Company##0
+644560##Mirror##0
+386180##Crossout##0
+304930##Unturned##0
+466240##Deceit##0
+379430##Kingdom Come: Deliverance##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+844870##KurtzPel##0
+865090##AHEGAL##0
+878750##Hentai Girl##0
+905370##Conqueror's Blade##0
+920490##Driver Booster for Steam##0
+927890##Hentai Girl Linda##0
+963690##Hentai Girl Hime##0
+489520##Minion Masters##0
+1003520##Hentai Crush##0
+1004240##Hentai Girl Karen##0
+761890##Albion Online##0
+1104640##New Frontier##0
+1128810##RISK: Global Domination##0
+1147510##Hentai Asmodeus##0
+203770##Crusader Kings II##0
+231430##Company of Heroes 2##0
+996470##eFootball PES 2020##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+836620##Black Desert##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+236390##Not Recommended
+294100##Recommended
+1147510##Recommended
+244850##Recommended
+1003520##Recommended
+214950##Recommended
+379430##Recommended
+255710##Recommended

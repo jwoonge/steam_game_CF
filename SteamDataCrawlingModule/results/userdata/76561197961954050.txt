@@ -1,0 +1,180 @@
+@@GAME
+730##Counter-Strike: Global Offensive##72170
+359550##Tom Clancy's Rainbow Six Siege##63951
+230410##Warframe##49183
+252490##Rust##29214
+359320##Elite Dangerous##22307
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##21405
+8500##EVE Online##20888
+107410##Arma 3##20878
+365590##Tom Clancy's The Division##15775
+271590##Grand Theft Auto V##13693
+1174180##Red Dead Redemption 2##11927
+295110##Just Survive##11205
+346110##ARK: Survival Evolved##10250
+582660##Black Desert Online##9397
+221100##DayZ##9183
+211820##Starbound##8008
+505460##Foxhole##5973
+242760##The Forest##5505
+252950##Rocket League##3903
+306130##The Elder Scrolls Online##3431
+10##Counter-Strike##3384
+550##Left 4 Dead 2##3321
+20##Team Fortress Classic##2956
+440##Team Fortress 2##2668
+570##Dota 2##2530
+548430##Deep Rock Galactic##2275
+240##Counter-Strike: Source##2149
+438740##Friday the 13th: The Game##1813
+99900##Spiral Knights##1763
+552500##Warhammer: Vermintide 2##1740
+227940##Heroes & Generals##1710
+1091500##Cyberpunk 2077##1598
+218230##PlanetSide 2##1500
+300##Day of Defeat: Source##945
+273350##Evolve Stage 2##921
+227700##Firefall##909
+238960##Path of Exile##877
+236390##War Thunder##864
+49520##Borderlands 2##832
+489830##The Elder Scrolls V: Skyrim Special Edition##741
+815370##Green Hell##718
+105600##Terraria##707
+323370##TERA##703
+15120##Tom Clancy's Rainbow Six: Vegas 2##615
+581320##Insurgency: Sandstorm##548
+65930##The Bureau: XCOM Declassified##522
+282800##100% Orange Juice##492
+212680##FTL: Faster Than Light##482
+304930##Unturned##466
+220##Half-Life 2##455
+218620##PAYDAY 2##433
+1239080##Door Kickers 2##413
+599080##The Blackout Club##396
+433850##Z1 Battle Royale##392
+623990##Tom Clancy's Rainbow Six Siege - Test Server##383
+241930##Middle-earth™: Shadow of Mordor™##369
+238430##Contagion##358
+407250##Pro Evolution Soccer 2016 myClub##311
+227300##Euro Truck Simulator 2##276
+334230##Town of Salem##256
+39120##RIFT##224
+431240##Golf With Your Friends##215
+563560##Alien Swarm: Reactive Drop##212
+269210##Hero Siege##190
+34330##Total War: SHOGUN 2##170
+504370##Battlerite##163
+22380##Fallout: New Vegas##159
+219640##Chivalry: Medieval Warfare##147
+333930##Dirty Bomb##144
+55150##Warhammer 40,000: Space Marine##140
+304650##Sunless Sea##139
+427270##Orcs Must Die! Unchained##139
+202710##Demigod##132
+381210##Dead by Daylight##112
+611500##Quake Champions##112
+222900##Dead Island: Epidemic##107
+835860##Dreadnought##106
+301520##Robocraft##104
+362300##Just Survive Test Server##99
+444090##Paladins##90
+72850##The Elder Scrolls V: Skyrim##89
+588430##Fallout Shelter##89
+253710##theHunter Classic##88
+247020##Cook, Serve, Delicious!##87
+541300##Survive the Nights##83
+945360##Among Us##80
+213670##South Park™: The Stick of Truth™##78
+1128810##RISK: Global Domination##78
+296470##Mount Your Friends##74
+524440##Tom Clancy's The Division PTS##74
+560380##MapleStory 2##69
+11020##TrackMania Nations Forever##68
+441010##Mount Your Friends 3D: A Hard Man is Good to Climb##66
+386180##Crossout##63
+6060##Star Wars: Battlefront 2 (Classic, 2005)##62
+606140##Survived By##61
+755790##Ring of Elysium##57
+243870##Tom Clancy's Ghost Recon Phantoms - NA##54
+268850##EVGA Precision X1##47
+208140##Endless Space##44
+17470##Dead Space##40
+233840##Worms Clan Wars##40
+285310##RollerCoaster Tycoon: Deluxe##39
+360940##The Mean Greens - Plastic Warfare##39
+271290##HAWKEN##38
+30##Day of Defeat##35
+203290##America's Army: Proving Grounds##32
+200110##Nosgoth##32
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##32
+47780##Dead Space 2##31
+236110##Dungeon Defenders II##29
+375230##Warhammer 40,000: Eternal Crusade##25
+224260##No More Room in Hell##22
+212070##Star Conflict##18
+562590##Galactic Junk League##15
+645260##Trophy Fishing 2##15
+70##Half-Life##14
+239030##Papers, Please##14
+485610##Ball 3D: Soccer Online##12
+626680##Kreedz Climbing##11
+630##Alien Swarm##9
+274190##Broforce##6
+550650##Black Squad##6
+700330##SCP: Secret Laboratory##3
+370800##Fields of Battle##3
+1046930##Dota Underlords##3
+9450##Warhammer 40,000: Dawn of War - Soulstorm##2
+246280##Happy Wars##2
+298260##Only If##2
+310380##Fractured Space##2
+365300##Transmissions: Element 120##2
+17410##Mirror's Edge##1
+212500##The Lord of the Rings Online™##1
+265630##Fistful of Frags##1
+374570##Kung Fury##1
+479130##ESEA##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+239220##The Mighty Quest For Epic Loot##0
+367540##Starbound - Unstable##0
+439700##H1Z1: Test Server##0
+255070##Abyss Odyssey##0
+318600##The Flame in the Flood##0
+307690##Sleeping Dogs: Definitive Edition##0
+700580##Rust - Staging Branch##0
+407530##ARK: Survival Of The Fittest##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+380600##Fishing Planet##0
+24010##Train Simulator##0
+402430##Out of the Park Baseball 17##0
+57300##Amnesia: The Dark Descent##0
+280790##Creativerse##0
+596350##Paladins - Public Test##0
+442080##Riders of Icarus##0
+319630##Life is Strange™##0
+530700##Argo##0
+582500##We Were Here##0
+427460##Battlerite Public Test##0
+797360##Escalation##0
+843100##Escalation: Stay On Top##0
+843101##Escalation: Breach The Fortress##0
+843102##Escalation: Gear Up##0
+843103##Escalation: Secure The Clutch##0
+209670##Cortex Command##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+278360##A Story About My Uncle##0
+38400##Fallout##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+1151340##Fallout 76##0
+@@REVIEW
+247020##Recommended
+730##Recommended

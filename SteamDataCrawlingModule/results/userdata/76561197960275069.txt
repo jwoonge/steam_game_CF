@@ -1,0 +1,154 @@
+@@GAME
+203770##Crusader Kings II##15272
+305620##The Long Dark##6308
+281990##Stellaris##6144
+212680##FTL: Faster Than Light##5824
+240##Counter-Strike: Source##3678
+8980##Borderlands GOTY##3016
+257510##The Talos Principle##2270
+24980##Mass Effect 2##2009
+200510##XCOM: Enemy Unknown##1961
+17460##Mass Effect##1893
+105450##Age of Empires® III (2007)##1645
+620##Portal 2##1448
+210970##The Witness##1368
+110800##L.A. Noire##1278
+7670##BioShock##1275
+379720##DOOM##1257
+8850##BioShock 2##1113
+17470##Dead Space##1022
+271240##Offworld Trading Company##754
+17300##Crysis##748
+242920##Banished##563
+221380##Age of Empires II (2013)##534
+219890##Antichamber##515
+420##Half-Life 2: Episode Two##513
+380##Half-Life 2: Episode One##495
+603800##ReThink##441
+228200##Company of Heroes ##316
+304430##INSIDE##306
+383870##Firewatch##256
+400##Portal##228
+220##Half-Life 2##215
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##209
+243970##Invisible, Inc.##201
+232430##Gone Home##194
+8930##Sid Meier's Civilization V##140
+500##Left 4 Dead##135
+113020##Monaco##97
+316790##Grim Fandango Remastered##97
+57600##Tropico 3: Absolute Power##84
+41000##Serious Sam HD: The First Encounter##78
+4560##Company of Heroes - Legacy Edition##72
+221020##Towns##66
+730##Counter-Strike: Global Offensive##58
+20540##Company of Heroes: Tales of Valor##55
+236850##Europa Universalis IV##54
+413150##Stardew Valley##43
+24780##SimCity 4 Deluxe##38
+26500##Cogs##31
+227300##Euro Truck Simulator 2##21
+108710##Alan Wake##12
+22000##World of Goo##11
+202200##Galactic Civilizations II: Ultimate Edition##4
+23490##Tropico 3 - Steam Special Edition##1
+8870##BioShock Infinite##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+6910##Deus Ex: Game of the Year Edition##0
+360##Half-Life Deathmatch: Source##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+25800##Europa Universalis III##0
+9340##Company of Heroes: Opposing Fronts##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+20900##The Witcher: Enhanced Edition##0
+550##Left 4 Dead 2##0
+41010##Serious Sam HD: The Second Encounter##0
+564310##Serious Sam Fusion 2017 (beta)##0
+42670##Singularity##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+57620##Patrician IV: Steam Special Edition##0
+57300##Amnesia: The Dark Descent##0
+729040##Borderlands GOTY Enhanced##0
+47810##Dragon Age: Origins - Ultimate Edition##0
+20820##Shatter##0
+23120##Droplitz##0
+40420##Tidalis##0
+57200##Puzzle Dimension##0
+47780##Dead Space 2##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+48000##LIMBO##0
+9350##Supreme Commander##0
+9420##Supreme Commander: Forged Alliance##0
+201830##Jurassic Park: The Game##0
+207610##The Walking Dead##0
+108800##Crysis 2 Maximum Edition##0
+202750##Alan Wake's American Nightmare##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+208500##F1 2012##0
+49520##Borderlands 2##0
+205100##Dishonored##0
+231200##Kentucky Route Zero##0
+238210##System Shock 2##0
+231160##The Swapper##0
+208140##Endless Space##0
+261030##The Walking Dead: Season Two##0
+262060##Darkest Dungeon®##0
+226840##Age of Wonders III##0
+222880##Insurgency##0
+282140##SOMA##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+201810##Wolfenstein: The New Order##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+258520##The Vanishing of Ethan Carter##0
+400430##The Vanishing of Ethan Carter Redux##0
+287450##Rise of Nations: Extended Edition##0
+214490##Alien: Isolation##0
+241930##Middle-earth™: Shadow of Mordor™##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+4760##Rome: Total War##0
+4770##Rome: Total War - Alexander##0
+10500##Total War: EMPIRE - Definitive Edition##0
+34030##Total War: NAPOLEON - Definitive Edition##0
+34330##Total War: SHOGUN 2##0
+211160##Viking: Battle for Asgard##0
+214950##Total War: ROME II - Emperor Edition##0
+217060##Total War Battles: SHOGUN##0
+261640##Borderlands: The Pre-Sequel##0
+330830##Tales from the Borderlands##0
+330840##Game of Thrones - A Telltale Games Series##0
+337150##Sentinels of the Multiverse##0
+304650##Sunless Sea##0
+255710##Cities: Skylines##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+238370##Magicka 2##0
+397080##Magicka 2: Spell Balance Beta##0
+417880##Everybody's Gone to the Rapture##0
+108200##Ticket to Ride##0
+429570##The Walking Dead: Michonne##0
+499520##The Turing Test##0
+556180##Mysterium##0
+569480##Kingdoms and Castles##0
+590380##Into the Breach##0
+598810##Carcassonne: The Official Board Game##0
+226860##Galactic Civilizations III##0
+268500##XCOM 2##0
+323580##Jotun: Valhalla Edition##0
+231430##Company of Heroes 2##0
+737800##F1 2018##0
+@@REVIEW

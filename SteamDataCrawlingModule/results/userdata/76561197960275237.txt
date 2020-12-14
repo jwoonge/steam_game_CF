@@ -1,0 +1,229 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+4000##Garry's Mod##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+220##Half-Life 2##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+12160##Midnight Club II##0
+15700##Oddworld: Abe's Oddysee##0
+15710##Oddworld: Abe's Exoddus##0
+19900##Far Cry 2##0
+18500##Defense Grid: The Awakening##0
+17460##Mass Effect##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+41000##Serious Sam HD: The First Encounter##0
+564310##Serious Sam Fusion 2017 (beta)##0
+550##Left 4 Dead 2##0
+31410##Zombie Driver##0
+8190##Just Cause 2##0
+45700##Devil May Cry 4##0
+41010##Serious Sam HD: The Second Encounter##0
+17410##Mirror's Edge##0
+32360##The Secret of Monkey Island: Special Edition##0
+32460##Monkey Island 2: Special Edition##0
+4540##Titan Quest##0
+475150##Titan Quest Anniversary Edition##0
+50300##Spec Ops: The Line##0
+620##Portal 2##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+111600##Serious Sam Double D XXL##0
+28050##Deus Ex: Human Revolution##0
+400##Portal##0
+102840##Shank 2##0
+55230##Saints Row: The Third##0
+201280##Deus Ex: Human Revolution - The Missing Link##0
+201480##Serious Sam: The Random Encounter##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+41070##Serious Sam 3: BFE##0
+227780##Serious Sam Classics: Revolution##0
+205790##Dota 2 Test##0
+67370##The Darkness II##0
+204340##Serious Sam 2##0
+204880##Sins of a Solar Empire: Rebellion##0
+208090##Loadout##0
+208600##Lunar Flight##0
+201700##DiRT Showdown##0
+108710##Alan Wake##0
+207610##The Walking Dead##0
+211440##Adventures of Shuggy##0
+211360##Offspring Fling!##0
+200260##Batman: Arkham City GOTY##0
+202750##Alan Wake's American Nightmare##0
+108800##Crysis 2 Maximum Edition##0
+3830##Psychonauts##0
+48000##LIMBO##0
+57300##Amnesia: The Dark Descent##0
+204060##Superbrothers: Sword & Sworcery EP##0
+207080##Indie Game: The Movie##0
+26800##Braid##0
+40800##Super Meat Boy##0
+209830##Lone Survivor: The Director's Cut##0
+204100##Max Payne 3##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+113200##The Binding of Isaac##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+730##Counter-Strike: Global Offensive##0
+204220##Snapshot##0
+49520##Borderlands 2##0
+214790##The Basement Collection##0
+72000##Closure##0
+20820##Shatter##0
+41500##Torchlight##0
+107200##Space Pirates and Zombies##0
+107800##Rochard##0
+108500##Vessel##0
+41800##Gratuitous Space Battles##0
+63710##BIT.TRIP RUNNER##0
+94200##Jamestown##0
+207420##Wizorb##0
+219640##Chivalry: Medieval Warfare##0
+219150##Hotline Miami##0
+223470##POSTAL 2##0
+223220##Giana Sisters: Twisted Dreams##0
+211400##Deadlight##0
+4920##Natural Selection 2##0
+57690##Tropico 4##0
+219950##NiGHTS into Dreams...##0
+214510##LEGO® The Lord of the Rings™##0
+20540##Company of Heroes: Tales of Valor##0
+43110##Metro 2033##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+462780##Darksiders Warmastered Edition##0
+226700##Infestation: Survivor Stories 2020##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+71230##Crazy Taxi##0
+71240##SEGA Bass Fishing##0
+71250##Sonic Adventure DX##0
+71260##Space Channel 5: Part 2##0
+205950##Jet Set Radio##0
+200900##Cave Story+##0
+203160##Tomb Raider##0
+203290##America's Army: Proving Grounds##0
+242590##Saints Row IV Inauguration Station##0
+224260##No More Room in Hell##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+232910##TrackMania² Stadium##0
+8870##BioShock Infinite##0
+44350##GRID 2##0
+72850##The Elder Scrolls V: Skyrim##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236090##Dust: An Elysian Tail##0
+231160##The Swapper##0
+207140##SpeedRunners##0
+368730##No Time To Explain Remastered##0
+246740##Huntsman - The Orphanage Halloween Edition##0
+214770##Guacamelee! Gold Edition##0
+218620##PAYDAY 2##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+251470##TowerFall Ascension##0
+252950##Rocket League##0
+253130##Rescue: Everyday Heroes##0
+212480##Sonic & All-Stars Racing Transformed Collection##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+260230##Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™##0
+261030##The Walking Dead: Season Two##0
+209000##Batman™: Arkham Origins##0
+249130##LEGO® MARVEL Super Heroes##0
+239200##Amnesia: A Machine for Pigs##0
+222880##Insurgency##0
+275080##Post Master ##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+277500##Farming World##0
+278360##A Story About My Uncle##0
+282440##Quake Live##0
+285160##LEGO® The Hobbit™##0
+292380##Racer 8##0
+292910##Deponia: The Complete Journey##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+296470##Mount Your Friends##0
+297020##The Culling Of The Cows##0
+351030##Pixel Puzzles Ultimate##0
+65790##Arma: Cold War Assault##0
+8600##RACE 07##0
+8660##GTR Evolution##0
+211500##RaceRoom Racing Experience ##0
+307760##Zoo Park##0
+321040##DiRT 3 Complete Edition##0
+223430##Miner Wars 2081##0
+244850##Space Engineers##0
+24240##PAYDAY: The Heist##0
+333930##Dirty Bomb##0
+271590##Grand Theft Auto V##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+346900##AdVenture Capitalist##0
+354500##PAYDAY: The Web Series##0
+354510##PAYDAY: The Web Series: The Vault##0
+354520##PAYDAY: The Web Series: Hector##0
+354530##PAYDAY: The Web Series: The Elephant##0
+354540##PAYDAY: The Web Series: Greta: The Assassin##0
+354550##PAYDAY: The Web Series: Vlad & Gage##0
+494710##PAYDAY: The Web Series: First World Bank##0
+377160##Fallout 4##0
+381210##Dead by Daylight##0
+245490##Trials Fusion##0
+291550##Brawlhalla##0
+431240##Golf With Your Friends##0
+434730##Half dead##0
+437920##Tricky Towers##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+99300##Renegade Ops##0
+211160##Viking: Battle for Asgard##0
+223850##3DMark##0
+273350##Evolve Stage 2##0
+466240##Deceit##0
+530620##Resident Evil 7 Teaser: Beginning Hour##0
+544920##Darwin Project##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+555570##Infestation: The New Z##0
+563560##Alien Swarm: Reactive Drop##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+582500##We Were Here##0
+418460##Rising Storm 2: Vietnam##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+305050##Outland##0
+677160##We Were Here Too##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+231430##Company of Heroes 2##0
+797470##METAL GEAR SURVIVE BETA##0
+823130##Totally Accurate Battlegrounds##0
+611500##Quake Champions##0
+863550##HITMAN™ 2##0
+865360##We Were Here Together##0
+884660##CRSED##0
+714010##Aim Lab##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+945360##Among Us##0
+491950##Orwell##0
+961440##Resident Evil 2 "1-Shot Demo"##0
+1085660##Destiny 2##0
+1172470##Apex Legends##0
+582660##Black Desert Online##0
+1097150##Fall Guys: Ultimate Knockout##0
+@@REVIEW
+730##Recommended

@@ -1,0 +1,53 @@
+@@GAME
+550##Left 4 Dead 2##120764
+500##Left 4 Dead##73600
+570##Dota 2##43659
+65800##Dungeon Defenders##31226
+49520##Borderlands 2##3837
+91310##Dead Island##2807
+8980##Borderlands GOTY##2799
+24960##Battlefield: Bad Company™ 2##2419
+22350##BRINK##2074
+620##Portal 2##1533
+24240##PAYDAY: The Heist##1195
+45750##Lost Planet 2##932
+21100##F.E.A.R. 3##886
+22600##Worms Reloaded##866
+440##Team Fortress 2##720
+35720##Trine 2##676
+730##Counter-Strike: Global Offensive##648
+12210##Grand Theft Auto IV: The Complete Edition##589
+240##Counter-Strike: Source##525
+70600##Worms Ultimate Mayhem##524
+201790##Orcs Must Die! 2##444
+200710##Torchlight II##444
+202170##Sleeping Dogs™##353
+1250##Killing Floor##349
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##346
+42910##Magicka##318
+10##Counter-Strike##298
+400##Portal##240
+91600##Sanctum##177
+111400##Bunch Of Heroes##166
+10180##Call of Duty: Modern Warfare 2##141
+34330##Total War: SHOGUN 2##128
+99810##Bulletstorm##95
+108710##Alan Wake##82
+300##Day of Defeat: Source##74
+10680##Aliens vs. Predator##73
+32160##Zombie Bowl-O-Rama##12
+26800##Braid##8
+12900##Audiosurf##7
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+3700##Sniper Elite##0
+729040##Borderlands GOTY Enhanced##0
+203560##Containment: The Zombie Puzzler##0
+205790##Dota 2 Test##0
+@@REVIEW

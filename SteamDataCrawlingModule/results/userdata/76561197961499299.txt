@@ -1,0 +1,32 @@
+@@GAME
+730##Counter-Strike: Global Offensive##165923
+252490##Rust##72512
+440900##Conan Exiles##29176
+526870##Satisfactory##13346
+105600##Terraria##8104
+346110##ARK: Survival Evolved##5088
+582160##Assassin's Creed Origins##2344
+295110##Just Survive##1841
+10##Counter-Strike##1317
+227300##Euro Truck Simulator 2##876
+218620##PAYDAY 2##549
+238960##Path of Exile##148
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##114
+321040##DiRT 3 Complete Edition##13
+224480##Octodad: Dadliest Catch##9
+570##Dota 2##7
+44350##GRID 2##6
+457710##Road Madness##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+700580##Rust - Staging Branch##0
+407530##ARK: Survival Of The Fittest##0
+362300##Just Survive Test Server##0
+555570##Infestation: The New Z##0
+931180##Conan Exiles - Testlive Client##0
+@@REVIEW

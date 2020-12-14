@@ -1,0 +1,60 @@
+@@GAME
+730##Counter-Strike: Global Offensive##124674
+10##Counter-Strike##80130
+1126290##Lost##11991
+239140##Dying Light##4896
+1085660##Destiny 2##3898
+381210##Dead by Daylight##3788
+641990##The Escapists 2##3732
+105600##Terraria##3689
+304930##Unturned##3563
+1136160##Internet Cafe Simulator##3560
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2858
+976730##Halo: The Master Chief Collection##2741
+527230##For The King##1808
+55150##Warhammer 40,000: Space Marine##1324
+218620##PAYDAY 2##759
+552990##World of Warships##742
+269710##Tumblestone##489
+1900##Earth 2160##421
+215930##Jagged Alliance 2 - Wildfire ##421
+224900##Iron Sky Invasion##421
+431960##Wallpaper Engine##390
+215790##Dream Pinball 3D##354
+253880##Earth 2150 Trilogy##330
+253920##Gorky 17##330
+253900##Knights and Merchants##269
+253960##Jack Orlando Director's Cut##269
+254060##KnightShift##269
+253860##Earth 2140 HD##256
+563560##Alien Swarm: Reactive Drop##122
+477160##Human: Fall Flat##100
+30##Day of Defeat##49
+236390##War Thunder##24
+50##Half-Life: Opposing Force##9
+20##Team Fortress Classic##8
+40##Deathmatch Classic##8
+60##Ricochet##8
+70##Half-Life##8
+714010##Aim Lab##8
+130##Half-Life: Blue Shift##7
+99410##Garshasp: Temple of the Dragon##7
+259280##Earth 2150: The Moon Project##7
+259300##Earth 2150: Lost Souls##7
+622810##Invasion##7
+660290##Dungeons & Geese##7
+466240##Deceit##6
+809490##Infernales: Circles of Hell##6
+433850##Z1 Battle Royale##2
+760620##Deiland##1
+442070##Drawful 2##1
+289690##Lara Croft and the Temple of Osiris##1
+439700##H1Z1: Test Server##0
+222480##Resident Evil Revelations##0
+797410##Headsnatchers##0
+203160##Tomb Raider##0
+1078000##Gamecraft##0
+368180##Polyball##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+730##Recommended

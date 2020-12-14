@@ -1,0 +1,44 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+550##Left 4 Dead 2##0
+730##Counter-Strike: Global Offensive##0
+205790##Dota 2 Test##0
+99900##Spiral Knights##0
+208090##Loadout##0
+212070##Star Conflict##0
+218130##Dungeonland##0
+230410##Warframe##0
+234310##March of War##0
+240320##Panzar##0
+39120##RIFT##0
+215100##Ragnarok##0
+223390##Forge##0
+251670##Battle Nations##0
+271290##HAWKEN##0
+42160##War of the Roses##0
+202090##Magicka: Wizard Wars##0
+206500##AirMech Strike##0
+226320##Marvel Heroes Omega##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+217200##Worms Armageddon##0
+252950##Rocket League##0
+273110##Counter-Strike Nexon: Studio##0
+282440##Quake Live##0
+282660##Easy eSports##0
+227700##Firefall##0
+268420##Aura Kingdom##0
+227940##Heroes & Generals##0
+200110##Nosgoth##0
+331470##Everlasting Summer##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+@@REVIEW

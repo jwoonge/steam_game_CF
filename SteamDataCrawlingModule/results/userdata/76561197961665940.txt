@@ -1,0 +1,585 @@
+@@GAME
+359320##Elite Dangerous##307335
+218230##PlanetSide 2##46706
+582010##Monster Hunter: World##31543
+257350##Baldur's Gate II: Enhanced Edition##28880
+211420##DARK SOULS™: Prepare To Die Edition##27270
+250820##SteamVR##26514
+236430##DARK SOULS™ II##14589
+374320##DARK SOULS™ III##14337
+440##Team Fortress 2##14191
+377160##Fallout 4##12883
+570940##DARK SOULS™: REMASTERED##12526
+228280##Baldur's Gate: Enhanced Edition##10265
+72850##The Elder Scrolls V: Skyrim##10076
+814380##Sekiro™: Shadows Die Twice##9653
+435150##Divinity: Original Sin 2##7378
+22380##Fallout: New Vegas##6632
+460790##Bayonetta##6291
+291650##Pillars of Eternity##6073
+270880##American Truck Simulator##4541
+250760##Shovel Knight: Treasure Trove##4441
+367500##Dragon's Dogma: Dark Arisen##4287
+8930##Sid Meier's Civilization V##3807
+611670##The Elder Scrolls V: Skyrim VR##3668
+1174180##Red Dead Redemption 2##3369
+327880##Sublevel Zero Redux##2841
+570##Dota 2##2425
+1091500##Cyberpunk 2077##2234
+24980##Mass Effect 2##2209
+49400##Magic: The Gathering - Duels of the Planeswalkers##2156
+412740##Audioshield##2122
+17460##Mass Effect##2090
+611660##Fallout 4 VR##1987
+227300##Euro Truck Simulator 2##1980
+644830##The Surge 2##1906
+396750##EVERSPACE™##1757
+47900##Dragon Age II (Retired)##1703
+746930##OrbusVR##1694
+488760##Left-Hand Path##1677
+517710##Redout: Enhanced Edition##1590
+275850##No Man's Sky##1585
+450390##The Lab##1570
+418650##Space Pirate Trainer##1547
+61700##Might & Magic: Clash of Heroes##1544
+539050##Super Island God VR##1457
+392190###SelfieTennis##1437
+524220##NieR:Automata™##1436
+346460##Vector 36##1403
+493340##Planet Coaster##1292
+500##Left 4 Dead##1285
+230230##Divinity: Original Sin (Classic)##1283
+484350##VRZ Torment##1203
+620##Portal 2##1182
+667970##VTOL VR##1140
+382110##Virtual Desktop##1137
+436320##Raw Data##1123
+212680##FTL: Faster Than Light##1096
+8980##Borderlands GOTY##1065
+601150##Devil May Cry 5##1053
+457960##Holopoint##1030
+464170##VRMark##1019
+1172380##STAR WARS Jedi: Fallen Order™ ##1001
+1086940##Baldur's Gate 3##972
+405340##Siegecraft Commander##934
+13210##Unreal Tournament 3: Black Edition##932
+316010##Magic Duels##929
+553320##SYREN##901
+17300##Crysis##848
+98200##Frozen Synapse##790
+490490##Blasters of the Universe##713
+726250##Unknightly##704
+550##Left 4 Dead 2##648
+467660##Paranormal Activity: The Lost Soul##640
+219640##Chivalry: Medieval Warfare##617
+35700##Trine##607
+578620##GORN##601
+213850##Magic 2014 ##566
+380220##Hover Junkers##566
+22300##Fallout 3##563
+281990##Stellaris##552
+570420##X Rebirth VR Edition##544
+782330##DOOM Eternal##544
+312650##Battlezone##542
+722230##L.A. Noire: The VR Case Files##540
+427760##A Chair in a Room: Greenwater##524
+264710##Subnautica##522
+611160##Karnage Chronicles##513
+35140##Batman: Arkham Asylum GOTY Edition##506
+433190##CDF Starfighter VR##504
+613020##Gem Hunter##501
+451650##Whirligig##499
+378860##Project CARS 2##496
+342190##Skyworld##492
+485240##Push For Emor##489
+674850##2MD VR Football##483
+555880##Sairento VR##481
+436230##Detached##471
+201810##Wolfenstein: The New Order##465
+292030##The Witcher 3: Wild Hunt##429
+427240##Cosmic Trip##424
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##422
+1250410##Microsoft Flight Simulator##413
+465240##Serious Sam VR: The Last Hope##409
+6910##Deus Ex: Game of the Year Edition##394
+6000##STAR WARS™ Republic Commando##394
+346110##ARK: Survival Evolved##375
+834910##ATLAS##375
+332490##Battle Fleet 2##355
+252470##Space Pirates and Zombies 2##349
+730##Counter-Strike: Global Offensive##347
+223850##3DMark##343
+242760##The Forest##338
+585500##Dick Wilde##332
+464400##Bounce##327
+460810##Vanquish##313
+698260##Star Shelter##311
+496240##Onward##310
+382000##Mindshow##306
+518060##Chess Ultra##301
+646200##Dead Effect 2 VR##299
+379420##Polynomial 2##294
+448280##Job Simulator##293
+945360##Among Us##293
+451840##Out of Ammo##290
+456740##Doctor Kvorak's Obliteration Game##288
+505700##Anyland##284
+32370##STAR WARS™: Knights of the Old Republic™##280
+398850##Epistory - Typing Chronicles##278
+650000##DOOM VFR##276
+412050##HordeZ##268
+270130##The Gallery - Episode 1: Call of the Starseed##266
+328590##Don't Knock Twice##262
+41500##Torchlight##259
+531050##Far Beyond: A space odyssey VR##258
+597770##VINDICTA##248
+268910##Cuphead##247
+601080##TRANCE VR##238
+544610##Battlestar Galactica Deadlock##231
+636970##Tales Of Glory##229
+583150##KART CHASER : THE BOOST VR##228
+688480##EVE: Valkyrie - Warzone##227
+469610##Rick and Morty: Virtual Rick-ality##223
+475190##Scanner Sombre##221
+636450##Rez Infinite##221
+389260##Lucid Trips##219
+586950##The Wizards##219
+629760##MORDHAU##219
+493790###Archery##218
+590690##Sprint Vector##217
+639220##Throttle Powah VR##214
+108600##Project Zomboid##212
+594370##Crazy Fishing##210
+503580##Duck Season##209
+511570##NIGHTSTAR: STARFIGHTER##209
+412790##Adventure Time: Magic Man's Head Games##208
+448850##Overload##205
+584930##Conductor##205
+465780##NewRetroArcade: Neon##203
+366870##Narcosis##202
+546150##Primordian##199
+322770##Vanishing Realms##198
+552080##IronWolf VR##198
+513270##Lockdown: Stand Alone##197
+408520##FORM##195
+534230##Quell 4D##195
+282440##Quake Live##194
+610680##Starway Fleet##194
+271590##Grand Theft Auto V##191
+521950##Bullet Sorrow VR##188
+629040##Skytropolis##186
+605830##Organ Quarter##184
+360950##Descent: Underground##183
+468240##VR Regatta - The Sailing Game##181
+428370##Windlands##180
+364630##AirMech® Command##178
+578210##A-Tech Cybernetic VR##178
+739630##Phasmophobia##176
+627070##inVokeR##174
+683790##Tractorball##174
+465430##Vertigo##171
+502710##The Last Sniper VR##169
+489600##The Golf Club VR##168
+207170##Legend of Grimrock##166
+362890##Black Mesa##166
+457320##HoloBall##166
+590250##The Frontier Outskirts VR##166
+586210##OVRdrop##165
+425720##Cloudlands : VR Minigolf##159
+509250##TO THE TOP##159
+234630##Project CARS##154
+450540##Hot Dogs, Horseshoes & Hand Grenades##154
+283160##House of the Dying Sun##153
+462480##Sweet Escape VR##151
+510740##Konrad the Kitten - a virtual but real cat##150
+698110##Reficul##150
+49520##Borderlands 2##149
+398180##Euclidean##148
+535410##Saga of the Void: Admirals##148
+486290##Waddle Home##143
+525500##Candy Kingdom##141
+571340##Seeking Evil: The Wendigo##141
+212500##The Lord of the Rings Online™##140
+344180##Valiant##138
+484870##Battle Dome##138
+503620##Fictorum##138
+501350##Dimension Hunter VR##135
+494310##Unbreakable Vr Runner##134
+20900##The Witcher: Enhanced Edition##133
+602480##Kartong##133
+513320##ALICE VR##132
+567670##Serious Sam 3 VR: BFE##132
+494960##Twisted Arrow##131
+705100##Marshmallow Melee##130
+648350##Jurassic World Evolution##130
+501440##Stars##129
+511370##Wrath Of The Fire God##128
+490170##Mind OVR Matter##127
+457860##Apollo 11 VR##124
+214490##Alien: Isolation##123
+407060##AltspaceVR##123
+459780##Vektron Revenge##123
+524380##Yore VR##121
+466520##Drone Hunter VR##119
+468110##Rescuties! VR##118
+436940##Quar: Battle for Gate 18##115
+265930##Goat Simulator##114
+382360##John Wick Chronicles##113
+451520##theBlu##112
+500350##Final Fleet##111
+516590##CyberThreat##111
+598690##Dark Legion VR##110
+12900##Audiosurf##109
+230410##Warframe##106
+381940##Trials on Tatooine##104
+471160##Moonshot Galaxy™##104
+446620##Zombie Training Simulator##98
+518000##Edge Guardian##98
+530960##ROM: Extraction##98
+65980##Sid Meier's Civilization: Beyond Earth##97
+500480##Fist of Physics##97
+566860##VR Dungeon Knight##97
+1097150##Fall Guys: Ultimate Knockout##97
+529360##Void Rangers##94
+601770##Sparc##89
+510850##Mars 2030##88
+17510##Age of Chivalry##88
+28050##Deus Ex: Human Revolution##86
+440630##The Brookhaven Experiment##86
+529500##ALONE? - VR##86
+380670##Final Approach##84
+564310##Serious Sam Fusion 2017 (beta)##83
+401820##FATED: The Silent Oath##82
+402800##Chunks##82
+496080##Space, VR!##82
+540410##Queendoom##78
+11450##Overlord##77
+503390##Roomscale Tower##76
+504420##Malazard: The Master of Magic##73
+577290##Drunk or Dead##73
+230290##Universe Sandbox##72
+448880##Spells 'n' Stuff##71
+462000##Cyberpong##71
+499400##The Path of Greatest Resistance##69
+528550##Drunkn Bar Fight##69
+442660##The SoulKeeper VR##67
+565030##Blueshift##67
+392150###SkiJump##66
+552460##Serious Sam VR: The Second Encounter##66
+434030##Aerofly FS 2 Flight Simulator##65
+384750##Everest VR##64
+478950##V ARRR##64
+286160##Tabletop Simulator##62
+455440##Spell Fighter VR##62
+499620##Ultimate Booster Experience##61
+512080##Fancy Skiing VR##61
+295110##Just Survive##60
+692850##Bloodstained: Ritual of the Night##60
+403590##Klepto##59
+504630##Broomball##59
+517160##Richie's Plank Experience##59
+613130##Mega Overload##59
+233610##Distance##56
+477270##Lightblade VR##55
+566180##Fractal##54
+296710##Monstrum ##53
+462910##Poly Runner VR##52
+209000##Batman™: Arkham Origins##51
+327140##Tilt Brush##51
+570230##Deathlike: Awakening##51
+55150##Warhammer 40,000: Space Marine##50
+459010##Ghost Town Mine Ride & Shootin' Gallery##49
+470280##Lost Route##49
+476430##SwingStar VR##49
+450060##Insane Decay of Mind: The Labyrinth##48
+437080##Space Rift - Episode 1##47
+544270##The Bellows##47
+200510##XCOM: Enemy Unknown##45
+487770##Hoops VR##45
+494150##The Thrill of the Fight##45
+505660##The Crystal Nebula##45
+11170##Blood Bowl: Dark Elves Edition##44
+247080##Crypt of the NecroDancer##44
+455230##Bazaar##43
+577370##Boost##43
+21660##Street Fighter IV##42
+440900##Conan Exiles##41
+476700##Island 359##41
+543350##The Night The Carsons Disappeared##41
+473910##The Nest##40
+511700##Ship It##40
+471270##Leave The Nest##39
+343730##Irrational Exuberance: Prologue##38
+543530##Holo Impact : Prologue##38
+400760##ZenBlade##37
+549000##Munch##37
+416590##Emily Wants To Play##36
+522020##Blue Effect VR##35
+481420##Final Approach: Pilot Edition##34
+543580##Pipejob##34
+544800##Driftwatch VR##34
+386690##Fantastic Contraption##33
+468740##Snow Fortress##33
+477170##Chamber 19##33
+520510##Tribocalypse VR##33
+630##Alien Swarm##33
+468700##NVIDIA® VR Funhouse##29
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##28
+510700##Armor Clash VR##28
+9180##Commander Keen Complete Pack##27
+329860##Catlateral Damage##27
+392680##Jeeboman##27
+429830##Unseen Diplomacy##27
+445140##Smell of Death##27
+452710##Realities##27
+548470##First Impact: Rise of a Hero##27
+620980##Beat Saber##27
+488150##Octoshield VR##26
+57300##Amnesia: The Dark Descent##25
+457580##The Visitor##25
+220##Half-Life 2##23
+12210##Grand Theft Auto IV: The Complete Edition##22
+483970##Directionless##21
+445050##Paintey##20
+436220##A-10 VR##19
+452490##The Cubicle.##19
+461410##Protonwar##19
+631900##Airtone##19
+29720##Guild Wars##18
+17330##Crysis Warhead##16
+357010##The Collider 2##16
+420840##BLARP!##14
+501110##Mount Wingsuit##14
+205100##Dishonored##13
+500930##Football VR##13
+464540##Colosse##12
+510960##Puzzling Rooms VR##12
+512240##Duckpocalypse##12
+42910##Magicka##11
+457420##Surgeon Simulator VR: Meet The Medic##11
+457550##Bigscreen Beta##11
+503410##Zombie Camp##10
+525540##Six Feet Under##10
+434430##Abbot's Book Demo##9
+523710##Sword Master VR##9
+571660##Psyche Soldier VR##9
+439550##'n Verlore Verstand##8
+451870##Nighttime Terror: Dessert Defender##8
+488310##Eleven: Table Tennis VR##7
+510290##DEXED##7
+313630##The Solus Project##6
+422860##Holodance##6
+512420##Wave Magic VR##6
+534870##Arcane##5
+518110##Ahros: One warrior chronicle##4
+538870##EVE: Valkyrie##4
+503900##Candy Smash VR##3
+513240##Birdtual Reality##3
+642170##Legendary Hunter VR##3
+450220##Overload Playable Teaser##2
+562450##Salvage Op##2
+579780##Mental Asylum VR##2
+635680##Alien Covenant In Utero: ALIEN: COVENANT In Utero##2
+40300##Risen##1
+12120##Grand Theft Auto: San Andreas##1
+279920##Infinity Runner##1
+313340##Mountain##1
+411620##Pane In The Glass##1
+493410##Steampuff: Phinnegan's Factory##1
+531270##The Art of Fight##1
+540010##Symphony of the Machine##1
+563420##Obscura##1
+578390##Remnith##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+3830##Psychonauts##0
+17340##Crysis Wars##0
+29650##Aion Collectors Edition##0
+950670##Gothic Playable Teaser##0
+729040##Borderlands GOTY Enhanced##0
+12710##Overlord: Raising Hell##0
+12810##Overlord II##0
+400##Portal##0
+34010##Alpha Protocol##0
+1238040##Dragon Age II##0
+32800##The Lord of the Rings: War in the North##0
+205790##Dota 2 Test##0
+108710##Alan Wake##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+219150##Hotline Miami##0
+208200##DOOM 3: BFG Edition##0
+225600##Blade Symphony##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+221810##The Cave##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+225140##Duke Nukem 3D: Megaton Edition##0
+244210##Assetto Corsa##0
+269170##SportsBar VR ##0
+239200##Amnesia: A Machine for Pigs##0
+224480##Octodad: Dadliest Catch##0
+213670##South Park™: The Stick of Truth™##0
+282140##SOMA##0
+287390##Metro: Last Light Redux##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+296070##MIND Path to Thalamus E.Edition##0
+300380##Road Redemption##0
+301320##NoLimits 2 Roller Coaster Simulation##0
+303790##Faery - Legends of Avalon##0
+304430##INSIDE##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+373420##Divinity: Original Sin Enhanced Edition##0
+310560##DiRT Rally##0
+248470##Doorways: Prelude##0
+311250##Doorways: The Underworld##0
+239140##Dying Light##0
+238320##Outlast##0
+261640##Borderlands: The Pre-Sequel##0
+274940##Depth##0
+305620##The Long Dark##0
+339710##Cyber Chicken##0
+342180##Arizona Sunshine##0
+407530##ARK: Survival Of The Fittest##0
+348250##Google Earth VR##0
+352360##Reflections##0
+235540##Warhammer: End Times - Vermintide##0
+356790##Galacide##0
+363460##Spermination##0
+363620##Tea Party Simulator 2015™##0
+365140##DREAMFLIGHT VR##0
+366810##Dungeon Hero##0
+367520##Hollow Knight##0
+384740##CAT Interstellar##0
+384990##Gon' E-Choo!##0
+253030##Race The Sun##0
+252950##Rocket League##0
+325600##Sword Coast Legends##0
+411820##The FOO Show##0
+412770##Boogeyman##0
+412940##Back to Dinosaur Island ##0
+428080##Racket: Nx##0
+428550##Momodora: Reverie Under the Moonlight##0
+391220##Rise of the Tomb Raider##0
+436820##Waltz of the Wizard##0
+438100##VRChat##0
+931180##Conan Exiles - Testlive Client##0
+447100##XLR##0
+447150##APE OUT##0
+392120##City Z##0
+452640##Back to Dinosaur Island 2##0
+457770##Audio Arena##0
+459940##Deer Man##0
+465150##Mars Odyssey##0
+1318090##Vertigo Remastered##0
+469650##Disney Movies VR##0
+471710##Rec Room##0
+471770##In Case of Emergency, Release Raptor##0
+472720##Car Car Crash Hands On Edition##0
+487620##Perfect Angle VR - Zen edition##0
+498990##Balloon Chair Death Match##0
+499610##Copter and Sky##0
+443080##Elite Dangerous: Arena##0
+500500##Simple VR Video Player##0
+503770##Elven Assassin##0
+509540##SVRVIVE: The Deus Helix##0
+510930##Thirst##0
+512110##Cosmos Crash VR##0
+512410##69 Ways to Kill a Zombie##0
+513050##Outrageous Grounds: The Maze##0
+513760##3dSunshine##0
+517620##Gooblins##0
+523060##Planet Smasher##0
+525640##Bullets And More VR - BAM VR##0
+526140##The Gallery - Episode 2: Heart of the Emberstone##0
+527100##Star Trek: Bridge Crew##0
+527700##Containment Initiative##0
+534480##Tropical Girls VR##0
+534720##Tornuffalo##0
+537140##Nemesis Perspective##0
+716750##Nemesis Realms##0
+542520##Lost in the Rift - Reborn##0
+547040##Above - VR##0
+552440##The Talos Principle VR##0
+552450##Serious Sam VR: The First Encounter##0
+553000##Escape Artist: The Trial##0
+553450##The Purge Day##0
+553590##Hot Squat##0
+555070##Overload Multiplayer Beta##0
+555160##Pavlov VR##0
+555600##Hopalong: The Badlands##0
+556230##Off-Road Paradise: Trial 4x4##0
+557730##I Hate Santa##0
+557960##Beach Bowling Dream VR##0
+565380##Cargo Cult: Shoot'n'Loot VR##0
+566530##Mass Exodus Redux##0
+566980##Crashimals##0
+462520##Super Kaiju##0
+438740##Friday the 13th: The Game##0
+573550##GoalkeepVr##0
+576750##Ropes And Dragons VR##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+578190##Diesel Power##0
+586080##Age of Heroes (VR)##0
+588560##VRobot##0
+591790##BREACH IT##0
+592240##Jupiteration##0
+592330##Roomscale Coaster##0
+592410##Spacetours VR - Ep1 The Solar System##0
+596640##Lost in the Ocean VR##0
+356190##Middle-earth™: Shadow of War™##0
+599630##Mountain Mind##0
+607190##Dark##0
+635681##Alien Covenant In Utero: 异形 ：契约##0
+635682##Alien Covenant In Utero: ALIEN : COVENANT In Utero (French)##0
+635683##Alien Covenant In Utero: Alien: Covenant – In Utero (German)##0
+635684##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Italian)##0
+635685##Alien Covenant In Utero: 『エイリアン : コヴェナント』 - 胎内-##0
+635686##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Spanish)##0
+635687##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Norwegian)##0
+635688##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Brazilian Portugese)##0
+635689##Alien Covenant In Utero: VR-видео «ЧУЖОЙ: В УТРОБЕ»##0
+635690##Alien Covenant In Utero: ALIEN: COVENANT In Utero (Castilian Spanish)##0
+635691##Alien Covenant In Utero: เอเลี่ยน: โคเวแนนท์##0
+629220##Rise of Insanity##0
+632840##CYBER (VR)##0
+637870##Slice&Dice##0
+639130##Ultrawings##0
+645330##Frontline Heroes VR##0
+648190##Aliens In The Yard##0
+218620##PAYDAY 2##0
+656330##Outpost L5##0
+668840##Dead Moon - Revenge on Phobos##0
+686360##Dungeons & Treasure VR##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+696580##The Tower##0
+698600##Tooth and Claw##0
+704470##VR Furballs - Demolition##0
+741430##Titanic VR##0
+756700##Neon Seoul: Outrun##0
+379430##Kingdom Come: Deliverance##0
+814020##Quickshot##0
+976730##Halo: The Master Chief Collection##0
+617290##Remnant: From the Ashes##0
+203160##Tomb Raider##0
+@@REVIEW

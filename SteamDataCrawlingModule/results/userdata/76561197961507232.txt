@@ -1,0 +1,32 @@
+@@GAME
+570##Dota 2##268513
+10##Counter-Strike##14478
+730##Counter-Strike: Global Offensive##12082
+220##Half-Life 2##1262
+10680##Aliens vs. Predator##1245
+17300##Crysis##1014
+420##Half-Life 2: Episode Two##919
+280##Half-Life: Source##911
+240##Counter-Strike: Source##796
+550##Left 4 Dead 2##362
+380##Half-Life 2: Episode One##284
+9480##Saints Row 2##56
+211##Source SDK##37
+1046930##Dota Underlords##4
+70##Half-Life##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+7510##X-Blades##0
+238960##Path of Exile##0
+286120##QuestRun##0
+395920##Playing History - The Plague##0
+1293860##The Riftbreaker: Prologue##0
+@@REVIEW
+10##Recommended

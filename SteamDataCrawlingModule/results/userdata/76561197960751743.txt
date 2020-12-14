@@ -1,0 +1,31 @@
+@@GAME
+238960##Path of Exile##51370
+435150##Divinity: Original Sin 2##4845
+812140##Assassin's Creed Odyssey##1478
+532210##Life is Strange 2##1313
+379430##Kingdom Come: Deliverance##1246
+552500##Warhammer: Vermintide 2##803
+447040##Watch_Dogs 2##498
+241260##Sherlock Holmes: Crimes and Punishments##342
+236870##HITMAN™##267
+475550##Beholder##265
+50##Half-Life: Opposing Force##193
+287630##The Council##54
+384110##Pathologic Classic HD##54
+208140##Endless Space##54
+431960##Wallpaper Engine##41
+863550##HITMAN™ 2##40
+20##Team Fortress Classic##1
+40##Deathmatch Classic##1
+70##Half-Life##1
+107100##Bastion##1
+10##Counter-Strike##0
+30##Day of Defeat##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+836620##Black Desert##0
+226840##Age of Wonders III##0
+1172470##Apex Legends##0
+@@REVIEW
+447040##Recommended

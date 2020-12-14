@@ -1,0 +1,190 @@
+@@GAME
+730##Counter-Strike: Global Offensive##318860
+252950##Rocket League##111091
+570##Dota 2##39725
+433850##Z1 Battle Royale##23502
+386360##SMITE##15894
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##13886
+295110##Just Survive##10440
+238960##Path of Exile##9928
+384300##CPUCores :: Maximize Your FPS##7396
+10##Counter-Strike##6053
+629760##MORDHAU##5581
+292030##The Witcher 3: Wild Hunt##5298
+1097150##Fall Guys: Ultimate Knockout##4641
+440##Team Fortress 2##4575
+489830##The Elder Scrolls V: Skyrim Special Edition##3416
+413150##Stardew Valley##2992
+306130##The Elder Scrolls Online##2872
+271590##Grand Theft Auto V##2765
+582160##Assassin's Creed Origins##2051
+30##Day of Defeat##1958
+582010##Monster Hunter: World##1889
+880940##Pummel Party##1816
+620##Portal 2##1804
+230410##Warframe##1800
+480490##Prey##1788
+560380##MapleStory 2##1564
+434020##Last Hope - Tower Defense##1473
+359550##Tom Clancy's Rainbow Six Siege##1450
+552500##Warhammer: Vermintide 2##1400
+381210##Dead by Daylight##1246
+794260##Outward##1192
+239140##Dying Light##1102
+201810##Wolfenstein: The New Order##1100
+12750##GRID##1046
+960090##Bloons TD 6##988
+246420##Kingdom Rush##931
+389730##TEKKEN 7##907
+232090##Killing Floor 2##880
+698780##Doki Doki Literature Club##781
+234670##NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst##771
+252490##Rust##744
+255220##GRID Autosport##736
+728880##Overcooked! 2##674
+304390##For Honor##598
+739630##Phasmophobia##554
+289070##Sid Meier's Civilization VI##550
+17410##Mirror's Edge##523
+49520##Borderlands 2##510
+1106530##GemCraft - Frostborn Wrath##435
+523120##VEGAS Movie Studio 14 Platinum Steam Edition##418
+220200##Kerbal Space Program##401
+218230##PlanetSide 2##388
+346110##ARK: Survival Evolved##350
+201790##Orcs Must Die! 2##319
+945360##Among Us##317
+268910##Cuphead##291
+380##Half-Life 2: Episode One##280
+291550##Brawlhalla##264
+976730##Halo: The Master Chief Collection##264
+130##Half-Life: Blue Shift##262
+582660##Black Desert Online##249
+420##Half-Life 2: Episode Two##247
+1018830##Element TD 2##246
+288160##The Room##243
+257510##The Talos Principle##209
+813820##Realm Royale##202
+1174180##Red Dead Redemption 2##199
+341800##Keep Talking and Nobody Explodes##185
+471550##Nine Parchments##178
+218620##PAYDAY 2##175
+4000##Garry's Mod##166
+225840##Sven Co-op##164
+621060##PC Building Simulator##157
+254480##Obscure 2##133
+65800##Dungeon Defenders##129
+310950##Street Fighter V##121
+363600##Holy Potatoes! A Weapon Shop?!##116
+207140##SpeedRunners##108
+1341230##Super Buckyball Tournament Preseason##99
+809960##Radical Heights##84
+562500##Warstone TD##79
+296490##GemCraft - Chasing Shadows##71
+1046930##Dota Underlords##71
+391280##Epic Manager##65
+532210##Life is Strange 2##63
+769410##Electromaze Defense##60
+379720##DOOM##57
+641990##The Escapists 2##56
+438100##VRChat##54
+602770##Clatter##48
+70##Half-Life##46
+319630##Life is Strange™##46
+830590##Holy Potatoes! A Spy Story?!##45
+203290##America's Army: Proving Grounds##42
+374320##DARK SOULS™ III##40
+714010##Aim Lab##36
+20##Team Fortress Classic##30
+433300##Marvel: Ultimate Alliance##30
+398850##Epistory - Typing Chronicles##27
+449730##Ahnayro: The Dream World##27
+259550##Hero of the Kingdom##26
+340##Half-Life 2: Lost Coast##23
+448510##Overcooked##23
+371330##Two Digits##20
+406150##Refunct##19
+678800##SAS: Zombie Assault 4##17
+400##Portal##14
+298630##The Escapists##13
+233450##Prison Architect##12
+50300##Spec Ops: The Line##11
+268870##Satellite Reign##8
+231430##Company of Heroes 2##7
+466170##Idling to Rule the Gods##6
+505730##Holy Potatoes! We’re in Space?!##6
+517710##Redout: Enhanced Edition##6
+225420##Cities in Motion 2##5
+38720##RUSH##3
+202090##Magicka: Wizard Wars##1
+648430##Hand of the Gods##1
+878760##Realm Royale - Test Server##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+38740##EDGE##0
+205790##Dota 2 Test##0
+51100##Tactical Intervention##0
+113400##APB Reloaded##0
+207230##Archeblade##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+243870##Tom Clancy's Ghost Recon Phantoms - NA##0
+258700##Dragon Nest Europe##0
+209870##Blacklight: Retribution##0
+223710##Cry of Fear##0
+224260##No More Room in Hell##0
+241640##Haunted Memories##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+214340##Deponia##0
+219910##Edna & Harvey: Harvey's New Eyes##0
+230820##The Night of the Rabbit##0
+243200##Memoria##0
+268540##The Whispered World Special Edition##0
+304930##Unturned##0
+224600##Defiance##0
+291480##Warface##0
+227940##Heroes & Generals##0
+312200##Chasm##0
+223650##F.E.A.R. Online##0
+277950##Deadbreed®##0
+407530##ARK: Survival Of The Fittest##0
+339280##Strife##0
+352520##The Silent Age##0
+232150##Killing Floor 2 - SDK##0
+361700##Mortal Kombat: Legacy##0
+361710##Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 2)##0
+361720##Mortal Kombat: Legacy: Johnny Cage##0
+361730##Mortal Kombat: Legacy: Kitana & Mileena (Part 1)##0
+361740##Mortal Kombat: Legacy: Kitana & Mileena (Part 2)##0
+361750##Mortal Kombat: Legacy: Raiden##0
+361760##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 1)##0
+361770##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)##0
+361780##Mortal Kombat: Legacy: Cyrax & Sektor##0
+495460##Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 1)##0
+858460##SMITE - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+435530##The Final Station##0
+437630##State of Mind##0
+447820##Day of Infamy##0
+433320##Marvel: Ultimate Alliance 2##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+654310##For Honor - Public Test##0
+664320##Holy Potatoes! What the Hell?!##0
+686260##Forged Battalion##0
+700580##Rust - Staging Branch##0
+298900##Space Hulk: Deathwing##0
+816090##Space Hulk: Deathwing - Enhanced Edition##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+741820##Prey: Typhon Hunter##0
+611500##Quake Champions##0
+893680##Project Warlock##0
+449960##Book of Demons##0
+345330##Eden Rising##0
+@@REVIEW
+730##Recommended
+480490##Recommended

@@ -1,0 +1,24 @@
+@@GAME
+570##Dota 2##16485
+10##Counter-Strike##7583
+291480##Warface##5066
+755790##Ring of Elysium##895
+386360##SMITE##218
+320300##Car Mechanic Simulator 2015##96
+8190##Just Cause 2##91
+70##Half-Life##43
+113400##APB Reloaded##42
+28000##Kane & Lynch 2: Dog Days##17
+243800##Gas Guzzlers Extreme##11
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+858460##SMITE - Public Test##0
+863550##HITMAN™ 2##0
+231430##Company of Heroes 2##0
+@@REVIEW
+291480##Recommended
+8190##Recommended

@@ -1,0 +1,232 @@
+@@GAME
+250820##SteamVR##148752
+570##Dota 2##27141
+220200##Kerbal Space Program##26655
+238960##Path of Exile##22365
+730##Counter-Strike: Global Offensive##21053
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##17494
+252950##Rocket League##11187
+107410##Arma 3##7201
+294100##RimWorld##6300
+440##Team Fortress 2##5899
+221100##DayZ##5615
+223750##DCS World Steam Edition##5530
+113200##The Binding of Isaac##5212
+595110##Gran Skrea Online##4869
+427520##Factorio##4077
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##4030
+518790##theHunter: Call of the Wild™##3987
+240##Counter-Strike: Source##3742
+594650##Hunt: Showdown##3724
+677120##Heroes of Hammerwatch##3660
+72850##The Elder Scrolls V: Skyrim##3399
+211820##Starbound##3344
+504370##Battlerite##3158
+248610##Door Kickers##3042
+583950##Artifact##2844
+221680##Rocksmith® 2014 Edition - Remastered##2830
+552500##Warhammer: Vermintide 2##2705
+231430##Company of Heroes 2##2618
+105600##Terraria##2570
+42710##Call of Duty: Black Ops - Multiplayer##2384
+24960##Battlefield: Bad Company™ 2##2365
+291650##Pillars of Eternity##2307
+209270##Hero Academy##2078
+38420##Fallout Tactics##1913
+98200##Frozen Synapse##1772
+47810##Dragon Age: Origins - Ultimate Edition##1709
+221380##Age of Empires II (2013)##1681
+7200##TrackMania United Forever##1673
+392160##X4: Foundations##1643
+98800##Dungeons of Dredmor##1635
+2820##X3: Terran Conflict##1609
+379430##Kingdom Come: Deliverance##1456
+560130##Pillars of Eternity II: Deadfire##1454
+17460##Mass Effect##1305
+548430##Deep Rock Galactic##1287
+22380##Fallout: New Vegas##1173
+1046930##Dota Underlords##1136
+40800##Super Meat Boy##1041
+745920##Temtem##1040
+251570##7 Days to Die##964
+1173510##XSOverlay##950
+271590##Grand Theft Auto V##910
+12210##Grand Theft Auto IV: The Complete Edition##872
+203770##Crusader Kings II##868
+979110##Space Haven##830
+200510##XCOM: Enemy Unknown##791
+12750##GRID##790
+262410##World of Guns: Gun Disassembly##763
+25830##Knights of Honor##722
+500##Left 4 Dead##721
+4920##Natural Selection 2##681
+550##Left 4 Dead 2##652
+205190##Rocksmith##642
+248820##Risk of Rain##641
+12840##DiRT 2##628
+291550##Brawlhalla##606
+212680##FTL: Faster Than Light##601
+644930##They Are Billions##574
+4560##Company of Heroes - Legacy Edition##555
+513710##SCUM##546
+24980##Mass Effect 2##532
+1250##Killing Floor##476
+359320##Elite Dangerous##476
+737800##F1 2018##474
+268910##Cuphead##456
+270880##American Truck Simulator##440
+369990##Gremlins, Inc.##432
+630##Alien Swarm##428
+201290##Sins of a Solar Empire: Trinity##406
+313080##The Masterplan##391
+8930##Sid Meier's Civilization V##383
+42700##Call of Duty: Black Ops##377
+286000##Tooth and Tail##373
+602960##Barotrauma##363
+648800##Raft##361
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##352
+33930##Arma 2: Operation Arrowhead##342
+2870##X Rebirth##338
+382110##Virtual Desktop##337
+25980##Majesty 2##336
+686810##Hell Let Loose##322
+45760##Ultra Street Fighter IV##317
+546560##Half-Life: Alyx##316
+466560##Northgard##313
+312530##Duck Game##281
+247080##Crypt of the NecroDancer##266
+333970##A Druid's Duel##263
+10180##Call of Duty: Modern Warfare 2##236
+42910##Magicka##231
+433850##Z1 Battle Royale##229
+690790##DiRT Rally 2.0##225
+95300##Capsized##219
+200710##Torchlight II##213
+7940##Call of Duty 4: Modern Warfare##209
+288120##Dungeonmans##209
+41300##Altitude##203
+244730##Divekick##199
+824270##KovaaK 2.0##199
+206190##Gunpoint##196
+632360##Risk of Rain 2##191
+38410##Fallout 2##183
+6910##Deus Ex: Game of the Year Edition##167
+222880##Insurgency##160
+10##Counter-Strike##152
+91600##Sanctum##150
+49520##Borderlands 2##150
+607050##Wargroove##140
+236390##War Thunder##133
+237350##Frozen Cortex##133
+241660##Ohm Studio##124
+400##Portal##123
+245170##Skullgirls##113
+410900##Forts##112
+38400##Fallout##110
+1066890##Automobilista 2##104
+307110##We Need To Go Deeper##101
+290340##Armello##101
+253630##Steam Marines##100
+42500##DogFighter##87
+296910##8BitBoy##84
+378860##Project CARS 2##77
+8080##Kane & Lynch: Dead Men##65
+328600##Frozen Synapse Prime##59
+755790##Ring of Elysium##57
+12900##Audiosurf##55
+1239080##Door Kickers 2##54
+250900##The Binding of Isaac: Rebirth##50
+1068820##OVR Toolkit##48
+252570##Depths of Fear :: Knossos##45
+344190##Immortal Empire##43
+208610##Skullgirls ∞Endless Beta∞##42
+42120##Lead and Gold - Gangs of the Wild West##38
+245390##I Have No Mouth, and I Must Scream##37
+233980##Unepic##36
+240720##Getting Over It with Bennett Foddy##36
+9850##Codename: Panzers - Cold War##33
+310950##Street Fighter V##32
+365960##rFactor 2##28
+290770##The Fall##24
+38700##Toki Tori##22
+387010##FIVE: Guardians of David##21
+274190##Broforce##20
+823130##Totally Accurate Battlegrounds##20
+22130##Hearts of Iron II: Complete##19
+211580##Wanderlust: Rebirth##19
+380600##Fishing Planet##17
+805550##Assetto Corsa Competizione##17
+1280##Darkest Hour: Europe '44-'45##16
+214970##Intrusion 2##15
+285190##Warhammer 40,000: Dawn of War III##15
+204300##Awesomenauts##14
+837380##DeoVR Video Player##12
+259680##Tales of Maj'Eyal##11
+544420##VRCapture##11
+1284410##GWENT: The Witcher Card Game##9
+247240##Volgarr the Viking##8
+287960##Yomi##7
+9340##Company of Heroes: Opposing Fronts##6
+3830##Psychonauts##6
+49900##Plain Sight##5
+268750##Magicite##5
+266410##iRacing##5
+34820##Combat Wings: Battle of Britain##4
+41800##Gratuitous Space Battles##3
+323670##Super Indie Karts##3
+204060##Superbrothers: Sword & Sworcery EP##2
+200960##Geneforge 1##1
+908520##fpsVR##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+300##Day of Defeat: Source##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+1520##DEFCON##0
+228200##Company of Heroes ##0
+10090##Call of Duty: World at War##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+34010##Alpha Protocol##0
+33900##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+63000##HOARD##0
+42680##Call of Duty: Modern Warfare 3##0
+24240##PAYDAY: The Heist##0
+205790##Dota 2 Test##0
+200980##Geneforge 2##0
+200990##Geneforge 3##0
+201000##Geneforge 4##0
+201010##Geneforge 5##0
+41500##Torchlight##0
+48000##LIMBO##0
+57300##Amnesia: The Dark Descent##0
+223220##Giana Sisters: Twisted Dreams##0
+230410##Warframe##0
+234490##Rush Bros##0
+239350##Spelunky##0
+219830##King Arthur's Gold##0
+367540##Starbound - Unstable##0
+282030##Carmageddon 2: Carpocalypse Now##0
+286160##Tabletop Simulator##0
+227940##Heroes & Generals##0
+235540##Warhammer: End Times - Vermintide##0
+427460##Battlerite Public Test##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+770720##Hunt: Showdown (Test Server)##0
+766570##Russian Fishing 4##0
+209670##Cortex Command##0
+813780##Age of Empires II: Definitive Edition##0
+439700##H1Z1: Test Server##0
+1269260##Artifact Beta 2.0##0
+835950##Transpose##0
+@@REVIEW
+252950##Not Recommended
+583950##Recommended

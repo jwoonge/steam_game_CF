@@ -1,0 +1,127 @@
+@@GAME
+227300##Euro Truck Simulator 2##28639
+440##Team Fortress 2##22979
+271590##Grand Theft Auto V##17459
+240##Counter-Strike: Source##12166
+730##Counter-Strike: Global Offensive##9837
+413150##Stardew Valley##4639
+242760##The Forest##4535
+645630##Car Mechanic Simulator 2018##3634
+359550##Tom Clancy's Rainbow Six Siege##2972
+252950##Rocket League##2803
+270880##American Truck Simulator##2429
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2339
+829590##CryoFall##2338
+10##Counter-Strike##2304
+284160##BeamNG.drive##1772
+285900##Gang Beasts##1716
+493490##City Car Driving##1630
+945360##Among Us##1539
+621060##PC Building Simulator##1494
+1097150##Fall Guys: Ultimate Knockout##1244
+201700##DiRT Showdown##1232
+433850##Z1 Battle Royale##1184
+232090##Killing Floor 2##1167
+49520##Borderlands 2##1039
+635260##CarX Drift Racing Online##972
+274190##Broforce##865
+255220##GRID Autosport##840
+420##Half-Life 2: Episode Two##787
+234630##Project CARS##714
+4000##Garry's Mod##674
+863550##HITMAN™ 2##637
+203160##Tomb Raider##568
+8870##BioShock Infinite##548
+960090##Bloons TD 6##518
+220160##Trials Evolution Gold Edition##512
+20##Team Fortress Classic##504
+228380##Wreckfest##499
+690790##DiRT Rally 2.0##491
+239820##Game Dev Tycoon##489
+270850##Car Mechanic Simulator 2014##468
+787860##Farming Simulator 19##466
+550##Left 4 Dead 2##452
+1080110##F1 2020##404
+238460##BattleBlock Theater##399
+520950##Drift21##378
+291550##Brawlhalla##366
+1017900##Age of Empires: Definitive Edition##348
+216250##Dead Island Riptide##321
+648800##Raft##315
+255710##Cities: Skylines##289
+244210##Assetto Corsa##287
+1030840##Mafia: Definitive Edition##284
+380##Half-Life 2: Episode One##283
+400##Portal##270
+552100##Brick Rigs##252
+272350##Tom Clancy's Ghost Recon Phantoms - EU##243
+431240##Golf With Your Friends##241
+263280##Spintires®##226
+24240##PAYDAY: The Heist##200
+444090##Paladins##195
+238090##Sniper Elite 3##187
+675010##MudRunner##184
+1250##Killing Floor##154
+252490##Rust##150
+928600##F1 2019##149
+213670##South Park™: The Stick of Truth™##148
+737800##F1 2018##148
+1142100##WWE 2K BATTLEGROUNDS##146
+30##Day of Defeat##123
+224480##Octodad: Dadliest Catch##119
+1239690##Retrowave##116
+382560##Hot Lava##105
+222900##Dead Island: Epidemic##95
+245490##Trials Fusion##91
+883710##Resident Evil 2##91
+291480##Warface##84
+263760##Turbo Dismount##83
+447040##Watch_Dogs 2##83
+220##Half-Life 2##72
+882020##Monster Energy Supercross - The Official Videogame 2##54
+224540##Ace of Spades##45
+60##Ricochet##44
+211500##RaceRoom Racing Experience ##44
+24010##Train Simulator##43
+40##Deathmatch Classic##39
+1131720##Prop and Seek##39
+1038250##DIRT 5##38
+200110##Nosgoth##37
+704850##Thief Simulator##37
+320##Half-Life 2: Deathmatch##36
+223650##F.E.A.R. Online##32
+824720##Pure Rock Crawling##28
+50##Half-Life: Opposing Force##26
+415200##Motorsport Manager##26
+627270##Injustice™ 2##16
+22380##Fallout: New Vegas##12
+457330##High Octane Drift##9
+703860##GRID (2019)##8
+513780##Turbo Pug DX##6
+310950##Street Fighter V##6
+340##Half-Life 2: Lost Coast##5
+477770##Ride 2##5
+317360##Double Action: Boogaloo##4
+439700##H1Z1: Test Server##2
+130##Half-Life: Blue Shift##1
+70##Half-Life##0
+300##Day of Defeat: Source##0
+360##Half-Life Deathmatch: Source##0
+261030##The Walking Dead: Season Two##0
+367690##Spintires® - Editor##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+304930##Unturned##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+232150##Killing Floor 2 - SDK##0
+414700##Outlast 2##0
+596350##Paladins - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+444200##World of Tanks Blitz##0
+218620##PAYDAY 2##0
+50130##Mafia II (Classic)##0
+360430##Mafia III: Definitive Edition##0
+1030830##Mafia II: Definitive Edition##0
+700580##Rust - Staging Branch##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+@@REVIEW

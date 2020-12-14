@@ -1,0 +1,203 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+400##Portal##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+21680##Bionic Commando Rearmed##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+32400##STAR WARS™: Dark Forces##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32440##LEGO® Star Wars™: The Complete Saga##0
+42120##Lead and Gold - Gangs of the Wild West##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+31280##Poker Night at the Inventory##0
+31290##Back to the Future: Ep 1 - It's About Time##0
+94500##Back to the Future: Ep 2 - Get Tannen!##0
+94510##Back to the Future: Ep 3 - Citizen Brown##0
+94520##Back to the Future: Ep 4 - Double Visions##0
+94530##Back to the Future: Ep 5 - OUTATIME##0
+50300##Spec Ops: The Line##0
+55100##Homefront##0
+620##Portal 2##0
+31270##Puzzle Agent##0
+7760##X-COM: UFO Defense##0
+55150##Warhammer 40,000: Space Marine##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+94590##Puzzle Agent 2##0
+204880##Sins of a Solar Empire: Rebellion##0
+104020##Storm in a Teacup##0
+108200##Ticket to Ride##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+207610##The Walking Dead##0
+206610##3SwitcheD##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+12750##GRID##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+209080##Guns of Icarus Online##0
+31220##Sam & Max 301: The Penal Zone##0
+31230##Sam & Max 302: The Tomb of Sammun-Mak##0
+31240##Sam & Max 303: They Stole Max's Brain!##0
+31250##Sam & Max 304: Beyond the Alley of the Dolls##0
+31260##Sam & Max 305: The City that Dares not Sleep##0
+7510##X-Blades##0
+57690##Tropico 4##0
+214510##LEGO® The Lord of the Rings™##0
+203160##Tomb Raider##0
+225260##Brütal Legend##0
+224220##Pressure##0
+8870##BioShock Infinite##0
+44350##GRID 2##0
+210770##Sanctum 2##0
+234650##Shadowrun Returns##0
+65930##The Bureau: XCOM Declassified##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+233250##Planetary Annihilation##0
+218620##PAYDAY 2##0
+253860##Earth 2140 HD##0
+253920##Gorky 17##0
+253960##Jack Orlando Director's Cut##0
+253980##Enclave##0
+254000##East India Company Gold##0
+254020##Commander: Conquest of the Americas Gold##0
+259320##Heli Heroes##0
+259340##Chicken Shoot Gold##0
+259360##Chicken Shoot 2##0
+200260##Batman: Arkham City GOTY##0
+261110##Killer is Dead##0
+268850##EVGA Precision X1##0
+271570##Space Farmers##0
+272060##Serena##0
+222880##Insurgency##0
+235210##Strider##0
+282660##Easy eSports##0
+285160##LEGO® The Hobbit™##0
+286570##F1 2015##0
+305740##Pitiri 1977##0
+318600##The Flame in the Flood##0
+321040##DiRT 3 Complete Edition##0
+321150##Melissa K. and the Heart of Gold Collector's Edition##0
+226720##Lost Planet 3##0
+241930##Middle-earth™: Shadow of Mordor™##0
+238320##Outlast##0
+329380##Stealth Inc 2##0
+730##Counter-Strike: Global Offensive##0
+323470##DRAGON BALL XENOVERSE##0
+340200##Bloop##0
+343360##Particula##0
+287290##Resident Evil Revelations 2##0
+354430##STAR WARS™: X-Wing Special Edition##0
+355250##STAR WARS™: TIE Fighter Special Edition##0
+356500##STAR WARS™ Galactic Battlegrounds Saga##0
+361670##STAR WARS™: X-Wing Alliance™##0
+361690##STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™##0
+104200##BEEP##0
+263980##Out There Somewhere##0
+315430##Polarity##0
+341500##Camera Obscura##0
+252950##Rocket League##0
+204180##Waveform##0
+274560##Revolution Ace##0
+314450##Saviors##0
+391260##Labyronia RPG##0
+397500##Labyronia RPG 2##0
+407230##Legend of Mysteria##0
+365450##Hacknet##0
+208650##Batman™: Arkham Knight##0
+209000##Batman™: Arkham Origins##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+407250##Pro Evolution Soccer 2016 myClub##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+391220##Rise of the Tomb Raider##0
+92100##DETOUR##0
+351490##Intergalactic Bubbles##0
+360380##Tiny Bridge: Ratventure##0
+370510##Marble Mayhem: Fragile Ball##0
+428260##The Book of Desires##0
+428950##Kivi, Toilet and Shotgun##0
+3910##Sid Meier's Civilization III: Complete##0
+3920##Sid Meier's Pirates!##0
+200510##XCOM: Enemy Unknown##0
+244070##Sid Meier's Ace Patrol##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+264240##CONSORTIUM##0
+439190##Stories: The Path of Destinies##0
+441550##STAR WARS™ Rebellion##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+310380##Fractured Space##0
+48000##LIMBO##0
+522210##Serial Cleaner##0
+324810##TOXIKK##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+550650##Black Squad##0
+555570##Infestation: The New Z##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+506540##Last Man Standing##0
+600420##Mob Rule Classic##0
+323580##Jotun: Valhalla Edition##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+368420##Mirage: Arcane Warfare##0
+113020##Monaco##0
+15700##Oddworld: Abe's Oddysee##0
+308040##Back to Bed##0
+38400##Fallout##0
+755790##Ring of Elysium##0
+203770##Crusader Kings II##0
+270550##Yet Another Zombie Defense##0
+863550##HITMAN™ 2##0
+611500##Quake Champions##0
+334210##Fortified##0
+391720##Layers of Fear##0
+737800##F1 2018##0
+265690##NaissanceE##0
+96000##The Tiny Bang Story##0
+402390##Hyperdrive Massacre##0
+638070##Murderous Pursuits##0
+395170##DISTRAINT: Deluxe Edition##0
+231430##Company of Heroes 2##0
+1097150##Fall Guys: Ultimate Knockout##0
+226840##Age of Wonders III##0
+310560##DiRT Rally##0
+406970##The Uncertain: Last Quiet Day##0
+952060##Resident Evil 3##0
+952070##RESIDENT EVIL RESISTANCE##0
+34330##Total War: SHOGUN 2##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW
+252950##Recommended
+730##Recommended

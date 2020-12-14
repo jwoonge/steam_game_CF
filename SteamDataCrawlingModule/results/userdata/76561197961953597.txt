@@ -1,0 +1,188 @@
+@@GAME
+250820##SteamVR##5654
+200110##Nosgoth##5368
+382110##Virtual Desktop##4901
+646570##Slay the Spire##2527
+252950##Rocket League##2520
+738540##Tales of Vesperia: Definitive Edition##2507
+550##Left 4 Dead 2##2336
+1046930##Dota Underlords##2151
+40390##Risen 2 - Dark Waters##1617
+812140##Assassin's Creed Odyssey##1570
+48700##Mount & Blade: Warband##1516
+1145360##Hades##1373
+579180##Ys VIII: Lacrimosa of Dana##1208
+997070##Marvel's Avengers##1082
+49520##Borderlands 2##1067
+611500##Quake Champions##1062
+359320##Elite Dangerous##931
+211820##Starbound##897
+17520##Synergy##895
+606880##GreedFall##840
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##781
+678950##DRAGON BALL FighterZ##772
+206420##Saints Row IV##758
+451650##Whirligig##750
+620980##Beat Saber##738
+636450##Rez Infinite##709
+230230##Divinity: Original Sin (Classic)##694
+1085660##Destiny 2##679
+236430##DARK SOULS™ II##641
+456670##Hand of Fate 2##633
+1102190##Monster Train##585
+444090##Paladins##550
+57900##Duke Nukem Forever##542
+582010##Monster Hunter: World##519
+487120##Citadel: Forged With Fire##494
+241930##Middle-earth™: Shadow of Mordor™##493
+742120##DRAGON QUEST® XI: Echoes of an Elusive Age™##482
+219640##Chivalry: Medieval Warfare##424
+552500##Warhammer: Vermintide 2##414
+323470##DRAGON BALL XENOVERSE##379
+264200##One Finger Death Punch##368
+389730##TEKKEN 7##345
+246620##Plague Inc: Evolved##308
+396750##EVERSPACE™##297
+212680##FTL: Faster Than Light##294
+1199030##Tainted Grail##291
+345180##Victor Vran##289
+555880##Sairento VR##281
+730##Counter-Strike: Global Offensive##275
+1097150##Fall Guys: Ultimate Knockout##274
+374320##DARK SOULS™ III##267
+591530##Hyper Universe##263
+265300##Lords Of The Fallen##254
+490490##Blasters of the Universe##254
+8850##BioShock 2##246
+1115690##Yes, Your Grace##244
+204300##Awesomenauts##242
+924980##Trials of Mana##231
+337000##Deus Ex: Mankind Divided™##222
+848030##Roundguard##219
+230410##Warframe##209
+588650##Dead Cells##200
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##193
+300380##Road Redemption##187
+220440##DmC Devil May Cry##183
+457550##Bigscreen Beta##179
+248630##Kingdoms Rise##168
+615910##Katana X##156
+530350##Smashbox Arena##150
+436320##Raw Data##144
+1217060##Gunfire Reborn##143
+65800##Dungeon Defenders##140
+945360##Among Us##135
+517130##Soundboxing##130
+462770##Pyre##121
+454650##DRAGON BALL XENOVERSE 2##121
+578620##GORN##115
+858210##Nova Drift##115
+235460##METAL GEAR RISING: REVENGEANCE##109
+377160##Fallout 4##109
+437220##The Culling##103
+509250##TO THE TOP##100
+291550##Brawlhalla##89
+450390##The Lab##87
+251570##7 Days to Die##85
+440##Team Fortress 2##82
+207140##SpeedRunners##78
+477270##Lightblade VR##78
+489380##QuiVr##78
+1237950##STAR WARS™ Battlefront™ II##73
+438100##VRChat##72
+606180##Viveport Video##65
+445980##Wizard of Legend##64
+1123770##Curse of the Dead Gods##64
+606150##Moonlighter##62
+847370##Sunset Overdrive##54
+488310##Eleven: Table Tennis VR##52
+761890##Albion Online##52
+782330##DOOM Eternal##52
+520010##Climbey##48
+236090##Dust: An Elysian Tail##46
+367500##Dragon's Dogma: Dark Arisen##46
+436820##Waltz of the Wizard##45
+418650##Space Pirate Trainer##44
+471710##Rec Room##44
+504370##Battlerite##44
+431120##Tethered##42
+980300##One Finger Death Punch 2##42
+322770##Vanishing Realms##41
+12900##Audiosurf##36
+240##Counter-Strike: Source##34
+250900##The Binding of Isaac: Rebirth##34
+219990##Grim Dawn##33
+209270##Hero Academy##32
+224060##Deadpool##32
+331470##Everlasting Summer##32
+555160##Pavlov VR##32
+311210##Call of Duty: Black Ops III##31
+704450##Neverwinter Nights: Enhanced Edition##31
+465430##Vertigo##29
+488920##Knockout League##29
+379720##DOOM##27
+488040##VR Toolbox: 360 Desktop##27
+590690##Sprint Vector##27
+428370##Windlands##26
+94400##Nidhogg##23
+286160##Tabletop Simulator##22
+436180##Spacelords##22
+750920##Shadow of the Tomb Raider##22
+225600##Blade Symphony##20
+105600##Terraria##19
+412740##Audioshield##19
+510060##Punch Bomb##18
+236110##Dungeon Defenders II##15
+1238080##Burnout™ Paradise Remastered##15
+17530##D.I.P.R.I.P. Warm Up##15
+673070##The Ranger: Lost Tribe##12
+624460##Fantasynth One##10
+645480##Spider-Man: Homecoming - Virtual Reality Experience##10
+466910##Worm.is: The Game##9
+494310##Unbreakable Vr Runner##9
+348250##Google Earth VR##7
+417890##Apotheon Arena##7
+422860##Holodance##5
+468700##NVIDIA® VR Funhouse##4
+496620##Monster Slayers##4
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+10180##Call of Duty: Modern Warfare 2##0
+409720##BioShock 2 Remastered##0
+950670##Gothic Playable Teaser##0
+368730##No Time To Explain Remastered##0
+367540##Starbound - Unstable##0
+373420##Divinity: Original Sin Enhanced Edition##0
+227700##Firefall##0
+258160##Rise of Incarnates##0
+343730##Irrational Exuberance: Prologue##0
+381940##Trials on Tatooine##0
+234140##Mad Max##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+429660##Tales of Berseria##0
+596350##Paladins - Public Test##0
+451980##The Body VR: Journey Inside a Cell##0
+1318090##Vertigo Remastered##0
+477130##Surge##0
+581460##QuiVr Vanguard##0
+518580##Accounting##0
+552440##The Talos Principle VR##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+565030##Blueshift##0
+368420##Mirage: Arcane Warfare##0
+531800##Mirage: Arcane Warfare BETA##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+427460##Battlerite Public Test##0
+834530##Yakuza Kiwami##0
+638970##Yakuza 0##0
+356190##Middle-earth™: Shadow of War™##0
+489520##Minion Masters##0
+927380##Yakuza Kiwami 2##0
+1148590##DOOM 64##0
+1233570##Mirror's Edge™ Catalyst##0
+582660##Black Desert Online##0
+1289670##EA Play##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW

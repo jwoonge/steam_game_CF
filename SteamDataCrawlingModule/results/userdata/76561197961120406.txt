@@ -1,0 +1,72 @@
+@@GAME
+227940##Heroes & Generals##64602
+440##Team Fortress 2##20572
+730##Counter-Strike: Global Offensive##19885
+109600##Neverwinter##14344
+10##Counter-Strike##10492
+240##Counter-Strike: Source##7751
+22380##Fallout: New Vegas##6357
+812140##Assassin's Creed Odyssey##3759
+449140##Istrolid##2977
+30##Day of Defeat##2483
+257350##Baldur's Gate II: Enhanced Edition##2228
+107410##Arma 3##2102
+271590##Grand Theft Auto V##1564
+12210##Grand Theft Auto IV: The Complete Edition##1203
+300##Day of Defeat: Source##1196
+42700##Call of Duty: Black Ops##1120
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##1051
+72850##The Elder Scrolls V: Skyrim##868
+629520##Soundpad##821
+863550##HITMAN™ 2##725
+221380##Age of Empires II (2013)##667
+1174180##Red Dead Redemption 2##489
+766570##Russian Fishing 4##301
+552520##Far Cry 5##280
+236390##War Thunder##168
+20##Team Fortress Classic##120
+292030##The Witcher 3: Wild Hunt##116
+400##Portal##100
+42680##Call of Duty: Modern Warfare 3##98
+217200##Worms Armageddon##87
+42710##Call of Duty: Black Ops - Multiplayer##84
+550##Left 4 Dead 2##80
+50##Half-Life: Opposing Force##76
+304930##Unturned##72
+320##Half-Life 2: Deathmatch##57
+220##Half-Life 2##55
+570##Dota 2##54
+130##Half-Life: Blue Shift##51
+340##Half-Life 2: Lost Coast##50
+280##Half-Life: Source##48
+1085660##Destiny 2##37
+6910##Deus Ex: Game of the Year Edition##36
+587650##Half-Life 2: DownFall##30
+444090##Paladins##24
+70##Half-Life##17
+520860##Impulse of War##15
+802200##Hellbound: Survival Mode##14
+6850##Hitman 2: Silent Assassin##9
+12120##Grand Theft Auto: San Andreas##7
+34270##SEGA Mega Drive & Genesis Classics##3
+80##Counter-Strike: Condition Zero##1
+100##Counter-Strike: Condition Zero Deleted Scenes##1
+420##Half-Life 2: Episode Two##1
+40##Deathmatch Classic##0
+60##Ricochet##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+500##Left 4 Dead##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+620##Portal 2##0
+205790##Dota 2 Test##0
+596350##Paladins - Public Test##0
+@@REVIEW
+1174180##Not Recommended
+217200##Recommended

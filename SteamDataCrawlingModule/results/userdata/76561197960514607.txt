@@ -1,0 +1,47 @@
+@@GAME
+730##Counter-Strike: Global Offensive##127626
+8930##Sid Meier's Civilization V##6942
+255710##Cities: Skylines##807
+207890##Football Manager 2013##633
+240##Counter-Strike: Source##626
+203160##Tomb Raider##311
+10##Counter-Strike##177
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##42
+489940##BATTALION 1944##30
+755790##Ring of Elysium##27
+225080##Brothers - A Tale of Two Sons##21
+251530##Anomaly Korea##16
+236390##War Thunder##13
+440##Team Fortress 2##12
+12140##Max Payne##10
+884660##CRSED##10
+8850##BioShock 2##7
+1075950##Disintegration Technical Beta##6
+34270##SEGA Mega Drive & Genesis Classics##4
+20##Team Fortress Classic##1
+282660##Easy eSports##1
+1046930##Dota Underlords##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+4230##Race: The WTCC Game##0
+12150##Max Payne 2: The Fall of Max Payne##0
+35130##Lara Croft and the Guardian of Light##0
+50300##Spec Ops: The Line##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+218510##Planets Under Attack##0
+261490##Bedlam##0
+550##Left 4 Dead 2##0
+313140##Blackbay Asylum##0
+361600##Luna Sky##0
+431220##Porradaria 2: Pagode of the Night##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+209670##Cortex Command##0
+@@REVIEW
+730##Recommended

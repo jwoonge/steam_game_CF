@@ -1,0 +1,31 @@
+@@GAME
+730##Counter-Strike: Global Offensive##170605
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##23973
+433850##Z1 Battle Royale##21598
+10##Counter-Strike##14279
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##4030
+10180##Call of Duty: Modern Warfare 2##1300
+440##Team Fortress 2##884
+7940##Call of Duty 4: Modern Warfare##523
+739630##Phasmophobia##386
+714010##Aim Lab##292
+630##Alien Swarm##249
+386360##SMITE##83
+24960##Battlefield: Bad Company™ 2##63
+240##Counter-Strike: Source##56
+550##Left 4 Dead 2##51
+359550##Tom Clancy's Rainbow Six Siege##19
+312280##Simply Chess##9
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+226320##Marvel Heroes Omega##0
+858460##SMITE - Public Test##0
+439700##H1Z1: Test Server##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+730##Recommended

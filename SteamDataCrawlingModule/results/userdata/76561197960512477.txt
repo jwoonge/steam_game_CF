@@ -1,0 +1,67 @@
+@@GAME
+570##Dota 2##105266
+10##Counter-Strike##21503
+730##Counter-Strike: Global Offensive##19955
+271590##Grand Theft Auto V##13932
+252490##Rust##13792
+107410##Arma 3##8797
+202990##Call of Duty: Black Ops II - Multiplayer##6281
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##5034
+700330##SCP: Secret Laboratory##3473
+211420##DARK SOULS™: Prepare To Die Edition##3261
+238960##Path of Exile##2847
+217490##Borderlands 2 RU##2239
+440##Team Fortress 2##1790
+212910##Call of Duty: Black Ops II - Zombies##1765
+237110##Mortal Kombat Komplete Edition##1620
+43160##Metro: Last Light##1615
+620##Portal 2##1486
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1372
+611500##Quake Champions##900
+242760##The Forest##872
+105600##Terraria##709
+202970##Call of Duty: Black Ops II##611
+386360##SMITE##590
+222880##Insurgency##456
+10180##Call of Duty: Modern Warfare 2##363
+230410##Warframe##347
+42910##Magicka##346
+219640##Chivalry: Medieval Warfare##332
+30##Day of Defeat##310
+63380##Sniper Elite V2##277
+200710##Torchlight II##275
+262280##Dungeons 2##271
+304930##Unturned##211
+50##Half-Life: Opposing Force##115
+269210##Hero Siege##69
+70##Half-Life##45
+20##Team Fortress Classic##41
+259700##Dead Sky##39
+389570##Mitos.is: The Game##37
+47410##Stronghold Kingdoms##35
+299360##Block N Load##33
+40##Deathmatch Classic##10
+40800##Super Meat Boy##7
+60##Ricochet##2
+80##Counter-Strike: Condition Zero##2
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+41500##Torchlight##0
+205790##Dota 2 Test##0
+49520##Borderlands 2##0
+208090##Loadout##0
+236390##War Thunder##0
+223750##DCS World Steam Edition##0
+253710##theHunter Classic##0
+700580##Rust - Staging Branch##0
+282440##Quake Live##0
+302830##BLOCKADE 3D##0
+227940##Heroes & Generals##0
+315430##Polarity##0
+380600##Fishing Planet##0
+858460##SMITE - Public Test##0
+427270##Orcs Must Die! Unchained##0
+555570##Infestation: The New Z##0
+@@REVIEW
+105600##Recommended
+252490##Recommended

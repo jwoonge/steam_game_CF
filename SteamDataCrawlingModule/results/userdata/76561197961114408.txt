@@ -1,0 +1,67 @@
+@@GAME
+730##Counter-Strike: Global Offensive##24470
+10##Counter-Strike##19078
+440##Team Fortress 2##14961
+8930##Sid Meier's Civilization V##10401
+240##Counter-Strike: Source##7805
+49520##Borderlands 2##3690
+976730##Halo: The Master Chief Collection##3289
+275850##No Man's Sky##2602
+489830##The Elder Scrolls V: Skyrim Special Edition##1910
+220##Half-Life 2##1274
+1085660##Destiny 2##996
+377160##Fallout 4##952
+255710##Cities: Skylines##823
+6010##Indiana Jones and the Fate of Atlantis##820
+30##Day of Defeat##615
+244160##Homeworld Remastered Collection##512
+761890##Albion Online##510
+320##Half-Life 2: Deathmatch##505
+420##Half-Life 2: Episode Two##430
+380##Half-Life 2: Episode One##341
+33350##Anno 1404: Venice##310
+17460##Mass Effect##306
+50##Half-Life: Opposing Force##280
+130##Half-Life: Blue Shift##275
+40970##Stronghold Crusader HD##212
+70##Half-Life##203
+230410##Warframe##88
+32370##STAR WARS™: Knights of the Old Republic™##84
+208140##Endless Space##64
+236850##Europa Universalis IV##30
+340##Half-Life 2: Lost Coast##27
+223100##Homefront: The Revolution##26
+304050##Trove##24
+252950##Rocket League##16
+17470##Dead Space##14
+400##Portal##10
+620##Portal 2##9
+16700##Stronghold Crusader Extreme HD##1
+304030##ArcheAge##1
+730820##The Curse of Monkey Island##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+500##Left 4 Dead##0
+38440##Sacrifice##0
+550##Left 4 Dead 2##0
+33250##Anno 1404##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+254060##KnightShift##0
+214490##Alien: Isolation##0
+261640##Borderlands: The Pre-Sequel##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+238210##System Shock 2##0
+410700##System Shock: Classic##0
+410710##System Shock: Enhanced Edition##0
+700330##SCP: Secret Laboratory##0
+828440##The other side of the screen##0
+450390##The Lab##0
+203770##Crusader Kings II##0
+@@REVIEW

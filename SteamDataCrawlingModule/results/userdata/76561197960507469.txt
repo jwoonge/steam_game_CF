@@ -1,0 +1,138 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+6860##Hitman: Blood Money##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+15100##Assassin's Creed##0
+20900##The Witcher: Enhanced Edition##0
+550##Left 4 Dead 2##0
+8190##Just Cause 2##0
+33230##Assassin's Creed II##0
+43110##Metro 2033##0
+33220##Tom Clancy's Splinter Cell: Conviction##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+50130##Mafia II (Classic)##0
+1030830##Mafia II: Definitive Edition##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+78000##Bejeweled 3##0
+48190##Assassin's Creed Brotherhood##0
+45760##Ultra Street Fighter IV##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+24960##Battlefield: Bad Company™ 2##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+201870##Assassin's Creed Revelations##0
+110800##L.A. Noire##0
+108710##Alan Wake##0
+204100##Max Payne 3##0
+730##Counter-Strike: Global Offensive##0
+205650##The Testament of Sherlock Holmes##0
+219950##NiGHTS into Dreams...##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+230410##Warframe##0
+236390##War Thunder##0
+203160##Tomb Raider##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+18490##The Whispered World##0
+268540##The Whispered World Special Edition##0
+218620##PAYDAY 2##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+205100##Dishonored##0
+260750##Neighbours from Hell##0
+260770##Neighbours from Hell 2##0
+1283190##Neighbours back From Hell##0
+221100##DayZ##0
+271590##Grand Theft Auto V##0
+246620##Plague Inc: Evolved##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+287630##The Council##0
+233290##MURDERED: SOUL SUSPECT™##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+310560##DiRT Rally##0
+314790##Silence##0
+268050##The Evil Within##0
+258520##The Vanishing of Ethan Carter##0
+400430##The Vanishing of Ethan Carter Redux##0
+241260##Sherlock Holmes: Crimes and Punishments##0
+302510##Ryse: Son of Rome##0
+307690##Sleeping Dogs: Definitive Edition##0
+319630##Life is Strange™##0
+350640##Sherlock Holmes: The Devil's Daughter##0
+368430##Through the Woods##0
+292030##The Witcher 3: Wild Hunt##0
+374900##Agatha Christie - The ABC Murders##0
+399810##Call of Cthulhu##0
+243470##Watch_Dogs##0
+421020##DiRT 4##0
+239140##Dying Light##0
+391220##Rise of the Tomb Raider##0
+447820##Day of Infamy##0
+462220##Mahjong Deluxe 3##0
+470220##UNO##0
+518790##theHunter: Call of the Wild™##0
+312660##Sniper Elite 4##0
+418370##Resident Evil 7 Biohazard##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+544810##KARDS - The WWII Card Game##0
+236870##HITMAN™##0
+601430##The Evil Within 2##0
+617670##Zup! S##0
+633360##Remothered: Tormented Fathers##0
+648350##Jurassic World Evolution##0
+554620##Life is Strange: Before the Storm##0
+233370##The Raven - Legacy of a Master Thief##0
+736810##The Raven Remastered##0
+582160##Assassin's Creed Origins##0
+368230##Kingdom: Classic##0
+851810##Ultimate Sudoku Collection##0
+750920##Shadow of the Tomb Raider##0
+863550##HITMAN™ 2##0
+737800##F1 2018##0
+412020##Metro Exodus##0
+960910##Heavy Rain##0
+960990##Beyond: Two Souls##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+200260##Batman: Arkham City GOTY##0
+208650##Batman™: Arkham Knight##0
+1018160##MXGP 2019 - The Official Motocross Videogame##0
+752590##A Plague Tale: Innocence##0
+1036950##Super Jigsaw Puzzle: Generations##0
+812140##Assassin's Creed Odyssey##0
+911400##Assassin's Creed III Remastered##0
+1089350##NBA 2K20##0
+1085660##Destiny 2##0
+1172470##Apex Legends##0
+1222140##Detroit: Become Human##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+1368430##Streets Of Kamurocho##0
+1368440##Armor Of Heroes##0
+1368450##Endless Zone##0
+1368460##Golden Axed: A Cancelled Prototype##0
+536270##Ancestors: The Humankind Odyssey ##0
+209630##Magrunner: Dark Pulse##0
+532210##Life is Strange 2##0
+465760##Scrap Garden##0
+325180##AppGameKit Classic##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW
+536270##Recommended
+368430##Recommended
+50130##Recommended
+730##Recommended

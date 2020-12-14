@@ -1,0 +1,29 @@
+@@GAME
+730##Counter-Strike: Global Offensive##86185
+10##Counter-Strike##30267
+252490##Rust##18726
+570##Dota 2##6476
+440##Team Fortress 2##3711
+346110##ARK: Survival Evolved##2531
+282660##Easy eSports##1157
+1097150##Fall Guys: Ultimate Knockout##476
+555440##Deathgarden: BLOODHARVEST##139
+552500##Warhammer: Vermintide 2##100
+550##Left 4 Dead 2##53
+307780##Mortal Kombat X##42
+1057240##Crucible##40
+976730##Halo: The Master Chief Collection##25
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+500##Left 4 Dead##0
+1930##Two Worlds: Epic Edition##0
+271590##Grand Theft Auto V##0
+407530##ARK: Survival Of The Fittest##0
+700580##Rust - Staging Branch##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+@@REVIEW

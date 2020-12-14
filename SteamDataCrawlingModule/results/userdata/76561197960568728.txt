@@ -1,0 +1,243 @@
+@@GAME
+252950##Rocket League##98996
+730##Counter-Strike: Global Offensive##54665
+433850##Z1 Battle Royale##36831
+1174180##Red Dead Redemption 2##19975
+240##Counter-Strike: Source##17275
+745920##Temtem##9618
+227940##Heroes & Generals##6094
+227300##Euro Truck Simulator 2##5764
+518790##theHunter: Call of the Wild™##4946
+582160##Assassin's Creed Origins##4799
+812140##Assassin's Creed Odyssey##4188
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##3571
+11020##TrackMania Nations Forever##3372
+1158310##Crusader Kings III##3316
+460920##Steep##3230
+460930##Tom Clancy's Ghost Recon® Wildlands##3054
+648800##Raft##2986
+1151640##Horizon Zero Dawn##2837
+271590##Grand Theft Auto V##2812
+1080110##F1 2020##2479
+244210##Assetto Corsa##2387
+1222680##Need for Speed™ Heat ##2272
+552520##Far Cry 5##2012
+976730##Halo: The Master Chief Collection##1923
+242760##The Forest##1891
+359550##Tom Clancy's Rainbow Six Siege##1888
+515220##F1 2017##1883
+488790##South Park The Fractured But Whole##1504
+550650##Black Squad##1492
+939960##Far Cry New Dawn##1247
+10##Counter-Strike##1236
+399820##Kopanito All-Stars Soccer##922
+415880##Disc Jam##805
+219640##Chivalry: Medieval Warfare##797
+550##Left 4 Dead 2##680
+632360##Risk of Rain 2##576
+431240##Golf With Your Friends##518
+815370##Green Hell##511
+304050##Trove##491
+872790##Football Manager 2019##488
+485610##Ball 3D: Soccer Online##482
+104200##BEEP##405
+384180##Prominence Poker##365
+218620##PAYDAY 2##354
+562810##Monopoly Plus##343
+213670##South Park™: The Stick of Truth™##327
+441670##Jelly Killer##312
+40390##Risen 2 - Dark Waters##303
+231430##Company of Heroes 2##301
+294230##Millie##283
+487220##Freebie##282
+284770##Enigmatis 2: The Mists of Ravenwood##274
+540020##Final Quest II##274
+635880##Chicken Labyrinth Puzzles##274
+383580##Flesh Eaters##273
+15700##Oddworld: Abe's Oddysee##273
+493650##Deep Space Dash##273
+493710##Laraan##273
+314450##Saviors##272
+375510##New kind of adventure##272
+383120##Empyrion - Galactic Survival##272
+428950##Kivi, Toilet and Shotgun##271
+515470##Hyper color ball##271
+271640##Humanity Asset##267
+347430##Frankenstein: Master of Death##266
+509110##Spikit##262
+326180##Sinister City##257
+499420##Star Fields##254
+391070##Stellar 2D##252
+391720##Layers of Fear##252
+451880##Catch a Falling Star##252
+454200##Neon Hardcorps##252
+485330##Star Drifter##252
+208650##Batman™: Arkham Knight##247
+497050##ShapeShifter##247
+383330##Star Chronicles: Delta Quadrant##246
+586620##OR##246
+508290##$1 Ride##245
+260430##The Four Kings Casino and Slots##241
+493700##Monster Puzzle##229
+298520##Orbital Gear##219
+403560##Eaten Alive##216
+502140##Drayt Empire##216
+512640##Final Quest##216
+557680##Germ Wars##213
+412600##Lup##212
+546980##Midnight Carnival##207
+246620##Plague Inc: Evolved##204
+200170##Worms Revolution##202
+363490##Escape Machines##201
+566160##Zup! 6##198
+207140##SpeedRunners##197
+314160##Microsoft Flight Simulator X: Steam Edition##187
+326190##Alchemy Mysteries: Prague Legends##186
+521230##Stone Age Wars##177
+320540##Coffin Dodgers##164
+232910##TrackMania² Stadium##159
+351490##Intergalactic Bubbles##158
+438180##Super Mustache##157
+466840##Super Space Pug##157
+341860##SickBrick##153
+1071870##Biped##152
+582010##Monster Hunter: World##135
+268850##EVGA Precision X1##131
+462960##Caveman World: Mountains of Unga Boonga##130
+469730##Super Mega Neo Pug##129
+321400##Supraball##128
+365450##Hacknet##127
+399430##Tinboy##127
+403900##Clergy Splode##127
+410210##Ampersand##127
+418070##Turbo Pug##127
+449200##Calcu-Late##127
+513780##Turbo Pug DX##127
+515690##Warriors of Vilvatikta##127
+528510##Turbo Pug 3D##127
+546990##Town of Night##127
+473560##Cosmic Dust & Rust##126
+514970##Drive Megapolis##126
+65930##The Bureau: XCOM Declassified##121
+347560##Terra Incognita ~ Chapter One: The Descendant##121
+377310##The Tower Of Elements##121
+545700##The Land of Dasthir##121
+455020##Jackpot Poker by PokerStars##111
+363970##Clicker Heroes##94
+630##Alien Swarm##68
+657200##Hand Simulator##66
+302830##BLOCKADE 3D##60
+269730##The Golf Club##56
+424280##Iron Snout##56
+251570##7 Days to Die##53
+203680##F1 Race Stars##45
+458960##Winning Putt: Golf Online##42
+611500##Quake Champions##39
+582550##Passpartout: The Starving Artist##34
+439700##H1Z1: Test Server##28
+214950##Total War: ROME II - Emperor Edition##25
+689040##Scuttlers##25
+417430##Moto Racer  4##22
+265630##Fistful of Frags##17
+533200##Deformers Open Beta##16
+666220##CS2D##15
+102600##Orcs Must Die!##14
+434110##Premium Pool##14
+638070##Murderous Pursuits##11
+323850##Move or Die##8
+200110##Nosgoth##7
+420290##Blackwake##7
+335330##Brick-Force##6
+380600##Fishing Planet##5
+585690##Minimalism##5
+707680##Slapshot##3
+224260##No More Room in Hell##2
+512160##Volleying##2
+477160##Human: Fall Flat##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+40400##AI War: Fleet Command##0
+37400##Time Gentlemen, Please!##0
+37420##Ben There, Dan That!##0
+950670##Gothic Playable Teaser##0
+211500##RaceRoom Racing Experience ##0
+230410##Warframe##0
+253710##theHunter Classic##0
+44350##GRID 2##0
+252730##YOU DON'T KNOW JACK Vol. 1 XL##0
+260000##YOU DON'T KNOW JACK MOVIES##0
+260020##YOU DON'T KNOW JACK SPORTS##0
+260040##YOU DON'T KNOW JACK TELEVISION##0
+260060##YOU DON'T KNOW JACK HEADRUSH##0
+292910##Deponia: The Complete Journey##0
+301520##Robocraft##0
+224600##Defiance##0
+291480##Warface##0
+9880##Champions Online##0
+323370##TERA##0
+344230##Pixel Puzzles 2: Birds##0
+351030##Pixel Puzzles Ultimate##0
+232010##Euro Truck Simulator##0
+258760##Scania Truck Driving Simulator##0
+302060##Trucks & Trailers##0
+302080##Bus Driver##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+388160##Project Druid - 2D Labyrinth Explorer-##0
+397900##Business Tour - Online Multiplayer Board Game##0
+314000##Pool Nation FX##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+491950##Orwell##0
+319630##Life is Strange™##0
+513740##Joana's Life##0
+527450##Cockroach Simulator##0
+534500##Tiger Knight: Empire War##0
+535930##Two Point Hospital##0
+544920##Darwin Project##0
+550210##Layers of Fear - Soundtrack##0
+208140##Endless Space##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+212740##TERA##0
+624910##3on3 FreeStyle##0
+655460##Hooligan Vasja: Halloween##0
+655790##Fly Simulator##0
+698780##Doki Doki Literature Club##0
+730590##Laser League Beta##0
+755790##Ring of Elysium##0
+687850##Head Goal: Soccer Online##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+823130##Totally Accurate Battlegrounds##0
+884660##CRSED##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+872820##Football Manager 2019 Touch##0
+43110##Metro 2033##0
+343710##KHOLAT##0
+911400##Assassin's Creed III Remastered##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+310560##DiRT Rally##0
+567730##Merry Snowballs##0
+555000##GOAT OF DUTY##0
+34330##Total War: SHOGUN 2##0
+1076280##Showdown Bandit##0
+435790##10 Second Ninja X##0
+308600##Geneshift##0
+579110##Interkosmos##0
+406970##The Uncertain: Last Quiet Day##0
+1048540##Kao the Kangaroo: Round 2##0
+465760##Scrap Garden##0
+325180##AppGameKit Classic##0
+@@REVIEW
+976730##Recommended
+1151640##Not Recommended
+552520##Not Recommended
+460920##Recommended
+582160##Recommended
+320540##Recommended
+227940##Not Recommended
+252950##Recommended

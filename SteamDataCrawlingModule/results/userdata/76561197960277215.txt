@@ -1,0 +1,63 @@
+@@GAME
+730##Counter-Strike: Global Offensive##59891
+570##Dota 2##22433
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##16899
+552500##Warhammer: Vermintide 2##4686
+594650##Hunt: Showdown##2833
+1046930##Dota Underlords##2328
+252950##Rocket League##1626
+65980##Sid Meier's Civilization: Beyond Earth##1341
+648800##Raft##922
+105600##Terraria##831
+359550##Tom Clancy's Rainbow Six Siege##465
+945360##Among Us##443
+739630##Phasmophobia##280
+548430##Deep Rock Galactic##230
+319910##Trine 3: The Artifacts of Power##220
+427520##Factorio##213
+201790##Orcs Must Die! 2##200
+370360##TIS-100##193
+563560##Alien Swarm: Reactive Drop##191
+220200##Kerbal Space Program##129
+630##Alien Swarm##128
+582010##Monster Hunter: World##121
+225840##Sven Co-op##106
+238960##Path of Exile##94
+104900##ORION: Prelude##87
+440##Team Fortress 2##85
+35720##Trine 2##79
+230410##Warframe##78
+282440##Quake Live##77
+322330##Don't Starve Together##77
+381210##Dead by Daylight##76
+30##Day of Defeat##68
+253710##theHunter Classic##35
+550##Left 4 Dead 2##31
+252490##Rust##31
+408900##Unfortunate Spacemen##24
+11020##TrackMania Nations Forever##15
+917150##Godhood##6
+443980##Burokku Girls##5
+504370##Battlerite##3
+70##Half-Life##2
+240##Counter-Strike: Source##2
+92800##SpaceChem##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+35700##Trine##0
+205790##Dota 2 Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+770720##Hunt: Showdown (Test Server)##0
+427460##Battlerite Public Test##0
+700580##Rust - Staging Branch##0
+1085660##Destiny 2##0
+690640##Trine 4: The Nightmare Prince##0
+@@REVIEW

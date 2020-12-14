@@ -1,0 +1,62 @@
+@@GAME
+730##Counter-Strike: Global Offensive##151955
+10##Counter-Strike##100852
+252950##Rocket League##30245
+304050##Trove##8034
+433850##Z1 Battle Royale##5229
+252490##Rust##5218
+513650##Zula Europe##843
+506540##Last Man Standing##744
+227300##Euro Truck Simulator 2##626
+444090##Paladins##461
+304930##Unturned##454
+109400##MicroVolts Surge##337
+236390##War Thunder##323
+359550##Tom Clancy's Rainbow Six Siege##272
+238960##Path of Exile##227
+397900##Business Tour - Online Multiplayer Board Game##205
+550900##Metin2##172
+440##Team Fortress 2##147
+225540##Just Cause 3##122
+431960##Wallpaper Engine##121
+230410##Warframe##89
+363970##Clicker Heroes##88
+436520##Line of Sight##72
+301520##Robocraft##61
+242720##GunZ 2: The Second Duel##51
+438100##VRChat##47
+534500##Tiger Knight: Empire War##46
+218620##PAYDAY 2##42
+113400##APB Reloaded##35
+286940##S.K.I.L.L. - Special Force 2##33
+300080##Total War Battles: KINGDOM##20
+444200##World of Tanks Blitz##16
+227940##Heroes & Generals##14
+389570##Mitos.is: The Game##8
+291550##Brawlhalla##6
+244930##SNOW##5
+224860##Arma Tactics##3
+383080##Sakura Clicker##2
+20##Team Fortress Classic##1
+30##Day of Defeat##1
+60##Ricochet##1
+70##Half-Life##1
+346900##AdVenture Capitalist##1
+273350##Evolve Stage 2##1
+502550##Strike.is: The Game##1
+530700##Argo##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+211500##RaceRoom Racing Experience ##0
+224260##No More Room in Hell##0
+700580##Rust - Staging Branch##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+550650##Black Squad##0
+555570##Infestation: The New Z##0
+386180##Crossout##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+@@REVIEW

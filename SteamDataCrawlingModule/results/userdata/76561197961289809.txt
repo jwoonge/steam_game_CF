@@ -1,0 +1,136 @@
+@@GAME
+730##Counter-Strike: Global Offensive##96849
+240##Counter-Strike: Source##45437
+252950##Rocket League##32899
+8930##Sid Meier's Civilization V##17008
+107410##Arma 3##11460
+346900##AdVenture Capitalist##11086
+466170##Idling to Rule the Gods##9549
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##5325
+221380##Age of Empires II (2013)##4795
+644930##They Are Billions##3997
+427520##Factorio##3973
+526870##Satisfactory##2639
+599140##Graveyard Keeper##2531
+413150##Stardew Valley##2485
+8800##Sid Meier's Civilization IV: Beyond the Sword##2452
+292030##The Witcher 3: Wild Hunt##2334
+361420##ASTRONEER##1943
+242760##The Forest##1804
+359320##Elite Dangerous##1729
+218230##PlanetSide 2##1631
+739630##Phasmophobia##1612
+328080##Rise to Ruins##1400
+242920##Banished##1323
+255710##Cities: Skylines##1303
+322330##Don't Starve Together##1303
+945360##Among Us##1253
+433340##Slime Rancher##1127
+853550##Equilinox##1059
+518790##theHunter: Call of the Wild™##935
+238960##Path of Exile##930
+227940##Heroes & Generals##880
+860890##Factory Town##865
+493900##Dungeons 3##850
+406290##Twilight Struggle##820
+281990##Stellaris##808
+834740##Circle Empires##784
+550##Left 4 Dead 2##746
+333930##Dirty Bomb##738
+555510##MachiaVillain##724
+233450##Prison Architect##712
+30##Day of Defeat##688
+548430##Deep Rock Galactic##655
+569480##Kingdoms and Castles##616
+453090##Parkitect##565
+616110##SPACEPLAN##558
+3910##Sid Meier's Civilization III: Complete##556
+677340##The Colonists##546
+368230##Kingdom: Classic##530
+319250##Magicmaker##514
+285190##Warhammer 40,000: Dawn of War III##476
+476600##Call of Duty: WWII##461
+418460##Rising Storm 2: Vietnam##456
+366090##Colony Survival##451
+239820##Game Dev Tycoon##440
+323190##Frostpunk##403
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##390
+20540##Company of Heroes: Tales of Valor##368
+65980##Sid Meier's Civilization: Beyond Earth##358
+464920##Surviving Mars##355
+632360##Risk of Rain 2##351
+361280##Turmoil##344
+285920##TerraTech##334
+1046030##ISLANDERS##313
+671440##Rise of Industry##297
+535930##Two Point Hospital##294
+97000##Solar 2##276
+289070##Sid Meier's Civilization VI##265
+10##Counter-Strike##260
+207140##SpeedRunners##256
+376570##WildStar##250
+932850##Simmiland##183
+17520##Synergy##174
+35450##Rising Storm/Red Orchestra 2 Multiplayer##172
+1307890##Kingdoms Reborn##167
+217200##Worms Armageddon##164
+220##Half-Life 2##160
+105600##Terraria##154
+222730##Reus##146
+304930##Unturned##140
+228200##Company of Heroes ##106
+3900##Sid Meier's Civilization IV##88
+813820##Realm Royale##88
+3990##Sid Meier's Civilization IV: Warlords##70
+444090##Paladins##68
+570##Dota 2##68
+319630##Life is Strange™##67
+438100##VRChat##53
+674940##Stick Fight: The Game##47
+238370##Magicka 2##46
+351920##Crazy Machines 3##41
+287980##Mini Metro##37
+219740##Don't Starve##37
+17510##Age of Chivalry##36
+1097150##Fall Guys: Ultimate Knockout##30
+12830##Operation Flashpoint: Dragon Rising##23
+274940##Depth##23
+468560##Blind Trust##16
+42910##Magicka##9
+353640##Train Valley##9
+297000##Heroes of Might & Magic III - HD Edition##5
+404410##Endless Sky##1
+564710##Soda Dungeon##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+620##Portal 2##0
+49520##Borderlands 2##0
+212500##The Lord of the Rings Online™##0
+1083500##PlanetSide 2 - Test##0
+368730##No Time To Explain Remastered##0
+261640##Borderlands: The Pre-Sequel##0
+367450##Poly Bridge##0
+397080##Magicka 2: Spell Balance Beta##0
+397340##SimplePlanes##0
+105450##Age of Empires® III (2007)##0
+596350##Paladins - Public Test##0
+563560##Alien Swarm: Reactive Drop##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+218620##PAYDAY 2##0
+476620##Call of Duty: WWII - Multiplayer##0
+878760##Realm Royale - Test Server##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+442070##Drawful 2##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW

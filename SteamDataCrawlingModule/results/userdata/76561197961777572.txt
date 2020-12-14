@@ -1,0 +1,129 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+33910##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+8930##Sid Meier's Civilization V##0
+42700##Call of Duty: Black Ops##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+205790##Dota 2 Test##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+41070##Serious Sam 3: BFE##0
+227780##Serious Sam Classics: Revolution##0
+564310##Serious Sam Fusion 2017 (beta)##0
+730##Counter-Strike: Global Offensive##0
+212680##FTL: Faster Than Light##0
+200710##Torchlight II##0
+4920##Natural Selection 2##0
+11020##TrackMania Nations Forever##0
+6370##Bloodline Champions##0
+208090##Loadout##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+238960##Path of Exile##0
+232450##SolForge##0
+206500##AirMech Strike##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+221380##Age of Empires II (2013)##0
+233450##Prison Architect##0
+209160##Call of Duty: Ghosts##0
+209170##Call of Duty: Ghosts - Multiplayer##0
+252950##Rocket League##0
+219990##Grim Dawn##0
+221100##DayZ##0
+268850##EVGA Precision X1##0
+550##Left 4 Dead 2##0
+249380##Carmageddon: Reincarnation##0
+505170##Carmageddon: Max Damage##0
+297000##Heroes of Might & Magic III - HD Edition##0
+298160##Eldevin##0
+301520##Robocraft##0
+304050##Trove##0
+304930##Unturned##0
+321040##DiRT 3 Complete Edition##0
+250460##Bridge Constructor##0
+279990##Bridge Constructor Playground##0
+319850##Bridge Constructor Medieval##0
+419080##Bridge Constructor Stunts##0
+323190##Frostpunk##0
+24240##PAYDAY: The Heist##0
+337950##The SKIES##0
+342200##MechWarrior Online##0
+343360##Particula##0
+346900##AdVenture Capitalist##0
+348250##Google Earth VR##0
+228880##Ashes of the Singularity: Classic##0
+507490##Ashes of the Singularity: Escalation##0
+238370##Magicka 2##0
+397080##Magicka 2: Spell Balance Beta##0
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##0
+372800##RPG MO##0
+377160##Fallout 4##0
+381940##Trials on Tatooine##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+291550##Brawlhalla##0
+287920##Mortal Online##0
+393380##Squad##0
+774941##Squad - Public Testing##0
+424370##Wolcen: Lords of Mayhem##0
+427460##Battlerite Public Test##0
+427520##Factorio##0
+431120##Tethered##0
+436820##Waltz of the Wizard##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+450390##The Lab##0
+310380##Fractured Space##0
+396060##The Rose and I##0
+468700##NVIDIA® VR Funhouse##0
+469600##Legion TD 2##0
+471710##Rec Room##0
+491130##Red Trigger##0
+314010##Boid##0
+504370##Battlerite##0
+516750##My Summer Car##0
+518580##Accounting##0
+529670##The Bellows##0
+542770##Castle Must Be Mine##0
+8500##EVE Online##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+584170##Freedom Locomotion VR##0
+600140##Belko VR: An Escape Room Experiment##0
+602960##Barotrauma##0
+605810##Battle Test: A Nissan Rogue 360° VR Experience##0
+606180##Viveport Video##0
+386180##Crossout##0
+648430##Hand of the Gods##0
+755790##Ring of Elysium##0
+768100##GizmoVR Video Player##0
+360620##Spellsworn##0
+552500##Warhammer: Vermintide 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+899770##Last Epoch##0
+945360##Among Us##0
+879160##Battlerite Royale##0
+1046930##Dota Underlords##0
+1057240##Crucible##0
+761890##Albion Online##0
+1085660##Destiny 2##0
+1172470##Apex Legends##0
+@@REVIEW
+755790##Recommended
+218230##Recommended
+6370##Recommended
+238960##Recommended
+469600##Recommended
+504370##Not Recommended
+578080##Not Recommended

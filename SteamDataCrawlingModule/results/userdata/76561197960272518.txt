@@ -1,0 +1,61 @@
+@@GAME
+240##Counter-Strike: Source##186921
+730##Counter-Strike: Global Offensive##136935
+252950##Rocket League##41621
+433850##Z1 Battle Royale##23718
+252490##Rust##10516
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##10143
+10##Counter-Strike##4191
+504370##Battlerite##2333
+444090##Paladins##1779
+1097150##Fall Guys: Ultimate Knockout##1550
+945360##Among Us##1482
+251570##7 Days to Die##1304
+739630##Phasmophobia##964
+339340##Resident Evil 0##955
+295110##Just Survive##909
+238960##Path of Exile##794
+880940##Pummel Party##695
+418370##Resident Evil 7 Biohazard##688
+431960##Wallpaper Engine##493
+952060##Resident Evil 3##465
+42120##Lead and Gold - Gangs of the Wild West##459
+291480##Warface##387
+252710##The Last Express Gold Edition##343
+386360##SMITE##321
+242760##The Forest##262
+550650##Black Squad##249
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##242
+582660##Black Desert Online##239
+506540##Last Man Standing##149
+291550##Brawlhalla##122
+440##Team Fortress 2##85
+686810##Hell Let Loose##84
+630##Alien Swarm##72
+231060##Ragnarok Online 2##58
+381210##Dead by Daylight##49
+439700##H1Z1: Test Server##40
+70##Half-Life##28
+30##Day of Defeat##24
+570##Dota 2##16
+304240##Resident Evil##12
+212070##Star Conflict##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+48000##LIMBO##0
+236390##War Thunder##0
+300040##Divine Souls##0
+200110##Nosgoth##0
+339280##Strife##0
+858460##SMITE - Public Test##0
+596350##Paladins - Public Test##0
+362300##Just Survive Test Server##0
+427460##Battlerite Public Test##0
+700580##Rust - Staging Branch##0
+952070##RESIDENT EVIL RESISTANCE##0
+@@REVIEW
+252490##Recommended
+730##Recommended

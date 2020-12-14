@@ -1,0 +1,85 @@
+@@GAME
+730##Counter-Strike: Global Offensive##320966
+10##Counter-Strike##38201
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##19037
+42710##Call of Duty: Black Ops - Multiplayer##16194
+460930##Tom Clancy's Ghost Recon® Wildlands##13384
+202990##Call of Duty: Black Ops II - Multiplayer##12150
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##12016
+42700##Call of Duty: Black Ops##7184
+371660##Far Cry Primal##6411
+24960##Battlefield: Bad Company™ 2##5822
+391220##Rise of the Tomb Raider##5156
+271590##Grand Theft Auto V##5153
+552520##Far Cry 5##5137
+24870##Need for Speed: SHIFT##4196
+939960##Far Cry New Dawn##3841
+42680##Call of Duty: Modern Warfare 3##3788
+10180##Call of Duty: Modern Warfare 2##3741
+750920##Shadow of the Tomb Raider##3013
+240##Counter-Strike: Source##2850
+203160##Tomb Raider##2738
+257510##The Talos Principle##2105
+620##Portal 2##1757
+311210##Call of Duty: Black Ops III##1549
+41070##Serious Sam 3: BFE##1525
+630##Alien Swarm##1406
+255220##GRID Autosport##1223
+288570##Wolfenstein: The New Order German Edition##1042
+202970##Call of Duty: Black Ops II##900
+12900##Audiosurf##799
+509580##The Lord of the Rings: Adventure Card Game - Definitive Edition##658
+7940##Call of Duty 4: Modern Warfare##609
+312660##Sniper Elite 4##583
+34870##Sniper Ghost Warrior 2##538
+203650##SONIC THE HEDGEHOG 4 Episode II##473
+200170##Worms Revolution##461
+209160##Call of Duty: Ghosts##455
+295110##Just Survive##340
+209650##Call of Duty: Advanced Warfare##326
+650500##Wolfenstein II: The New Colossus German Edition##280
+108800##Crysis 2 Maximum Edition##243
+292730##Call of Duty: Infinite Warfare##167
+582160##Assassin's Creed Origins##148
+12120##Grand Theft Auto: San Andreas##136
+222880##Insurgency##134
+43110##Metro 2033##133
+289690##Lara Croft and the Temple of Osiris##129
+203140##Hitman: Absolution##120
+368070##Sniper Ghost Warrior 3##103
+563560##Alien Swarm: Reactive Drop##76
+209170##Call of Duty: Ghosts - Multiplayer##68
+212910##Call of Duty: Black Ops II - Zombies##66
+204100##Max Payne 3##63
+239160##Thief##55
+346110##ARK: Survival Evolved##53
+10090##Call of Duty: World at War##34
+41060##Serious Sam Classic: The Second Encounter##29
+70##Half-Life##22
+407530##ARK: Survival Of The Fittest##18
+41050##Serious Sam Classic: The First Encounter##5
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+6510##Lost Planet: Extreme Condition##0
+227780##Serious Sam Classics: Revolution##0
+564310##Serious Sam Fusion 2017 (beta)##0
+205930##Hitman: Sniper Challenge##0
+238960##Path of Exile##0
+218620##PAYDAY 2##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+209660##Call of Duty: Advanced Warfare - Multiplayer##0
+243470##Watch_Dogs##0
+12250##Grand Theft Auto: San Andreas##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+610370##Desperados III##0
+@@REVIEW

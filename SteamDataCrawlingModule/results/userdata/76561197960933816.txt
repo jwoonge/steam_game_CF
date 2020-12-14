@@ -1,0 +1,22 @@
+@@GAME
+730##Counter-Strike: Global Offensive##19324
+10##Counter-Strike##1262
+299360##Block N Load##316
+570##Dota 2##171
+70##Half-Life##100
+444200##World of Tanks Blitz##94
+504370##Battlerite##93
+444090##Paladins##87
+238960##Path of Exile##35
+545110##Driver Booster 4 for Steam ##24
+20##Team Fortress Classic##9
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+596350##Paladins - Public Test##0
+427460##Battlerite Public Test##0
+802200##Hellbound: Survival Mode##0
+@@REVIEW
+10##Recommended

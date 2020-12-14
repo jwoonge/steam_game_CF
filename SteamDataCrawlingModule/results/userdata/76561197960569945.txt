@@ -1,0 +1,97 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##45082
+10##Counter-Strike##14367
+730##Counter-Strike: Global Offensive##4461
+962730##Skater XL##1830
+550##Left 4 Dead 2##833
+304240##Resident Evil##831
+861650##Session##663
+500##Left 4 Dead##644
+273350##Evolve Stage 2##261
+444090##Paladins##232
+12120##Grand Theft Auto: San Andreas##179
+238960##Path of Exile##155
+397900##Business Tour - Online Multiplayer Board Game##76
+21660##Street Fighter IV##57
+251570##7 Days to Die##45
+755790##Ring of Elysium##45
+593880##Street Fighter V NEW CFN Beta##43
+30##Day of Defeat##39
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##29
+218620##PAYDAY 2##29
+339340##Resident Evil 0##24
+550040##Steep Open Beta##23
+440##Team Fortress 2##22
+530620##Resident Evil 7 Teaser: Beginning Hour##19
+304390##For Honor##15
+433850##Z1 Battle Royale##13
+630##Alien Swarm##12
+1250##Killing Floor##7
+1085660##Destiny 2##7
+238320##Outlast##4
+3910##Sid Meier's Civilization III: Complete##3
+567090##8-Bit Bayonetta##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+12250##Grand Theft Auto: San Andreas##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+400##Portal##0
+50300##Spec Ops: The Line##0
+55100##Homefront##0
+50130##Mafia II (Classic)##0
+1030830##Mafia II: Definitive Edition##0
+55150##Warhammer 40,000: Space Marine##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+67370##The Darkness II##0
+12750##GRID##0
+209080##Guns of Icarus Online##0
+205790##Dota 2 Test##0
+215100##Ragnarok##0
+225260##Brütal Legend##0
+234650##Shadowrun Returns##0
+65930##The Bureau: XCOM Declassified##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+268870##Satellite Reign##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+286570##F1 2015##0
+63380##Sniper Elite V2##0
+318600##The Flame in the Flood##0
+241930##Middle-earth™: Shadow of Mordor™##0
+15700##Oddworld: Abe's Oddysee##0
+391720##Layers of Fear##0
+596350##Paladins - Public Test##0
+48000##LIMBO##0
+536930##MOBIUS FINAL FANTASY##0
+219640##Chivalry: Medieval Warfare##0
+236150##Starpoint Gemini 2##0
+323580##Jotun: Valhalla Edition##0
+368420##Mirage: Arcane Warfare##0
+436180##Spacelords##0
+38400##Fallout##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+368230##Kingdom: Classic##0
+611500##Quake Champions##0
+209670##Cortex Command##0
+439700##H1Z1: Test Server##0
+232050##Eador. Masters of the Broken World##0
+13250##Unreal Gold##0
+608800##Guns of Icarus Alliance##0
+63500##Swords and Soldiers HD##0
+658470##Mini Battlegrounds##0
+654310##For Honor - Public Test##0
+231430##Company of Heroes 2##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+34330##Total War: SHOGUN 2##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW
+962730##Recommended
+861650##Recommended

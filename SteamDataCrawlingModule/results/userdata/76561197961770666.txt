@@ -1,0 +1,57 @@
+@@GAME
+271590##Grand Theft Auto V##53130
+224600##Defiance##18968
+107410##Arma 3##18375
+109600##Neverwinter##17024
+72850##The Elder Scrolls V: Skyrim##13734
+230410##Warframe##11721
+304030##ArcheAge##7141
+70##Half-Life##6436
+24860##Battlefield 2##2827
+730##Counter-Strike: Global Offensive##1775
+221680##Rocksmith® 2014 Edition - Remastered##1563
+620##Portal 2##1344
+386360##SMITE##1259
+240##Counter-Strike: Source##659
+17390##Spore##644
+9900##Star Trek Online##627
+236390##War Thunder##592
+227700##Firefall##420
+12120##Grand Theft Auto: San Andreas##414
+242760##The Forest##334
+35700##Trine##296
+380##Half-Life 2: Episode One##265
+495420##State of Decay 2##229
+743090##Defiance 2050##222
+8500##EVE Online##165
+400##Portal##156
+4920##Natural Selection 2##155
+407510##Devilian##124
+220##Half-Life 2##92
+113400##APB Reloaded##77
+47890##The Sims(TM) 3##66
+22320##The Elder Scrolls III: Morrowind##53
+238960##Path of Exile##27
+319910##Trine 3: The Artifacts of Power##21
+320##Half-Life 2: Deathmatch##10
+268850##EVGA Precision X1##4
+10##Counter-Strike##2
+365720##Skyrim Script Extender (SKSE)##1
+396280##Anarchy Online##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+420##Half-Life 2: Episode Two##0
+12250##Grand Theft Auto: San Andreas##0
+221040##Resident Evil 6##0
+222880##Insurgency##0
+35720##Trine 2##0
+858460##SMITE - Public Test##0
+@@REVIEW

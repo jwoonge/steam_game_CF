@@ -1,0 +1,205 @@
+@@GAME
+250820##SteamVR##414466
+438100##VRChat##347068
+236390##War Thunder##71834
+342200##MechWarrior Online##54994
+440##Team Fortress 2##44528
+230410##Warframe##41236
+629520##Soundpad##20497
+221100##DayZ##18252
+359550##Tom Clancy's Rainbow Six Siege##16966
+39210##FINAL FANTASY XIV Online##15777
+586210##OVRdrop##15676
+107410##Arma 3##13580
+730##Counter-Strike: Global Offensive##13423
+582010##Monster Hunter: World##11957
+72850##The Elder Scrolls V: Skyrim##11522
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##9785
+8930##Sid Meier's Civilization V##9012
+252490##Rust##8039
+253490##CABAL Online##7411
+620980##Beat Saber##6856
+632360##Risk of Rain 2##6741
+99900##Spiral Knights##6026
+552990##World of Warships##5504
+105600##Terraria##5426
+219990##Grim Dawn##4126
+220200##Kerbal Space Program##3623
+304930##Unturned##3173
+4000##Garry's Mod##3096
+560380##MapleStory 2##2822
+49520##Borderlands 2##2815
+678960##CODE VEIN##2814
+282800##100% Orange Juice##2722
+240##Counter-Strike: Source##2626
+247730##Nether##2596
+275850##No Man's Sky##2458
+544750##SOULCALIBUR VI##1944
+450540##Hot Dogs, Horseshoes & Hand Grenades##1920
+286160##Tabletop Simulator##1880
+729040##Borderlands GOTY Enhanced##1561
+232090##Killing Floor 2##1435
+211820##Starbound##1332
+227940##Heroes & Generals##1310
+233350##Sudeki##1281
+555160##Pavlov VR##1170
+496240##Onward##942
+390710##Acceleration of SUGURI 2##928
+823130##Totally Accurate Battlegrounds##920
+261640##Borderlands: The Pre-Sequel##874
+418460##Rising Storm 2: Vietnam##858
+552500##Warhammer: Vermintide 2##827
+39160##Dungeon Siege III##788
+335300##DARK SOULS™ II: Scholar of the First Sin##761
+471710##Rec Room##690
+361420##ASTRONEER##680
+602960##Barotrauma##632
+460790##Bayonetta##539
+453480##Shadowverse##533
+630100##SoulWorker##529
+397540##Borderlands 3##518
+306130##The Elder Scrolls Online##490
+323370##TERA##476
+801630##UNDER NIGHT IN-BIRTH Exe:Late[cl-r]##462
+381210##Dead by Daylight##422
+225840##Sven Co-op##405
+960090##Bloons TD 6##380
+470220##UNO##370
+333600##NEKOPARA Vol. 1##368
+248820##Risk of Rain##366
+262060##Darkest Dungeon®##351
+1007040##EARTH DEFENSE FORCE 5##339
+220##Half-Life 2##326
+489830##The Elder Scrolls V: Skyrim Special Edition##324
+858210##Nova Drift##315
+211420##DARK SOULS™: Prepare To Die Edition##307
+440900##Conan Exiles##304
+1128000##Cube World##293
+629760##MORDHAU##284
+246700##Strike Vector##283
+392110##Endless Space® 2 - Digital Deluxe Edition##278
+214190##Minimum##271
+281990##Stellaris##258
+218230##PlanetSide 2##250
+215830##Closers##243
+570##Dota 2##237
+976730##Halo: The Master Chief Collection##206
+1238060##Dead Space™ 3##202
+390540##High Fidelity##186
+18500##Defense Grid: The Awakening##178
+212480##Sonic & All-Stars Racing Transformed Collection##172
+394690##Tower Unite##161
+816090##Space Hulk: Deathwing - Enhanced Edition##154
+509250##TO THE TOP##144
+238430##Contagion##129
+273350##Evolve Stage 2##129
+222880##Insurgency##125
+223710##Cry of Fear##122
+939850##The Dark Pictures Anthology: Man of Medan##120
+739630##Phasmophobia##116
+1281930##tModLoader##113
+269250##WORLD END ECONOMiCA episode.01##106
+33930##Arma 2: Operation Arrowhead##99
+794600##LET IT DIE##95
+493520##GTFO##91
+298900##Space Hulk: Deathwing##89
+1012790##Into the Radius VR##89
+322110##20XX##83
+578620##GORN##80
+453000##Wave##76
+527100##Star Trek: Bridge Crew##65
+374320##DARK SOULS™ III##60
+218620##PAYDAY 2##60
+700330##SCP: Secret Laboratory##56
+304050##Trove##55
+321270##UNLOVED##48
+633230##NARUTO TO BORUTO: SHINOBI STRIKER##47
+502500##ACE COMBAT™ 7: SKIES UNKNOWN##43
+310380##Fractured Space##40
+627070##inVokeR##37
+466240##Deceit##28
+268650##From The Depths##18
+1151340##Fallout 76##17
+550##Left 4 Dead 2##14
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##12
+33900##Arma 2##11
+582660##Black Desert Online##3
+945360##Among Us##3
+365720##Skyrim Script Extender (SKSE)##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+1083500##PlanetSide 2 - Test##0
+271290##HAWKEN##0
+35720##Trine 2##0
+700580##Rust - Staging Branch##0
+253230##A Hat in Time##0
+367540##Starbound - Unstable##0
+222900##Dead Island: Epidemic##0
+314160##Microsoft Flight Simulator X: Steam Edition##0
+214490##Alien: Isolation##0
+282070##This War of Mine##0
+319630##Life is Strange™##0
+232150##Killing Floor 2 - SDK##0
+248610##Door Kickers##0
+364470##The Elder Scrolls: Legends##0
+368160##WORLD END ECONOMiCA episode.02##0
+322330##Don't Starve Together##0
+371970##Barony##0
+385800##NEKOPARA Vol. 0##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+390730##Sora##0
+393380##Squad##0
+774941##Squad - Public Testing##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+420110##NEKOPARA Vol. 2##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+447530##VA-11 Hall-A: Cyberpunk Bartender Action##0
+527190##WORLD END ECONOMiCA episode.03##0
+562360##Planes, Bullets and Vodka##0
+208140##Endless Space##0
+602520##NEKOPARA Vol. 3##0
+615120##COMPOUND##0
+674940##Stick Fight: The Game##0
+377160##Fallout 4##0
+8980##Borderlands GOTY##0
+782280##Beer!##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+844870##KurtzPel##0
+931180##Conan Exiles - Testlive Client##0
+611500##Quake Champions##0
+421650##Breach##0
+1085660##Destiny 2##0
+1237970##Titanfall® 2##0
+38400##Fallout##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+34330##Total War: SHOGUN 2##0
+1406990##NEKOPARA Vol. 4##0
+@@REVIEW
+342200##Recommended
+632360##Recommended
+211820##Recommended
+801630##Recommended
+438100##Recommended
+8930##Recommended
+236390##Recommended
+730##Recommended
+440##Recommended

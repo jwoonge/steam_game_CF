@@ -1,0 +1,59 @@
+@@GAME
+730##Counter-Strike: Global Offensive##120774
+550##Left 4 Dead 2##41147
+10##Counter-Strike##33382
+33930##Arma 2: Operation Arrowhead##24903
+230410##Warframe##16691
+107410##Arma 3##14453
+218620##PAYDAY 2##14246
+9480##Saints Row 2##14197
+271590##Grand Theft Auto V##11980
+30##Day of Defeat##10224
+12210##Grand Theft Auto IV: The Complete Edition##8349
+433850##Z1 Battle Royale##5209
+238430##Contagion##4801
+252490##Rust##4352
+55230##Saints Row: The Third##2911
+295110##Just Survive##2728
+203140##Hitman: Absolution##1922
+221100##DayZ##1325
+50130##Mafia II (Classic)##1174
+6860##Hitman: Blood Money##889
+204340##Serious Sam 2##790
+203290##America's Army: Proving Grounds##759
+70##Half-Life##708
+130##Half-Life: Blue Shift##648
+273110##Counter-Strike Nexon: Studio##560
+346110##ARK: Survival Evolved##549
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##521
+33910##Arma 2##404
+115320##PROTOTYPE 2##368
+60##Ricochet##307
+50##Half-Life: Opposing Force##243
+755790##Ring of Elysium##154
+224580##Arma 2: DayZ Mod##141
+51100##Tactical Intervention##138
+40##Deathmatch Classic##90
+10500##Total War: EMPIRE - Definitive Edition##60
+205930##Hitman: Sniper Challenge##26
+440##Team Fortress 2##25
+16450##F.E.A.R. 2: Project Origin##23
+20##Team Fortress Classic##21
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##9
+291480##Warface##1
+223650##F.E.A.R. Online##1
+1030830##Mafia II: Definitive Edition##0
+113400##APB Reloaded##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+700580##Rust - Staging Branch##0
+222900##Dead Island: Epidemic##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+224600##Defiance##0
+200110##Nosgoth##0
+205790##Dota 2 Test##0
+345520##Infinite Crisis™##0
+407530##ARK: Survival Of The Fittest##0
+355840##Survarium##0
+@@REVIEW

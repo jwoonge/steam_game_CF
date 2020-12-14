@@ -1,0 +1,149 @@
+@@GAME
+730##Counter-Strike: Global Offensive##61235
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##28949
+240##Counter-Strike: Source##21480
+219990##Grim Dawn##15090
+365590##Tom Clancy's The Division##3810
+755790##Ring of Elysium##3654
+262060##Darkest Dungeon®##3486
+10##Counter-Strike##3312
+667600##Sky Force Reloaded##2288
+239140##Dying Light##2232
+312670##Strange Brigade##1981
+883710##Resident Evil 2##1887
+418370##Resident Evil 7 Biohazard##1788
+282070##This War of Mine##1751
+518790##theHunter: Call of the Wild™##1591
+367520##Hollow Knight##1502
+200710##Torchlight II##1479
+220240##Far Cry® 3##1437
+238960##Path of Exile##1392
+550##Left 4 Dead 2##1291
+899770##Last Epoch##1236
+108710##Alan Wake##1204
+91310##Dead Island##1142
+1096570##SONG OF HORROR##1123
+321040##DiRT 3 Complete Edition##1013
+952060##Resident Evil 3##1002
+582010##Monster Hunter: World##968
+215530##The Incredible Adventures of Van Helsing##962
+268050##The Evil Within##852
+21690##Resident Evil 5##845
+209660##Call of Duty: Advanced Warfare - Multiplayer##813
+527430##Warhammer 40,000: Inquisitor - Martyr##811
+216250##Dead Island Riptide##810
+792300##The Beast Inside##702
+399810##Call of Cthulhu##669
+207610##The Walking Dead##516
+304240##Resident Evil##493
+1092660##Blair Witch##475
+355050##Sky Force Anniversary##471
+460920##Steep##466
+221040##Resident Evil 6##453
+238320##Outlast##391
+355790##Styx: Shards of Darkness##390
+211400##Deadlight##385
+219150##Hotline Miami##348
+225260##Brütal Legend##342
+55150##Warhammer 40,000: Space Marine##337
+766370##Dying Light: Bad Blood##331
+517330##Stellar Interface##304
+200170##Worms Revolution##299
+341940##Hatred##295
+228200##Company of Heroes ##285
+952070##RESIDENT EVIL RESISTANCE##276
+307780##Mortal Kombat X##269
+24240##PAYDAY: The Heist##254
+202750##Alan Wake's American Nightmare##239
+221380##Age of Empires II (2013)##235
+1003090##Through The Darkest of Times##226
+248530##Depth Hunter 2: Deep Dive##224
+355350##Reign of Bullets##222
+945360##Among Us##220
+297020##The Culling Of The Cows##211
+274940##Depth##205
+1015130##Wounded - The Beginning##198
+310510##Deathtrap##192
+405820##Turok##190
+380840##Teeworlds##186
+539470##Police Stories##173
+310560##DiRT Rally##172
+1097150##Fall Guys: Ultimate Knockout##146
+282440##Quake Live##139
+72850##The Elder Scrolls V: Skyrim##127
+209650##Call of Duty: Advanced Warfare##122
+1401680##Lust from Beyond: Scarlet##120
+470220##UNO##117
+400170##The Incredible Adventures of Van Helsing: Final Cut##114
+440760##Cube Destroyer##104
+475550##Beholder##98
+365300##Transmissions: Element 120##96
+977570##The Experiment: Escape Room##80
+205910##Tiny and Big: Grandpa's Leftovers##79
+884660##CRSED##75
+352400##LEGO® Jurassic World##73
+514900##Observer##73
+961440##Resident Evil 2 "1-Shot Demo"##48
+320##Half-Life 2: Deathmatch##47
+587860##Tales of Escape##37
+273110##Counter-Strike Nexon: Studio##26
+225540##Just Cause 3##24
+60##Ricochet##17
+274170##Hotline Miami 2: Wrong Number##12
+351030##Pixel Puzzles Ultimate##10
+70##Half-Life##1
+417910##Street Warriors Online##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+21130##LEGO® Harry Potter: Years 1-4##0
+4560##Company of Heroes - Legacy Edition##0
+204880##Sins of a Solar Empire: Rebellion##0
+49520##Borderlands 2##0
+214510##LEGO® The Lord of the Rings™##0
+237630##DuckTales Remastered##0
+261030##The Walking Dead: Season Two##0
+262260##Jets'n'Guns Gold##0
+226840##Age of Wonders III##0
+271260##Star Control: Origins##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+289280##El Matador##0
+233290##MURDERED: SOUL SUSPECT™##0
+222900##Dead Island: Epidemic##0
+366870##Narcosis##0
+391720##Layers of Fear##0
+272470##The Incredible Adventures of Van Helsing II##0
+359900##The Incredible Adventures of Van Helsing III##0
+414700##Outlast 2##0
+524440##Tom Clancy's The Division PTS##0
+489360##CASE: Animatronics##0
+312660##Sniper Elite 4##0
+530620##Resident Evil 7 Teaser: Beginning Hour##0
+639780##DEEP SPACE WAIFU: FLAT JUSTICE##0
+424840##Little Nightmares##0
+265590##The Red Solstice##0
+818220##Fatal Stormer##0
+611500##Quake Champions##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+231430##Company of Heroes 2##0
+282100##Fearless Fantasy##0
+1042800##Warhammer 40,000: Inquisitor - Prophecy##0
+406970##The Uncertain: Last Quiet Day##0
+442120##Pinball FX3##0
+@@REVIEW
+952060##Recommended
+262060##Recommended
+945360##Recommended
+562810##Not Recommended
+730##Not Recommended
+667600##Recommended
+219150##Recommended
+248530##Recommended
+273110##Not Recommended

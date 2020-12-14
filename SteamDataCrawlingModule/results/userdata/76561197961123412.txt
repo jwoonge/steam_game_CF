@@ -1,0 +1,97 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+550##Left 4 Dead 2##0
+32440##LEGO® Star Wars™: The Complete Saga##0
+43110##Metro 2033##0
+22600##Worms Reloaded##0
+730##Counter-Strike: Global Offensive##0
+204360##Castle Crashers##0
+205790##Dota 2 Test##0
+214510##LEGO® The Lord of the Rings™##0
+226700##Infestation: Survivor Stories 2020##0
+11020##TrackMania Nations Forever##0
+206210##Gotham City Impostors: Free To Play##0
+230410##Warframe##0
+238960##Path of Exile##0
+224260##No More Room in Hell##0
+228760##TrackMania² Canyon##0
+203160##Tomb Raider##0
+209000##Batman™: Arkham Origins##0
+207140##SpeedRunners##0
+252950##Rocket League##0
+107410##Arma 3##0
+221100##DayZ##0
+271590##Grand Theft Auto V##0
+273110##Counter-Strike Nexon: Studio##0
+282440##Quake Live##0
+282660##Easy eSports##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+201810##Wolfenstein: The New Order##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+224600##Defiance##0
+291480##Warface##0
+227940##Heroes & Generals##0
+302510##Ryse: Son of Rome##0
+323850##Move or Die##0
+333930##Dirty Bomb##0
+349700##Aftermath##0
+363970##Clicker Heroes##0
+311210##Call of Duty: Black Ops III##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+384300##CPUCores :: Maximize Your FPS##0
+291550##Brawlhalla##0
+397900##Business Tour - Online Multiplayer Board Game##0
+337000##Deus Ex: Mankind Divided™##0
+15700##Oddworld: Abe's Oddysee##0
+407510##Devilian##0
+431240##Golf With Your Friends##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+379720##DOOM##0
+477160##Human: Fall Flat##0
+489940##BATTALION 1944##0
+273350##Evolve Stage 2##0
+360430##Mafia III: Definitive Edition##0
+289070##Sid Meier's Civilization VI##0
+549090##Counter Agents##0
+555570##Infestation: The New Z##0
+563560##Alien Swarm: Reactive Drop##0
+438740##Friday the 13th: The Game##0
+571740##Golf It!##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+578310##BRAIN / OUT##0
+594650##Hunt: Showdown##0
+770720##Hunt: Showdown (Test Server)##0
+627270##Injustice™ 2##0
+641080##Trials Rising##0
+666220##CS2D##0
+466240##Deceit##0
+739630##Phasmophobia##0
+755790##Ring of Elysium##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+544920##Darwin Project##0
+611500##Quake Champions##0
+884660##CRSED##0
+582010##Monster Hunter: World##0
+945360##Among Us##0
+967050##Pacify##0
+1091500##Cyberpunk 2077##0
+1097150##Fall Guys: Ultimate Knockout##0
+1085660##Destiny 2##0
+1172380##STAR WARS Jedi: Fallen Order™ ##0
+1063730##New World##0
+1222700##A Way Out##0
+1289670##EA Play##0
+@@REVIEW

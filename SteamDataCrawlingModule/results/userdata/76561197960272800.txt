@@ -1,0 +1,152 @@
+@@GAME
+730##Counter-Strike: Global Offensive##88894
+240##Counter-Strike: Source##52201
+289070##Sid Meier's Civilization VI##40165
+8930##Sid Meier's Civilization V##13815
+500##Left 4 Dead##7984
+550##Left 4 Dead 2##5691
+24960##Battlefield: Bad Company™ 2##4126
+65980##Sid Meier's Civilization: Beyond Earth##3824
+49520##Borderlands 2##3728
+72850##The Elder Scrolls V: Skyrim##2535
+228380##Wreckfest##1924
+17450##Dragon Age: Origins##1830
+703860##GRID (2019)##1463
+49470##Magic: The Gathering — Duels of the Planeswalkers 2012##1409
+312660##Sniper Elite 4##1330
+220240##Far Cry® 3##1242
+239140##Dying Light##1023
+49400##Magic: The Gathering - Duels of the Planeswalkers##963
+255420##Magic 2015##890
+620##Portal 2##828
+42910##Magicka##756
+232910##TrackMania² Stadium##713
+252490##Rust##649
+415200##Motorsport Manager##635
+7910##The Movies: Stunts and Effects##620
+12210##Grand Theft Auto IV: The Complete Edition##601
+292030##The Witcher 3: Wild Hunt##587
+205100##Dishonored##578
+238090##Sniper Elite 3##545
+824280##Monster Jam Steel Titans##537
+610180##The Jackbox Party Pack 4##464
+298110##Far Cry 4##449
+57900##Duke Nukem Forever##417
+22380##Fallout: New Vegas##337
+42700##Call of Duty: Black Ops##332
+3540##Peggle Nights##326
+213670##South Park™: The Stick of Truth™##314
+32360##The Secret of Monkey Island: Special Edition##307
+2200##Quake III Arena##284
+268500##XCOM 2##275
+39140##FINAL FANTASY VII##245
+16620##Monster Trucks Nitro##238
+280##Half-Life: Source##224
+375530##Football, Tactics & Glory##221
+10090##Call of Duty: World at War##219
+10##Counter-Strike##216
+293760##Automation - The Car Company Tycoon Game##203
+621060##PC Building Simulator##184
+43160##Metro: Last Light##179
+213850##Magic 2014 ##174
+448080##Fibbage XL##173
+6860##Hitman: Blood Money##158
+241260##Sherlock Holmes: Crimes and Punishments##142
+206190##Gunpoint##138
+16600##Trials 2: Second Edition##134
+425580##The Room Two##134
+220700##RPG Maker VX Ace##131
+2990##FlatOut 2##126
+237850##Dreamfall Chapters##120
+1005300##The Jackbox Party Pack 6##115
+207020##Bang Bang Racing##103
+7670##BioShock##88
+377840##FINAL FANTASY IX##78
+239820##Game Dev Tycoon##74
+218620##PAYDAY 2##73
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##69
+20900##The Witcher: Enhanced Edition##66
+259510##Shufflepuck Cantina Deluxe##56
+221910##The Stanley Parable##54
+1211630##The Jackbox Party Pack 7##51
+239160##Thief##49
+250240##Racing Manager 2014##49
+378720##Thea: The Awakening##43
+282660##Easy eSports##36
+220160##Trials Evolution Gold Edition##29
+524390##PCMark 10##28
+1182020##WGT Golf##27
+105450##Age of Empires® III (2007)##26
+202970##Call of Duty: Black Ops II##25
+100##Counter-Strike: Condition Zero Deleted Scenes##24
+41500##Torchlight##22
+223850##3DMark##20
+34270##SEGA Mega Drive & Genesis Classics##16
+7940##Call of Duty 4: Modern Warfare##12
+295110##Just Survive##10
+339610##FreeStyle 2: Street Basketball##9
+426330##MetaHuman Inc.##9
+24920##Dragon Age: Origins Character Creator##9
+241600##Rogue Legacy##6
+252110##Lovers in a Dangerous Spacetime##4
+448510##Overcooked##3
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+220##Half-Life 2##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+3900##Sid Meier's Civilization IV##0
+34440##Sid Meier's Civilization IV##0
+6300##Dreamfall: The Longest Journey##0
+3480##Peggle Deluxe##0
+7900##The Movies##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+2350##Quake III: Team Arena##0
+409710##BioShock Remastered##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+22300##Fallout 3##0
+13210##Unreal Tournament 3: Black Edition##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+205790##Dota 2 Test##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+257730##Infinity Wars - Animated Trading Card Game##0
+250320##The Wolf Among Us##0
+700580##Rust - Staging Branch##0
+262060##Darkest Dungeon®##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+333600##NEKOPARA Vol. 1##0
+333930##Dirty Bomb##0
+255710##Cities: Skylines##0
+364470##The Elder Scrolls: Legends##0
+3700##Sniper Elite##0
+63380##Sniper Elite V2##0
+464170##VRMark##0
+490220##Prismata##0
+646570##Slay the Spire##0
+282010##Carmageddon Max Pack##0
+505170##Carmageddon: Max Damage##0
+@@REVIEW
+730##Recommended

@@ -1,0 +1,23 @@
+@@GAME
+730##Counter-Strike: Global Offensive##13783
+544920##Darwin Project##1138
+570##Dota 2##976
+216150##MapleStory##622
+714010##Aim Lab##374
+504370##Battlerite##263
+644560##Mirror##233
+433850##Z1 Battle Royale##38
+40##Deathmatch Classic##1
+291550##Brawlhalla##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+466240##Deceit##0
+427460##Battlerite Public Test##0
+439700##H1Z1: Test Server##0
+@@REVIEW
+730##Recommended

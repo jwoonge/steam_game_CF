@@ -1,0 +1,56 @@
+@@GAME
+10##Counter-Strike##125710
+730##Counter-Strike: Global Offensive##78402
+252490##Rust##18824
+271590##Grand Theft Auto V##13265
+4000##Garry's Mod##4714
+252950##Rocket League##2041
+550650##Black Squad##1931
+440##Team Fortress 2##1579
+658570##FURIDASHI: Drift Cyber Sport##1213
+755790##Ring of Elysium##791
+438100##VRChat##487
+570##Dota 2##311
+813820##Realm Royale##229
+24240##PAYDAY: The Heist##215
+260430##The Four Kings Casino and Slots##160
+310560##DiRT Rally##158
+1840##Source Filmmaker##129
+227940##Heroes & Generals##89
+714010##Aim Lab##70
+364470##The Elder Scrolls: Legends##62
+55100##Homefront##55
+304930##Unturned##53
+311210##Call of Duty: Black Ops III##21
+1046930##Dota Underlords##21
+884660##CRSED##19
+205790##Dota 2 Test##11
+282440##Quake Live##10
+11390##Crash Time II##5
+231430##Company of Heroes 2##4
+70##Half-Life##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+91200##Anomaly Warzone Earth##0
+236390##War Thunder##0
+238960##Path of Exile##0
+3910##Sid Meier's Civilization III: Complete##0
+700580##Rust - Staging Branch##0
+253900##Knights and Merchants##0
+253980##Enclave##0
+254000##East India Company Gold##0
+254040##Pirates of Black Cove Gold##0
+236110##Dungeon Defenders II##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+596650##Tap Adventure: Time Travel##0
+596940##Hide and Seek##0
+878760##Realm Royale - Test Server##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW

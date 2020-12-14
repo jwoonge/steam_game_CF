@@ -1,0 +1,38 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+113400##APB Reloaded##0
+236390##War Thunder##0
+218620##PAYDAY 2##0
+252950##Rocket League##0
+248490##1953 - KGB Unleashed##0
+271640##Humanity Asset##0
+304050##Trove##0
+730##Counter-Strike: Global Offensive##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+291550##Brawlhalla##0
+397900##Business Tour - Online Multiplayer Board Game##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+489940##BATTALION 1944##0
+417910##Street Warriors Online##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+466240##Deceit##0
+945360##Among Us##0
+@@REVIEW
+730##Recommended

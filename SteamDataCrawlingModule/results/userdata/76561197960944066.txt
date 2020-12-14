@@ -1,0 +1,82 @@
+@@GAME
+252490##Rust##48037
+730##Counter-Strike: Global Offensive##48014
+1085660##Destiny 2##35663
+976730##Halo: The Master Chief Collection##13803
+49520##Borderlands 2##3995
+4000##Garry's Mod##3926
+8870##BioShock Infinite##3642
+550##Left 4 Dead 2##3607
+359550##Tom Clancy's Rainbow Six Siege##3347
+582660##Black Desert Online##3259
+409710##BioShock Remastered##3178
+7670##BioShock##3175
+500##Left 4 Dead##3171
+409720##BioShock 2 Remastered##3083
+383150##Dead Island Definitive Edition##3027
+383180##Dead Island Riptide Definitive Edition##3015
+337360##Dead Island Retro Revenge##3013
+816020##JUMP FORCE##2901
+286690##Metro 2033 Redux##2791
+629520##Soundpad##2641
+340##Half-Life 2: Lost Coast##2418
+261640##Borderlands: The Pre-Sequel##2398
+8850##BioShock 2##2335
+50##Half-Life: Opposing Force##2328
+206420##Saints Row IV##2282
+431960##Wallpaper Engine##2247
+372330##Beauty Bounce##2203
+240##Counter-Strike: Source##2138
+10##Counter-Strike##2129
+945360##Among Us##2064
+982150##Hentai Secrets##1886
+440##Team Fortress 2##1874
+220##Half-Life 2##1660
+1238060##Dead Space™ 3##1626
+320##Half-Life 2: Deathmatch##1570
+130##Half-Life: Blue Shift##1486
+977640##Happy toys##1057
+459220##Halo Wars: Definitive Edition##893
+324570##Halo: Spartan Strike##855
+1064730##Fantasy Girl##841
+927890##Hentai Girl Linda##828
+277430##Halo: Spartan Assault##785
+300##Day of Defeat: Source##751
+570##Dota 2##602
+489830##The Elder Scrolls V: Skyrim Special Edition##501
+253430##CastleMiner Z##493
+1238860##Battlefield 4™ ##455
+803330##Destroy All Humans!##434
+739630##Phasmophobia##330
+470220##UNO##286
+70##Half-Life##224
+30##Day of Defeat##216
+40##Deathmatch Classic##215
+20##Team Fortress Classic##158
+304930##Unturned##117
+527440##Rustangelo##60
+408900##Unfortunate Spacemen##46
+824270##KovaaK 2.0##20
+380600##Fishing Planet##19
+22370##Fallout 3 - Game of the Year Edition##14
+1148510##Pretty Angel##9
+749340##Chocolate makes you happy##4
+60##Ricochet##1
+7510##X-Blades##1
+365720##Skyrim Script Extender (SKSE)##1
+544810##KARDS - The WWII Card Game##1
+992310##Backbone: Prologue##1
+1286530##Black Skylands: Origins##1
+700580##Rust - Staging Branch##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+1289310##Helltaker##0
+@@REVIEW
+1148510##Recommended
+945360##Recommended
+1090200##Not Recommended
+252490##Recommended
+976730##Recommended
+1042270##Recommended
+1085660##Recommended
+816020##Recommended
+730##Recommended

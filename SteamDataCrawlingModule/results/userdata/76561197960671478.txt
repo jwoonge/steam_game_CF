@@ -1,0 +1,176 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+2600##Vampire: The Masquerade - Bloodlines##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+2700##RollerCoaster Tycoon 3: Platinum!##0
+23310##The Last Remnant##0
+11590##Hospital Tycoon##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+12810##Overlord II##0
+33520##Tropico##0
+33530##Tropico 2: Pirate Cove##0
+23380##Gyromancer##0
+35000##Mini Ninjas##0
+550##Left 4 Dead 2##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+33220##Tom Clancy's Splinter Cell: Conviction##0
+24780##SimCity 4 Deluxe##0
+8930##Sid Meier's Civilization V##0
+43000##Front Mission Evolved##0
+23490##Tropico 3 - Steam Special Edition##0
+57600##Tropico 3: Absolute Power##0
+22380##Fallout: New Vegas##0
+34270##SEGA Mega Drive & Genesis Classics##0
+105600##Terraria##0
+21100##F.E.A.R. 3##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+33460##From Dust##0
+48000##LIMBO##0
+107100##Bastion##0
+65800##Dungeon Defenders##0
+201870##Assassin's Creed Revelations##0
+205790##Dota 2 Test##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+204140##All Zombies Must Die!##0
+102600##Orcs Must Die!##0
+22600##Worms Reloaded##0
+204100##Max Payne 3##0
+35700##Trine##0
+35720##Trine 2##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+57690##Tropico 4##0
+730##Counter-Strike: Global Offensive##0
+215280##Secret World Legends##0
+49520##Borderlands 2##0
+200260##Batman: Arkham City GOTY##0
+202970##Call of Duty: Black Ops II##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+200710##Torchlight II##0
+219150##Hotline Miami##0
+205100##Dishonored##0
+200170##Worms Revolution##0
+214560##Mark of the Ninja##0
+219640##Chivalry: Medieval Warfare##0
+211400##Deadlight##0
+23300##Yosumin!##0
+223470##POSTAL 2##0
+224960##Tomb Raider I##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+47890##The Sims(TM) 3##0
+223710##Cry of Fear##0
+224580##Arma 2: DayZ Mod##0
+34870##Sniper Ghost Warrior 2##0
+33900##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+65700##Arma 2: British Armed Forces##0
+65720##Arma 2: Private Military Company##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+233450##Prison Architect##0
+217200##Worms Armageddon##0
+222730##Reus##0
+225080##Brothers - A Tale of Two Sons##0
+239030##Papers, Please##0
+237630##DuckTales Remastered##0
+218620##PAYDAY 2##0
+239820##Game Dev Tycoon##0
+252950##Rocket League##0
+236450##PAC-MAN Championship Edition DX+##0
+260750##Neighbours from Hell##0
+260770##Neighbours from Hell 2##0
+1283190##Neighbours back From Hell##0
+262900##Smooth Operators##0
+221100##DayZ##0
+271590##Grand Theft Auto V##0
+203160##Tomb Raider##0
+213670##South Park™: The Stick of Truth™##0
+233290##MURDERED: SOUL SUSPECT™##0
+294100##RimWorld##0
+256290##Child of Light##0
+301520##Robocraft##0
+226320##Marvel Heroes Omega##0
+6880##Just Cause##0
+8190##Just Cause 2##0
+45760##Ultra Street Fighter IV##0
+307690##Sleeping Dogs: Definitive Edition##0
+238320##Outlast##0
+289690##Lara Croft and the Temple of Osiris##0
+305620##The Long Dark##0
+282070##This War of Mine##0
+333930##Dirty Bomb##0
+334230##Town of Salem##0
+319630##Life is Strange™##0
+341000##Mad Games Tycoon##0
+255710##Cities: Skylines##0
+359940##Shadows Peak##0
+248610##Door Kickers##0
+364390##Downfall##0
+341940##Hatred##0
+236870##HITMAN™##0
+381210##Dead by Daylight##0
+388880##Oxenfree##0
+413150##Stardew Valley##0
+423580##Project Highrise##0
+245620##Tropico 5##0
+239140##Dying Light##0
+364360##Total War: WARHAMMER##0
+491950##Orwell##0
+495050##Mega Man Legacy Collection 2##0
+503560##911 Operator##0
+512900##Streets of Rogue##0
+289070##Sid Meier's Civilization VI##0
+292030##The Witcher 3: Wild Hunt##0
+535930##Two Point Hospital##0
+493340##Planet Coaster##0
+447040##Watch_Dogs 2##0
+564230##Fire Pro Wrestling World##0
+438740##Friday the 13th: The Game##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+591960##Animation Throwdown: The Quest for Cards##0
+594650##Hunt: Showdown##0
+770720##Hunt: Showdown (Test Server)##0
+427290##Vampyr##0
+664430##WWE 2K18##0
+435150##Divinity: Original Sin 2##0
+594570##Total War: WARHAMMER II##0
+739630##Phasmophobia##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+613830##CHRONO TRIGGER##0
+817130##WWE 2K19##0
+552500##Warhammer: Vermintide 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+863550##HITMAN™ 2##0
+611500##Quake Champions##0
+532210##Life is Strange 2##0
+883710##Resident Evil 2##0
+582010##Monster Hunter: World##0
+921590##DISSIDIA FINAL FANTASY NT Free Edition##0
+945360##Among Us##0
+460920##Steep##0
+529520##Mutant Football League##0
+976310##Mortal Kombat 11##0
+1097150##Fall Guys: Ultimate Knockout##0
+555440##Deathgarden: BLOODHARVEST##0
+997070##Marvel's Avengers##0
+@@REVIEW
+381210##Not Recommended
+664430##Recommended

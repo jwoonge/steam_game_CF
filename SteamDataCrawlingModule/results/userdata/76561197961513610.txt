@@ -1,0 +1,14 @@
+@@GAME
+730##Counter-Strike: Global Offensive##14408
+10##Counter-Strike##37
+20##Team Fortress Classic##36
+30##Day of Defeat##36
+40##Deathmatch Classic##36
+50##Half-Life: Opposing Force##36
+60##Ricochet##36
+70##Half-Life##36
+130##Half-Life: Blue Shift##36
+440##Team Fortress 2##36
+570##Dota 2##36
+@@REVIEW
+730##Recommended

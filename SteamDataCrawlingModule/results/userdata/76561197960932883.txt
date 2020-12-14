@@ -1,0 +1,27 @@
+@@GAME
+730##Counter-Strike: Global Offensive##45455
+413420##Danganronpa 2: Goodbye Despair##1612
+413410##Danganronpa: Trigger Happy Havoc##1304
+570##Dota 2##1002
+629520##Soundpad##550
+555950##Danganronpa Another Episode: Ultra Despair Girls##325
+255220##GRID Autosport##151
+737800##F1 2018##7
+421020##DiRT 4##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+12810##Overlord II##0
+287260##Toybox Turbos##0
+12830##Operation Flashpoint: Dragon Rising##0
+44340##Operation Flashpoint: Red River##0
+310560##DiRT Rally##0
+552990##World of Warships##0
+768310##Er-Spectro##0
+@@REVIEW
+730##Recommended

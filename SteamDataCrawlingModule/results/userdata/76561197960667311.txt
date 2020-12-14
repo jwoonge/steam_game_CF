@@ -1,0 +1,330 @@
+@@GAME
+250820##SteamVR##125973
+8930##Sid Meier's Civilization V##14675
+505460##Foxhole##9707
+22380##Fallout: New Vegas##7769
+72850##The Elder Scrolls V: Skyrim##7381
+599140##Graveyard Keeper##6427
+377160##Fallout 4##5409
+289070##Sid Meier's Civilization VI##5093
+218620##PAYDAY 2##4940
+413150##Stardew Valley##4451
+365590##Tom Clancy's The Division##4110
+221380##Age of Empires II (2013)##3965
+220200##Kerbal Space Program##3320
+220240##Far Cry® 3##3012
+105600##Terraria##3003
+552520##Far Cry 5##2973
+371520##Bounty Train##2782
+446800##Transport Fever##2746
+1066780##Transport Fever 2##2625
+91310##Dead Island##2371
+271590##Grand Theft Auto V##2087
+701160##Kingdom Two Crowns##2015
+211820##Starbound##1996
+201810##Wolfenstein: The New Order##1899
+522470##The House of Da Vinci##1786
+233450##Prison Architect##1778
+569480##Kingdoms and Castles##1723
+666140##My Time At Portia##1721
+298110##Far Cry 4##1540
+362890##Black Mesa##1431
+745010##Mechanic Miner##1408
+252610##Death Road to Canada##1396
+214490##Alien: Isolation##1380
+569860##Thimbleweed Park##1355
+305620##The Long Dark##1353
+8980##Borderlands GOTY##1345
+572430##Party Hard 2 ##1344
+8800##Sid Meier's Civilization IV: Beyond the Sword##1333
+546560##Half-Life: Alyx##1317
+50130##Mafia II (Classic)##1288
+8870##BioShock Infinite##1178
+598330##SimAirport##1066
+424840##Little Nightmares##1028
+361280##Turmoil##1024
+495420##State of Decay 2##952
+94510##Back to the Future: Ep 3 - Citizen Brown##947
+7600##Sid Meier's Railroads!##904
+242920##Banished##873
+94520##Back to the Future: Ep 4 - Double Visions##868
+210970##The Witness##819
+255710##Cities: Skylines##776
+751780##Forager##737
+31290##Back to the Future: Ep 1 - It's About Time##731
+204630##Retro City Rampage™ DX##730
+246620##Plague Inc: Evolved##698
+496300##Kingdom: New Lands##673
+240##Counter-Strike: Source##665
+298630##The Escapists##624
+620##Portal 2##530
+356570##Party Hard##510
+275200##Westerado: Double Barreled##503
+57900##Duke Nukem Forever##455
+591370##Production Line##445
+440##Team Fortress 2##429
+326410##Windward##411
+530950##Tower 57##405
+316790##Grim Fandango Remastered##398
+350080##Wolfenstein: The Old Blood ##377
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##367
+222480##Resident Evil Revelations##359
+733790##Not Tonight##359
+94500##Back to the Future: Ep 2 - Get Tannen!##347
+258970##Gauntlet™ ##340
+671440##Rise of Industry##339
+227300##Euro Truck Simulator 2##321
+456750##The Room Three##320
+383870##Firewatch##302
+537800##Bomber Crew##300
+282140##SOMA##296
+10##Counter-Strike##283
+688420##Bad North##276
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##251
+24960##Battlefield: Bad Company™ 2##229
+239030##Papers, Please##223
+41500##Torchlight##217
+730##Counter-Strike: Global Offensive##207
+15120##Tom Clancy's Rainbow Six: Vegas 2##175
+535230##Domina##164
+319630##Life is Strange™##160
+461950##Beat Cop##153
+425580##The Room Two##147
+105450##Age of Empires® III (2007)##141
+248610##Door Kickers##139
+94530##Back to the Future: Ep 5 - OUTATIME##134
+265210##Viscera Cleanup Detail: Santa's Rampage##132
+518580##Accounting##132
+12210##Grand Theft Auto IV: The Complete Edition##125
+494740##Police Quest Collection##122
+43110##Metro 2033##114
+271240##Offworld Trading Company##114
+224480##Octodad: Dadliest Catch##112
+268850##EVGA Precision X1##109
+587430##I Expect You To Die##108
+270880##American Truck Simulator##107
+341800##Keep Talking and Nobody Explodes##106
+221910##The Stanley Parable##103
+252950##Rocket League##102
+306760##Obduction##100
+1222730##STAR WARS™: Squadrons##99
+379720##DOOM##85
+270850##Car Mechanic Simulator 2014##83
+721090##SKYBOX VR Video Player##79
+268910##Cuphead##66
+518920##Surgeon Simulator: Experience Reality##62
+293780##Crawl##61
+435400##Hidden Folks##60
+314160##Microsoft Flight Simulator X: Steam Edition##50
+2420##The Ship Single Player##50
+1097150##Fall Guys: Ultimate Knockout##46
+550040##Steep Open Beta##44
+292030##The Witcher 3: Wild Hunt##41
+231910##Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded##38
+287390##Metro: Last Light Redux##36
+431960##Wallpaper Engine##35
+48000##LIMBO##32
+260000##YOU DON'T KNOW JACK MOVIES##29
+233270##Far Cry® 3 Blood Dragon##28
+438100##VRChat##28
+1091500##Cyberpunk 2077##28
+454950##Mainlining##26
+726910##Star Wars: Droid Repair Bay##25
+73010##Cities in Motion##21
+361990##Lakeview Cabin Collection##19
+381940##Trials on Tatooine##19
+407060##AltspaceVR##19
+630##Alien Swarm##19
+22370##Fallout 3 - Game of the Year Edition##18
+572410##Steel Division: Normandy 44##18
+525510##Guns, Gore and Cannoli 2##15
+2430##The Ship Tutorial##13
+467660##Paranormal Activity: The Lost Soul##13
+313160##Farming Simulator 15##12
+227260##DisplayFusion##10
+260040##YOU DON'T KNOW JACK TELEVISION##10
+387860##the static speaks my name##10
+758210##Escape Room##8
+3900##Sid Meier's Civilization IV##6
+33930##Arma 2: Operation Arrowhead##5
+945360##Among Us##5
+1305720##Delores: A Thimbleweed Park Mini-Adventure##5
+400##Portal##2
+768100##GizmoVR Video Player##2
+220##Half-Life 2##1
+2400##The Ship##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+300##Day of Defeat: Source##0
+1500##Darwinia##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+1510##Uplink##0
+1520##DEFCON##0
+420##Half-Life 2: Episode Two##0
+8260##Sam & Max 201: Ice Station Santa##0
+8270##Sam & Max 202: Moai Better Blues##0
+8280##Sam & Max 203: Night of the Raving Dead##0
+8290##Sam & Max 204: Chariots of the Dogs##0
+8300##Sam & Max 205: What's New Beelzebub?##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+1530##Multiwinia##0
+23310##The Last Remnant##0
+22330##The Elder Scrolls IV: Oblivion ##0
+21680##Bionic Commando Rearmed##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+32350##STAR WARS™ Starfighter™##0
+21670##Bionic Commando##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+550##Left 4 Dead 2##0
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##0
+45300##Wings of Prey##0
+8190##Just Cause 2##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+33900##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+28000##Kane & Lynch 2: Dog Days##0
+50620##Darksiders##0
+462780##Darksiders Warmastered Edition##0
+35130##Lara Croft and the Guardian of Light##0
+729040##Borderlands GOTY Enhanced##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+55140##MX vs. ATV Reflex##0
+35700##Trine##0
+42120##Lead and Gold - Gangs of the Wild West##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+475150##Titan Quest Anniversary Edition##0
+50300##Spec Ops: The Line##0
+55110##Red Faction: Armageddon##0
+7610##Railroad Tycoon 3##0
+6910##Deus Ex: Game of the Year Edition##0
+24240##PAYDAY: The Heist##0
+17710##Nuclear Dawn##0
+9350##Supreme Commander##0
+9420##Supreme Commander: Forged Alliance##0
+67370##The Darkness II##0
+6860##Hitman: Blood Money##0
+35000##Mini Ninjas##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+6920##Deus Ex: Invisible War##0
+6870##Battlestations: Midway##0
+6900##Hitman: Codename 47##0
+6880##Just Cause##0
+211600##Thief Gold##0
+3990##Sid Meier's Civilization IV: Warlords##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+204100##Max Payne 3##0
+50650##Darksiders II##0
+49520##Borderlands 2##0
+10100##King's Quest Collection##0
+10110##Space Quest Collection##0
+203140##Hitman: Absolution##0
+205790##Dota 2 Test##0
+39630##AquaNox##0
+39640##AquaNox 2: Revelation##0
+6850##Hitman 2: Silent Assassin##0
+220440##DmC Devil May Cry##0
+10130##TimeShift##0
+3910##Sid Meier's Civilization III: Complete##0
+65930##The Bureau: XCOM Declassified##0
+228300##Remember Me##0
+244070##Sid Meier's Ace Patrol##0
+242940##Anachronox##0
+238320##Outlast##0
+231330##Deadfall Adventures##0
+245050##SpellForce 2 - Demons of the Past##0
+242980##Daikatana##0
+247430##Hitman: Contracts##0
+247660##Deadly Premonition: The Director's Cut##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+261640##Borderlands: The Pre-Sequel##0
+367540##Starbound - Unstable##0
+275570##Summoner##0
+254700##Resident Evil 4##0
+235210##Strider##0
+8880##Freedom Force##0
+8890##Freedom Force vs. the 3rd Reich##0
+258180##Deus Ex: The Fall##0
+288160##The Room##0
+292930##Black Mirror I##0
+286690##Metro 2033 Redux##0
+310790##Geometry Wars 3: Dimensions Evolved##0
+200110##Nosgoth##0
+287450##Rise of Nations: Extended Edition##0
+226720##Lost Planet 3##0
+337180##Velocity 2X##0
+287290##Resident Evil Revelations 2##0
+310810##Shiftlings##0
+356500##STAR WARS™ Galactic Battlegrounds Saga##0
+361670##STAR WARS™: X-Wing Alliance™##0
+361690##STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™##0
+524440##Tom Clancy's The Division PTS##0
+329050##Devil May Cry 4 Special Edition##0
+370240##NBA 2K16##0
+20900##The Witcher: Enhanced Edition##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+400940##Budget Cuts##0
+57300##Amnesia: The Dark Descent##0
+431240##Golf With Your Friends##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+402260##Dead Secret##0
+450390##The Lab##0
+452970##Asemblance##0
+394230##Battleborn##0
+455910##STAR WARS™: Rogue Squadron 3D##0
+456540##STAR WARS™: Rebel Assault I + II##0
+471710##Rec Room##0
+1030830##Mafia II: Definitive Edition##0
+495700##Gabriel Knight: Sins of the Fathers##0
+368230##Kingdom: Classic##0
+496760##Gabriel Knight 2: The Beast Within##0
+497360##Gabriel Knight 3: Blood of the Sacred, Blood of the Damned##0
+500810##Arcanum##0
+501970##Phantasmagoria 2##0
+501990##Phantasmagoria##0
+502750##Quest for Glory Collection##0
+503940##Railway Empire##0
+512270##Home - A VR Spacewalk##0
+517790##Caesar 3##0
+517810##Caesar 4##0
+532110##Rusty Lake: Roots##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+231430##Company of Heroes 2##0
+418370##Resident Evil 7 Biohazard##0
+560170##STAR WARS™: Shadows of the Empire##0
+582500##We Were Here##0
+594330##Visage##0
+611660##Fallout 4 VR##0
+612880##Wolfenstein II: The New Colossus##0
+641990##The Escapists 2##0
+646200##Dead Effect 2 VR##0
+722230##L.A. Noire: The VR Case Files##0
+753060##Lucky Night##0
+770990##Blade Runner 9732##0
+783840##Lakeview Valley##0
+239200##Amnesia: A Machine for Pigs##0
+927270##Accounting+##0
+1051200##Trover Saves the Universe##0
+1133320##Westworld Awakening##0
+203160##Tomb Raider##0
+@@REVIEW
+745010##Not Recommended

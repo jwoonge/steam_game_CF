@@ -1,0 +1,44 @@
+@@GAME
+10##Counter-Strike##80615
+730##Counter-Strike: Global Offensive##71968
+289070##Sid Meier's Civilization VI##5076
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##4917
+364360##Total War: WARHAMMER##3374
+373420##Divinity: Original Sin Enhanced Edition##2806
+286160##Tabletop Simulator##2225
+1091500##Cyberpunk 2077##1724
+282660##Easy eSports##1051
+252950##Rocket League##959
+728880##Overcooked! 2##912
+319630##Life is Strange™##851
+391540##Undertale##760
+404540##Nex Machina##591
+1128810##RISK: Global Domination##479
+435150##Divinity: Original Sin 2##350
+240##Counter-Strike: Source##239
+304430##INSIDE##216
+641990##The Escapists 2##214
+291550##Brawlhalla##184
+250320##The Wolf Among Us##161
+405640##Pony Island##126
+11020##TrackMania Nations Forever##93
+736260##Baba Is You##53
+945360##Among Us##29
+609490##Minit##14
+274900##Murder Miners##4
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+230230##Divinity: Original Sin (Classic)##0
+287630##The Council##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+373420##Recommended

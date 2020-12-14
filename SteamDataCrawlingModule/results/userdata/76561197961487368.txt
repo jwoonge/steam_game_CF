@@ -1,0 +1,11 @@
+@@GAME
+730##Counter-Strike: Global Offensive##2480
+10##Counter-Strike##87
+70##Half-Life##32
+20##Team Fortress Classic##2
+50##Half-Life: Opposing Force##2
+130##Half-Life: Blue Shift##2
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+@@REVIEW

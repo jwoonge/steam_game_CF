@@ -1,0 +1,198 @@
+@@GAME
+730##Counter-Strike: Global Offensive##281443
+10##Counter-Strike##276976
+240##Counter-Strike: Source##276930
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##10978
+102500##Kingdoms of Amalur: Reckoning™##4927
+233290##MURDERED: SOUL SUSPECT™##3737
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##3114
+265300##Lords Of The Fallen##2608
+813630##Supraland##2462
+731490##Crash Bandicoot™ N. Sane Trilogy##2387
+514900##Observer##2384
+400##Portal##1464
+323380##The Magic Circle##1299
+960980##Apsulov: End of Gods##1258
+1048540##Kao the Kangaroo: Round 2##1140
+241260##Sherlock Holmes: Crimes and Punishments##1027
+252550##Qbeh-1: The Atlas Cube##789
+409520##Ginger: Beyond the Crystal##683
+555150##The First Tree##524
+205650##The Testament of Sherlock Holmes##504
+441670##Jelly Killer##410
+780500##Suzy Cube##387
+452540##Skylar & Plux: Adventure On Clover Island##295
+629220##Rise of Insanity##129
+288160##The Room##119
+718180##Super Dungeon Boy##84
+645290##Mechanism##78
+50##Half-Life: Opposing Force##1
+70##Half-Life##1
+130##Half-Life: Blue Shift##1
+220##Half-Life 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+6870##Battlestations: Midway##0
+6880##Just Cause##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+6980##Thief: Deadly Shadows##0
+7000##Tomb Raider: Legend##0
+7010##Project: Snowblind##0
+8000##Tomb Raider: Anniversary##0
+8080##Kane & Lynch: Dead Men##0
+8100##Conflict: Denied Ops##0
+8140##Tomb Raider: Underworld##0
+8170##Battlestations: Pacific##0
+35000##Mini Ninjas##0
+34600##Order of War##0
+35070##Flora's Fruit Farm##0
+40100##Supreme Commander 2##0
+8190##Just Cause 2##0
+57300##Amnesia: The Dark Descent##0
+35130##Lara Croft and the Guardian of Light##0
+39160##Dungeon Siege III##0
+22380##Fallout: New Vegas##0
+211780##Conflict Desert Storm##0
+211600##Thief Gold##0
+211740##Thief 2##0
+216110##Tiny Troopers##0
+220740##Chaos on Deponia##0
+224300##Legacy of Kain: Defiance##0
+224920##Legacy of Kain: Soul Reaver##0
+224940##Legacy of Kain: Soul Reaver 2##0
+224960##Tomb Raider I##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+224980##Tomb Raider: The Last Revelation##0
+225000##Tomb Raider: Chronicles##0
+225020##Tomb Raider (VI): The Angel of Darkness##0
+203160##Tomb Raider##0
+39200##Dungeon Siege 2##0
+39190##Dungeon Siege##0
+242940##Anachronox##0
+239200##Amnesia: A Machine for Pigs##0
+254320##Duskers##0
+243020##Pandemonium##0
+242960##Blood Omen 2: Legacy of Kain##0
+242980##Daikatana##0
+245010##Deathtrap Dungeon##0
+243000##Omikron - The Nomad Soul##0
+243040##Startopia##0
+243060##Urban Chaos##0
+22120##Penumbra: Black Plague##0
+22140##Penumbra: Requiem##0
+22180##Penumbra: Overture##0
+262690##Little Racers STREET##0
+239160##Thief##0
+282140##SOMA##0
+226100##Nom Nom Galaxy##0
+258180##Deus Ex: The Fall##0
+298830##Millennium 3 - Cry Wolf##0
+299480##Rogue Stormers##0
+300380##Road Redemption##0
+238090##Sniper Elite 3##0
+308040##Back to Bed##0
+310560##DiRT Rally##0
+314830##Blackguards 2##0
+318230##Convoy##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+258520##The Vanishing of Ethan Carter##0
+400430##The Vanishing of Ethan Carter Redux##0
+323320##Grow Home##0
+307690##Sleeping Dogs: Definitive Edition##0
+238320##Outlast##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+620##Portal 2##0
+289690##Lara Croft and the Temple of Osiris##0
+319630##Life is Strange™##0
+350640##Sherlock Holmes: The Devil's Daughter##0
+235540##Warhammer: End Times - Vermintide##0
+359100##Q.U.B.E. 2##0
+362930##Garfield Kart##0
+28000##Kane & Lynch 2: Dog Days##0
+244160##Homeworld Remastered Collection##0
+387850##Airport Madness 4##0
+388410##Darksiders II Deathinitive Edition##0
+390910##Collisions##0
+396350##Bleed 2##0
+406150##Refunct##0
+225540##Just Cause 3##0
+414700##Outlast 2##0
+416600##Full Metal Furies##0
+421740##Goetia##0
+425580##The Room Two##0
+426790##Grow Up##0
+427820##Hitman GO: Definitive Edition##0
+434460##Rock of Ages 2##0
+453910##Love is Dead##0
+368390##The Darkside Detective##0
+457760##The Signal From Tölva##0
+50620##Darksiders##0
+462780##Darksiders Warmastered Edition##0
+466560##Northgard##0
+470780##She Remembered Caterpillars##0
+473690##Absolver##0
+11040##Sherlock Holmes: Nemesis##0
+11140##Sherlock Holmes: The Awakened - Remastered##0
+11150##Sherlock Holmes: The Secret of the Silver Earring##0
+11180##Sherlock Holmes: The Mystery of The Persian Carpet##0
+11190##Sherlock Holmes versus Jack the Ripper##0
+361230##Super Daryl Deluxe##0
+493200##RiME##0
+499520##The Turing Test##0
+499890##Aaero##0
+503560##911 Operator##0
+522240##Pool Panic##0
+530320##Wandersong##0
+532110##Rusty Lake: Roots##0
+540840##Lara Croft GO##0
+337340##Finding Paradise##0
+552580##Jade's Journey##0
+579760##The Journey Down: Chapter Three##0
+391220##Rise of the Tomb Raider##0
+606150##Moonlighter##0
+609490##Minit##0
+612390##Dandara: Trials of Fear Edition##0
+614140##Illusoria##0
+619700##Steel Rats##0
+633460##Tannenberg##0
+646270##60 Parsecs!##0
+658850##Do Not Feed the Monkeys##0
+304530##Agents of Mayhem##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+680360##Regions Of Ruin##0
+686600##Rapture Rejects##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+535480##Sundered: Eldritch Edition##0
+733300##My Big Sister##0
+743450##Monster Prom##0
+337000##Deus Ex: Mankind Divided™##0
+760060##Mutant Year Zero: Road to Eden##0
+802450##NAIRI: Tower of Shirin##0
+807230##Silenced: The House##0
+807920##Onii-Chan##0
+826600##I’m not a Monster##0
+897030##Paratopic##0
+606280##Darksiders III##0
+638970##Yakuza 0##0
+673880##Warhammer 40,000: Mechanicus##0
+946090##Hentai Neighbors##0
+1003520##Hentai Crush##0
+1113680##Hentai Girl Division##0
+226840##Age of Wonders III##0
+@@REVIEW

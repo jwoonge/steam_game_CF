@@ -1,0 +1,43 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+11240##Space Trader: Merchant Marine##0
+11390##Crash Time II##0
+46410##Avencast##0
+11360##Chains##0
+19200##Tank Universal##0
+11370##Nikopol: Secrets of the Immortals##0
+11330##Obulis##0
+46520##Wasteland Angel##0
+203290##America's Army: Proving Grounds##0
+11340##Larva Mortus##0
+252950##Rocket League##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+298140##Rhiannon: Curse of the Four Branches##0
+315260##Space Hack##0
+321920##Schein##0
+312960##Starion Tactics##0
+730##Counter-Strike: Global Offensive##0
+334070##Hektor##0
+345130##Dark Matter##0
+352520##The Silent Age##0
+371510##Gunnheim##0
+432950##Orange Moon##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+513550##Vive le Roi##0
+528300##Soulless: Ray Of Hope##0
+562800##HOUND##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+618310##AFTERGRINDER##0
+218620##PAYDAY 2##0
+@@REVIEW
+252950##Recommended
+730##Recommended

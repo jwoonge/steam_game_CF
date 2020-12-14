@@ -1,0 +1,49 @@
+@@GAME
+730##Counter-Strike: Global Offensive##121891
+252490##Rust##94178
+295110##Just Survive##28185
+10##Counter-Strike##4025
+227300##Euro Truck Simulator 2##3438
+240##Counter-Strike: Source##3431
+570##Dota 2##1835
+221100##DayZ##1685
+433850##Z1 Battle Royale##1625
+755790##Ring of Elysium##1364
+363970##Clicker Heroes##1203
+207170##Legend of Grimrock##762
+397900##Business Tour - Online Multiplayer Board Game##671
+301520##Robocraft##551
+70##Half-Life##519
+8870##BioShock Infinite##518
+304050##Trove##483
+4000##Garry's Mod##439
+232910##TrackMania² Stadium##359
+304930##Unturned##264
+252950##Rocket League##253
+509980##BIGFOOT##164
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##153
+550##Left 4 Dead 2##145
+630##Alien Swarm##144
+758980##Poker Legends: Tournaments##141
+225140##Duke Nukem 3D: Megaton Edition##100
+253710##theHunter Classic##75
+113400##APB Reloaded##43
+440##Team Fortress 2##24
+945360##Among Us##22
+355840##Survarium##21
+505040##FORTIFY##20
+333930##Dirty Bomb##12
+30##Day of Defeat##8
+271590##Grand Theft Auto V##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+209650##Call of Duty: Advanced Warfare##0
+209660##Call of Duty: Advanced Warfare - Multiplayer##0
+@@REVIEW

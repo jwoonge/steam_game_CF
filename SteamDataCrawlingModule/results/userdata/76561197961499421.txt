@@ -1,0 +1,149 @@
+@@GAME
+570##Dota 2##119963
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##12556
+262060##Darkest Dungeon®##12426
+582010##Monster Hunter: World##8995
+440##Team Fortress 2##8610
+72850##The Elder Scrolls V: Skyrim##6830
+220200##Kerbal Space Program##5494
+4920##Natural Selection 2##4766
+629760##MORDHAU##3191
+212680##FTL: Faster Than Light##3163
+1097150##Fall Guys: Ultimate Knockout##2641
+200510##XCOM: Enemy Unknown##2289
+970830##The Dungeon Of Naheulbeuk: The Amulet Of Chaos##2084
+55150##Warhammer 40,000: Space Marine##1827
+219640##Chivalry: Medieval Warfare##1694
+1091500##Cyberpunk 2077##1611
+730##Counter-Strike: Global Offensive##1563
+275850##No Man's Sky##1494
+15620##Warhammer 40,000: Dawn of War II##1352
+49520##Borderlands 2##1280
+590380##Into the Breach##1235
+243970##Invisible, Inc.##930
+219740##Don't Starve##792
+241600##Rogue Legacy##687
+252950##Rocket League##669
+322330##Don't Starve Together##640
+630##Alien Swarm##611
+207170##Legend of Grimrock##582
+258970##Gauntlet™ ##456
+953490##CARRION##443
+238960##Path of Exile##418
+360620##Spellsworn##352
+28050##Deus Ex: Human Revolution##306
+222730##Reus##254
+239820##Game Dev Tycoon##254
+244730##Divekick##254
+56400##Warhammer 40,000: Dawn of War II - Retribution##245
+222980##Dead Pixels##232
+286160##Tabletop Simulator##176
+945360##Among Us##167
+113200##The Binding of Isaac##158
+108600##Project Zomboid##112
+245550##Free to Play##111
+1046930##Dota Underlords##109
+327690##Gigantic##107
+240##Counter-Strike: Source##96
+39140##FINAL FANTASY VII##91
+563560##Alien Swarm: Reactive Drop##85
+91600##Sanctum##83
+30##Day of Defeat##63
+203160##Tomb Raider##63
+1057240##Crucible##53
+242570##Space Hulk##42
+35700##Trine##35
+333930##Dirty Bomb##35
+755790##Ring of Elysium##34
+8930##Sid Meier's Civilization V##31
+91700##E.Y.E: Divine Cybermancy##26
+223750##DCS World Steam Edition##26
+444090##Paladins##24
+58520##Blood Bowl: Legendary Edition##22
+3730##Aliens versus Predator Classic 2000##20
+271290##HAWKEN##19
+233250##Planetary Annihilation##19
+10##Counter-Strike##17
+244160##Homeworld Remastered Collection##16
+330580##Shark Attack Deathmatch 2##14
+111400##Bunch Of Heroes##9
+9450##Warhammer 40,000: Dawn of War - Soulstorm##7
+377840##FINAL FANTASY IX##7
+228960##Skulls of the Shogun##3
+282440##Quake Live##2
+620##Portal 2##1
+216890##Blood Bowl: Chaos Edition##1
+550##Left 4 Dead 2##1
+319630##Life is Strange™##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+13230##Unreal Tournament 2004##0
+400##Portal##0
+205790##Dota 2 Test##0
+209080##Guns of Icarus Online##0
+343450##Free To Play (Streaming)##0
+227220##Sang-Froid - Tales of Werewolves##0
+35720##Trine 2##0
+219830##King Arthur's Gold##0
+293260##Card Hunter##0
+63380##Sniper Elite V2##0
+321040##DiRT 3 Complete Edition##0
+411180##Dota 2 Player Profiles##0
+411181##Dota 2 Player Profiles: EG - Suma1L##0
+411182##Dota 2 Player Profiles: Na'Vi - XBOCT##0
+411183##Dota 2 Player Profiles: Invictus Gaming - Ferrari##0
+411184##Dota 2 Player Profiles: MVPHot6 - HEEN##0
+411185##Dota 2 Player Profiles: EHOME - ROTK##0
+411186##Dota 2 Player Profiles: Cloud9 - N0Tail##0
+411187##Dota 2 Player Profiles: Complexity - zfreek##0
+411188##Dota 2 Player Profiles: Empire - Alohadance##0
+411189##Dota 2 Player Profiles: Fnatic - Kecik-Imba##0
+411190##Dota 2 Player Profiles: LGD - Xiao8##0
+411191##Dota 2 Player Profiles: Newbee - Mu##0
+411192##Dota 2 Player Profiles: Team Secret - S4##0
+411193##Dota 2 Player Profiles: Vici - fy##0
+411194##Dota 2 Player Profiles: Virtus.Pro - FNG##0
+419910##Dota 2 Player Profiles: CDEC's Journey to The Majors##0
+420090##Dota 2 Player Profiles: EG Champions of TI5##0
+523480##Dota 2 Player Profiles: Vici Gaming Reborn - END##0
+523481##Dota 2 Player Profiles: OG - Fly##0
+523482##Dota 2 Player Profiles: EHOME - iceiceice##0
+523483##Dota 2 Player Profiles: Team Liquid - MATUMBAMAN##0
+523484##Dota 2 Player Profiles: LGD - Maybe##0
+523485##Dota 2 Player Profiles: MVP Phoenix - QO##0
+523486##Dota 2 Player Profiles: Not Playing Dota with Complexity##0
+523487##Dota 2 Player Profiles: Not Playing Dota with Dendi##0
+523488##Dota 2 Player Profiles: Not Playing Dota with END##0
+523489##Dota 2 Player Profiles: Not Playing Dota With MATUMBAMAN##0
+523490##Dota 2 Player Profiles: Not Playing Dota With QO##0
+702690##Dota 2 Player Profiles: OG - ANA##0
+702691##Dota 2 Player Profiles: Invictus Gaming -  BurNIng##0
+702692##Dota 2 Player Profiles: Team Liquid - Miracle-##0
+702693##Dota 2 Player Profiles: Virtus.Pro##0
+702694##Dota 2 Player Profiles: Not Playing Dota With ANA##0
+702695##Dota 2 Player Profiles: Not Playing Dota with Universe and Zai##0
+702696##Dota 2 Player Profiles: Not Playing Dota With Virtus.Pro##0
+596350##Paladins - Public Test##0
+259170##Alone in the Dark##0
+638490##Soldat##0
+368230##Kingdom: Classic##0
+209670##Cortex Command##0
+439190##Stories: The Path of Destinies##0
+638070##Murderous Pursuits##0
+231430##Company of Heroes 2##0
+308600##Geneshift##0
+343710##KHOLAT##0
+522040##Princess Remedy In A Heap of Trouble##0
+@@REVIEW
+1097150##Recommended
+953490##Recommended
+220200##Recommended
+578080##Recommended
+262060##Recommended

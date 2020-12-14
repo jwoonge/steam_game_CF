@@ -1,0 +1,43 @@
+@@GAME
+570##Dota 2##105837
+730##Counter-Strike: Global Offensive##55880
+203770##Crusader Kings II##49964
+945360##Among Us##3478
+281990##Stellaris##2160
+209080##Guns of Icarus Online##1113
+674940##Stick Fight: The Game##1076
+304930##Unturned##908
+444090##Paladins##784
+32440##LEGO® Star Wars™: The Complete Saga##437
+235540##Warhammer: End Times - Vermintide##354
+397900##Business Tour - Online Multiplayer Board Game##159
+1101450##Miss Neko##82
+509220##Save Jesus##71
+301520##Robocraft##63
+823130##Totally Accurate Battlegrounds##53
+30##Day of Defeat##36
+440##Team Fortress 2##24
+1147500##A Gay's Life##3
+672680##Call of War##2
+442070##Drawful 2##2
+291550##Brawlhalla##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+236390##War Thunder##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+596350##Paladins - Public Test##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+611500##Quake Champions##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+570##Recommended
+509220##Recommended
+203770##Recommended
+730##Recommended

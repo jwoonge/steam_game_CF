@@ -1,0 +1,38 @@
+@@GAME
+570##Dota 2##303218
+730##Counter-Strike: Global Offensive##296361
+10##Counter-Strike##23021
+227300##Euro Truck Simulator 2##13825
+252950##Rocket League##9632
+236390##War Thunder##7332
+1213210##Command & Conquer™ Remastered Collection##1282
+542970##True Sight: Episode 1##1224
+240##Counter-Strike: Source##505
+11020##TrackMania Nations Forever##377
+539730##True Sight##263
+438740##Friday the 13th: The Game##184
+282440##Quake Live##173
+233840##Worms Clan Wars##71
+282660##Easy eSports##69
+542972##True Sight: Episode 3##68
+611500##Quake Champions##34
+542971##True Sight: Episode 2##20
+337070##Dimmdrive :: Gaming Ramdrive @ 10,000+ MB/s##16
+205790##Dota 2 Test##11
+70##Half-Life##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+@@REVIEW
+570##Recommended
+539730##Recommended
+730##Recommended

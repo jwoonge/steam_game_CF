@@ -1,0 +1,184 @@
+@@GAME
+730##Counter-Strike: Global Offensive##404061
+80##Counter-Strike: Condition Zero##16096
+10##Counter-Strike##10936
+299480##Rogue Stormers##2935
+108800##Crysis 2 Maximum Edition##1382
+389730##TEKKEN 7##702
+570##Dota 2##588
+379720##DOOM##462
+976730##Halo: The Master Chief Collection##392
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##243
+271590##Grand Theft Auto V##96
+550##Left 4 Dead 2##66
+377160##Fallout 4##51
+240##Counter-Strike: Source##42
+314180##Deathsmiles##31
+1145360##Hades##22
+460810##Vanquish##21
+1238840##Battlefield 1 ™##19
+413856##CS:GO Player Profiles: Edward - Na'Vi##18
+465200##Fury Unleashed##16
+255220##GRID Autosport##12
+464450##DoDonPachi Resurrection##12
+222940##THE KING OF FIGHTERS XIII STEAM EDITION##11
+885150##Capcom Beat 'Em Up Bundle##6
+500##Left 4 Dead##5
+413850##CS:GO Player Profiles##5
+340##Half-Life 2: Lost Coast##3
+239140##Dying Light##3
+324800##Shadow Warrior 2##3
+555000##GOAT OF DUTY##3
+307780##Mortal Kombat X##1
+489520##Minion Masters##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+6370##Bloodline Champions##0
+11610##Dragon Nest##0
+13140##America's Army 3##0
+17020##Global Agenda##0
+17080##Tribes: Ascend##0
+36620##Forsaken World ##0
+36630##Rusty Hearts##0
+38830##CrimeCraft GangWars##0
+47410##Stronghold Kingdoms##0
+51100##Tactical Intervention##0
+55130##HOMEFRONT Demo##0
+99900##Spiral Knights##0
+99910##Puzzle Pirates##0
+102700##A.V.A. Alliance of Valiant Arms™##0
+104700##Super Monday Night Combat##0
+105430##Age of Empires Online##0
+106010##Pandora Saga: Weapons of Balance##0
+107900##War Inc. Battlezone##0
+108210##Memoir '44 Online##0
+109400##MicroVolts Surge##0
+109410##Brawl Busters##0
+109600##Neverwinter##0
+113400##APB Reloaded##0
+113420##Fallen Earth##0
+113900##World of Battles##0
+200210##Realm of the Mad God Exalt##0
+201190##Magic: The Gathering – Tactics##0
+201210##Pox Nora##0
+201230##EverQuest II##0
+203290##America's Army: Proving Grounds##0
+205710##EverQuest Free-to-Play##0
+206210##Gotham City Impostors: Free To Play##0
+207230##Archeblade##0
+208030##Moon Breakers##0
+208090##Loadout##0
+209710##War of the Immortals##0
+211500##RaceRoom Racing Experience ##0
+211880##Bullet Run##0
+212070##Star Conflict##0
+212160##Vindictus##0
+212180##Combat Arms##0
+212200##Mabinogi##0
+212220##Dungeon Fighter Online##0
+212240##Atlantica Online##0
+212370##Arctic Combat##0
+212390##C9##0
+212500##The Lord of the Rings Online™##0
+212800##Super Crate Box##0
+213650##Dwarfs F2P##0
+215120##ROSE Online##0
+215870##Dungeon Party##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+219340##The Banner Saga: Factions##0
+219870##Football Superstars##0
+221080##District 187##0
+222520##Champions of Regnum##0
+224320##Uncharted Waters Online##0
+227240##Construct 2 Free##0
+230410##Warframe##0
+231060##Ragnarok Online 2##0
+234310##March of War##0
+236390##War Thunder##0
+238070##Shadow Warrior Classic (1997)##0
+238110##Arcane Saga Online##0
+238260##Pinball Arcade##0
+238960##Path of Exile##0
+240320##Panzar##0
+243870##Tom Clancy's Ghost Recon Phantoms - NA##0
+258700##Dragon Nest Europe##0
+263500##Dragons and Titans##0
+272350##Tom Clancy's Ghost Recon Phantoms - EU##0
+280620##Fiesta Online##0
+286080##Thinking with Time Machine##0
+300970##Fiesta Online NA##0
+261110##Killer is Dead##0
+222880##Insurgency##0
+286570##F1 2015##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+301520##Robocraft##0
+304930##Unturned##0
+63380##Sniper Elite V2##0
+222900##Dead Island: Epidemic##0
+200110##Nosgoth##0
+24240##PAYDAY: The Heist##0
+333930##Dirty Bomb##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+346900##AdVenture Capitalist##0
+390670##Steel Ocean##0
+399660##Battle Battalions##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+418240##Shadow Tactics: Blades of the Shogun##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+48000##LIMBO##0
+491130##Red Trigger##0
+530700##Argo##0
+554640##拯救大魔王2 Rescue the Great Demon 2##0
+616090##龙魂时刻##0
+218620##PAYDAY 2##0
+368420##Mirage: Arcane Warfare##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+43110##Metro 2033##0
+278360##A Story About My Uncle##0
+1238810##Battlefield™ V##0
+588210##HELLION##0
+628950##Nephise Begins##0
+702150##Project Mercury##0
+390710##Acceleration of SUGURI 2##0
+420740##The Deed##0
+618140##Barro##0
+@@REVIEW
+578080##Not Recommended
+108800##Recommended
+730##Recommended

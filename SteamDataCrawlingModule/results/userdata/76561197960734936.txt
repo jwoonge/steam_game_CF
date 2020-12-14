@@ -1,0 +1,369 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##53972
+8500##EVE Online##38288
+346110##ARK: Survival Evolved##10542
+359320##Elite Dangerous##9648
+220200##Kerbal Space Program##9618
+223850##3DMark##7189
+292030##The Witcher 3: Wild Hunt##6346
+220240##Far Cry® 3##5936
+1174180##Red Dead Redemption 2##5810
+12210##Grand Theft Auto IV: The Complete Edition##5502
+17450##Dragon Age: Origins##3043
+281990##Stellaris##3007
+377160##Fallout 4##2992
+200510##XCOM: Enemy Unknown##2978
+72850##The Elder Scrolls V: Skyrim##2969
+24960##Battlefield: Bad Company™ 2##2371
+223750##DCS World Steam Edition##2147
+271590##Grand Theft Auto V##2005
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##1873
+502520##Ultimate General: Civil War##1841
+251060##Wargame: Red Dragon##1772
+255710##Cities: Skylines##1754
+1190460##DEATH STRANDING##1571
+373420##Divinity: Original Sin Enhanced Edition##1494
+22380##Fallout: New Vegas##1465
+22300##Fallout 3##1334
+222750##Wargame: AirLand Battle##1326
+200050##Naval War: Arctic Circle##1216
+8930##Sid Meier's Civilization V##1199
+244210##Assetto Corsa##939
+205100##Dishonored##931
+341000##Mad Games Tycoon##880
+230230##Divinity: Original Sin (Classic)##839
+464920##Surviving Mars##815
+454530##Decisive Campaigns: Barbarossa##812
+2820##X3: Terran Conflict##780
+264710##Subnautica##780
+3920##Sid Meier's Pirates!##778
+10180##Call of Duty: Modern Warfare 2##744
+34220##Football Manager 2011##734
+446800##Transport Fever##707
+1030840##Mafia: Definitive Edition##637
+6860##Hitman: Blood Money##624
+33220##Tom Clancy's Splinter Cell: Conviction##558
+243470##Watch_Dogs##554
+21910##World in Conflict: Soviet Assault##552
+414340##Hellblade: Senua's Sacrifice##552
+1066780##Transport Fever 2##537
+99810##Bulletstorm##519
+327030##Worms W.M.D##499
+50130##Mafia II (Classic)##491
+240##Counter-Strike: Source##489
+22330##The Elder Scrolls IV: Oblivion ##464
+13230##Unreal Tournament 2004##461
+58510##Cities XL 2011##453
+815370##Green Hell##432
+314160##Microsoft Flight Simulator X: Steam Edition##425
+289070##Sid Meier's Civilization VI##425
+204100##Max Payne 3##423
+239820##Game Dev Tycoon##408
+435150##Divinity: Original Sin 2##402
+242760##The Forest##395
+8190##Just Cause 2##376
+1510##Uplink##371
+246620##Plague Inc: Evolved##357
+221100##DayZ##349
+15620##Warhammer 40,000: Dawn of War II##333
+289930##TransOcean: The Shipping Company##306
+286690##Metro 2033 Redux##279
+572410##Steel Division: Normandy 44##275
+241930##Middle-earth™: Shadow of Mordor™##265
+231670##Football Manager 2014##221
+312660##Sniper Elite 4##217
+10500##Total War: EMPIRE - Definitive Edition##215
+292180##X-Plane 10 Global - 64 Bit##206
+252950##Rocket League##204
+620##Portal 2##203
+12750##GRID##200
+7670##BioShock##195
+47870##Need for Speed: Hot Pursuit##186
+49520##Borderlands 2##180
+518790##theHunter: Call of the Wild™##180
+440##Team Fortress 2##168
+403640##Dishonored 2##165
+298050##Master of Orion##164
+225540##Just Cause 3##160
+550##Left 4 Dead 2##158
+868360##Project Hospital##157
+945360##Among Us##152
+20540##Company of Heroes: Tales of Valor##149
+619150##while True: learn()##147
+231430##Company of Heroes 2##137
+11020##TrackMania Nations Forever##135
+394360##Hearts of Iron IV##128
+298110##Far Cry 4##119
+212070##Star Conflict##113
+481190##Stable Orbit##112
+255500##Entropy##111
+552620##ATOM RPG##109
+359550##Tom Clancy's Rainbow Six Siege##108
+8870##BioShock Infinite##107
+236870##HITMAN™##107
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##106
+73010##Cities in Motion##102
+513710##SCUM##100
+501590##Bulletstorm: Full Clip Edition##98
+228360##Full Throttle Remastered##96
+9930##Test Drive Unlimited 2##91
+379430##Kingdom Come: Deliverance##91
+273070##The Last Federation##90
+43160##Metro: Last Light##90
+898920##Axis & Allies 1942 Online##89
+7650##X-COM: Terror from the Deep##85
+233450##Prison Architect##83
+704450##Neverwinter Nights: Enhanced Edition##81
+400##Portal##71
+305620##The Long Dark##71
+10680##Aliens vs. Predator##69
+202170##Sleeping Dogs™##69
+227300##Euro Truck Simulator 2##64
+245470##Democracy 3##64
+287980##Mini Metro##64
+227320##You Need A Budget 4 (YNAB)##60
+102600##Orcs Must Die!##56
+236850##Europa Universalis IV##55
+269950##X-Plane 11##52
+9340##Company of Heroes: Opposing Fronts##51
+71270##Football Manager 2012##51
+230290##Universe Sandbox##50
+387290##Ori and the Blind Forest: Definitive Edition##49
+367450##Poly Bridge##48
+98200##Frozen Synapse##46
+201810##Wolfenstein: The New Order##45
+304650##Sunless Sea##45
+493900##Dungeons 3##45
+409710##BioShock Remastered##40
+255260##Pro Cycling Manager 2014##39
+350110##TransOcean 2: Rivals##39
+360430##Mafia III: Definitive Edition##39
+319630##Life is Strange™##38
+233250##Planetary Annihilation##37
+489830##The Elder Scrolls V: Skyrim Special Edition##37
+637090##BATTLETECH##37
+630##Alien Swarm##37
+234630##Project CARS##33
+105600##Terraria##32
+12840##DiRT 2##31
+304390##For Honor##31
+377900##Empire TV Tycoon##30
+480490##Prey##29
+34000##Football Manager 2010##27
+252490##Rust##27
+17460##Mass Effect##26
+644930##They Are Billions##26
+70100##Hacker Evolution##24
+581320##Insurgency: Sandstorm##24
+500##Left 4 Dead##23
+552520##Far Cry 5##22
+254320##Duskers##21
+541210##Cold Waters##21
+33910##Arma 2##20
+379720##DOOM##20
+606880##GreedFall##20
+8850##BioShock 2##19
+730##Counter-Strike: Global Offensive##19
+291650##Pillars of Eternity##19
+617290##Remnant: From the Ashes##19
+201490##Airline Tycoon 2##18
+228280##Baldur's Gate: Enhanced Edition##17
+295270##Football Manager 2015##17
+412020##Metro Exodus##17
+24010##Train Simulator##15
+242920##Banished##15
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##14
+207610##The Walking Dead##14
+214490##Alien: Isolation##14
+33930##Arma 2: Operation Arrowhead##12
+204880##Sins of a Solar Empire: Rebellion##12
+503940##Railway Empire##12
+396750##EVERSPACE™##11
+535930##Two Point Hospital##11
+684410##Bridge Constructor Portal##11
+973760##Thronebreaker: The Witcher Tales##11
+812140##Assassin's Creed Odyssey##11
+1222730##STAR WARS™: Squadrons##11
+203810##Dear Esther##10
+507490##Ashes of the Singularity: Escalation##10
+784150##Workers & Resources: Soviet Republic##10
+1213210##Command & Conquer™ Remastered Collection##10
+228400##ACE COMBAT™ ASSAULT HORIZON Enhanced Edition##9
+271240##Offworld Trading Company##9
+304730##Train Fever##9
+50650##Darksiders II##8
+230650##Lords of Football##8
+485980##Syrian Warfare##8
+1091500##Cyberpunk 2077##8
+1280##Darkest Hour: Europe '44-'45##7
+108710##Alan Wake##7
+848310##Bitcoin Trading Master##7
+386620##Cook, Serve, Delicious! 2!!##6
+598960##Mashinky##6
+314650##SpaceEngine##5
+392110##Endless Space® 2 - Digital Deluxe Edition##5
+250460##Bridge Constructor##5
+362890##Black Mesa##4
+367500##Dragon's Dogma: Dark Arisen##4
+648350##Jurassic World Evolution##4
+17470##Dead Space##3
+40990##Mafia##3
+25890##Hearts of Iron III##3
+244030##Take On Mars##3
+437220##The Culling##3
+208140##Endless Space##2
+239030##Papers, Please##2
+281610##Homeworld: Deserts of Kharak##2
+401910##Darknet##2
+598330##SimAirport##2
+7600##Sid Meier's Railroads!##1
+22320##The Elder Scrolls III: Morrowind##1
+227260##DisplayFusion##1
+221910##The Stanley Parable##1
+276810##Mordheim: City of the Damned##1
+352720##The Universim##1
+403190##Planetbase##1
+553260##Realpolitiks##1
+773790##Ostriv##1
+823130##Totally Accurate Battlegrounds##1
+848450##Subnautica: Below Zero##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+4560##Company of Heroes - Legacy Edition##0
+228200##Company of Heroes ##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+12150##Max Payne 2: The Fall of Max Payne##0
+10480##Football Manager 2008##0
+23100##Buccaneer: The Pursuit of Infamy##0
+17410##Mirror's Edge##0
+21760##World in Conflict##0
+13570##Tom Clancy's Splinter Cell: Chaos Theory##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+2810##X3: Reunion##0
+12830##Operation Flashpoint: Dragon Rising##0
+11170##Blood Bowl: Dark Elves Edition##0
+409720##BioShock 2 Remastered##0
+33230##Assassin's Creed II##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+43110##Metro 2033##0
+16810##Sid Meier's Civilization IV: Colonization##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+1030830##Mafia II: Definitive Edition##0
+42960##Victoria II##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+21970##R.U.S.E##0
+70110##Hacker Evolution - Untold##0
+70900##Star Ruler##0
+42910##Magicka##0
+48000##LIMBO##0
+28050##Deus Ex: Human Revolution##0
+9200##RAGE##0
+201310##X3: Albion Prelude##0
+520720##Dear Esther: Landmark Edition##0
+49300##Commander: Conquest of the Americas##0
+207170##Legend of Grimrock##0
+212680##FTL: Faster Than Light##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+236390##War Thunder##0
+224580##Arma 2: DayZ Mod##0
+228760##TrackMania² Canyon##0
+220660##StarDrive##0
+1500##Darwinia##0
+1520##DEFCON##0
+1530##Multiwinia##0
+244710##Shelter 1##0
+225080##Brothers - A Tale of Two Sons##0
+218620##PAYDAY 2##0
+249590##Teslagrad##0
+242460##Football Manager 2014 Editor##0
+242480##Football Manager 2014 Resource Archiver##0
+214950##Total War: ROME II - Emperor Edition##0
+107410##Arma 3##0
+242050##Assassin's Creed IV Black Flag##0
+257350##Baldur's Gate II: Enhanced Edition##0
+267600##Airport Simulator 2014##0
+228380##Wreckfest##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+239160##Thief##0
+287630##The Council##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+236150##Starpoint Gemini 2##0
+287390##Metro: Last Light Redux##0
+244160##Homeworld Remastered Collection##0
+227700##Firefall##0
+6300##Dreamfall: The Longest Journey##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+321800##Icewind Dale: Enhanced Edition##0
+323190##Frostpunk##0
+239140##Dying Light##0
+289130##Endless Legend™ - Emperor Edition##0
+282070##This War of Mine##0
+257510##The Talos Principle##0
+344850##Big Pharma##0
+407530##ARK: Survival Of The Fittest##0
+230190##War for the Overworld##0
+348250##Google Earth VR##0
+410970##Master of Orion 1##0
+410980##Master of Orion 2##0
+410990##Master of Orion 3##0
+383870##Firewatch##0
+261570##Ori and the Blind Forest##0
+392160##X4: Foundations##0
+413150##Stardew Valley##0
+268500##XCOM 2##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+275850##No Man's Sky##0
+457140##Oxygen Not Included##0
+466500##35MM##0
+499520##The Turing Test##0
+502500##ACE COMBAT™ 7: SKIES UNKNOWN##0
+362960##Tyranny##0
+447040##Watch_Dogs 2##0
+355790##Styx: Shards of Darkness##0
+573490##Interstellar Transport Company##0
+578650##The Outer Worlds##0
+606800##Startup Company##0
+427290##Vampyr##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+690830##Foundation##0
+554620##Life is Strange: Before the Storm##0
+727130##Between the Stars##0
+736220##Post Scriptum##0
+765810##Mars Horizon##0
+700580##Rust - Staging Branch##0
+870780##Control##0
+654310##For Honor - Public Test##0
+960990##Beyond: Two Souls##0
+752590##A Plague Tale: Innocence##0
+1089840##Armored Brigade##0
+863550##HITMAN™ 2##0
+1151640##Horizon Zero Dawn##0
+1085660##Destiny 2##0
+1238810##Battlefield™ V##0
+1237970##Titanfall® 2##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+1174180##Recommended
+223750##Recommended

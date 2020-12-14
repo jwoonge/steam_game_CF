@@ -1,0 +1,255 @@
+@@GAME
+49520##Borderlands 2##12187
+397540##Borderlands 3##7388
+271590##Grand Theft Auto V##4060
+249130##LEGO® MARVEL Super Heroes##2379
+863550##HITMAN™ 2##2075
+214510##LEGO® The Lord of the Rings™##1856
+8980##Borderlands GOTY##1632
+313690##LEGO® Batman™ 3: Beyond Gotham##1540
+261640##Borderlands: The Pre-Sequel##1278
+57400##Batman: Arkham City™##1271
+40100##Supreme Commander 2##1145
+275850##No Man's Sky##710
+1091500##Cyberpunk 2077##685
+220240##Far Cry® 3##498
+224600##Defiance##468
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##323
+267530##The LEGO® Movie - Videogame##320
+47870##Need for Speed: Hot Pursuit##305
+620##Portal 2##282
+730##Counter-Strike: Global Offensive##278
+550##Left 4 Dead 2##275
+41500##Torchlight##227
+208650##Batman™: Arkham Knight##223
+203140##Hitman: Absolution##217
+440##Team Fortress 2##171
+42910##Magicka##150
+91310##Dead Island##148
+47920##Shift 2 Unleashed##144
+55230##Saints Row: The Third##143
+221380##Age of Empires II (2013)##141
+976730##Halo: The Master Chief Collection##140
+214560##Mark of the Ninja##134
+9350##Supreme Commander##133
+695290##The Golf Club™ 2019 Featuring PGA TOUR##123
+570##Dota 2##123
+400##Portal##121
+630##Alien Swarm##118
+71340##Sonic Generations##115
+238090##Sniper Elite 3##112
+21900##Tom Clancy's H.A.W.X.##106
+6860##Hitman: Blood Money##105
+265930##Goat Simulator##105
+17520##Synergy##78
+201790##Orcs Must Die! 2##71
+13210##Unreal Tournament 3: Black Edition##70
+42650##Transformers: War for Cybertron##63
+240##Counter-Strike: Source##60
+230410##Warframe##58
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##56
+220##Half-Life 2##50
+45760##Ultra Street Fighter IV##43
+33910##Arma 2##35
+233250##Planetary Annihilation##33
+24800##Command and Conquer: Red Alert 3 - Uprising##32
+50620##Darksiders##32
+729040##Borderlands GOTY Enhanced##30
+32470##STAR WARS™ Empire at War: Gold Pack##29
+813630##Supraland##28
+63380##Sniper Elite V2##26
+32500##STAR WARS™: The Force Unleashed™ II##24
+43110##Metro 2033##23
+1262540##Need for Speed™##21
+43160##Metro: Last Light##17
+1250##Killing Floor##15
+244210##Assetto Corsa##13
+204300##Awesomenauts##9
+211160##Viking: Battle for Asgard##8
+4560##Company of Heroes - Legacy Edition##8
+456780##DUCATI - 90th Anniversary##8
+9420##Supreme Commander: Forged Alliance##6
+271290##HAWKEN##6
+314150##Double Dragon Trilogy##6
+6060##Star Wars: Battlefront 2 (Classic, 2005)##5
+6000##STAR WARS™ Republic Commando##5
+200170##Worms Revolution##5
+237110##Mortal Kombat Komplete Edition##4
+20900##The Witcher: Enhanced Edition##3
+290790##Grey Goo##3
+32370##STAR WARS™: Knights of the Old Republic™##2
+213120##Transformers: Fall of Cybertron##1
+224580##Arma 2: DayZ Mod##1
+31280##Poker Night at the Inventory##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+3920##Sid Meier's Pirates!##0
+6850##Hitman 2: Silent Assassin##0
+6900##Hitman: Codename 47##0
+2590##Alpha Prime##0
+10500##Total War: EMPIRE - Definitive Edition##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+32400##STAR WARS™: Dark Forces##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+500##Left 4 Dead##0
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+17410##Mirror's Edge##0
+70300##VVVVVV##0
+21130##LEGO® Harry Potter: Years 1-4##0
+21000##LEGO® Batman™: The Videogame##0
+50300##Spec Ops: The Line##0
+55100##Homefront##0
+22000##World of Goo##0
+200260##Batman: Arkham City GOTY##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+3830##Psychonauts##0
+65730##Take On Helicopters##0
+67370##The Darkness II##0
+22380##Fallout: New Vegas##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+207610##The Walking Dead##0
+104900##ORION: Prelude##0
+108800##Crysis 2 Maximum Edition##0
+204120##LEGO® Harry Potter: Years 5-7##0
+213330##LEGO® Batman™ 2: DC Super Heroes##0
+204360##Castle Crashers##0
+65740##Carrier Command: Gaea Mission##0
+205790##Dota 2 Test##0
+57690##Tropico 4##0
+4920##Natural Selection 2##0
+219950##NiGHTS into Dreams...##0
+219740##Don't Starve##0
+322330##Don't Starve Together##0
+221640##Super Hexagon##0
+205930##Hitman: Sniper Challenge##0
+223470##POSTAL 2##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+55110##Red Faction: Armageddon##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+71230##Crazy Taxi##0
+71240##SEGA Bass Fishing##0
+71250##Sonic Adventure DX##0
+71260##Space Channel 5: Part 2##0
+205950##Jet Set Radio##0
+225260##Brütal Legend##0
+207000##Alien Spidy##0
+3910##Sid Meier's Civilization III: Complete##0
+31100##Wallace & Gromit Ep 1: Fright of the Bumblebees##0
+31110##Wallace & Gromit Ep 2: The Last Resort##0
+31120##Wallace & Gromit Ep 3: Muzzled!##0
+31130##Wallace & Gromit Ep 4: The Bogey Man##0
+31220##Sam & Max 301: The Penal Zone##0
+31230##Sam & Max 302: The Tomb of Sammun-Mak##0
+31240##Sam & Max 303: They Stole Max's Brain!##0
+31250##Sam & Max 304: Beyond the Alley of the Dolls##0
+31260##Sam & Max 305: The City that Dares not Sleep##0
+31270##Puzzle Agent##0
+31290##Back to the Future: Ep 1 - It's About Time##0
+94500##Back to the Future: Ep 2 - Get Tannen!##0
+94510##Back to the Future: Ep 3 - Citizen Brown##0
+94520##Back to the Future: Ep 4 - Double Visions##0
+94530##Back to the Future: Ep 5 - OUTATIME##0
+94590##Puzzle Agent 2##0
+94600##Hector: Ep 1##0
+94610##Hector: Ep 2##0
+94620##Hector: Ep 3##0
+236850##Europa Universalis IV##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+225080##Brothers - A Tale of Two Sons##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+224860##Arma Tactics##0
+257170##Rebuild 3: Gangs of Deadsville##0
+39650##The Guild II##0
+39690##ArcaniA##0
+50650##Darksiders II##0
+65530##SpellForce 2 - Faith in Destiny##0
+214870##Painkiller Hell & Damnation##0
+950670##Gothic Playable Teaser##0
+212480##Sonic & All-Stars Racing Transformed Collection##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+237950##UFO: Afterlight##0
+232790##Broken Age##0
+65780##Arma: Gold Edition##0
+277430##Halo: Spartan Assault##0
+227100##Sniper Elite: Nazi Zombie Army##0
+247910##Sniper Elite: Nazi Zombie Army 2##0
+231430##Company of Heroes 2##0
+290510##GNOG##0
+304530##Agents of Mayhem##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+233270##Far Cry® 3 Blood Dragon##0
+312840##Fahrenheit: Indigo Prophecy Remastered##0
+316610##A Good Snowman Is Hard To Build##0
+322500##SUPERHOT##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+327140##Tilt Brush##0
+356570##Party Hard##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+365450##Hacknet##0
+367520##Hollow Knight##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+209000##Batman™: Arkham Origins##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+388410##Darksiders II Deathinitive Edition##0
+391540##Undertale##0
+329380##Stealth Inc 2##0
+397460##The Jackbox Party Pack 2##0
+405830##Turok 2: Seeds of Evil##0
+210970##The Witness##0
+443810##This Is the Police##0
+445980##Wizard of Legend##0
+447780##LostWinds##0
+468670##Speed Brawl##0
+508440##Totally Accurate Battle Simulator##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+570050##Raiden V: Director's Cut##0
+572890##Pikuniku##0
+578330##LEGO® City Undercover##0
+578720##A Mortician's Tale##0
+590380##Into the Breach##0
+332310##LEGO® Worlds##0
+623940##HIVESWAP: ACT 1##0
+638200##Capitalism 2##0
+664830##Zombotron##0
+674940##Stick Fight: The Game##0
+683320##GRIS##0
+718650##Driftland: The Magic Revival##0
+726590##NBA 2K Playgrounds 2##0
+757300##Truberbrook##0
+785740##This Is the Police 2##0
+204880##Sins of a Solar Empire: Rebellion##0
+308600##Geneshift##0
+843260##The Bard's Tale Trilogy##0
+1091980##The Bard's Tale IV: Director's Cut##0
+1089350##NBA 2K20##0
+203160##Tomb Raider##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW

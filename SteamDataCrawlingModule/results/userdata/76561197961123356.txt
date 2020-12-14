@@ -1,0 +1,133 @@
+@@GAME
+730##Counter-Strike: Global Offensive##105892
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##77299
+252950##Rocket League##61172
+433850##Z1 Battle Royale##49097
+381210##Dead by Daylight##46999
+211820##Starbound##32483
+10##Counter-Strike##28916
+570##Dota 2##13003
+271590##Grand Theft Auto V##7255
+252490##Rust##4370
+359550##Tom Clancy's Rainbow Six Siege##1577
+291550##Brawlhalla##1526
+611500##Quake Champions##837
+466240##Deceit##787
+438100##VRChat##782
+220##Half-Life 2##625
+304050##Trove##605
+240##Counter-Strike: Source##488
+218620##PAYDAY 2##488
+397900##Business Tour - Online Multiplayer Board Game##463
+460920##Steep##437
+448470##Bacteria##309
+252850##Streamline##299
+375010##Energy Balance##243
+415960##Energy Cycle##229
+297020##The Culling Of The Cows##227
+485730##Shift##213
+301520##Robocraft##210
+440##Team Fortress 2##198
+512640##Final Quest##194
+320##Half-Life 2: Deathmatch##181
+451880##Catch a Falling Star##176
+30##Day of Defeat##174
+495890##Montaro##171
+454890##Project Starship##168
+399790##Destiny Warriors##162
+50##Half-Life: Opposing Force##157
+60##Ricochet##156
+70##Half-Life##156
+20##Team Fortress Classic##155
+40##Deathmatch Classic##149
+130##Half-Life: Blue Shift##148
+429470##Space Pilgrim Episode I: Alpha Centauri##146
+434210##It's Spring Again##140
+367580##Hook##139
+236870##HITMAN™##136
+259550##Hero of the Kingdom##135
+502140##Drayt Empire##135
+463220##Dungeon of Zolthan##131
+340##Half-Life 2: Lost Coast##105
+506540##Last Man Standing##91
+402570##Atlas Reactor##64
+495910##Dungeon Fighter Online##43
+544920##Darwin Project##35
+386180##Crossout##34
+238960##Path of Exile##28
+8500##EVE Online##22
+578310##BRAIN / OUT##22
+310380##Fractured Space##20
+230410##Warframe##14
+884660##CRSED##11
+331360##Heavy Metal Machines##10
+530700##Argo##8
+9480##Saints Row 2##8
+444090##Paladins##7
+616220##Hide vs. Seek##6
+823130##Totally Accurate Battlegrounds##5
+326360##Warspear Online##4
+596940##Hide and Seek##4
+365450##Hacknet##3
+218510##Planets Under Attack##1
+271550##Tribloos 2##1
+271570##Space Farmers##1
+351030##Pixel Puzzles Ultimate##1
+326110##Defenders of the Last Colony##1
+361600##Luna Sky##1
+431220##Porradaria 2: Pagode of the Night##1
+539730##True Sight##1
+542972##True Sight: Episode 3##1
+588430##Fallout Shelter##1
+492630##Bear With Me##1
+201700##DiRT Showdown##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+3910##Sid Meier's Civilization III: Complete##0
+700580##Rust - Staging Branch##0
+367540##Starbound - Unstable##0
+302730##Namariel Legends: Iron Lord Premium Edition##0
+354500##PAYDAY: The Web Series##0
+354510##PAYDAY: The Web Series: The Vault##0
+354520##PAYDAY: The Web Series: Hector##0
+354530##PAYDAY: The Web Series: The Elephant##0
+354540##PAYDAY: The Web Series: Greta: The Assassin##0
+354550##PAYDAY: The Web Series: Vlad & Gage##0
+494710##PAYDAY: The Web Series: First World Bank##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+@@REVIEW
+730##Not Recommended

@@ -1,0 +1,29 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+550##Left 4 Dead 2##0
+400##Portal##0
+620##Portal 2##0
+230410##Warframe##0
+236390##War Thunder##0
+313120##Stranded Deep##0
+292030##The Witcher 3: Wild Hunt##0
+400940##Budget Cuts##0
+244930##SNOW##0
+310380##Fractured Space##0
+530700##Argo##0
+550650##Black Squad##0
+555160##Pavlov VR##0
+555450##Deus Ex: Breach™##0
+252950##Rocket League##0
+386180##Crossout##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+884660##CRSED##0
+@@REVIEW

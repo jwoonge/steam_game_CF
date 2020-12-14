@@ -1,0 +1,130 @@
+@@GAME
+440##Team Fortress 2##259622
+346110##ARK: Survival Evolved##145751
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##34404
+24960##Battlefield: Bad Company™ 2##29782
+295110##Just Survive##27582
+221380##Age of Empires II (2013)##22123
+250820##SteamVR##12868
+550##Left 4 Dead 2##9584
+433850##Z1 Battle Royale##8350
+500##Left 4 Dead##7101
+49520##Borderlands 2##4382
+286160##Tabletop Simulator##4269
+841370##NBA 2K19##4177
+4920##Natural Selection 2##3228
+386360##SMITE##3070
+271590##Grand Theft Auto V##2872
+239140##Dying Light##2501
+570##Dota 2##2057
+548430##Deep Rock Galactic##1643
+730##Counter-Strike: Global Offensive##1613
+232090##Killing Floor 2##1524
+1250##Killing Floor##1266
+261640##Borderlands: The Pre-Sequel##1257
+1097150##Fall Guys: Ultimate Knockout##1235
+365590##Tom Clancy's The Division##1039
+460930##Tom Clancy's Ghost Recon® Wildlands##904
+620##Portal 2##864
+70##Half-Life##842
+10##Counter-Strike##830
+739630##Phasmophobia##807
+220##Half-Life 2##633
+1172620##Sea of Thieves##582
+431240##Golf With Your Friends##564
+238960##Path of Exile##547
+252950##Rocket League##544
+235800##Audiosurf 2##439
+57400##Batman: Arkham City™##383
+8930##Sid Meier's Civilization V##368
+945360##Among Us##361
+381210##Dead by Daylight##356
+976730##Halo: The Master Chief Collection##354
+8870##BioShock Infinite##342
+43110##Metro 2033##337
+7670##BioShock##322
+265630##Fistful of Frags##272
+24860##Battlefield 2##259
+582010##Monster Hunter: World##253
+39120##RIFT##252
+400##Portal##226
+546560##Half-Life: Alyx##224
+648800##Raft##211
+380##Half-Life 2: Episode One##186
+630##Alien Swarm##174
+222880##Insurgency##162
+31280##Poker Night at the Inventory##155
+12900##Audiosurf##118
+21090##F.E.A.R.##108
+444090##Paladins##101
+240##Counter-Strike: Source##85
+305620##The Long Dark##84
+4000##Garry's Mod##82
+20900##The Witcher: Enhanced Edition##82
+377160##Fallout 4##81
+255480##NBA 2K14##74
+367450##Poly Bridge##74
+41070##Serious Sam 3: BFE##72
+20##Team Fortress Classic##68
+72850##The Elder Scrolls V: Skyrim##60
+22370##Fallout 3 - Game of the Year Edition##57
+638230##Journey##57
+420##Half-Life 2: Episode Two##44
+322330##Don't Starve Together##43
+513710##SCUM##38
+105600##Terraria##34
+221810##The Cave##32
+407530##ARK: Survival Of The Fittest##32
+413150##Stardew Valley##31
+17700##Insurgency: Modern Infantry Combat##31
+620980##Beat Saber##29
+63380##Sniper Elite V2##28
+275850##No Man's Sky##23
+236390##War Thunder##17
+374320##DARK SOULS™ III##16
+48700##Mount & Blade: Warband##15
+236110##Dungeon Defenders II##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+22380##Fallout: New Vegas##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+200260##Batman: Arkham City GOTY##0
+564310##Serious Sam Fusion 2017 (beta)##0
+2400##The Ship##0
+2420##The Ship Single Player##0
+2430##The Ship Tutorial##0
+22100##Mount & Blade##0
+48720##Mount & Blade: With Fire and Sword##0
+8850##BioShock 2##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+205790##Dota 2 Test##0
+209190##Stealth Bastard Deluxe##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+219740##Don't Starve##0
+242760##The Forest##0
+233190##Final Exam##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+232150##Killing Floor 2 - SDK##0
+858460##SMITE - Public Test##0
+437220##The Culling##0
+596350##Paladins - Public Test##0
+524440##Tom Clancy's The Division PTS##0
+48000##LIMBO##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+611670##The Elder Scrolls V: Skyrim VR##0
+966330##Flower##0
+466240##Deceit##0
+1172470##Apex Legends##0
+@@REVIEW

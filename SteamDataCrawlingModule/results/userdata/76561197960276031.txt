@@ -1,0 +1,67 @@
+@@GAME
+730##Counter-Strike: Global Offensive##228260
+570##Dota 2##18139
+271590##Grand Theft Auto V##14646
+295110##Just Survive##14636
+107410##Arma 3##12016
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##9351
+433850##Z1 Battle Royale##9275
+252950##Rocket League##4426
+10##Counter-Strike##1258
+381210##Dead by Daylight##949
+555570##Infestation: The New Z##904
+976730##Halo: The Master Chief Collection##687
+333930##Dirty Bomb##429
+200170##Worms Revolution##400
+359550##Tom Clancy's Rainbow Six Siege##334
+436150##Governor of Poker 3##268
+1016920##Unrailed!##261
+884660##CRSED##230
+33930##Arma 2: Operation Arrowhead##176
+813820##Realm Royale##153
+334230##Town of Salem##150
+550##Left 4 Dead 2##134
+440##Team Fortress 2##106
+550650##Black Squad##97
+291550##Brawlhalla##77
+230410##Warframe##76
+202990##Call of Duty: Black Ops II - Multiplayer##71
+504370##Battlerite##61
+222880##Insurgency##55
+945360##Among Us##50
+212910##Call of Duty: Black Ops II - Zombies##41
+362300##Just Survive Test Server##20
+47870##Need for Speed: Hot Pursuit##19
+766570##Russian Fishing 4##18
+714010##Aim Lab##17
+218620##PAYDAY 2##6
+33910##Arma 2##1
+268850##EVGA Precision X1##1
+479130##ESEA##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+202970##Call of Duty: Black Ops II##0
+242720##GunZ 2: The Second Duel##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+439700##H1Z1: Test Server##0
+205790##Dota 2 Test##0
+339610##FreeStyle 2: Street Basketball##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+427460##Battlerite Public Test##0
+878760##Realm Royale - Test Server##0
+1225330##NBA 2K21##0
+@@REVIEW
+730##Recommended
+271590##Recommended

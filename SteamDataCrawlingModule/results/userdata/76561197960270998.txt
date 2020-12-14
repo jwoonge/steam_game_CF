@@ -1,0 +1,26 @@
+@@GAME
+10##Counter-Strike##9997
+240##Counter-Strike: Source##3392
+620##Portal 2##3051
+730##Counter-Strike: Global Offensive##2201
+400##Portal##262
+550##Left 4 Dead 2##116
+363440##Mega Man Legacy Collection##78
+220##Half-Life 2##33
+440##Team Fortress 2##26
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+@@REVIEW

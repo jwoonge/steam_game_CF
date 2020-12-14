@@ -1,0 +1,160 @@
+@@GAME
+346110##ARK: Survival Evolved##18726
+413150##Stardew Valley##12006
+367500##Dragon's Dogma: Dark Arisen##8825
+250820##SteamVR##7053
+251570##7 Days to Die##7033
+239140##Dying Light##5396
+637650##FINAL FANTASY XV WINDOWS EDITION##4109
+730##Counter-Strike: Global Offensive##2546
+337000##Deus Ex: Mankind Divided™##2431
+666140##My Time At Portia##2416
+646570##Slay the Spire##1722
+91310##Dead Island##1716
+319630##Life is Strange™##1705
+216250##Dead Island Riptide##1676
+346940##Shadowrun: Hong Kong - Extended Edition##1644
+292120##FINAL FANTASY XIII##1384
+213670##South Park™: The Stick of Truth™##1337
+24960##Battlefield: Bad Company™ 2##1233
+606150##Moonlighter##1194
+240##Counter-Strike: Source##1158
+620##Portal 2##1108
+234650##Shadowrun Returns##1032
+450390##The Lab##900
+210970##The Witness##700
+638970##Yakuza 0##645
+485000##Cthulhu Realms##611
+300550##Shadowrun: Dragonfall - Director's Cut##574
+448280##Job Simulator##524
+200710##Torchlight II##510
+317400##Portal Stories: Mel##494
+241930##Middle-earth™: Shadow of Mordor™##442
+468700##NVIDIA® VR Funhouse##434
+296970##Renowned Explorers: International Society##426
+418650##Space Pirate Trainer##408
+223850##3DMark##379
+41070##Serious Sam 3: BFE##374
+500##Left 4 Dead##352
+522020##Blue Effect VR##340
+1222700##A Way Out##316
+359310##Evoland 2##292
+341800##Keep Talking and Nobody Explodes##277
+49520##Borderlands 2##251
+298630##The Escapists##243
+244850##Space Engineers##215
+70##Half-Life##212
+105600##Terraria##212
+435400##Hidden Folks##208
+517160##Richie's Plank Experience##199
+552500##Warhammer: Vermintide 2##184
+214490##Alien: Isolation##159
+386690##Fantastic Contraption##154
+109600##Neverwinter##143
+368230##Kingdom: Classic##128
+274190##Broforce##104
+410390##Warhammer: Vermintide VR - Hero Trials##93
+301520##Robocraft##91
+110800##L.A. Noire##90
+362890##Black Mesa##85
+518580##Accounting##83
+302510##Ryse: Son of Rome##76
+327890##I am Bread##76
+617830##SUPERHOT VR##76
+270850##Car Mechanic Simulator 2014##75
+350640##Sherlock Holmes: The Devil's Daughter##68
+232090##Killing Floor 2##67
+385760##NBA 2K17##66
+530960##ROM: Extraction##63
+313630##The Solus Project##60
+498600##MSI Electric City##49
+348250##Google Earth VR##45
+218230##PlanetSide 2##44
+952440##OVERKILL's The Walking Dead - BETA##43
+471710##Rec Room##41
+220##Half-Life 2##40
+329860##Catlateral Damage##38
+268870##Satellite Reign##37
+327140##Tilt Brush##36
+232790##Broken Age##33
+57690##Tropico 4##31
+326410##Windward##31
+497820##Quanero##31
+440##Team Fortress 2##29
+322500##SUPERHOT##27
+239160##Thief##20
+55150##Warhammer 40,000: Space Marine##19
+501470##Hold the door!##19
+252490##Rust##18
+252950##Rocket League##18
+524030##Machine Learning: Episode I##18
+460850##Allumette##17
+268850##EVGA Precision X1##12
+292910##Deponia: The Complete Journey##11
+381120##Shoppe Keep##7
+246620##Plague Inc: Evolved##4
+236390##War Thunder##3
+365770##Volume##3
+8980##Borderlands GOTY##2
+444220##Asteroid Bounty Hunter##2
+499520##The Turing Test##2
+564310##Serious Sam Fusion 2017 (beta)##1
+289690##Lara Croft and the Temple of Osiris##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+29720##Guild Wars##0
+729040##Borderlands GOTY Enhanced##0
+400##Portal##0
+35460##The Ball##0
+204880##Sins of a Solar Empire: Rebellion##0
+214510##LEGO® The Lord of the Rings™##0
+1083500##PlanetSide 2 - Test##0
+271290##HAWKEN##0
+239220##The Mighty Quest For Epic Loot##0
+44350##GRID 2##0
+35720##Trine 2##0
+700580##Rust - Staging Branch##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+226840##Age of Wonders III##0
+278360##A Story About My Uncle##0
+284240##Maize##0
+313810##Legend of Kay Anniversary##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+238320##Outlast##0
+332500##GRAV##0
+407530##ARK: Survival Of The Fittest##0
+291650##Pillars of Eternity##0
+1020470##Evoland Legendary Edition##0
+359580##Uncanny Valley##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+232150##Killing Floor 2 - SDK##0
+436820##Waltz of the Wizard##0
+396030##InCell VR##0
+446770##Skeet: VR Target Shooting##0
+448710##VirZOOM Arcade##0
+453190##PITCH-HIT : DEMO##0
+455440##Spell Fighter VR##0
+469990##NEKOPALIVE##0
+482390##The Night Cafe##0
+499540##Wake Up##0
+501180##Acan's Call: Act 1##0
+513150##Daylight's End VR Edition##0
+515020##The VR Museum of Fine Art##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+758330##Shenmue I & II##0
+737800##F1 2018##0
+1085660##Destiny 2##0
+209630##Magrunner: Dark Pulse##0
+@@REVIEW
+337000##Recommended

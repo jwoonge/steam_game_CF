@@ -1,0 +1,207 @@
+@@GAME
+730##Counter-Strike: Global Offensive##202449
+4000##Garry's Mod##98161
+440##Team Fortress 2##42614
+250820##SteamVR##32389
+10##Counter-Strike##31277
+365590##Tom Clancy's The Division##8796
+304930##Unturned##8542
+295110##Just Survive##7467
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##6646
+300##Day of Defeat: Source##5777
+813820##Realm Royale##5227
+359550##Tom Clancy's Rainbow Six Siege##3704
+236110##Dungeon Defenders II##3413
+466560##Northgard##2746
+240##Counter-Strike: Source##2600
+232090##Killing Floor 2##2150
+648800##Raft##1805
+307880##Savage Lands##1540
+9420##Supreme Commander: Forged Alliance##1319
+271590##Grand Theft Auto V##1059
+555160##Pavlov VR##958
+252490##Rust##942
+1101190##Dungeon Defenders: Awakened##647
+225840##Sven Co-op##498
+257350##Baldur's Gate II: Enhanced Edition##475
+346110##ARK: Survival Evolved##420
+221380##Age of Empires II (2013)##409
+546560##Half-Life: Alyx##348
+239140##Dying Light##339
+457550##Bigscreen Beta##319
+366440##Savage Resurrection##301
+502820##Batman™: Arkham VR##218
+447820##Day of Infamy##165
+434570##Blood and Bacon##163
+224600##Defiance##146
+9350##Supreme Commander##100
+471710##Rec Room##97
+797470##METAL GEAR SURVIVE BETA##91
+109600##Neverwinter##87
+238960##Path of Exile##84
+342180##Arizona Sunshine##78
+976730##Halo: The Master Chief Collection##76
+427520##Factorio##69
+563560##Alien Swarm: Reactive Drop##65
+438100##VRChat##63
+222900##Dead Island: Epidemic##53
+469610##Rick and Morty: Virtual Rick-ality##53
+265630##Fistful of Frags##47
+203290##America's Army: Proving Grounds##45
+436150##Governor of Poker 3##45
+823130##Totally Accurate Battlegrounds##44
+47410##Stronghold Kingdoms##43
+48000##LIMBO##42
+17520##Synergy##39
+346900##AdVenture Capitalist##36
+755790##Ring of Elysium##35
+233250##Planetary Annihilation##27
+314010##Boid##24
+222880##Insurgency##21
+227940##Heroes & Generals##19
+211##Source SDK##19
+9010##Return to Castle Wolfenstein##18
+40100##Supreme Commander 2##17
+212480##Sonic & All-Stars Racing Transformed Collection##15
+945360##Among Us##15
+433850##Z1 Battle Royale##14
+333930##Dirty Bomb##13
+10090##Call of Duty: World at War##11
+236390##War Thunder##10
+327640##CaesarIA##10
+515040##Make America Great Again: The Trump Presidency##9
+598660##Plevr##9
+366870##Narcosis##8
+787790##Epic Roller Coasters##8
+444090##Paladins##7
+479130##ESEA##5
+232150##Killing Floor 2 - SDK##4
+735850##Trailer Park Boys: Greasy Money##2
+70##Half-Life##1
+389570##Mitos.is: The Game##1
+623990##Tom Clancy's Rainbow Six Siege - Test Server##1
+539640##Racecar.io##1
+1046930##Dota Underlords##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+2320##Quake II##0
+15620##Warhammer 40,000: Dawn of War II##0
+21680##Bionic Commando Rearmed##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+32400##STAR WARS™: Dark Forces##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+17450##Dragon Age: Origins##0
+42960##Victoria II##0
+70300##VVVVVV##0
+42910##Magicka##0
+40800##Super Meat Boy##0
+22000##World of Goo##0
+42160##War of the Roses##0
+206980##War of the Roses Balance Beta##0
+46500##Syberia##0
+65300##Dustforce##0
+203210##Titan Attacks##0
+115110##Stacking##0
+209370##Analogue: A Hate Story##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+94300##The Dream Machine##0
+40330##Secret Files: Tunguska##0
+33600##Broken Sword 2 - the Smoking Mirror: Remastered##0
+72000##Closure##0
+203140##Hitman: Absolution##0
+219950##NiGHTS into Dreams...##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+71230##Crazy Taxi##0
+71240##SEGA Bass Fishing##0
+71250##Sonic Adventure DX##0
+71260##Space Channel 5: Part 2##0
+205950##Jet Set Radio##0
+228260##Fallen Enchantress: Legendary Heroes##0
+51100##Tactical Intervention##0
+113400##APB Reloaded##0
+204240##The Bridge##0
+227480##God Mode##0
+57640##Broken Sword 1 - Shadow of the Templars: Director's Cut##0
+233980##Unepic##0
+18490##The Whispered World##0
+268540##The Whispered World Special Edition##0
+231740##Knights of Pen and Paper +1##0
+95000##Super Splatters##0
+245150##The Novelist##0
+218820##Mercenary Kings##0
+247020##Cook, Serve, Delicious!##0
+226720##Lost Planet 3##0
+219640##Chivalry: Medieval Warfare##0
+251430##The Inner World##0
+251870##Go! Go! Nippon! ~My First Trip to Japan~##0
+251990##Long Live The Queen##0
+700580##Rust - Staging Branch##0
+253030##Race The Sun##0
+255220##GRID Autosport##0
+247000##Talisman: Digital Edition##0
+235980##Tetrobot and Co.##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+262150##Vanguard Princess##0
+258090##99 Spirits##0
+262300##Tsukumogami##0
+264140##Pixel Piracy##0
+269210##Hero Siege##0
+270310##Dominique Pamplemousse##0
+272600##Detective Grimoire##0
+273110##Counter-Strike Nexon: Studio##0
+274310##Always Sometimes Monsters##0
+257970##Loren The Amazon Princess##0
+235210##Strider##0
+286340##FarSky##0
+231430##Company of Heroes 2##0
+261510##Tesla Effect##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+302310##Dungeon of Elements##0
+95400##ibb & obb##0
+310080##Hatoful Boyfriend##0
+244630##NEOTOKYO°##0
+316480##Shadow Puppeteer##0
+316600##QP Shooting - Dangerous!!##0
+317710##Velocibox##0
+320400##Magnifico##0
+305050##Outland##0
+327380##Pirates! Gold Plus (Classic)##0
+328920##F-117A Nighthawk Stealth Fighter 2.0##0
+329630##Command HQ##0
+329650##NAM##0
+215470##Primal Carnage##0
+235620##Small World##0
+407530##ARK: Survival Of The Fittest##0
+349580##Burstfire##0
+349680##Supercharged Robot VULKAISER##0
+287290##Resident Evil Revelations 2##0
+47780##Dead Space 2##0
+524440##Tom Clancy's The Division PTS##0
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##0
+386990##Asphyxia##0
+620##Portal 2##0
+596350##Paladins - Public Test##0
+402570##Atlas Reactor##0
+324810##TOXIKK##0
+550040##Steep Open Beta##0
+578620##GORN##0
+9480##Saints Row 2##0
+230190##War for the Overworld##0
+878760##Realm Royale - Test Server##0
+@@REVIEW
+578080##Not Recommended
+813820##Not Recommended
+444090##Not Recommended
+359550##Not Recommended
+730##Recommended
+440##Recommended

@@ -1,0 +1,107 @@
+@@GAME
+440##Team Fortress 2##17212
+4920##Natural Selection 2##10342
+72850##The Elder Scrolls V: Skyrim##9033
+49520##Borderlands 2##8866
+56400##Warhammer 40,000: Dawn of War II - Retribution##8786
+64000##Men of War: Assault Squad##7724
+214950##Total War: ROME II - Emperor Edition##7174
+220240##Far Cry® 3##6338
+292030##The Witcher 3: Wild Hunt##5217
+377160##Fallout 4##3602
+8870##BioShock Infinite##3380
+8930##Sid Meier's Civilization V##3254
+268500##XCOM 2##3190
+10500##Total War: EMPIRE - Definitive Edition##3162
+1145360##Hades##2821
+264710##Subnautica##2752
+218620##PAYDAY 2##2449
+12210##Grand Theft Auto IV: The Complete Edition##2361
+250820##SteamVR##2269
+201870##Assassin's Creed Revelations##2074
+261640##Borderlands: The Pre-Sequel##1996
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##1913
+637090##BATTLETECH##1773
+239140##Dying Light##1769
+9450##Warhammer 40,000: Dawn of War - Soulstorm##1745
+782330##DOOM Eternal##1735
+22380##Fallout: New Vegas##1722
+480490##Prey##1554
+33230##Assassin's Creed II##1424
+40100##Supreme Commander 2##1298
+55150##Warhammer 40,000: Space Marine##1272
+17410##Mirror's Edge##1254
+9420##Supreme Commander: Forged Alliance##1190
+379720##DOOM##1027
+47780##Dead Space 2##1006
+963930##Contractors VR##999
+237930##Transistor##972
+524220##NieR:Automata™##941
+612880##Wolfenstein II: The New Colossus##938
+15100##Assassin's Creed##920
+400##Portal##912
+201810##Wolfenstein: The New Order##749
+546560##Half-Life: Alyx##698
+753640##Outer Wilds##649
+220##Half-Life 2##621
+620##Portal 2##595
+420##Half-Life 2: Episode Two##584
+228880##Ashes of the Singularity: Classic##549
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##529
+8850##BioShock 2##506
+17300##Crysis##492
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##470
+271290##HAWKEN##464
+9310##Warhammer 40,000: Dawn of War - Winter Assault##446
+311290##SpellForce 3##446
+289650##Assassin's Creed Unity##442
+17710##Nuclear Dawn##439
+848450##Subnautica: Below Zero##406
+228300##Remember Me##401
+507490##Ashes of the Singularity: Escalation##395
+13530##Prince of Persia: The Two Thrones##389
+460950##Katana ZERO##350
+17330##Crysis Warhead##338
+233270##Far Cry® 3 Blood Dragon##308
+380##Half-Life 2: Episode One##254
+33460##From Dust##227
+307670##Hard West##220
+617830##SUPERHOT VR##218
+214560##Mark of the Ninja##175
+281610##Homeworld: Deserts of Kharak##167
+244450##Men of War: Assault Squad 2##156
+368500##Assassin's Creed Syndicate##148
+115320##PROTOTYPE 2##134
+240##Counter-Strike: Source##129
+644930##They Are Billions##124
+230270##N++##114
+310790##Geometry Wars 3: Dimensions Evolved##108
+15620##Warhammer 40,000: Dawn of War II##87
+48190##Assassin's Creed Brotherhood##86
+611670##The Elder Scrolls V: Skyrim VR##74
+17340##Crysis Wars##69
+300##Day of Defeat: Source##36
+13520##Far Cry##25
+238210##System Shock 2##24
+323580##Jotun: Valhalla Edition##17
+24780##SimCity 4 Deluxe##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+3970##Prey##0
+6860##Hitman: Blood Money##0
+360##Half-Life Deathmatch: Source##0
+409720##BioShock 2 Remastered##0
+860950##Mark of the Ninja: Remastered##0
+19900##Far Cry 2##0
+1416260##SpellForce 3: Versus Edition##0
+741820##Prey: Typhon Hunter##0
+@@REVIEW
+1145360##Recommended

@@ -1,0 +1,60 @@
+@@GAME
+34220##Football Manager 2011##96573
+730##Counter-Strike: Global Offensive##92085
+34000##Football Manager 2010##61660
+71270##Football Manager 2012##56037
+10##Counter-Strike##18792
+295270##Football Manager 2015##17601
+231670##Football Manager 2014##16006
+378120##Football Manager 2016##9199
+22350##BRINK##3276
+482730##Football Manager 2017##2491
+595420##Franchise Hockey Manager 4##2163
+255710##Cities: Skylines##1552
+872790##Football Manager 2019##1492
+365590##Tom Clancy's The Division##1244
+460930##Tom Clancy's Ghost Recon® Wildlands##1034
+356190##Middle-earth™: Shadow of War™##749
+440##Team Fortress 2##731
+359550##Tom Clancy's Rainbow Six Siege##586
+232090##Killing Floor 2##579
+364360##Total War: WARHAMMER##472
+56400##Warhammer 40,000: Dawn of War II - Retribution##350
+493340##Planet Coaster##325
+594570##Total War: WARHAMMER II##308
+270880##American Truck Simulator##307
+219640##Chivalry: Medieval Warfare##270
+1250##Killing Floor##267
+492720##Tropico 6##138
+223670##F1 2013##126
+299890##Franchise Hockey Manager 2014##102
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##90
+345890##NASCAR '15 Victory Edition##83
+11020##TrackMania Nations Forever##80
+105450##Age of Empires® III (2007)##56
+15120##Tom Clancy's Rainbow Six: Vegas 2##39
+12110##Grand Theft Auto: Vice City##38
+333830##Franchise Hockey Manager 2##35
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+205790##Dota 2 Test##0
+12240##Grand Theft Auto: Vice City##0
+15620##Warhammer 40,000: Dawn of War II##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+242460##Football Manager 2014 Editor##0
+242480##Football Manager 2014 Resource Archiver##0
+333930##Dirty Bomb##0
+244210##Assetto Corsa##0
+232150##Killing Floor 2 - SDK##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+524440##Tom Clancy's The Division PTS##0
+273350##Evolve Stage 2##0
+482750##Football Manager Touch 2017##0
+872820##Football Manager 2019 Touch##0
+@@REVIEW

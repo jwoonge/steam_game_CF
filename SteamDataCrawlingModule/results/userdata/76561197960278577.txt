@@ -1,0 +1,91 @@
+@@GAME
+570##Dota 2##284246
+730##Counter-Strike: Global Offensive##93106
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##29029
+295110##Just Survive##7880
+39140##FINAL FANTASY VII##4464
+238960##Path of Exile##3677
+1046930##Dota Underlords##3279
+311690##Enter the Gungeon##2478
+49520##Borderlands 2##1898
+312530##Duck Game##1580
+241600##Rogue Legacy##1403
+240##Counter-Strike: Source##1223
+252490##Rust##1062
+105600##Terraria##842
+207140##SpeedRunners##756
+217200##Worms Armageddon##709
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##694
+247730##Nether##672
+440##Team Fortress 2##650
+326460##ShellShock Live##641
+7670##BioShock##601
+268910##Cuphead##564
+431240##Golf With Your Friends##482
+433850##Z1 Battle Royale##407
+47800##RISK Factions##362
+323850##Move or Die##318
+511800##ONRAID##218
+382070##Neoncube##216
+219740##Don't Starve##189
+326410##Windward##172
+381210##Dead by Daylight##167
+293260##Card Hunter##161
+437920##Tricky Towers##127
+550##Left 4 Dead 2##119
+385710##INK##116
+312720##Khet 2.0##113
+204360##Castle Crashers##101
+286160##Tabletop Simulator##96
+444640##Bloons TD Battles##93
+470220##UNO##90
+219640##Chivalry: Medieval Warfare##85
+434730##Half dead##53
+246620##Plague Inc: Evolved##51
+397060##Faeria##48
+335330##Brick-Force##25
+571740##Golf It!##24
+219890##Antichamber##21
+10##Counter-Strike##17
+213850##Magic 2014 ##13
+202090##Magicka: Wizard Wars##12
+222980##Dead Pixels##11
+244730##Divekick##7
+509220##Save Jesus##6
+30##Day of Defeat##5
+860950##Mark of the Ninja: Remastered##3
+260790##1001 Spikes##2
+1061090##Jump King##2
+500##Left 4 Dead##1
+357300##Snakebird##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+409710##BioShock Remastered##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+42910##Magicka##0
+65800##Dungeon Defenders##0
+205790##Dota 2 Test##0
+204030##Fable - The Lost Chapters##0
+236390##War Thunder##0
+322330##Don't Starve Together##0
+368730##No Time To Explain Remastered##0
+249990##FORCED##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+282800##100% Orange Juice##0
+320140##Absolute Drift##0
+261640##Borderlands: The Pre-Sequel##0
+794800##Clue/Cluedo: The Classic Mystery Game##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW

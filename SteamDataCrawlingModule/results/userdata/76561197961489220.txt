@@ -1,0 +1,115 @@
+@@GAME
+333930##Dirty Bomb##10338
+440##Team Fortress 2##6567
+72850##The Elder Scrolls V: Skyrim##5065
+243870##Tom Clancy's Ghost Recon Phantoms - NA##4437
+730##Counter-Strike: Global Offensive##3342
+230410##Warframe##3082
+436520##Line of Sight##2662
+220240##Far Cry® 3##2503
+323370##TERA##2438
+203160##Tomb Raider##2328
+8870##BioShock Infinite##1988
+49520##Borderlands 2##1956
+444090##Paladins##1738
+570##Dota 2##1376
+241930##Middle-earth™: Shadow of Mordor™##1287
+239140##Dying Light##1151
+582660##Black Desert Online##1008
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##965
+258970##Gauntlet™ ##870
+500##Left 4 Dead##794
+8980##Borderlands GOTY##651
+611500##Quake Champions##599
+107100##Bastion##587
+242700##Injustice: Gods Among Us Ultimate Edition##545
+630##Alien Swarm##435
+201790##Orcs Must Die! 2##408
+427270##Orcs Must Die! Unchained##406
+218620##PAYDAY 2##336
+220440##DmC Devil May Cry##333
+813820##Realm Royale##322
+200710##Torchlight II##286
+238960##Path of Exile##254
+42910##Magicka##236
+4000##Garry's Mod##235
+462780##Darksiders Warmastered Edition##172
+35140##Batman: Arkham Asylum GOTY Edition##170
+400##Portal##167
+50300##Spec Ops: The Line##166
+40800##Super Meat Boy##156
+250180##METAL SLUG 3##139
+70##Half-Life##125
+8190##Just Cause 2##123
+237930##Transistor##123
+225840##Sven Co-op##84
+305050##Outland##82
+531640##Eternal Card Game##80
+274170##Hotline Miami 2: Wrong Number##72
+550##Left 4 Dead 2##50
+219990##Grim Dawn##50
+265590##The Red Solstice##50
+1250##Killing Floor##42
+489830##The Elder Scrolls V: Skyrim Special Edition##42
+292030##The Witcher 3: Wild Hunt##41
+312990##The Expendabros##34
+563560##Alien Swarm: Reactive Drop##27
+286570##F1 2015##14
+20900##The Witcher: Enhanced Edition##10
+420##Half-Life 2: Episode Two##4
+304390##For Honor##4
+220##Half-Life 2##3
+380##Half-Life 2: Episode One##1
+65800##Dungeon Defenders##1
+223710##Cry of Fear##1
+365720##Skyrim Script Extender (SKSE)##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+729040##Borderlands GOTY Enhanced##0
+620##Portal 2##0
+91310##Dead Island##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+205790##Dota 2 Test##0
+67370##The Darkness II##0
+204880##Sins of a Solar Empire: Rebellion##0
+200260##Batman: Arkham City GOTY##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+268870##Satellite Reign##0
+271590##Grand Theft Auto V##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+307690##Sleeping Dogs: Definitive Edition##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+365450##Hacknet##0
+596350##Paladins - Public Test##0
+319630##Life is Strange™##0
+4520##Full Spectrum Warrior##0
+4530##Full Spectrum Warrior: Ten Hammers##0
+9460##Frontlines: Fuel of War##0
+20500##Red Faction: Guerrilla Steam Edition##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+55140##MX vs. ATV Reflex##0
+388410##Darksiders II Deathinitive Edition##0
+475150##Titan Quest Anniversary Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+536930##MOBIUS FINAL FANTASY##0
+582500##We Were Here##0
+732430##Superflight##0
+878760##Realm Royale - Test Server##0
+236870##HITMAN™##0
+654310##For Honor - Public Test##0
+@@REVIEW
+72850##Recommended

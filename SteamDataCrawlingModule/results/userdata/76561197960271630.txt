@@ -1,0 +1,65 @@
+@@GAME
+611500##Quake Champions##32990
+10##Counter-Strike##10003
+256410##Might & Magic: Duel of Champions##6077
+306830##Zombies Monsters Robots##2277
+730##Counter-Strike: Global Offensive##1408
+240##Counter-Strike: Source##527
+222900##Dead Island: Epidemic##346
+290140##Echo of Soul##283
+9880##Champions Online##239
+289780##Requiem##231
+257730##Infinity Wars - Animated Trading Card Game##224
+339280##Strife##218
+350020##The Gate##194
+440##Team Fortress 2##149
+107900##War Inc. Battlezone##127
+356640##Metro Conflict##99
+323370##TERA##74
+240380##Solstice Arena##64
+237310##Elsword##58
+223650##F.E.A.R. Online##44
+241640##Haunted Memories##39
+291210##UberStrike##33
+30##Day of Defeat##30
+365050##Escape##30
+260430##The Four Kings Casino and Slots##26
+202090##Magicka: Wizard Wars##25
+207230##Archeblade##23
+224260##No More Room in Hell##20
+253710##theHunter Classic##19
+351800##Dev Guy##19
+312990##The Expendabros##16
+570##Dota 2##16
+251970##Sins of a Dark Age##15
+20##Team Fortress Classic##14
+311700##BloodRealm: Battlegrounds##14
+342150##Games of Glory##14
+238960##Path of Exile##10
+70##Half-Life##4
+333930##Dirty Bomb##2
+258160##Rise of Incarnates##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+113420##Fallen Earth##0
+200210##Realm of the Mad God Exalt##0
+230410##Warframe##0
+271290##HAWKEN##0
+206500##AirMech Strike##0
+273110##Counter-Strike Nexon: Studio##0
+293540##Guns and Robots##0
+301520##Robocraft##0
+304030##ArcheAge##0
+205790##Dota 2 Test##0
+330760##Running Shadow##0
+342570##HIS (Heroes In the Sky)##0
+39120##RIFT##0
+587650##Half-Life 2: DownFall##0
+952060##Resident Evil 3##0
+952070##RESIDENT EVIL RESISTANCE##0
+@@REVIEW
+611500##Recommended

@@ -1,0 +1,168 @@
+@@GAME
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##7515
+39120##RIFT##7289
+49520##Borderlands 2##6137
+1145360##Hades##5188
+65800##Dungeon Defenders##4999
+8980##Borderlands GOTY##4958
+445980##Wizard of Legend##3360
+24960##Battlefield: Bad Company™ 2##3139
+3590##Plants vs. Zombies: Game of the Year##3024
+105600##Terraria##2644
+440##Team Fortress 2##2452
+4550##Titan Quest: Immortal Throne##2251
+397540##Borderlands 3##1614
+113200##The Binding of Isaac##1384
+41500##Torchlight##1345
+200710##Torchlight II##1343
+261640##Borderlands: The Pre-Sequel##1279
+391540##Undertale##1215
+10680##Aliens vs. Predator##1145
+300##Day of Defeat: Source##1114
+201790##Orcs Must Die! 2##984
+550##Left 4 Dead 2##957
+42710##Call of Duty: Black Ops - Multiplayer##890
+250760##Shovel Knight: Treasure Trove##845
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##755
+102600##Orcs Must Die!##725
+7940##Call of Duty 4: Modern Warfare##667
+45700##Devil May Cry 4##598
+8850##BioShock 2##593
+35140##Batman: Arkham Asylum GOTY Edition##567
+10180##Call of Duty: Modern Warfare 2##566
+42700##Call of Duty: Black Ops##549
+10430##Universe at War: Earth Assault##545
+620##Portal 2##520
+742300##Mega Man 11##503
+258970##Gauntlet™ ##494
+8870##BioShock Infinite##414
+500##Left 4 Dead##400
+21090##F.E.A.R.##398
+91600##Sanctum##379
+35720##Trine 2##379
+40800##Super Meat Boy##376
+630##Alien Swarm##376
+41070##Serious Sam 3: BFE##366
+476620##Call of Duty: WWII - Multiplayer##356
+39140##FINAL FANTASY VII##286
+476600##Call of Duty: WWII##266
+107100##Bastion##256
+21680##Bionic Commando Rearmed##243
+42680##Call of Duty: Modern Warfare 3##206
+242700##Injustice: Gods Among Us Ultimate Edition##201
+9200##RAGE##193
+35700##Trine##180
+48000##LIMBO##179
+363440##Mega Man Legacy Collection##168
+249990##FORCED##165
+16450##F.E.A.R. 2: Project Origin##164
+945360##Among Us##164
+250180##METAL SLUG 3##161
+976730##Halo: The Master Chief Collection##142
+42910##Magicka##128
+613830##CHRONO TRIGGER##114
+400##Portal##111
+94200##Jamestown##103
+379720##DOOM##97
+21110##F.E.A.R.: Extraction Point##82
+743890##Mega Man X Legacy Collection##72
+277430##Halo: Spartan Assault##71
+330830##Tales from the Borderlands##60
+240##Counter-Strike: Source##59
+41000##Serious Sam HD: The First Encounter##59
+367520##Hollow Knight##50
+9070##DOOM 3: Resurrection of Evil##46
+43110##Metro 2033##39
+55110##Red Faction: Armageddon##36
+577940##Killer Instinct##36
+63200##Monday Night Combat##30
+4560##Company of Heroes - Legacy Edition##27
+220##Half-Life 2##25
+320##Half-Life 2: Deathmatch##22
+9050##DOOM 3##16
+730##Counter-Strike: Global Offensive##16
+475150##Titan Quest Anniversary Edition##15
+235210##Strider##13
+13600##Prince of Persia: The Sands of Time##12
+4540##Titan Quest##4
+262280##Dungeons 2##4
+41010##Serious Sam HD: The Second Encounter##2
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+228200##Company of Heroes ##0
+2280##The Ultimate DOOM##0
+2290##Final DOOM##0
+2300##DOOM II: Hell on Earth##0
+9160##Master Levels for DOOM II##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+729040##Borderlands GOTY Enhanced##0
+409720##BioShock 2 Remastered##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+227780##Serious Sam Classics: Revolution##0
+564310##Serious Sam Fusion 2017 (beta)##0
+21120##F.E.A.R.: Perseus Mandate##0
+13500##Prince of Persia: Warrior Within##0
+13530##Prince of Persia: The Two Thrones##0
+19980##Prince of Persia##0
+33320##Prince of Persia: The Forgotten Sands##0
+22000##World of Goo##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+20500##Red Faction: Guerrilla Steam Edition##0
+20530##Red Faction##0
+20550##Red Faction II##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+219640##Chivalry: Medieval Warfare##0
+218680##Scribblenauts Unlimited##0
+200170##Worms Revolution##0
+207000##Alien Spidy##0
+225080##Brothers - A Tale of Two Sons##0
+209000##Batman™: Arkham Origins##0
+238090##Sniper Elite 3##0
+306660##Ultimate General: Gettysburg##0
+313690##LEGO® Batman™ 3: Beyond Gotham##0
+247080##Crypt of the NecroDancer##0
+226720##Lost Planet 3##0
+241930##Middle-earth™: Shadow of Mordor™##0
+327140##Tilt Brush##0
+287290##Resident Evil Revelations 2##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+365450##Hacknet##0
+388410##Darksiders II Deathinitive Edition##0
+234140##Mad Max##0
+329380##Stealth Inc 2##0
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+4760##Rome: Total War##0
+4770##Rome: Total War - Alexander##0
+9310##Warhammer 40,000: Dawn of War - Winter Assault##0
+9340##Company of Heroes: Opposing Fronts##0
+9450##Warhammer 40,000: Dawn of War - Soulstorm##0
+20540##Company of Heroes: Tales of Valor##0
+34270##SEGA Mega Drive & Genesis Classics##0
+50620##Darksiders##0
+462780##Darksiders Warmastered Edition##0
+468670##Speed Brawl##0
+495050##Mega Man Legacy Collection 2##0
+508440##Totally Accurate Battle Simulator##0
+590380##Into the Breach##0
+664830##Zombotron##0
+674940##Stick Fight: The Game##0
+435150##Divinity: Original Sin 2##0
+743900##Mega Man X Legacy Collection 2##0
+63500##Swords and Soldiers HD##0
+1085660##Destiny 2##0
+@@REVIEW

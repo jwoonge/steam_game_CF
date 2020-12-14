@@ -1,0 +1,60 @@
+@@GAME
+240##Counter-Strike: Source##18644
+730##Counter-Strike: Global Offensive##15657
+271590##Grand Theft Auto V##12024
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##7397
+550##Left 4 Dead 2##2919
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##2295
+8980##Borderlands GOTY##1639
+12210##Grand Theft Auto IV: The Complete Edition##1614
+24850##FIFA Manager 10##1508
+20590##League of Legends##1406
+24960##Battlefield: Bad Company™ 2##916
+42680##Call of Duty: Modern Warfare 3##558
+10##Counter-Strike##543
+444090##Paladins##513
+236390##War Thunder##426
+10180##Call of Duty: Modern Warfare 2##378
+18820##Zero Gear##335
+7940##Call of Duty 4: Modern Warfare##325
+9400##Juiced 2: Hot Import Nights##260
+500##Left 4 Dead##213
+342200##MechWarrior Online##208
+70##Half-Life##110
+13520##Far Cry##108
+12900##Audiosurf##66
+21690##Resident Evil 5##57
+19900##Far Cry 2##44
+13580##Tom Clancy's Splinter Cell: Double Agent##27
+1250##Killing Floor##16
+12840##DiRT 2##15
+17340##Crysis Wars##9
+30##Day of Defeat##5
+17300##Crysis##5
+7670##BioShock##5
+35420##Killing Floor Mod: Defence Alliance 2##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+17330##Crysis Warhead##0
+729040##Borderlands GOTY Enhanced##0
+8850##BioShock 2##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+11020##TrackMania Nations Forever##0
+113400##APB Reloaded##0
+272350##Tom Clancy's Ghost Recon Phantoms - EU##0
+301520##Robocraft##0
+304930##Unturned##0
+291480##Warface##0
+227940##Heroes & Generals##0
+200110##Nosgoth##0
+333930##Dirty Bomb##0
+596350##Paladins - Public Test##0
+@@REVIEW
+444090##Not Recommended

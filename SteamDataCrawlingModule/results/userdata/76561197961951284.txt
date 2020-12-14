@@ -1,0 +1,47 @@
+@@GAME
+570##Dota 2##157780
+10##Counter-Strike##40785
+730##Counter-Strike: Global Offensive##29989
+304930##Unturned##2319
+230410##Warframe##743
+444090##Paladins##543
+440##Team Fortress 2##348
+550650##Black Squad##286
+304050##Trove##274
+339610##FreeStyle 2: Street Basketball##182
+253980##Enclave##72
+698780##Doki Doki Literature Club##42
+755790##Ring of Elysium##39
+293540##Guns and Robots##38
+70##Half-Life##31
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##22
+258160##Rise of Incarnates##19
+215830##Closers##15
+386360##SMITE##10
+202730##Dynamite Jack##9
+280790##Creativerse##8
+840170##Delivery man simulator##6
+301750##RADical ROACH Remastered##5
+542340##Slingshot people##5
+30##Day of Defeat##2
+286940##S.K.I.L.L. - Special Force 2##2
+351030##Pixel Puzzles Ultimate##1
+479130##ESEA##1
+823160##Knife Hit Dash##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+253900##Knights and Merchants##0
+304270##Grand Chase##0
+222900##Dead Island: Epidemic##0
+331470##Everlasting Summer##0
+858460##SMITE - Public Test##0
+291550##Brawlhalla##0
+596350##Paladins - Public Test##0
+576860##Summer Nightmare##0
+630100##SoulWorker##0
+@@REVIEW
+570##Recommended

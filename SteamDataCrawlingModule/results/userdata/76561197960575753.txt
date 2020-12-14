@@ -1,0 +1,43 @@
+@@GAME
+252490##Rust##351654
+268850##EVGA Precision X1##22735
+730##Counter-Strike: Global Offensive##22120
+613100##House Flipper##8981
+440900##Conan Exiles##6696
+363970##Clicker Heroes##6653
+489520##Minion Masters##6215
+313160##Farming Simulator 15##2380
+629760##MORDHAU##2171
+240##Counter-Strike: Source##1951
+527440##Rustangelo##1498
+242760##The Forest##1385
+431240##Golf With Your Friends##1032
+505040##FORTIFY##985
+880940##Pummel Party##822
+884660##CRSED##751
+299740##Miscreated##452
+10##Counter-Strike##253
+487120##Citadel: Forged With Fire##176
+251570##7 Days to Die##155
+344760##Reign Of Kings##107
+306130##The Elder Scrolls Online##95
+657200##Hand Simulator##53
+3590##Plants vs. Zombies: Game of the Year##50
+700580##Rust - Staging Branch##40
+383120##Empyrion - Galactic Survival##26
+372210##Spooky Cats##15
+415420##Nyan Cat: Lost In Space##3
+102700##A.V.A. Alliance of Valiant Arms™##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+912290##Miscreated: Experimental Server##0
+227940##Heroes & Generals##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+427270##Orcs Must Die! Unchained##0
+931180##Conan Exiles - Testlive Client##0
+@@REVIEW

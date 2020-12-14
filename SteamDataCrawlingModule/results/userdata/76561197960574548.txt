@@ -1,0 +1,84 @@
+@@GAME
+730##Counter-Strike: Global Offensive##54043
+221100##DayZ##23430
+10##Counter-Strike##21560
+908520##fpsVR##17433
+250820##SteamVR##16355
+244210##Assetto Corsa##14811
+33930##Arma 2: Operation Arrowhead##12553
+1250410##Microsoft Flight Simulator##4968
+594650##Hunt: Showdown##4052
+107410##Arma 3##3897
+805550##Assetto Corsa Competizione##3375
+295110##Just Survive##2532
+365960##rFactor 2##2375
+271590##Grand Theft Auto V##2217
+552520##Far Cry 5##1319
+227300##Euro Truck Simulator 2##1260
+344760##Reign Of Kings##1030
+555160##Pavlov VR##883
+346110##ARK: Survival Evolved##799
+690790##DiRT Rally 2.0##763
+225540##Just Cause 3##699
+1080110##F1 2020##638
+1222730##STAR WARS™: Squadrons##535
+252490##Rust##513
+299740##Miscreated##370
+223850##3DMark##312
+378860##Project CARS 2##290
+227940##Heroes & Generals##286
+305620##The Long Dark##264
+259080##Just Cause 2: Multiplayer Mod##253
+518790##theHunter: Call of the Wild™##234
+620##Portal 2##213
+108800##Crysis 2 Maximum Edition##188
+963930##Contractors VR##179
+675010##MudRunner##143
+377160##Fallout 4##142
+440##Team Fortress 2##135
+546560##Half-Life: Alyx##111
+292030##The Witcher 3: Wild Hunt##110
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##108
+382110##Virtual Desktop##85
+823500##BONEWORKS##76
+488310##Eleven: Table Tennis VR##59
+406350##KartKraft##57
+916840##The Walking Dead: Saints & Sinners##50
+450390##The Lab##38
+224580##Arma 2: DayZ Mod##18
+33910##Arma 2##11
+43110##Metro 2033##7
+8190##Just Cause 2##5
+348250##Google Earth VR##5
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+253710##theHunter Classic##0
+242760##The Forest##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+912290##Miscreated: Experimental Server##0
+205790##Dota 2 Test##0
+333930##Dirty Bomb##0
+407530##ARK: Survival Of The Fittest##0
+393380##Squad##0
+774941##Squad - Public Testing##0
+550040##Steep Open Beta##0
+770720##Hunt: Showdown (Test Server)##0
+342180##Arizona Sunshine##0
+@@REVIEW
+295110##Recommended

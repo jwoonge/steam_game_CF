@@ -1,0 +1,108 @@
+@@GAME
+235540##Warhammer: End Times - Vermintide##22078
+241560##The Crew##18603
+552500##Warhammer: Vermintide 2##9918
+221100##DayZ##2044
+107410##Arma 3##2022
+49520##Borderlands 2##1908
+209650##Call of Duty: Advanced Warfare##1608
+33930##Arma 2: Operation Arrowhead##876
+270810##Jones On Fire##867
+377160##Fallout 4##711
+312660##Sniper Elite 4##637
+220240##Far Cry® 3##499
+43160##Metro: Last Light##448
+570##Dota 2##310
+209660##Call of Duty: Advanced Warfare - Multiplayer##307
+730##Counter-Strike: Global Offensive##240
+346110##ARK: Survival Evolved##195
+295110##Just Survive##171
+234630##Project CARS##136
+200110##Nosgoth##118
+737010##Warhammer: Vermintide 2 Closed Test##92
+252490##Rust##91
+223850##3DMark##81
+268850##EVGA Precision X1##73
+203160##Tomb Raider##69
+292030##The Witcher 3: Wild Hunt##58
+218620##PAYDAY 2##58
+291480##Warface##33
+307690##Sleeping Dogs: Definitive Edition##27
+249590##Teslagrad##25
+268500##XCOM 2##23
+224580##Arma 2: DayZ Mod##22
+33910##Arma 2##21
+277470##The Book of Legends##19
+274560##Revolution Ace##18
+391070##Stellar 2D##16
+227940##Heroes & Generals##15
+70110##Hacker Evolution - Untold##13
+273350##Evolve Stage 2##12
+299260##Commando Jack##10
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##8
+253710##theHunter Classic##6
+444090##Paladins##4
+444560##Agent Origins: Escape##4
+10##Counter-Strike##3
+51100##Tactical Intervention##3
+290650##Time Ramesside (A New Reckoning)##3
+255070##Abyss Odyssey##2
+346180##David.##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+45410##Ignite##0
+24660##Trainz: Murchison 2##0
+104000##iBomber Defense##0
+105700##Tobe's Vertical Adventure##0
+9350##Supreme Commander##0
+205790##Dota 2 Test##0
+209330##A Valley Without Wind##0
+228320##A Valley Without Wind 2##0
+220460##Cargo Commander##0
+42850##Arsenal of Democracy##0
+236730##Anomaly 2##0
+235720##Cubetractor##0
+243120##Betrayer##0
+244890##Velocity®Ultra##0
+258910##Citizens of Earth##0
+254440##Pool Nation##0
+263380##Driftmoon##0
+263420##Probably Archery##0
+267960##Hyper Fighters##0
+271550##Tribloos 2##0
+271570##Space Farmers##0
+272010##Aveyond 3-1: Lord of Twilight##0
+283390##Incoming Forces##0
+285070##Between Me and The Night##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+303390##Dead Bits##0
+310450##Steel & Steam: Episode 1##0
+312640##Power-Up##0
+327410##A Bird Story##0
+700580##Rust - Staging Branch##0
+340650##Elements: Soul of Fire##0
+343170##Cyberpunk 3776##0
+343360##Particula##0
+407530##ARK: Survival Of The Fittest##0
+348790##Wooden Floor##0
+351030##Pixel Puzzles Ultimate##0
+355920##Pixel Puzzles 2: Space##0
+368780##President for a Day - Corruption##0
+374830##Defend The Highlands##0
+383520##Lilly and Sasha: Guardian Angels##0
+391660##Incitement 3##0
+399790##Destiny Warriors##0
+407300##The Last NightMary - A Lenda do Cabeça de Cuia##0
+410390##Warhammer: Vermintide VR - Hero Trials##0
+596350##Paladins - Public Test##0
+555570##Infestation: The New Z##0
+@@REVIEW
+218620##Recommended
+235540##Recommended

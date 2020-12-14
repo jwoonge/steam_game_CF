@@ -1,0 +1,123 @@
+@@GAME
+240##Counter-Strike: Source##123161
+570##Dota 2##46825
+440##Team Fortress 2##14871
+271590##Grand Theft Auto V##14305
+292030##The Witcher 3: Wild Hunt##13598
+10##Counter-Strike##10958
+812140##Assassin's Creed Odyssey##6710
+72850##The Elder Scrolls V: Skyrim##6128
+1174180##Red Dead Redemption 2##5217
+730##Counter-Strike: Global Offensive##4887
+239140##Dying Light##3137
+550##Left 4 Dead 2##2426
+1085660##Destiny 2##2406
+287390##Metro: Last Light Redux##2084
+286690##Metro 2033 Redux##2059
+206420##Saints Row IV##1842
+412020##Metro Exodus##1680
+489830##The Elder Scrolls V: Skyrim Special Edition##1671
+588430##Fallout Shelter##1584
+620##Portal 2##1407
+403640##Dishonored 2##1279
+43160##Metro: Last Light##1144
+110800##L.A. Noire##1015
+225540##Just Cause 3##1012
+337000##Deus Ex: Mankind Divided™##880
+47780##Dead Space 2##872
+203140##Hitman: Absolution##860
+388410##Darksiders II Deathinitive Edition##854
+218620##PAYDAY 2##811
+4000##Garry's Mod##758
+220##Half-Life 2##741
+8870##BioShock Infinite##703
+203160##Tomb Raider##660
+301910##Saints Row: Gat out of Hell##619
+50130##Mafia II (Classic)##578
+307690##Sleeping Dogs: Definitive Edition##312
+420##Half-Life 2: Episode Two##297
+500##Left 4 Dead##284
+31280##Poker Night at the Inventory##256
+70##Half-Life##238
+911400##Assassin's Creed III Remastered##226
+17410##Mirror's Edge##203
+380##Half-Life 2: Episode One##183
+400##Portal##162
+302510##Ryse: Son of Rome##144
+17390##Spore##127
+311340##METAL GEAR SOLID V: GROUND ZEROES##116
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##113
+12210##Grand Theft Auto IV: The Complete Edition##109
+36000##Foreign Legion: Buckets of Blood##106
+630##Alien Swarm##89
+300##Day of Defeat: Source##81
+6980##Thief: Deadly Shadows##61
+863550##HITMAN™ 2##56
+208650##Batman™: Arkham Knight##54
+17450##Dragon Age: Origins##42
+273110##Counter-Strike Nexon: Studio##39
+22100##Mount & Blade##31
+239160##Thief##27
+340##Half-Life 2: Lost Coast##26
+230410##Warframe##25
+8140##Tomb Raider: Underworld##17
+17470##Dead Space##17
+204340##Serious Sam 2##16
+6060##Star Wars: Battlefront 2 (Classic, 2005)##14
+280##Half-Life: Source##14
+43110##Metro 2033##13
+211##Source SDK##12
+222900##Dead Island: Epidemic##10
+360##Half-Life Deathmatch: Source##5
+241640##Haunted Memories##5
+223710##Cry of Fear##4
+320##Half-Life 2: Deathmatch##3
+7000##Tomb Raider: Legend##3
+8850##BioShock 2##2
+278530##3 Stars of Destiny##2
+373330##All Is Dust##2
+258090##99 Spirits##1
+7670##BioShock##1
+301690##Cobi Treasure Deluxe##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+6200##Ghost Master##0
+6900##Hitman: Codename 47##0
+6850##Hitman 2: Silent Assassin##0
+6860##Hitman: Blood Money##0
+20900##The Witcher: Enhanced Edition##0
+1030830##Mafia II: Definitive Edition##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+205790##Dota 2 Test##0
+111100##Snuggle Truck##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+200260##Batman: Arkham City GOTY##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+222880##Insurgency##0
+247430##Hitman: Contracts##0
+262300##Tsukumogami##0
+209000##Batman™: Arkham Origins##0
+264300##Guns'N'Zombies##0
+265930##Goat Simulator##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+291210##UberStrike##0
+295690##PARTICLE MACE##0
+297110##Cosmic DJ##0
+311860##Data Hacker: Initiation##0
+242640##Styx: Master of Shadows##0
+340310##Teddy Floppy Ear - Kayaking##0
+342580##12 Labours of Hercules##0
+370510##Marble Mayhem: Fragile Ball##0
+306040##The Howler##0
+314020##Morphopolis##0
+355150##gravilon##0
+50620##Darksiders##0
+462780##Darksiders Warmastered Edition##0
+@@REVIEW
+812140##Recommended

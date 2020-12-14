@@ -1,0 +1,74 @@
+@@GAME
+730##Counter-Strike: Global Offensive##86467
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##45067
+271590##Grand Theft Auto V##22203
+10##Counter-Strike##20813
+295110##Just Survive##15743
+310560##DiRT Rally##11310
+8930##Sid Meier's Civilization V##8853
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##8380
+433850##Z1 Battle Royale##7322
+690790##DiRT Rally 2.0##5965
+49520##Borderlands 2##5611
+359320##Elite Dangerous##2280
+10180##Call of Duty: Modern Warfare 2##1781
+227300##Euro Truck Simulator 2##1781
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##1762
+65980##Sid Meier's Civilization: Beyond Earth##1571
+570##Dota 2##1542
+813820##Realm Royale##1109
+261640##Borderlands: The Pre-Sequel##833
+48220##Might & Magic: Heroes VI##647
+42680##Call of Duty: Modern Warfare 3##565
+202990##Call of Duty: Black Ops II - Multiplayer##505
+234630##Project CARS##391
+289070##Sid Meier's Civilization VI##280
+417910##Street Warriors Online##164
+240##Counter-Strike: Source##151
+421020##DiRT 4##149
+228380##Wreckfest##147
+230410##Warframe##112
+202970##Call of Duty: Black Ops II##84
+17700##Insurgency: Modern Infantry Combat##64
+319630##Life is Strange™##54
+107410##Arma 3##43
+397540##Borderlands 3##42
+518790##theHunter: Call of the Wild™##40
+393380##Squad##31
+285190##Warhammer 40,000: Dawn of War III##23
+970830##The Dungeon Of Naheulbeuk: The Amulet Of Chaos##20
+444560##Agent Origins: Escape##10
+70##Half-Life##4
+8980##Borderlands GOTY##1
+282030##Carmageddon 2: Carpocalypse Now##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+205790##Dota 2 Test##0
+212910##Call of Duty: Black Ops II - Zombies##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+225840##Sven Co-op##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+729040##Borderlands GOTY Enhanced##0
+282010##Carmageddon Max Pack##0
+323040##Laserlife##0
+774941##Squad - Public Testing##0
+530700##Argo##0
+563560##Alien Swarm: Reactive Drop##0
+755790##Ring of Elysium##0
+878760##Realm Royale - Test Server##0
+945360##Among Us##0
+@@REVIEW
+730##Recommended
+690790##Recommended

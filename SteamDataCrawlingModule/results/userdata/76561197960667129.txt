@@ -1,0 +1,64 @@
+@@GAME
+252950##Rocket League##31396
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##12791
+200110##Nosgoth##9128
+730##Counter-Strike: Global Offensive##8143
+240##Counter-Strike: Source##7785
+678950##DRAGON BALL FighterZ##7643
+221100##DayZ##5774
+218620##PAYDAY 2##5089
+433850##Z1 Battle Royale##4184
+570##Dota 2##1676
+555570##Infestation: The New Z##987
+883710##Resident Evil 2##635
+813820##Realm Royale##628
+220160##Trials Evolution Gold Edition##623
+49520##Borderlands 2##480
+252490##Rust##405
+214560##Mark of the Ninja##363
+8930##Sid Meier's Civilization V##201
+400##Portal##176
+219740##Don't Starve##140
+10##Counter-Strike##136
+220##Half-Life 2##131
+217200##Worms Armageddon##131
+550##Left 4 Dead 2##126
+107100##Bastion##109
+440##Team Fortress 2##64
+8870##BioShock Infinite##62
+295110##Just Survive##53
+105600##Terraria##29
+4920##Natural Selection 2##25
+431960##Wallpaper Engine##19
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+57300##Amnesia: The Dark Descent##0
+47810##Dragon Age: Origins - Ultimate Edition##0
+620##Portal 2##0
+205790##Dota 2 Test##0
+22380##Fallout: New Vegas##0
+219150##Hotline Miami##0
+322330##Don't Starve Together##0
+39140##FINAL FANTASY VII##0
+6880##Just Cause##0
+8190##Just Cause 2##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+63380##Sniper Elite V2##0
+421020##DiRT 4##0
+695290##The Golf Club™ 2019 Featuring PGA TOUR##0
+878760##Realm Royale - Test Server##0
+@@REVIEW

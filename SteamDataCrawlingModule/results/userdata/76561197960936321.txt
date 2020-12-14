@@ -1,0 +1,24 @@
+@@GAME
+730##Counter-Strike: Global Offensive##5341
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+38600##Faerie Solitaire##0
+583930##Faerie Solitaire Remastered##0
+113400##APB Reloaded##0
+236390##War Thunder##0
+202090##Magicka: Wizard Wars##0
+264360##La Tale##0
+222900##Dead Island: Epidemic##0
+304930##Unturned##0
+205790##Dota 2 Test##0
+24240##PAYDAY: The Heist##0
+57300##Amnesia: The Dark Descent##0
+218620##PAYDAY 2##0
+@@REVIEW
+730##Recommended

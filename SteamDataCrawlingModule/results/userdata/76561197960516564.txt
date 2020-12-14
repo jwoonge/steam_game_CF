@@ -1,0 +1,29 @@
+@@GAME
+730##Counter-Strike: Global Offensive##219004
+570##Dota 2##124977
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##10202
+10##Counter-Strike##4841
+945360##Among Us##2090
+440##Team Fortress 2##857
+201810##Wolfenstein: The New Order##644
+202990##Call of Duty: Black Ops II - Multiplayer##334
+1172470##Apex Legends##230
+550##Left 4 Dead 2##178
+202970##Call of Duty: Black Ops II##159
+1046930##Dota Underlords##74
+12750##GRID##46
+824270##KovaaK 2.0##46
+714010##Aim Lab##36
+9200##RAGE##22
+270550##Yet Another Zombie Defense##18
+212910##Call of Duty: Black Ops II - Zombies##6
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+300##Day of Defeat: Source##0
+205790##Dota 2 Test##0
+@@REVIEW

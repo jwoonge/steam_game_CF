@@ -1,0 +1,25 @@
+@@GAME
+10##Counter-Strike##139487
+730##Counter-Strike: Global Offensive##95512
+240##Counter-Strike: Source##82111
+1091500##Cyberpunk 2077##1780
+431960##Wallpaper Engine##432
+479130##ESEA##315
+644930##They Are Billions##285
+433850##Z1 Battle Royale##266
+218620##PAYDAY 2##116
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+201700##DiRT Showdown##0
+383270##Hue##0
+398850##Epistory - Typing Chronicles##0
+439700##H1Z1: Test Server##0
+@@REVIEW
+1091500##Recommended
+730##Recommended
+479130##Recommended

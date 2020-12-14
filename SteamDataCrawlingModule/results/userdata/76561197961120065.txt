@@ -1,0 +1,191 @@
+@@GAME
+570##Dota 2##22395
+550##Left 4 Dead 2##11059
+440##Team Fortress 2##10664
+435150##Divinity: Original Sin 2##7778
+500##Left 4 Dead##3886
+268500##XCOM 2##2993
+394510##HELLDIVERS™##2976
+200510##XCOM: Enemy Unknown##2755
+320##Half-Life 2: Deathmatch##2693
+10##Counter-Strike##2544
+274190##Broforce##2367
+620##Portal 2##2197
+637090##BATTLETECH##2086
+242550##Rayman Legends##1539
+9340##Company of Heroes: Opposing Fronts##1530
+262060##Darkest Dungeon®##1414
+760060##Mutant Year Zero: Road to Eden##1381
+356420##Interloper##1144
+327030##Worms W.M.D##1073
+882100##XCOM: Chimera Squad##1028
+200170##Worms Revolution##975
+590380##Into the Breach##967
+102600##Orcs Must Die!##951
+306130##The Elder Scrolls Online##946
+221100##DayZ##823
+387290##Ori and the Blind Forest: Definitive Edition##720
+33350##Anno 1404: Venice##690
+646570##Slay the Spire##660
+1238840##Battlefield 1 ™##644
+728880##Overcooked! 2##558
+49520##Borderlands 2##518
+218620##PAYDAY 2##504
+201790##Orcs Must Die! 2##502
+730##Counter-Strike: Global Offensive##467
+240##Counter-Strike: Source##456
+437920##Tricky Towers##423
+258970##Gauntlet™ ##344
+630##Alien Swarm##341
+22600##Worms Reloaded##320
+553640##ICEY##292
+214560##Mark of the Ninja##282
+41070##Serious Sam 3: BFE##271
+255710##Cities: Skylines##265
+448510##Overcooked##239
+239140##Dying Light##234
+238960##Path of Exile##232
+47870##Need for Speed: Hot Pursuit##228
+323850##Move or Die##226
+4560##Company of Heroes - Legacy Edition##196
+400##Portal##185
+214490##Alien: Isolation##177
+17700##Insurgency: Modern Infantry Combat##158
+70##Half-Life##141
+40800##Super Meat Boy##126
+48000##LIMBO##126
+321040##DiRT 3 Complete Edition##106
+299480##Rogue Stormers##105
+314660##Oddworld: New 'n' Tasty##89
+231430##Company of Heroes 2##89
+208090##Loadout##80
+267750##Shadowrun Chronicles - Boston Lockdown##79
+35700##Trine##77
+269670##BADLAND: Game of the Year Edition##77
+235540##Warhammer: End Times - Vermintide##69
+204300##Awesomenauts##69
+95400##ibb & obb##64
+317400##Portal Stories: Mel##64
+65800##Dungeon Defenders##58
+252110##Lovers in a Dangerous Spacetime##58
+13140##America's Army 3##55
+234650##Shadowrun Returns##55
+273350##Evolve Stage 2##54
+316010##Magic Duels##48
+30##Day of Defeat##46
+241600##Rogue Legacy##45
+328070##Reflex Arena##44
+250110##Assault Android Cactus##43
+24800##Command and Conquer: Red Alert 3 - Uprising##40
+44320##DiRT 3##39
+322190##SteamWorld Heist##39
+268130##Heat Signature##37
+248820##Risk of Rain##36
+221810##The Cave##34
+370020##Templar Battleforce##30
+945360##Among Us##30
+274250##OlliOlli##25
+288470##Fable Anniversary##25
+204340##Serious Sam 2##24
+860950##Mark of the Ninja: Remastered##24
+250180##METAL SLUG 3##23
+220##Half-Life 2##22
+220820##Zombie Driver HD##22
+41050##Serious Sam Classic: The First Encounter##21
+238320##Outlast##21
+105600##Terraria##19
+499520##The Turing Test##19
+49600##Beat Hazard##17
+238910##Bionic Dues##17
+367520##Hollow Knight##17
+329380##Stealth Inc 2##16
+487250##Spaera##16
+339200##Oceanhorn: Monster of Uncharted Seas##15
+20##Team Fortress Classic##14
+1046930##Dota Underlords##14
+107800##Rochard##11
+47830##Medal of Honor(TM) Multiplayer##11
+97000##Solar 2##10
+215510##Rocketbirds: Hardboiled Chicken##10
+247240##Volgarr the Viking##10
+227780##Serious Sam Classics: Revolution##8
+202730##Dynamite Jack##8
+225140##Duke Nukem 3D: Megaton Edition##8
+382490##Relic Hunters Zero##8
+113200##The Binding of Isaac##7
+221640##Super Hexagon##7
+105430##Age of Empires Online##7
+277850##Sportsfriends##7
+365680##BRAWL##7
+238370##Magicka 2##7
+207210##Tony Hawk's Pro Skater HD##6
+207140##SpeedRunners##6
+282440##Quake Live##6
+420##Half-Life 2: Episode Two##5
+212680##FTL: Faster Than Light##5
+366250##METAL SLUG##5
+41000##Serious Sam HD: The First Encounter##4
+312990##The Expendabros##4
+493060##Ballistic Tanks##4
+204060##Superbrothers: Sword & Sworcery EP##3
+272890##Vertiginous Golf##3
+15700##Oddworld: Abe's Oddysee##2
+338000##Echoes+##2
+674940##Stick Fight: The Game##2
+60##Ricochet##1
+209790##Splice##1
+214970##Intrusion 2##1
+238460##BattleBlock Theater##1
+380840##Teeworlds##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+4000##Garry's Mod##0
+340##Half-Life 2: Lost Coast##0
+380##Half-Life 2: Episode One##0
+228200##Company of Heroes ##0
+564310##Serious Sam Fusion 2017 (beta)##0
+41010##Serious Sam HD: The Second Encounter##0
+33250##Anno 1404##0
+70640##Worms##0
+99700##NightSky##0
+41060##Serious Sam Classic: The Second Encounter##0
+205790##Dota 2 Test##0
+108800##Crysis 2 Maximum Edition##0
+218740##Pid ##0
+26900##Crayon Physics Deluxe##0
+271290##HAWKEN##0
+203160##Tomb Raider##0
+225160##Shadow Warrior Classic Redux##0
+368730##No Time To Explain Remastered##0
+47790##Medal of Honor(TM) Single Player##0
+249990##FORCED##0
+225840##Sven Co-op##0
+277890##Shantae: Risky's Revenge - Director's Cut##0
+300550##Shadowrun: Dragonfall - Director's Cut##0
+237850##Dreamfall Chapters##0
+314410##Rampage Knights##0
+253510##Warmachine Tactics##0
+289930##TransOcean: The Shipping Company##0
+24240##PAYDAY: The Heist##0
+346940##Shadowrun: Hong Kong - Extended Edition##0
+363600##Holy Potatoes! A Weapon Shop?!##0
+397080##Magicka 2: Spell Balance Beta##0
+261570##Ori and the Blind Forest##0
+214770##Guacamelee! Gold Edition##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+388880##Oxenfree##0
+312610##METAL SLUG X##0
+418240##Shadow Tactics: Blades of the Shogun##0
+379720##DOOM##0
+292030##The Witcher 3: Wild Hunt##0
+666220##CS2D##0
+1172470##Apex Legends##0
+308600##Geneshift##0
+532210##Life is Strange 2##0
+@@REVIEW

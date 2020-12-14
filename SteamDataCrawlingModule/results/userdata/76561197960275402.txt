@@ -1,0 +1,80 @@
+@@GAME
+304930##Unturned##126876
+268850##EVGA Precision X1##64185
+252490##Rust##40151
+105600##Terraria##17347
+700330##SCP: Secret Laboratory##10266
+255710##Cities: Skylines##5930
+440##Team Fortress 2##5313
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##4235
+410900##Forts##3596
+24960##Battlefield: Bad Company™ 2##2210
+332570##Amazing Frog?##1964
+359550##Tom Clancy's Rainbow Six Siege##1349
+550##Left 4 Dead 2##1220
+466240##Deceit##787
+10180##Call of Duty: Modern Warfare 2##752
+629520##Soundpad##681
+431960##Wallpaper Engine##652
+1085660##Destiny 2##583
+1128810##RISK: Global Domination##561
+1262240##Plants vs. Zombies: Battle for Neighborville##517
+386180##Crossout##447
+570##Dota 2##446
+588430##Fallout Shelter##405
+220##Half-Life 2##330
+251570##7 Days to Die##330
+630##Alien Swarm##309
+500##Left 4 Dead##226
+1281930##tModLoader##214
+35140##Batman: Arkham Asylum GOTY Edition##155
+582660##Black Desert Online##145
+444640##Bloons TD Battles##138
+823130##Totally Accurate Battlegrounds##99
+763410##Long Live Santa!##96
+641990##The Escapists 2##94
+301520##Robocraft##85
+218620##PAYDAY 2##61
+400##Portal##58
+755790##Ring of Elysium##58
+240##Counter-Strike: Source##56
+304050##Trove##43
+226320##Marvel Heroes Omega##34
+378370##Nomad##32
+236390##War Thunder##22
+397100##MachineCraft##7
+200260##Batman: Arkham City GOTY##2
+527440##Rustangelo##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+17460##Mass Effect##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+41500##Torchlight##0
+24980##Mass Effect 2##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+49520##Borderlands 2##0
+205790##Dota 2 Test##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+700580##Rust - Staging Branch##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW

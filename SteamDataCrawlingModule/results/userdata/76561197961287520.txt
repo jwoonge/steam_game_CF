@@ -1,0 +1,63 @@
+@@GAME
+730##Counter-Strike: Global Offensive##96047
+240##Counter-Strike: Source##26373
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##18932
+1046930##Dota Underlords##9633
+346110##ARK: Survival Evolved##8413
+218620##PAYDAY 2##6599
+365590##Tom Clancy's The Division##4539
+238960##Path of Exile##3413
+221100##DayZ##3356
+33250##Anno 1404##2249
+39500##Gothic 3##1425
+761890##Albion Online##1302
+755790##Ring of Elysium##1293
+513710##SCUM##1153
+1085660##Destiny 2##1105
+218470##RaiderZ##936
+220##Half-Life 2##736
+295110##Just Survive##674
+299740##Miscreated##342
+33350##Anno 1404: Venice##253
+24240##PAYDAY: The Heist##247
+560130##Pillars of Eternity II: Deadfire##245
+47410##Stronghold Kingdoms##241
+640820##Pathfinder: Kingmaker##229
+304930##Unturned##207
+50##Half-Life: Opposing Force##108
+221380##Age of Empires II (2013)##108
+10##Counter-Strike##104
+12900##Audiosurf##86
+570##Dota 2##80
+8500##EVE Online##65
+250820##SteamVR##41
+224260##No More Room in Hell##22
+684450##Surviving the Aftermath##15
+8870##BioShock Infinite##14
+641990##The Escapists 2##14
+223390##Forge##13
+1213210##Command & Conquer™ Remastered Collection##13
+550650##Black Squad##7
+493340##Planet Coaster##4
+362300##Just Survive Test Server##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+950670##Gothic Playable Teaser##0
+205790##Dota 2 Test##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+912290##Miscreated: Experimental Server##0
+319150##Hazard Ops##0
+407530##ARK: Survival Of The Fittest##0
+524440##Tom Clancy's The Division PTS##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+555160##Pavlov VR##0
+1172470##Apex Legends##0
+@@REVIEW
+730##Recommended

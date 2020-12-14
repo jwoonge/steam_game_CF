@@ -1,0 +1,143 @@
+@@GAME
+281990##Stellaris##43788
+220660##StarDrive##29439
+457140##Oxygen Not Included##21562
+40100##Supreme Commander 2##14281
+41700##S.T.A.L.K.E.R.: Call of Pripyat##12495
+550##Left 4 Dead 2##10899
+22380##Fallout: New Vegas##8481
+72850##The Elder Scrolls V: Skyrim##8226
+377160##Fallout 4##8001
+252450##StarDrive 2##4667
+289130##Endless Legend™ - Emperor Edition##4327
+500##Left 4 Dead##3907
+49520##Borderlands 2##3372
+264710##Subnautica##2965
+255710##Cities: Skylines##2737
+24780##SimCity 4 Deluxe##2692
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##2570
+8930##Sid Meier's Civilization V##2316
+13210##Unreal Tournament 3: Black Edition##2295
+17450##Dragon Age: Origins##2226
+218230##PlanetSide 2##2071
+24980##Mass Effect 2##1998
+238010##Deus Ex: Human Revolution - Director's Cut##1614
+1250##Killing Floor##1609
+9420##Supreme Commander: Forged Alliance##1592
+337000##Deus Ex: Mankind Divided™##1555
+13250##Unreal Gold##1546
+362890##Black Mesa##1382
+43110##Metro 2033##1360
+20500##Red Faction: Guerrilla Steam Edition##1215
+17520##Synergy##1149
+212680##FTL: Faster Than Light##1056
+20510##S.T.A.L.K.E.R.: Clear Sky##1033
+1213210##Command & Conquer™ Remastered Collection##880
+200710##Torchlight II##870
+582010##Monster Hunter: World##791
+440##Team Fortress 2##746
+379720##DOOM##712
+24790##Command and Conquer 3: Tiberium Wars##699
+201810##Wolfenstein: The New Order##657
+41070##Serious Sam 3: BFE##654
+29720##Guild Wars##643
+43160##Metro: Last Light##632
+3590##Plants vs. Zombies: Game of the Year##626
+1091500##Cyberpunk 2077##602
+2760##Neverwinter Nights 2: Platinum##574
+105600##Terraria##488
+221380##Age of Empires II (2013)##465
+10500##Total War: EMPIRE - Definitive Edition##403
+17480##Command and Conquer: Red Alert 3##383
+130##Half-Life: Blue Shift##359
+813780##Age of Empires II: Definitive Edition##354
+219990##Grim Dawn##348
+42700##Call of Duty: Black Ops##305
+8980##Borderlands GOTY##301
+50##Half-Life: Opposing Force##271
+6000##STAR WARS™ Republic Commando##265
+33120##Alien Shooter 2: Reloaded##241
+782330##DOOM Eternal##238
+15320##IL-2 Sturmovik: 1946##231
+939960##Far Cry New Dawn##215
+35720##Trine 2##201
+322330##Don't Starve Together##184
+229100##Dragon's Prophet##180
+58610##Wargame: European Escalation##166
+239140##Dying Light##147
+70##Half-Life##144
+2270##Wolfenstein 3D##144
+220##Half-Life 2##142
+480490##Prey##132
+226860##Galactic Civilizations III##115
+22300##Fallout 3##111
+24810##Command and Conquer 3: Kane's Wrath##90
+91310##Dead Island##89
+207250##Cubemen##71
+214770##Guacamelee! Gold Edition##67
+201700##DiRT Showdown##65
+22610##Alien Breed: Impact##58
+22320##The Elder Scrolls III: Morrowind##57
+826630##Iron Harvest##48
+314160##Microsoft Flight Simulator X: Steam Edition##43
+380##Half-Life 2: Episode One##38
+253250##Stonehearth##38
+219740##Don't Starve##35
+208140##Endless Space##28
+13240##Unreal Tournament: Game of the Year Edition##27
+17330##Crysis Warhead##26
+33130##Zombie Shooter##25
+48000##LIMBO##24
+667720##Red Faction Guerrilla Re-Mars-tered##21
+21170##Gotham City Impostors##21
+33110##Alien Shooter: Revisited##20
+65800##Dungeon Defenders##14
+39680##The Guild II: Renaissance##12
+70000##Dino D-Day##7
+38400##Fallout##4
+730##Counter-Strike: Global Offensive##4
+10##Counter-Strike##3
+4550##Titan Quest: Immortal Throne##3
+4540##Titan Quest##2
+4760##Rome: Total War##2
+420##Half-Life 2: Episode Two##1
+399750##Mad Max System Test##1
+412020##Metro Exodus##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+475150##Titan Quest Anniversary Edition##0
+4770##Rome: Total War - Alexander##0
+400##Portal##0
+7940##Call of Duty 4: Modern Warfare##0
+17340##Crysis Wars##0
+200060##Sacred 2: Fallen Angel (EU)##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+33100##Alien Shooter##0
+729040##Borderlands GOTY Enhanced##0
+8190##Just Cause 2##0
+34010##Alpha Protocol##0
+39650##The Guild II##0
+39660##The Guild II - Pirates of the European Seas##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+9350##Supreme Commander##0
+564310##Serious Sam Fusion 2017 (beta)##0
+206210##Gotham City Impostors: Free To Play##0
+1083500##PlanetSide 2 - Test##0
+224260##No More Room in Hell##0
+203770##Crusader Kings II##0
+236090##Dust: An Elysian Tail##0
+424370##Wolcen: Lords of Mayhem##0
+289070##Sid Meier's Civilization VI##0
+1097150##Fall Guys: Ultimate Knockout##0
+@@REVIEW
+238010##Recommended

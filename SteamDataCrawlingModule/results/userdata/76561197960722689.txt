@@ -1,0 +1,35 @@
+@@GAME
+730##Counter-Strike: Global Offensive##58397
+10##Counter-Strike##16461
+221380##Age of Empires II (2013)##3878
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##3442
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2337
+239140##Dying Light##474
+105450##Age of Empires® III (2007)##143
+630##Alien Swarm##52
+223710##Cry of Fear##41
+863550##HITMAN™ 2##35
+440##Team Fortress 2##34
+42680##Call of Duty: Modern Warfare 3##31
+218230##PlanetSide 2##22
+243040##Startopia##14
+392160##X4: Foundations##13
+291480##Warface##12
+611500##Quake Champions##11
+274170##Hotline Miami 2: Wrong Number##7
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+63380##Sniper Elite V2##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+222480##Resident Evil Revelations##0
+278460##Skyborn##0
+550650##Black Squad##0
+544920##Darwin Project##0
+@@REVIEW
+730##Recommended

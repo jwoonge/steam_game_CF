@@ -1,0 +1,46 @@
+@@GAME
+730##Counter-Strike: Global Offensive##285268
+10##Counter-Strike##39325
+268850##EVGA Precision X1##1207
+479130##ESEA##418
+222420##THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION##378
+20##Team Fortress Classic##75
+570##Dota 2##20
+433850##Z1 Battle Royale##13
+439700##H1Z1: Test Server##8
+550650##Black Squad##4
+30##Day of Defeat##3
+70##Half-Life##2
+413850##CS:GO Player Profiles##2
+60##Ricochet##1
+130##Half-Life: Blue Shift##1
+403900##Clergy Splode##1
+413858##CS:GO Player Profiles: device - Team SoloMid##1
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+316010##Magic Duels##0
+205790##Dota 2 Test##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+@@REVIEW

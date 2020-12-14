@@ -1,0 +1,157 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+300##Day of Defeat: Source##0
+240##Counter-Strike: Source##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12130##Manhunt##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+12160##Midnight Club II##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12190##Wild Metal Country##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+26800##Braid##0
+3590##Plants vs. Zombies: Game of the Year##0
+29650##Aion Collectors Edition##0
+41500##Torchlight##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+12840##DiRT 2##0
+41300##Altitude##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+47810##Dragon Age: Origins - Ultimate Edition##0
+620##Portal 2##0
+105600##Terraria##0
+47890##The Sims(TM) 3##0
+107100##Bastion##0
+102600##Orcs Must Die!##0
+72850##The Elder Scrolls V: Skyrim##0
+207080##Indie Game: The Movie##0
+50300##Spec Ops: The Line##0
+206440##To the Moon##0
+730##Counter-Strike: Global Offensive##0
+216110##Tiny Troopers##0
+212680##FTL: Faster Than Light##0
+49520##Borderlands 2##0
+200510##XCOM: Enemy Unknown##0
+200170##Worms Revolution##0
+230410##Warframe##0
+8930##Sid Meier's Civilization V##0
+242760##The Forest##0
+218620##PAYDAY 2##0
+252950##Rocket League##0
+219990##Grim Dawn##0
+271590##Grand Theft Auto V##0
+213670##South Park™: The Stick of Truth™##0
+231430##Company of Heroes 2##0
+304430##INSIDE##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+214490##Alien: Isolation##0
+327410##A Bird Story##0
+261640##Borderlands: The Pre-Sequel##0
+329070##SpyParty##0
+330020##Children of Morta##0
+274940##Depth##0
+305620##The Long Dark##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+362620##Software Inc.##0
+367520##Hollow Knight##0
+322330##Don't Starve Together##0
+381210##Dead by Daylight##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+402020##The Park##0
+413150##Stardew Valley##0
+424840##Little Nightmares##0
+434170##The Jackbox Party Pack 3##0
+445980##Wizard of Legend##0
+453090##Parkitect##0
+379720##DOOM##0
+489940##BATTALION 1944##0
+493520##GTFO##0
+505460##Foxhole##0
+518790##theHunter: Call of the Wild™##0
+535930##Two Point Hospital##0
+418370##Resident Evil 7 Biohazard##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+548430##Deep Rock Galactic##0
+337340##Finding Paradise##0
+557340##My Friend Pedro##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+606140##Survived By##0
+610180##The Jackbox Party Pack 4##0
+611790##House Party##0
+613100##House Flipper##0
+621060##PC Building Simulator##0
+632360##Risk of Rain 2##0
+632470##Disco Elysium##0
+641320##Cooking Simulator##0
+641990##The Escapists 2##0
+648800##Raft##0
+677620##Splitgate: Arena Warfare##0
+682990##Drug Dealer Simulator##0
+683320##GRIS##0
+240720##Getting Over It with Bennett Foddy##0
+704850##Thief Simulator##0
+537800##Bomber Crew##0
+739630##Phasmophobia##0
+774861##Project Winter##0
+782330##DOOM Eternal##0
+815370##Green Hell##0
+817510##Golfing Over It with Alva Majo##0
+823130##Totally Accurate Battlegrounds##0
+383790##The Ship: Remasted##0
+552500##Warhammer: Vermintide 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+845070##The Awesome Adventures of Captain Spirit##0
+858210##Nova Drift##0
+863550##HITMAN™ 2##0
+728880##Overcooked! 2##0
+883710##Resident Evil 2##0
+926140##CHANGE: A Homeless Survival Experience##0
+934780##American Fugitive##0
+945360##Among Us##0
+953490##CARRION##0
+489520##Minion Masters##0
+581320##Insurgency: Sandstorm##0
+1012840##Moons of Madness##0
+1057240##Crucible##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+1097150##Fall Guys: Ultimate Knockout##0
+1046930##Dota Underlords##0
+226840##Age of Wonders III##0
+997070##Marvel's Avengers##0
+1145360##Hades##0
+@@REVIEW

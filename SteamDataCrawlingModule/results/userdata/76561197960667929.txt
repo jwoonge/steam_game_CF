@@ -1,0 +1,221 @@
+@@GAME
+730##Counter-Strike: Global Offensive##95057
+570##Dota 2##93052
+10##Counter-Strike##49585
+440##Team Fortress 2##46930
+218620##PAYDAY 2##35628
+550##Left 4 Dead 2##34078
+70##Half-Life##32866
+211##Source SDK##32734
+240##Counter-Strike: Source##32141
+221410##Steam for Linux##31855
+252490##Rust##17048
+1250##Killing Floor##12661
+359550##Tom Clancy's Rainbow Six Siege##12282
+60##Ricochet##12257
+513550##Vive le Roi##10344
+46520##Wasteland Angel##10342
+19200##Tank Universal##10340
+312960##Starion Tactics##10331
+11240##Space Trader: Merchant Marine##10330
+315260##Space Hack##10328
+528300##Soulless: Ray Of Hope##10327
+298140##Rhiannon: Curse of the Four Branches##10325
+432950##Orange Moon##10323
+11330##Obulis##10322
+11370##Nikopol: Secrets of the Immortals##10320
+11340##Larva Mortus##10318
+562800##HOUND##10317
+334070##Hektor##10315
+304930##Unturned##9542
+503940##Railway Empire##8549
+466560##Northgard##7142
+368420##Mirage: Arcane Warfare##3582
+1158310##Crusader Kings III##2899
+231430##Company of Heroes 2##2832
+389300##TERA##2361
+433850##Z1 Battle Royale##2318
+225540##Just Cause 3##2138
+342380##Sakura Angels##2077
+431960##Wallpaper Engine##2074
+679430##Skyraine##1931
+588430##Fallout Shelter##1827
+232090##Killing Floor 2##1586
+323190##Frostpunk##1383
+658560##Zup! 7##1183
+406210##Over the Dream##1062
+225260##Brütal Legend##846
+304390##For Honor##822
+619910##Just Cause™ 3: Multiplayer Mod##736
+215930##Jagged Alliance 2 - Wildfire ##720
+279720##The I of the Dragon##699
+224900##Iron Sky Invasion##688
+385410##The Journey: Bob's Story.##687
+603360##CryptoMoneya##687
+511490##Malavision: The Origin##603
+345220##Agent Awesome##563
+210770##Sanctum 2##554
+236390##War Thunder##530
+253960##Jack Orlando Director's Cut##510
+313020##Soul Gambler##508
+65930##The Bureau: XCOM Declassified##498
+261110##Killer is Dead##470
+17510##Age of Chivalry##418
+220##Half-Life 2##414
+402180##Sakura Swim Club##410
+489520##Minion Masters##409
+300##Day of Defeat: Source##397
+364050##Face It - A game to fight inner demons##383
+620##Portal 2##377
+220200##Kerbal Space Program##366
+55100##Homefront##343
+737010##Warhammer: Vermintide 2 Closed Test##342
+630##Alien Swarm##334
+500##Left 4 Dead##333
+80##Counter-Strike: Condition Zero##332
+209080##Guns of Icarus Online##330
+55150##Warhammer 40,000: Space Marine##321
+413850##CS:GO Player Profiles##321
+2400##The Ship##315
+441670##Jelly Killer##313
+96000##The Tiny Bang Story##307
+108200##Ticket to Ride##305
+556280##Neon Prism##305
+509840##El Ninja (Beta)##293
+502210##Super Markup Man##290
+92##Codename Gordon##290
+585550##FEMINAZI: The Triggering##286
+30##Day of Defeat##282
+20##Team Fortress Classic##281
+400370##Normality##275
+498320##Trolley Gold##270
+207610##The Walking Dead##269
+385800##NEKOPARA Vol. 0##269
+391720##Layers of Fear##267
+668630##Tricolour Lovestory##259
+50##Half-Life: Opposing Force##255
+253900##Knights and Merchants##249
+204880##Sins of a Solar Empire: Rebellion##243
+232770##POSTAL##243
+17520##Synergy##241
+320##Half-Life 2: Deathmatch##240
+400##Portal##233
+420##Half-Life 2: Episode Two##233
+35420##Killing Floor Mod: Defence Alliance 2##233
+340##Half-Life 2: Lost Coast##232
+380##Half-Life 2: Episode One##232
+285800##Braveland##224
+357070##UBERMOSH##220
+365450##Hacknet##166
+254080##World War III: Black Gold##161
+292910##Deponia: The Complete Journey##160
+345130##Dark Matter##149
+505040##FORTIFY##136
+265590##The Red Solstice##132
+345440##Vapour##132
+261820##Estranged: Act I##125
+8230##Sam & Max 104: Abe Lincoln Must Die!##124
+11390##Crash Time II##121
+1085660##Destiny 2##111
+46410##Avencast##99
+11360##Chains##99
+413854##CS:GO Player Profiles: olofmeister - fnatic##83
+413855##CS:GO Player Profiles: kennyS - Team Envyus##83
+413856##CS:GO Player Profiles: Edward - Na'Vi##83
+458250##CS:GO Player Profiles: karrigan - Astralis##83
+458320##CS:GO Player Profiles: Maikelele - FaZe##83
+497810##CS:GO Player Profiles: Fer - SK Gaming##83
+585282##CS:GO Player Profiles: coldzera – SK Gaming##83
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##83
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##82
+413858##CS:GO Player Profiles: device - Team SoloMid##82
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##82
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##82
+497811##CS:GO Player Profiles: Dupreeh - Astralis##82
+497813##CS:GO Player Profiles: Hiko - Team Liquid##82
+585281##CS:GO Player Profiles: Zeus - Gambit##82
+413851##CS:GO Player Profiles: n0thing - Cloud9##81
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##81
+413857##CS:GO Player Profiles: markeloff - Flipsid3##81
+413859##CS:GO Player Profiles: FalleN - Luminosity##81
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##81
+458270##CS:GO Player Profiles: Guardian - Na'Vi##81
+458300##CS:GO Player Profiles: fnx - Luminosity##81
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##81
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##81
+40##Deathmatch Classic##47
+130##Half-Life: Blue Shift##47
+402710##Osiris: New Dawn##45
+109600##Neverwinter##43
+8980##Borderlands GOTY##12
+714010##Aim Lab##12
+457590##Luna Online: Reborn##7
+364470##The Elder Scrolls: Legends##5
+354500##PAYDAY: The Web Series##4
+734550##Wheel Riders Online OBT##4
+494710##PAYDAY: The Web Series: First World Bank##3
+864940##150,000 B.C.##3
+354510##PAYDAY: The Web Series: The Vault##1
+319630##Life is Strange™##1
+611500##Quake Champions##1
+654310##For Honor - Public Test##1
+203160##Tomb Raider##1
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+214510##LEGO® The Lord of the Rings™##0
+293360##Second Chance Heroes##0
+222900##Dead Island: Epidemic##0
+729040##Borderlands GOTY Enhanced##0
+338550##Terra Lander Remastered##0
+2420##The Ship Single Player##0
+2430##The Ship Tutorial##0
+343180##Top Trumps Turbo##0
+354520##PAYDAY: The Web Series: Hector##0
+354530##PAYDAY: The Web Series: The Elephant##0
+354540##PAYDAY: The Web Series: Greta: The Assassin##0
+354550##PAYDAY: The Web Series: Vlad & Gage##0
+232150##Killing Floor 2 - SDK##0
+407730##Dungeons Of Kragmor##0
+439700##H1Z1: Test Server##0
+470740##Demolish & Build 2017##0
+518120##Chimpact 1 - Chuck's Adventure##0
+550210##Layers of Fear - Soundtrack##0
+375230##Warhammer 40,000: Eternal Crusade##0
+504370##Battlerite##0
+689360##The Thirst of Hearts##0
+681260##Red Number: Prologue##0
+720470##Caveman Alive##0
+480430##Hide and Shriek##0
+565020##Global Adventures##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+700580##Rust - Staging Branch##0
+825610##Viking's drakkars##0
+826010##JQ: chemistry##0
+828230##Dungeons of the dead##0
+859900##Owen to have fun!##0
+866150##Treasures of the Ancients: Egypt##0
+884660##CRSED##0
+43110##Metro 2033##0
+252130##Divide by Sheep##0
+282100##Fearless Fantasy##0
+325180##AppGameKit Classic##0
+226840##Age of Wonders III##0
+707010##Will To Live Online##0
+996470##eFootball PES 2020##0
+287630##The Council##0
+555000##GOAT OF DUTY##0
+797410##Headsnatchers##0
+760620##Deiland##0
+442070##Drawful 2##0
+289690##Lara Croft and the Temple of Osiris##0
+1368440##Armor Of Heroes##0
+209630##Magrunner: Dark Pulse##0
+@@REVIEW
+359550##Not Recommended
+323190##Not Recommended
+232090##Recommended
+433850##Not Recommended
+261110##Recommended
+668630##Recommended
+730##Not Recommended

@@ -1,0 +1,38 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+11020##TrackMania Nations Forever##0
+262060##Darkest Dungeon®##0
+264710##Subnautica##0
+249050##Dungeon of the Endless™ - Crystal Edition##0
+213670##South Park™: The Stick of Truth™##0
+291410##Duelyst##0
+291480##Warface##0
+282070##This War of Mine##0
+363600##Holy Potatoes! A Weapon Shop?!##0
+367450##Poly Bridge##0
+371200##Halcyon 6: Starbase Commander (CLASSIC)##0
+651660##Halcyon 6: Lightspeed Edition##0
+378720##Thea: The Awakening##0
+384180##Prominence Poker##0
+392110##Endless Space® 2 - Digital Deluxe Edition##0
+403190##Planetbase##0
+378120##Football Manager 2016##0
+268500##XCOM 2##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+397060##Faeria##0
+620590##Ancestors Legacy##0
+544920##Darwin Project##0
+872790##Football Manager 2019##0
+872820##Football Manager 2019 Touch##0
+737800##F1 2018##0
+730##Counter-Strike: Global Offensive##0
+582010##Monster Hunter: World##0
+@@REVIEW

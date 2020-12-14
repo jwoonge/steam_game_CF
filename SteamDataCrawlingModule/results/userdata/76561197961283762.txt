@@ -1,0 +1,71 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##43094
+570##Dota 2##25899
+730##Counter-Strike: Global Offensive##20762
+295110##Just Survive##18923
+387990##Scrap Mechanic##5707
+433850##Z1 Battle Royale##5482
+235540##Warhammer: End Times - Vermintide##4814
+552500##Warhammer: Vermintide 2##4304
+1097150##Fall Guys: Ultimate Knockout##4053
+105600##Terraria##2985
+221100##DayZ##2760
+301520##Robocraft##2407
+440900##Conan Exiles##2251
+296930##Ascendant##2032
+504370##Battlerite##1964
+252950##Rocket League##1556
+548430##Deep Rock Galactic##861
+10##Counter-Strike##787
+200170##Worms Revolution##760
+201790##Orcs Must Die! 2##638
+236110##Dungeon Defenders II##618
+200710##Torchlight II##554
+238960##Path of Exile##520
+22330##The Elder Scrolls IV: Oblivion ##496
+250320##The Wolf Among Us##459
+207140##SpeedRunners##439
+207610##The Walking Dead##388
+238370##Magicka 2##384
+945360##Among Us##374
+1057240##Crucible##371
+218230##PlanetSide 2##358
+813820##Realm Royale##358
+269770##Secrets of Grindea##300
+249950##Forge Quest##295
+70##Half-Life##272
+394510##HELLDIVERS™##272
+258970##Gauntlet™ ##267
+322330##Don't Starve Together##231
+50##Half-Life: Opposing Force##208
+344760##Reign Of Kings##194
+221380##Age of Empires II (2013)##124
+130##Half-Life: Blue Shift##105
+611500##Quake Champions##66
+291550##Brawlhalla##64
+346110##ARK: Survival Evolved##61
+30##Day of Defeat##52
+208480##Assassin's Creed® III##40
+352460##Dead Realm##40
+216150##MapleStory##30
+386360##SMITE##27
+291480##Warface##22
+39210##FINAL FANTASY XIV Online##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+205790##Dota 2 Test##0
+11020##TrackMania Nations Forever##0
+1083500##PlanetSide 2 - Test##0
+368730##No Time To Explain Remastered##0
+261030##The Walking Dead: Season Two##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+407530##ARK: Survival Of The Fittest##0
+397080##Magicka 2: Spell Balance Beta##0
+858460##SMITE - Public Test##0
+931180##Conan Exiles - Testlive Client##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+427460##Battlerite Public Test##0
+878760##Realm Royale - Test Server##0
+@@REVIEW

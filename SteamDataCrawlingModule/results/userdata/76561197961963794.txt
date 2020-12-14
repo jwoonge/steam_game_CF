@@ -1,0 +1,102 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##9888
+433850##Z1 Battle Royale##5648
+240##Counter-Strike: Source##2540
+381210##Dead by Daylight##1941
+440##Team Fortress 2##1641
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##1504
+273350##Evolve Stage 2##1382
+359550##Tom Clancy's Rainbow Six Siege##902
+271590##Grand Theft Auto V##748
+1046930##Dota Underlords##538
+254590##Theme Park Studio##456
+12200##Bully: Scholarship Edition##423
+260430##The Four Kings Casino and Slots##411
+570##Dota 2##270
+730##Counter-Strike: Global Offensive##229
+1057240##Crucible##227
+252950##Rocket League##215
+438740##Friday the 13th: The Game##215
+493340##Planet Coaster##207
+555570##Infestation: The New Z##150
+550##Left 4 Dead 2##145
+755790##Ring of Elysium##142
+466240##Deceit##133
+620##Portal 2##123
+220##Half-Life 2##116
+255710##Cities: Skylines##115
+243870##Tom Clancy's Ghost Recon Phantoms - NA##111
+113400##APB Reloaded##110
+291480##Warface##105
+287450##Rise of Nations: Extended Edition##100
+458960##Winning Putt: Golf Online##84
+204100##Max Payne 3##80
+355840##Survarium##78
+905370##Conqueror's Blade##67
+227940##Heroes & Generals##64
+714010##Aim Lab##63
+438100##VRChat##54
+339610##FreeStyle 2: Street Basketball##52
+439700##H1Z1: Test Server##50
+32370##STAR WARS™: Knights of the Old Republic™##44
+611500##Quake Champions##44
+24780##SimCity 4 Deluxe##42
+568810##FreeStyleFootball##41
+110800##L.A. Noire##40
+203290##America's Army: Proving Grounds##40
+809960##Radical Heights##38
+208090##Loadout##37
+823130##Totally Accurate Battlegrounds##33
+253710##theHunter Classic##32
+226320##Marvel Heroes Omega##30
+218230##PlanetSide 2##26
+333930##Dirty Bomb##25
+317360##Double Action: Boogaloo##24
+1180380##Stay Out##24
+884660##CRSED##23
+553660##PWND##22
+1124980##Watchers##22
+417910##Street Warriors Online##21
+291550##Brawlhalla##20
+485380##Welcome to the Game##20
+527340##What The Box?##20
+321400##Supraball##20
+224260##No More Room in Hell##19
+558660##it's always monday##19
+506540##Last Man Standing##19
+222900##Dead Island: Epidemic##18
+999860##Enemy On Board##17
+238960##Path of Exile##16
+677620##Splitgate: Arena Warfare##15
+766570##Russian Fishing 4##14
+380600##Fishing Planet##13
+349700##Aftermath##12
+244930##SNOW##12
+512470##The Pirate: Caribbean Hunt##10
+34330##Total War: SHOGUN 2##10
+673560##IOSoccer##7
+1283220##Devolverland Expo##7
+707680##Slapshot##4
+251950##World War II Online##2
+325180##AppGameKit Classic##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+439350##Kritika:REBOOT##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+591530##Hyper Universe##0
+544920##Darwin Project##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+226840##Age of Wonders III##0
+1131720##Prop and Seek##0
+@@REVIEW

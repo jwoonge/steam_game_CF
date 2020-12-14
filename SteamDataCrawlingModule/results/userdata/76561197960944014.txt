@@ -1,0 +1,44 @@
+@@GAME
+730##Counter-Strike: Global Offensive##100627
+10##Counter-Strike##32100
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##23638
+295110##Just Survive##7944
+218620##PAYDAY 2##2293
+433850##Z1 Battle Royale##1440
+271590##Grand Theft Auto V##1207
+570##Dota 2##825
+381210##Dead by Daylight##473
+109600##Neverwinter##309
+1085660##Destiny 2##154
+440##Team Fortress 2##147
+550650##Black Squad##145
+290140##Echo of Soul##87
+291480##Warface##77
+238960##Path of Exile##67
+212160##Vindictus##59
+863550##HITMAN™ 2##55
+359550##Tom Clancy's Rainbow Six Siege##42
+813820##Realm Royale##35
+230410##Warframe##20
+403900##Clergy Splode##10
+444560##Agent Origins: Escape##10
+1172470##Apex Legends##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+212500##The Lord of the Rings Online™##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+755790##Ring of Elysium##0
+878760##Realm Royale - Test Server##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+730##Recommended

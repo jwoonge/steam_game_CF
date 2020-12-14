@@ -1,0 +1,160 @@
+@@GAME
+730##Counter-Strike: Global Offensive##102164
+4000##Garry's Mod##83423
+8930##Sid Meier's Civilization V##17647
+255710##Cities: Skylines##9697
+252490##Rust##7580
+289070##Sid Meier's Civilization VI##7486
+47890##The Sims(TM) 3##6529
+242760##The Forest##6488
+271590##Grand Theft Auto V##6181
+387990##Scrap Mechanic##5050
+313120##Stranded Deep##4573
+259080##Just Cause 2: Multiplayer Mod##4471
+292030##The Witcher 3: Wild Hunt##4008
+431960##Wallpaper Engine##3902
+552990##World of Warships##3822
+240##Counter-Strike: Source##3755
+397340##SimplePlanes##3502
+242050##Assassin's Creed IV Black Flag##2355
+304930##Unturned##2053
+298110##Far Cry 4##2029
+265930##Goat Simulator##2028
+440##Team Fortress 2##1999
+905370##Conqueror's Blade##1639
+636480##Ravenfield##1581
+8190##Just Cause 2##1492
+266310##GameGuru##1449
+420290##Blackwake##1406
+222880##Insurgency##1347
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1315
+914620##Mist Survival##1233
+231430##Company of Heroes 2##1191
+332310##LEGO® Worlds##1185
+438100##VRChat##1074
+24240##PAYDAY: The Heist##1067
+284160##BeamNG.drive##1012
+327090##Out of Reach##973
+648800##Raft##825
+4560##Company of Heroes - Legacy Edition##791
+594330##Visage##767
+489460##The Last Leviathan##744
+466240##Deceit##680
+427730##Who's Your Daddy?!##654
+227300##Euro Truck Simulator 2##582
+381210##Dead by Daylight##562
+2400##The Ship##547
+215470##Primal Carnage##527
+815370##Green Hell##504
+346330##BrainBread 2##431
+508550##Sneak Thief##422
+228200##Company of Heroes ##421
+368360##60 Seconds!##353
+616560##Ultimate Epic Battle Simulator##334
+386880##Rake##325
+506540##Last Man Standing##301
+657200##Hand Simulator##268
+298240##War Trigger 3##252
+507010##Mr.President!##240
+434570##Blood and Bacon##210
+322170##Geometry Dash##176
+10##Counter-Strike##170
+485380##Welcome to the Game##170
+759530##Struckd - 3D Game Creator##163
+262410##World of Guns: Gun Disassembly##159
+581630##Sword With Sauce##146
+352950##Better Late Than DEAD##136
+700330##SCP: Secret Laboratory##124
+296830##Lucius II##115
+589590##Kindergarten##104
+3590##Plants vs. Zombies: Game of the Year##100
+424840##Little Nightmares##97
+550##Left 4 Dead 2##91
+227940##Heroes & Generals##90
+221910##The Stanley Parable##87
+265210##Viscera Cleanup Detail: Santa's Rampage##84
+230290##Universe Sandbox##82
+430070##Never Again##77
+823130##Totally Accurate Battlegrounds##66
+568090##Tattletail##63
+394120##Atom Universe##60
+236390##War Thunder##55
+674940##Stick Fight: The Game##54
+310370##The Way of Life Free Edition##51
+387860##the static speaks my name##48
+300##Day of Defeat: Source##46
+211##Source SDK##37
+337950##The SKIES##32
+2420##The Ship Single Player##30
+304050##Trove##28
+929860##Game Builder##27
+444090##Paladins##26
+355180##Codename CURE##25
+365670##Blender##25
+813820##Realm Royale##25
+884660##CRSED##19
+316390##Anomaly Zone##13
+578600##A Step Into Darkness##12
+253710##theHunter Classic##11
+273350##Evolve Stage 2##11
+1104390##Ravenfield: Multiplayer Mod##10
+397100##MachineCraft##9
+496920##Moirai##9
+466910##Worm.is: The Game##8
+353130##Time of Dragons##7
+384110##Pathologic Classic HD##7
+458560##Plastic Playground##6
+521340##True or False##6
+665490##The Monster Inside##6
+30##Day of Defeat##5
+227240##Construct 2 Free##5
+530330##Blameless##5
+340##Half-Life 2: Lost Coast##4
+218230##PlanetSide 2##4
+360870##Ultimate Tic-Tac-Toe##4
+404790##Godot Engine##4
+412940##Back to Dinosaur Island ##4
+265630##Fistful of Frags##3
+291480##Warface##3
+407530##ARK: Survival Of The Fittest##2
+310380##Fractured Space##2
+713860##My Name is Addiction##2
+350990##Bloodwood Reload##1
+468560##Blind Trust##1
+324810##TOXIKK##1
+550040##Steep Open Beta##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+17410##Mirror's Edge##0
+24780##SimCity 4 Deluxe##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+700580##Rust - Staging Branch##0
+273110##Counter-Strike Nexon: Studio##0
+227700##Firefall##0
+2430##The Ship Tutorial##0
+355840##Survarium##0
+1012880##60 Seconds! Reatomized##0
+433350##BlackShot: Mercenary Warfare FPS##0
+244930##SNOW##0
+596350##Paladins - Public Test##0
+878760##Realm Royale - Test Server##0
+619080##SOS##0
+802240##SOS: Classic##0
+@@REVIEW
+292030##Recommended
+289070##Recommended
+594330##Recommended
+242050##Recommended
+352950##Not Recommended
+815370##Recommended
+387990##Recommended
+418460##Recommended
+231430##Recommended
+266310##Not Recommended

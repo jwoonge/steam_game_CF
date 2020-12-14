@@ -1,0 +1,29 @@
+@@GAME
+440##Team Fortress 2##326
+220##Half-Life 2##273
+730##Counter-Strike: Global Offensive##28
+10##Counter-Strike##23
+80##Counter-Strike: Condition Zero##23
+100##Counter-Strike: Condition Zero Deleted Scenes##23
+240##Counter-Strike: Source##23
+4000##Garry's Mod##23
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+620##Portal 2##0
+1250##Killing Floor##0
+@@REVIEW

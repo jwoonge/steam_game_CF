@@ -1,0 +1,38 @@
+@@GAME
+730##Counter-Strike: Global Offensive##213
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+303390##Dead Bits##0
+673660##Neon Hardcore##0
+685790##Ruthless Safari##0
+686570##Freedom Defender##0
+688630##Nightork Adventures 2 - Legacy of Chaos##0
+701720##2D Neon Cube##0
+715470##Rocks and Rockets##0
+720480##Flappy Galaxy##0
+632050##The Village##0
+730760##Go! Go! Radio : 8-Bit Edition##0
+732090##Dragon Perception##0
+732840##Nullysun##0
+733250##Mover##0
+742010##Lab 03 Yrinth##0
+748430##Cube Color##0
+755230##Target speed##0
+756560##Robot Warriors##0
+759010##Escape##0
+761640##Home Darkness - Escape##0
+765620##Last Hope##0
+775720##Lozenge##0
+775730##Dialing##0
+781610##Night Fly##0
+796320##Potatoe##0
+798560##Inaccessible world##0
+810610##Mission Of Hero##0
+821850##OldFactory##0
+@@REVIEW

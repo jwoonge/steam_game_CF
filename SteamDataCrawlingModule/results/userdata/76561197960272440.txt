@@ -1,0 +1,76 @@
+@@GAME
+397540##Borderlands 3##6034
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##5229
+730##Counter-Strike: Global Offensive##5153
+49520##Borderlands 2##5119
+252490##Rust##3450
+239140##Dying Light##2870
+45760##Ultra Street Fighter IV##1862
+1172380##STAR WARS Jedi: Fallen Order™ ##1656
+213850##Magic 2014 ##1295
+271590##Grand Theft Auto V##935
+220##Half-Life 2##841
+221100##DayZ##795
+620##Portal 2##514
+420##Half-Life 2: Episode Two##330
+400##Portal##317
+273350##Evolve Stage 2##247
+261640##Borderlands: The Pre-Sequel##246
+10090##Call of Duty: World at War##245
+380##Half-Life 2: Episode One##236
+307780##Mortal Kombat X##226
+601840##Griftlands##226
+201790##Orcs Must Die! 2##212
+1286830##STAR WARS™: The Old Republic™##204
+570##Dota 2##204
+91600##Sanctum##188
+33930##Arma 2: Operation Arrowhead##186
+500##Left 4 Dead##139
+440##Team Fortress 2##113
+28050##Deus Ex: Human Revolution##102
+526870##Satisfactory##86
+434170##The Jackbox Party Pack 3##61
+200710##Torchlight II##50
+26800##Braid##47
+1222730##STAR WARS™: Squadrons##36
+17460##Mass Effect##29
+10##Counter-Strike##28
+202090##Magicka: Wizard Wars##21
+15620##Warhammer 40,000: Dawn of War II##20
+292030##The Witcher 3: Wild Hunt##19
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##15
+224580##Arma 2: DayZ Mod##14
+240##Counter-Strike: Source##13
+42680##Call of Duty: Modern Warfare 3##13
+1085660##Destiny 2##11
+58510##Cities XL 2011##7
+268850##EVGA Precision X1##7
+33900##Arma 2##5
+273110##Counter-Strike Nexon: Studio##5
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+4000##Garry's Mod##0
+12900##Audiosurf##0
+20900##The Witcher: Enhanced Edition##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+252950##Rocket League##0
+222880##Insurgency##0
+227700##Firefall##0
+646570##Slay the Spire##0
+@@REVIEW
+397540##Recommended

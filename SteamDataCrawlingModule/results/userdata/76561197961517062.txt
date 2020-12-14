@@ -1,0 +1,90 @@
+@@GAME
+10##Counter-Strike##2409
+252490##Rust##2204
+730##Counter-Strike: Global Offensive##1721
+570##Dota 2##1312
+278360##A Story About My Uncle##939
+370910##Kathy Rain##683
+282100##Fearless Fantasy##568
+311730##Dead or Alive 5 Last Round##493
+863550##HITMAN™ 2##456
+204880##Sins of a Solar Empire: Rebellion##380
+606870##MetaMorph##365
+308600##Geneshift##306
+442080##Riders of Icarus##302
+50##Half-Life: Opposing Force##277
+677380##Disco Destruction##277
+285800##Braveland##269
+896890##VR Paradise##258
+233130##Shadow Warrior##243
+440##Team Fortress 2##234
+468240##VR Regatta - The Sailing Game##227
+807140##Marble Run 2D##227
+343710##KHOLAT##208
+644610##Drums Hero PC##197
+351940##The Descendant##183
+252150##Grimm##182
+232770##POSTAL##181
+641780##The Drone Racing League Simulator##113
+386360##SMITE##88
+275390##Guacamelee! Super Turbo Championship Edition##74
+715210##The Pillage##63
+446030##Corroded##62
+513650##Zula Europe##62
+700580##Rust - Staging Branch##31
+283880##Heroine's Quest: The Herald of Ragnarok##31
+427270##Orcs Must Die! Unchained##31
+878380##东方大战争 ~ Touhou Big Big Battle##31
+266310##GameGuru##31
+44350##GRID 2##31
+684680##Polygoneer##31
+431930##Kabounce##31
+612170##One Eyed Kutkh##30
+608990##The Archotek Project##29
+769920##Odysseus Kosmos and his Robot Quest - Episode 1##29
+30##Day of Defeat##1
+40##Deathmatch Classic##1
+20##Team Fortress Classic##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+247120##Portal 2 Sixense Perceptual Pack##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+272060##Serena##0
+270570##Reversion - The Escape##0
+330000##Kingdoms CCG##0
+345580##Universal Combat CE##0
+346290##Penumbra: Necrologue##0
+298180##The Desolate Hope##0
+858460##SMITE - Public Test##0
+397720##Romance of the Three Kingdoms Maker##0
+417910##Street Warriors Online##0
+512630##VR Gallery##0
+558660##it's always monday##0
+575110##Magic Lantern##0
+582890##Estranged: The Departure##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+596350##Paladins - Public Test##0
+608110##Null Vector##0
+647670##Grand Expanse##0
+639190##SANKHARA##0
+656120##Fantasya Final Definitiva REMAKE##0
+692530##Community Garden##0
+760510##Cat Burglar: A Tail of Purrsuit##0
+319830##AX:EL##0
+791380##Way Out##0
+644670##Deus Vult##0
+820040##Picross Fairytale: Legend of the Mermaid##0
+831450##Kolb Antarctica Experience##0
+845070##The Awesome Adventures of Captain Spirit##0
+783140##Replace of the Reality beta##0
+850500##Slum Ball VR Tournament##0
+722670##中国象棋##0
+680780##Death Train VR##0
+905370##Conqueror's Blade##0
+658420##Agents of Aggro City Online##0
+252130##Divide by Sheep##0
+325180##AppGameKit Classic##0
+780800##Ball laB##0
+567730##Merry Snowballs##0
+@@REVIEW

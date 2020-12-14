@@ -1,0 +1,132 @@
+@@GAME
+230410##Warframe##44882
+255710##Cities: Skylines##40484
+1286830##STAR WARS™: The Old Republic™##25513
+377160##Fallout 4##24721
+440##Team Fortress 2##22052
+211820##Starbound##18387
+271590##Grand Theft Auto V##15790
+548430##Deep Rock Galactic##14358
+730##Counter-Strike: Global Offensive##10603
+238960##Path of Exile##10388
+240##Counter-Strike: Source##7912
+493340##Planet Coaster##7676
+281990##Stellaris##7625
+200710##Torchlight II##7193
+1080110##F1 2020##5998
+22380##Fallout: New Vegas##4917
+500##Left 4 Dead##3882
+453090##Parkitect##3603
+715050##The Islander##3146
+219990##Grim Dawn##2858
+55230##Saints Row: The Third##2629
+252950##Rocket League##2625
+50130##Mafia II (Classic)##2616
+600480##Megaquarium##2613
+17020##Global Agenda##2594
+619780##The Swords of Ditto: Mormo's Curse##2404
+412020##Metro Exodus##2217
+295110##Just Survive##2197
+218230##PlanetSide 2##2149
+868360##Project Hospital##2096
+503940##Railway Empire##1977
+108600##Project Zomboid##1955
+362890##Black Mesa##1945
+813780##Age of Empires II: Definitive Edition##1697
+1042160##The Islander: Town Architect##1550
+361800##Tree of Life##1531
+1017900##Age of Empires: Definitive Edition##1326
+269210##Hero Siege##1105
+1222680##Need for Speed™ Heat ##1049
+209870##Blacklight: Retribution##991
+433340##Slime Rancher##977
+375480##Chronicon##943
+1071290##Wild West and Wizards##919
+379720##DOOM##819
+703080##Planet Zoo##807
+413150##Stardew Valley##766
+239070##Hammerwatch##762
+258970##Gauntlet™ ##758
+326150##Death Skid Marks##708
+222880##Insurgency##707
+105600##Terraria##679
+996580##Spyro™ Reignited Trilogy##650
+869760##Stoneshard: Prologue##610
+300380##Road Redemption##605
+225140##Duke Nukem 3D: Megaton Edition##578
+57900##Duke Nukem Forever##522
+414190##Junk Jack##517
+269770##Secrets of Grindea##504
+1085660##Destiny 2##442
+220##Half-Life 2##435
+620##Portal 2##387
+342490##Shipwreck##371
+380##Half-Life 2: Episode One##366
+1091500##Cyberpunk 2077##352
+1046030##ISLANDERS##309
+307640##Stick RPG 2##293
+108800##Crysis 2 Maximum Edition##288
+204630##Retro City Rampage™ DX##266
+550650##Black Squad##260
+346010##Besiege##256
+249630##Delver##251
+105450##Age of Empires® III (2007)##238
+323370##TERA##227
+201810##Wolfenstein: The New Order##213
+389140##Horizon Chase Turbo##208
+746850##Cloudpunk##173
+320300##Car Mechanic Simulator 2015##165
+420##Half-Life 2: Episode Two##155
+346110##ARK: Survival Evolved##140
+739630##Phasmophobia##137
+244770##StarMade##135
+225160##Shadow Warrior Classic Redux##133
+829590##CryoFall##128
+130##Half-Life: Blue Shift##124
+332500##GRAV##123
+532190##Super Blood Hockey##121
+244210##Assetto Corsa##115
+1146310##Beyond a Steel Sky##114
+275200##Westerado: Double Barreled##104
+331440##bit Dungeon II##90
+402710##Osiris: New Dawn##86
+3590##Plants vs. Zombies: Game of the Year##73
+32400##STAR WARS™: Dark Forces##71
+630##Alien Swarm##64
+307690##Sleeping Dogs: Definitive Edition##62
+304930##Unturned##49
+261980##Half-Life: Before##31
+350080##Wolfenstein: The Old Blood ##24
+212500##The Lord of the Rings Online™##19
+587650##Half-Life 2: DownFall##12
+70##Half-Life##3
+10##Counter-Strike##1
+40##Deathmatch Classic##1
+340##Half-Life 2: Lost Coast##1
+407530##ARK: Survival Of The Fittest##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+320##Half-Life 2: Deathmatch##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+1083500##PlanetSide 2 - Test##0
+367540##Starbound - Unstable##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+696260##Tree of Life - Experimental Server##0
+1030830##Mafia II: Definitive Edition##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+@@REVIEW
+1091500##Recommended
+1080110##Recommended
+1286830##Recommended
+730##Recommended
+1042160##Recommended
+703080##Recommended
+619780##Recommended
+548430##Recommended
+454350##Not Recommended
+55230##Recommended

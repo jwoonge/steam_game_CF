@@ -1,0 +1,184 @@
+@@GAME
+230410##Warframe##39770
+440##Team Fortress 2##23981
+550##Left 4 Dead 2##19092
+17390##Spore##12706
+500##Left 4 Dead##5881
+240##Counter-Strike: Source##4352
+729040##Borderlands GOTY Enhanced##4020
+730##Counter-Strike: Global Offensive##3748
+304050##Trove##3718
+49520##Borderlands 2##3430
+17080##Tribes: Ascend##3384
+1172470##Apex Legends##3161
+22370##Fallout 3 - Game of the Year Edition##2875
+960090##Bloons TD 6##2808
+212680##FTL: Faster Than Light##2648
+250820##SteamVR##2467
+243870##Tom Clancy's Ghost Recon Phantoms - NA##2305
+535930##Two Point Hospital##2086
+201790##Orcs Must Die! 2##1775
+219990##Grim Dawn##1748
+739630##Phasmophobia##1688
+221680##Rocksmith® 2014 Edition - Remastered##1555
+42910##Magicka##1504
+424370##Wolcen: Lords of Mayhem##1449
+18500##Defense Grid: The Awakening##1298
+239820##Game Dev Tycoon##1154
+3590##Plants vs. Zombies: Game of the Year##1136
+620##Portal 2##1112
+471710##Rec Room##1059
+6200##Ghost Master##1014
+379720##DOOM##1011
+70##Half-Life##874
+4920##Natural Selection 2##871
+444640##Bloons TD Battles##859
+409710##BioShock Remastered##828
+1097150##Fall Guys: Ultimate Knockout##783
+44200##Galcon Fusion##775
+8980##Borderlands GOTY##743
+1510##Uplink##730
+102600##Orcs Must Die!##631
+7670##BioShock##615
+409720##BioShock 2 Remastered##571
+22380##Fallout: New Vegas##536
+570##Dota 2##501
+684410##Bridge Constructor Portal##483
+234710##Poker Night 2##474
+1237970##Titanfall® 2##432
+292800##Pajama Sam 3: You Are What You Eat From Your Head To Your Feet##414
+72850##The Elder Scrolls V: Skyrim##406
+525620##Octogeddon##391
+10680##Aliens vs. Predator##388
+630##Alien Swarm##377
+31280##Poker Night at the Inventory##358
+17300##Crysis##354
+200010##Quantum Conundrum##300
+400##Portal##278
+1250##Killing Floor##275
+942970##Unheard##267
+979060##Bloons Adventure Time TD##265
+40800##Super Meat Boy##263
+220##Half-Life 2##256
+65800##Dungeon Defenders##247
+15500##The Wonderful End of the World##215
+283920##Putt-Putt Joins the Parade##215
+202530##SONIC THE HEDGEHOG 4 Episode I##206
+17020##Global Agenda##205
+15700##Oddworld: Abe's Oddysee##186
+3470##Bookworm Adventures Deluxe##177
+22000##World of Goo##167
+292820##Pajama Sam 4: Life Is Rough When You Lose Your Stuff!##154
+6210##Vegas: Make It Big##147
+15540##1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)##146
+292780##Pajama Sam 2: Thunder And Lightning Aren't So Frightening##141
+356670##Spooky's Jump Scare Mansion##141
+294670##Putt-Putt Travels Through Time##136
+3320##Insaniquarium! Deluxe##130
+98600##Demolition, Inc.##130
+91600##Sanctum##121
+3480##Peggle Deluxe##120
+12100##Grand Theft Auto III##117
+205100##Dishonored##111
+12120##Grand Theft Auto: San Andreas##103
+283960##Pajama Sam in No Need to Hide When It's Dark Outside##102
+43110##Metro 2033##93
+224480##Octodad: Dadliest Catch##83
+213670##South Park™: The Stick of Truth™##62
+50##Half-Life: Opposing Force##59
+12900##Audiosurf##58
+346010##Besiege##58
+380##Half-Life 2: Episode One##54
+38720##RUSH##52
+564330##In Your Face TD##51
+24240##PAYDAY: The Heist##47
+12510##Prison Tycoon 3: Lockdown##44
+223470##POSTAL 2##44
+247020##Cook, Serve, Delicious!##39
+15520##AaAaAA!!! - A Reckless Disregard for Gravity##37
+38700##Toki Tori##37
+231160##The Swapper##35
+26500##Cogs##34
+35460##The Ball##34
+273350##Evolve Stage 2##34
+225260##Brütal Legend##33
+107200##Space Pirates and Zombies##28
+35720##Trine 2##27
+63700##BIT.TRIP BEAT##23
+365450##Hacknet##23
+292840##Pajama Sam's Sock Works##22
+209750##Cannon Fodder 3##21
+12180##Grand Theft Auto 2##19
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##18
+3300##Bejeweled 2 Deluxe##15
+1840##Source Filmmaker##15
+307230##I, Zombie##13
+420##Half-Life 2: Episode Two##12
+3330##Zuma Deluxe##11
+29180##Osmos##8
+18700##And Yet It Moves##7
+42000##Trino##5
+34270##SEGA Mega Drive & Genesis Classics##5
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1500##Darwinia##0
+4410##City Life Deluxe##0
+4460##City Life 2008##0
+6910##Deus Ex: Game of the Year Edition##0
+9500##Gish##0
+360##Half-Life Deathmatch: Source##0
+12110##Grand Theft Auto: Vice City##0
+12170##Grand Theft Auto##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+8600##RACE 07##0
+8660##GTR Evolution##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+15710##Oddworld: Abe's Exoddus##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+40700##Machinarium##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+90500##Guardians of Graxia##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+57300##Amnesia: The Dark Descent##0
+104200##BEEP##0
+92100##DETOUR##0
+96100##Defy Gravity##0
+204180##Waveform##0
+205790##Dota 2 Test##0
+238210##System Shock 2##0
+248490##1953 - KGB Unleashed##0
+218620##PAYDAY 2##0
+253940##Septerra Core##0
+8850##BioShock 2##0
+29900##Dark Sector##0
+263980##Out There Somewhere##0
+274560##Revolution Ace##0
+292860##Pajama Sam's Lost & Found##0
+317020##Pajama Sam: Games to Play on Any Day##0
+314020##Morphopolis##0
+315430##Polarity##0
+261640##Borderlands: The Pre-Sequel##0
+330350##Robotex##0
+368990##Despair##0
+397550##Deus Ex: Revision##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+377160##Fallout 4##0
+@@REVIEW
+535930##Recommended
+424370##Not Recommended
+356670##Recommended
+224480##Recommended
+230410##Not Recommended
+440##Recommended
+102600##Recommended
+42910##Recommended

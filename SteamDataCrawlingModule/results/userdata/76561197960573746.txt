@@ -1,0 +1,32 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+42910##Magicka##0
+205790##Dota 2 Test##0
+41500##Torchlight##0
+200710##Torchlight II##0
+202170##Sleeping Dogs™##0
+730##Counter-Strike: Global Offensive##0
+204300##Awesomenauts##0
+203140##Hitman: Absolution##0
+224540##Ace of Spades##0
+233470##Evoland##0
+292120##FINAL FANTASY XIII##0
+292140##FINAL FANTASY XIII-2##0
+435150##Divinity: Original Sin 2##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+560380##MapleStory 2##0
+755790##Ring of Elysium##0
+1008080##Project Starhorn##0
+1046930##Dota Underlords##0
+1056640##Phantasy Star Online 2##0
+@@REVIEW

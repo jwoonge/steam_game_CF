@@ -1,0 +1,68 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+500##Left 4 Dead##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+24960##Battlefield: Bad Company™ 2##0
+400##Portal##0
+55140##MX vs. ATV Reflex##0
+620##Portal 2##0
+215280##Secret World Legends##0
+730##Counter-Strike: Global Offensive##0
+203140##Hitman: Absolution##0
+109600##Neverwinter##0
+212160##Vindictus##0
+230410##Warframe##0
+238960##Path of Exile##0
+226320##Marvel Heroes Omega##0
+252950##Rocket League##0
+253530##Fortress Forever##0
+221100##DayZ##0
+268850##EVGA Precision X1##0
+239160##Thief##0
+209160##Call of Duty: Ghosts##0
+209170##Call of Duty: Ghosts - Multiplayer##0
+290930##Half-Life 2: Update##0
+304030##ArcheAge##0
+304930##Unturned##0
+291480##Warface##0
+227940##Heroes & Generals##0
+316010##Magic Duels##0
+317400##Portal Stories: Mel##0
+200110##Nosgoth##0
+323370##TERA##0
+329110##Gems of War##0
+333930##Dirty Bomb##0
+345520##Infinite Crisis™##0
+346900##AdVenture Capitalist##0
+39120##RIFT##0
+271590##Grand Theft Auto V##0
+363970##Clicker Heroes##0
+350080##Wolfenstein: The Old Blood ##0
+379720##DOOM##0
+380600##Fishing Planet##0
+385770##Time Clickers##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+287920##Mortal Online##0
+311210##Call of Duty: Black Ops III##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+314000##Pool Nation FX##0
+244930##SNOW##0
+442120##Pinball FX3##0
+489940##BATTALION 1944##0
+442080##Riders of Icarus##0
+550650##Black Squad##0
+571740##Golf It!##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+761890##Albion Online##0
+1085660##Destiny 2##0
+@@REVIEW

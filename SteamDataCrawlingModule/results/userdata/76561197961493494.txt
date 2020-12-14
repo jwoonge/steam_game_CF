@@ -1,0 +1,98 @@
+@@GAME
+72850##The Elder Scrolls V: Skyrim##38235
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##33702
+255710##Cities: Skylines##24498
+24960##Battlefield: Bad Company™ 2##14716
+22380##Fallout: New Vegas##14528
+377160##Fallout 4##12840
+22300##Fallout 3##10484
+240##Counter-Strike: Source##10301
+394360##Hearts of Iron IV##7813
+480490##Prey##5415
+6910##Deus Ex: Game of the Year Edition##3431
+221380##Age of Empires II (2013)##3365
+214490##Alien: Isolation##3290
+220##Half-Life 2##3030
+12120##Grand Theft Auto: San Andreas##1911
+379720##DOOM##1911
+233130##Shadow Warrior##1389
+440##Team Fortress 2##1278
+70##Half-Life##1122
+22320##The Elder Scrolls III: Morrowind##981
+20##Team Fortress Classic##936
+130##Half-Life: Blue Shift##835
+730##Counter-Strike: Global Offensive##817
+57300##Amnesia: The Dark Descent##807
+207610##The Walking Dead##783
+380##Half-Life 2: Episode One##764
+499520##The Turing Test##712
+420##Half-Life 2: Episode Two##680
+343710##KHOLAT##601
+50##Half-Life: Opposing Force##592
+388210##Day of the Tentacle Remastered##572
+70300##VVVVVV##507
+265690##NaissanceE##442
+356670##Spooky's Jump Scare Mansion##441
+48000##LIMBO##386
+400##Portal##375
+206440##To the Moon##374
+10##Counter-Strike##352
+391720##Layers of Fear##330
+221910##The Stanley Parable##284
+406970##The Uncertain: Last Quiet Day##234
+845070##The Awesome Adventures of Captain Spirit##221
+218620##PAYDAY 2##205
+359400##Why Am I Dead At Sea##198
+304240##Resident Evil##196
+13520##Far Cry##193
+113200##The Binding of Isaac##173
+495890##Montaro##137
+72200##Universe Sandbox Legacy##130
+341940##Hatred##130
+367580##Hook##127
+30##Day of Defeat##112
+213670##South Park™: The Stick of Truth™##99
+238320##Outlast##91
+812810##missed messages.##91
+340##Half-Life 2: Lost Coast##82
+7670##BioShock##78
+108710##Alan Wake##76
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##64
+500##Left 4 Dead##50
+319510##Five Nights at Freddy's##42
+224260##No More Room in Hell##35
+320##Half-Life 2: Deathmatch##5
+40##Deathmatch Classic##0
+60##Ricochet##0
+360##Half-Life Deathmatch: Source##0
+6920##Deus Ex: Invisible War##0
+12250##Grand Theft Auto: San Andreas##0
+550##Left 4 Dead 2##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+409710##BioShock Remastered##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+12750##GRID##0
+6850##Hitman 2: Silent Assassin##0
+22330##The Elder Scrolls IV: Oblivion ##0
+22120##Penumbra: Black Plague##0
+22140##Penumbra: Requiem##0
+22180##Penumbra: Overture##0
+40950##Stronghold HD##0
+239200##Amnesia: A Machine for Pigs##0
+282070##This War of Mine##0
+282140##SOMA##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+15700##Oddworld: Abe's Oddysee##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+38400##Fallout##0
+909080##Cube Escape: Paradox##0
+222880##Insurgency##0
+43110##Metro 2033##0
+1021950##When the Darkness comes##0
+232770##POSTAL##0
+203160##Tomb Raider##0
+@@REVIEW
+220##Recommended
+70##Recommended

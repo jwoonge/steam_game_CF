@@ -1,0 +1,13 @@
+@@GAME
+570##Dota 2##29051
+440##Team Fortress 2##29051
+730##Counter-Strike: Global Offensive##26877
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+@@REVIEW

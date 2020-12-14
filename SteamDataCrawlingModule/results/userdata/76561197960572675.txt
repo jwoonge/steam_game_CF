@@ -1,0 +1,93 @@
+@@GAME
+570##Dota 2##33794
+730##Counter-Strike: Global Offensive##32608
+252950##Rocket League##11327
+8980##Borderlands GOTY##7367
+250820##SteamVR##6174
+10##Counter-Strike##5628
+49520##Borderlands 2##4038
+377160##Fallout 4##3691
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##2326
+261640##Borderlands: The Pre-Sequel##2163
+22380##Fallout: New Vegas##2049
+200510##XCOM: Enemy Unknown##2014
+240##Counter-Strike: Source##1878
+202990##Call of Duty: Black Ops II - Multiplayer##1308
+201810##Wolfenstein: The New Order##1132
+644390##D&D Lords of Waterdeep##784
+8870##BioShock Infinite##679
+234650##Shadowrun Returns##667
+504370##Battlerite##661
+350080##Wolfenstein: The Old Blood ##501
+204360##Castle Crashers##434
+612880##Wolfenstein II: The New Colossus##235
+8930##Sid Meier's Civilization V##173
+546560##Half-Life: Alyx##165
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##113
+447820##Day of Infamy##110
+500##Left 4 Dead##103
+630##Alien Swarm##77
+429330##Stikbold!##75
+945360##Among Us##75
+70##Half-Life##69
+381210##Dead by Daylight##51
+32800##The Lord of the Rings: War in the North##49
+636480##Ravenfield##48
+12120##Grand Theft Auto: San Andreas##40
+22000##World of Goo##36
+216890##Blood Bowl: Chaos Edition##34
+311210##Call of Duty: Black Ops III##31
+48000##LIMBO##25
+265930##Goat Simulator##16
+225840##Sven Co-op##16
+300##Day of Defeat: Source##15
+2270##Wolfenstein 3D##15
+242720##GunZ 2: The Second Duel##9
+10180##Call of Duty: Modern Warfare 2##8
+757240##Aimtastic##8
+212910##Call of Duty: Black Ops II - Zombies##7
+33930##Arma 2: Operation Arrowhead##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+7650##X-COM: Terror from the Deep##0
+7660##X-COM: Apocalypse##0
+7730##X-COM: Interceptor##0
+7760##X-COM: UFO Defense##0
+7770##X-COM: Enforcer##0
+729040##Borderlands GOTY Enhanced##0
+33900##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+202970##Call of Duty: Black Ops II##0
+205790##Dota 2 Test##0
+4920##Natural Selection 2##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+218620##PAYDAY 2##0
+250180##METAL SLUG 3##0
+238460##BattleBlock Theater##0
+222900##Dead Island: Epidemic##0
+346940##Shadowrun: Hong Kong - Extended Edition##0
+362890##Black Mesa##0
+427460##Battlerite Public Test##0
+1091500##Cyberpunk 2077##0
+@@REVIEW

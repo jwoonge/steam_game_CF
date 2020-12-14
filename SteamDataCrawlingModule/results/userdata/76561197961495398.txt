@@ -1,0 +1,133 @@
+@@GAME
+346110##ARK: Survival Evolved##105241
+359550##Tom Clancy's Rainbow Six Siege##37093
+236850##Europa Universalis IV##28527
+730##Counter-Strike: Global Offensive##21493
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##11635
+945360##Among Us##4917
+72850##The Elder Scrolls V: Skyrim##4237
+251570##7 Days to Die##3468
+252490##Rust##3186
+440900##Conan Exiles##2891
+594570##Total War: WARHAMMER II##2459
+529180##Dark and Light##2428
+252950##Rocket League##2361
+624090##Football Manager 2018##1407
+48700##Mount & Blade: Warband##1053
+648800##Raft##777
+242920##Banished##720
+214950##Total War: ROME II - Emperor Edition##643
+349040##NARUTO SHIPPUDEN: Ultimate Ninja STORM 4##591
+236870##HITMAN™##563
+322330##Don't Starve Together##537
+773951##Freeman: Guerrilla Warfare##497
+281990##Stellaris##489
+239140##Dying Light##488
+282070##This War of Mine##377
+242760##The Forest##339
+755790##Ring of Elysium##330
+289070##Sid Meier's Civilization VI##250
+319630##Life is Strange™##239
+221100##DayZ##230
+550##Left 4 Dead 2##207
+262060##Darkest Dungeon®##198
+360430##Mafia III: Definitive Edition##169
+268500##XCOM 2##142
+292730##Call of Duty: Infinite Warfare##138
+374320##DARK SOULS™ III##121
+107410##Arma 3##120
+582660##Black Desert Online##116
+621830##WRC 7##111
+383120##Empyrion - Galactic Survival##101
+412450##The Black Death##100
+420290##Blackwake##91
+311340##METAL GEAR SOLID V: GROUND ZEROES##87
+368360##60 Seconds!##82
+10##Counter-Strike##73
+4000##Garry's Mod##64
+299740##Miscreated##55
+813820##Realm Royale##50
+238960##Path of Exile##45
+48000##LIMBO##38
+433850##Z1 Battle Royale##24
+260230##Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™##23
+394360##Hearts of Iron IV##20
+312660##Sniper Elite 4##18
+588430##Fallout Shelter##11
+364360##Total War: WARHAMMER##7
+698780##Doki Doki Literature Club##7
+518030##Aim Hero##6
+368230##Kingdom: Classic##4
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+620##Portal 2##0
+25000##Overgrowth##0
+220200##Kerbal Space Program##0
+700580##Rust - Staging Branch##0
+270150##RUNNING WITH RIFLES##0
+308060##Black The Fall##0
+320040##Moon Hunters##0
+22100##Mount & Blade##0
+48720##Mount & Blade: With Fire and Sword##0
+331870##AER Memories of Old##0
+340490##Subterrain##0
+343860##Tacoma##0
+407530##ARK: Survival Of The Fittest##0
+347560##Terra Incognita ~ Chapter One: The Descendant##0
+351920##Crazy Machines 3##0
+360830##Yooka-Laylee##0
+912290##Miscreated: Experimental Server##0
+1012880##60 Seconds! Reatomized##0
+377310##The Tower Of Elements##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+384630##Aviary Attorney##0
+386620##Cook, Serve, Delicious! 2!!##0
+386880##Rake##0
+390710##Acceleration of SUGURI 2##0
+399430##Tinboy##0
+410900##Forts##0
+414700##Outlast 2##0
+428950##Kivi, Toilet and Shotgun##0
+434650##Lost Castle##0
+438180##Super Mustache##0
+438490##GOD EATER 2 Rage Burst##0
+460870##GOD EATER RESURRECTION##0
+931180##Conan Exiles - Testlive Client##0
+446020##Jalopy##0
+446840##Splasher##0
+464060##RUINER##0
+466840##Super Space Pug##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+493710##Laraan##0
+505730##Holy Potatoes! We’re in Space?!##0
+515470##Hyper color ball##0
+522210##Serial Cleaner##0
+366640##Shiness: The Lightning Kingdom##0
+115800##Owlboy##0
+540840##Lara Croft GO##0
+543460##Dead Rising 4##0
+545270##NBA Playgrounds##0
+544330##Snake Pass##0
+546990##Town of Night##0
+557680##Germ Wars##0
+570460##Laser League##0
+355790##Styx: Shards of Darkness##0
+234270##Ken Follett's The Pillars of the Earth##0
+374040##Portal Knights##0
+278910##Interplanetary##0
+650220##Interplanetary: Enhanced Edition##0
+624120##Football Manager Touch 2018##0
+696480##The Norwood Suite##0
+635320##Last Day of June##0
+475150##Titan Quest Anniversary Edition##0
+783050##Bear With Me - Collector's Edition##0
+878760##Realm Royale - Test Server##0
+337000##Deus Ex: Mankind Divided™##0
+439700##H1Z1: Test Server##0
+@@REVIEW
+346110##Recommended

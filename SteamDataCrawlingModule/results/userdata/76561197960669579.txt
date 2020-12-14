@@ -1,0 +1,397 @@
+@@GAME
+72850##The Elder Scrolls V: Skyrim##15921
+440##Team Fortress 2##11236
+22380##Fallout: New Vegas##10537
+570##Dota 2##9171
+24960##Battlefield: Bad Company™ 2##8788
+268500##XCOM 2##8389
+730##Counter-Strike: Global Offensive##8373
+377160##Fallout 4##8091
+8930##Sid Meier's Civilization V##8010
+238960##Path of Exile##7892
+255710##Cities: Skylines##7861
+200510##XCOM: Enemy Unknown##6786
+275850##No Man's Sky##5792
+718850##Age of Wonders: Planetfall##5040
+4000##Garry's Mod##4584
+294100##RimWorld##4538
+34330##Total War: SHOGUN 2##4521
+49520##Borderlands 2##4158
+105600##Terraria##3990
+489830##The Elder Scrolls V: Skyrim Special Edition##3966
+107410##Arma 3##3777
+500##Left 4 Dead##3550
+264710##Subnautica##3476
+281990##Stellaris##3396
+211420##DARK SOULS™: Prepare To Die Edition##3141
+392110##Endless Space® 2 - Digital Deluxe Edition##2822
+203770##Crusader Kings II##2452
+218620##PAYDAY 2##2435
+445220##Avorion##2332
+524220##NieR:Automata™##2314
+34010##Alpha Protocol##2297
+233450##Prison Architect##2242
+550##Left 4 Dead 2##2200
+588430##Fallout Shelter##2168
+98800##Dungeons of Dredmor##2123
+212680##FTL: Faster Than Light##2053
+28050##Deus Ex: Human Revolution##2032
+47890##The Sims(TM) 3##2011
+300550##Shadowrun: Dragonfall - Director's Cut##1854
+1158310##Crusader Kings III##1710
+55230##Saints Row: The Third##1668
+863550##HITMAN™ 2##1598
+40100##Supreme Commander 2##1569
+337000##Deus Ex: Mankind Divided™##1499
+24980##Mass Effect 2##1425
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##1416
+241930##Middle-earth™: Shadow of Mordor™##1365
+8980##Borderlands GOTY##1359
+17460##Mass Effect##1340
+1250410##Microsoft Flight Simulator##1323
+882100##XCOM: Chimera Squad##1316
+620##Portal 2##1307
+107200##Space Pirates and Zombies##1274
+205100##Dishonored##1159
+200710##Torchlight II##1131
+251570##7 Days to Die##1116
+881100##Noita##1097
+427520##Factorio##1096
+65800##Dungeon Defenders##1074
+289070##Sid Meier's Civilization VI##1074
+261550##Mount & Blade II: Bannerlord##1046
+42910##Magicka##1035
+613830##CHRONO TRIGGER##1026
+211820##Starbound##1017
+1172620##Sea of Thieves##944
+239070##Hammerwatch##942
+718670##Cultist Simulator##918
+207610##The Walking Dead##900
+8870##BioShock Infinite##886
+207170##Legend of Grimrock##884
+364360##Total War: WARHAMMER##871
+113200##The Binding of Isaac##867
+1222730##STAR WARS™: Squadrons##860
+594570##Total War: WARHAMMER II##811
+262060##Darkest Dungeon®##787
+232790##Broken Age##778
+203160##Tomb Raider##728
+57400##Batman: Arkham City™##686
+296470##Mount Your Friends##676
+48210##The Settlers 7: Paths to a Kingdom - Gold Edition##670
+65980##Sid Meier's Civilization: Beyond Earth##653
+323190##Frostpunk##653
+35140##Batman: Arkham Asylum GOTY Edition##641
+99810##Bulletstorm##630
+4920##Natural Selection 2##614
+234650##Shadowrun Returns##598
+40000##Fallen Earth##595
+379720##DOOM##580
+335300##DARK SOULS™ II: Scholar of the First Sin##579
+261030##The Walking Dead: Season Two##574
+328080##Rise to Ruins##570
+19980##Prince of Persia##547
+113020##Monaco##521
+233250##Planetary Annihilation##516
+238010##Deus Ex: Human Revolution - Director's Cut##486
+223470##POSTAL 2##478
+630##Alien Swarm##444
+221910##The Stanley Parable##429
+40400##AI War: Fleet Command##426
+592260##Dungeon Painter Studio##412
+221380##Age of Empires II (2013)##390
+15100##Assassin's Creed##355
+240##Counter-Strike: Source##340
+394360##Hearts of Iron IV##328
+200170##Worms Revolution##303
+560000##Ladykiller in a Bind##296
+91600##Sanctum##293
+400##Portal##288
+232050##Eador. Masters of the Broken World##287
+1250##Killing Floor##263
+286160##Tabletop Simulator##258
+252610##Death Road to Canada##251
+239030##Papers, Please##248
+238280##Legend of Dungeon##242
+400450##NeuroVoider##242
+434650##Lost Castle##240
+316010##Magic Duels##207
+22200##Zeno Clash##206
+365450##Hacknet##206
+359320##Elite Dangerous##201
+311340##METAL GEAR SOLID V: GROUND ZEROES##194
+224260##No More Room in Hell##189
+18500##Defense Grid: The Awakening##187
+226840##Age of Wonders III##183
+70##Half-Life##174
+41070##Serious Sam 3: BFE##169
+270880##American Truck Simulator##167
+446020##Jalopy##157
+317360##Double Action: Boogaloo##154
+204300##Awesomenauts##152
+232430##Gone Home##151
+238210##System Shock 2##148
+17520##Synergy##147
+248820##Risk of Rain##140
+222730##Reus##129
+6510##Lost Planet: Extreme Condition##127
+269210##Hero Siege##121
+207080##Indie Game: The Movie##111
+33230##Assassin's Creed II##108
+434170##The Jackbox Party Pack 3##107
+223630##AirBuccaneers##106
+219150##Hotline Miami##105
+22330##The Elder Scrolls IV: Oblivion ##103
+102600##Orcs Must Die!##102
+225260##Brütal Legend##94
+244850##Space Engineers##91
+235250##Super Sanctum TD##87
+92800##SpaceChem##84
+214560##Mark of the Ninja##80
+249630##Delver##80
+17410##Mirror's Edge##79
+39800##Nation Red##77
+1167630##Teardown##76
+40800##Super Meat Boy##74
+209330##A Valley Without Wind##69
+249990##FORCED##68
+290930##Half-Life 2: Update##66
+242680##Nuclear Throne##66
+201290##Sins of a Solar Empire: Trinity##61
+367520##Hollow Knight##60
+50300##Spec Ops: The Line##55
+252630##Eldritch##48
+234390##Teleglitch: Die More Edition##46
+397460##The Jackbox Party Pack 2##44
+346940##Shadowrun: Hong Kong - Extended Edition##42
+305620##The Long Dark##34
+2100##Dark Messiah of Might & Magic Single Player##33
+303530##Sentris##33
+259680##Tales of Maj'Eyal##32
+736260##Baba Is You##31
+280##Half-Life: Source##24
+274920##FaceRig##24
+325600##Sword Coast Legends##24
+20##Team Fortress Classic##23
+224540##Ace of Spades##22
+883710##Resident Evil 2##22
+331670##The Jackbox Party Pack##19
+220##Half-Life 2##14
+33910##Arma 2##13
+204880##Sins of a Solar Empire: Rebellion##12
+527960##Fractured State##12
+3590##Plants vs. Zombies: Game of the Year##11
+340##Half-Life 2: Lost Coast##10
+65790##Arma: Cold War Assault##9
+91700##E.Y.E: Divine Cybermancy##7
+200900##Cave Story+##6
+41800##Gratuitous Space Battles##4
+248610##Door Kickers##4
+39190##Dungeon Siege##2
+3910##Sid Meier's Civilization III: Complete##1
+610180##The Jackbox Party Pack 4##1
+10##Counter-Strike##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+3970##Prey##0
+6910##Deus Ex: Game of the Year Edition##0
+2280##The Ultimate DOOM##0
+2300##DOOM II: Hell on Earth##0
+9160##Master Levels for DOOM II##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+729040##Borderlands GOTY Enhanced##0
+41000##Serious Sam HD: The First Encounter##0
+564310##Serious Sam Fusion 2017 (beta)##0
+34190##Sonic and SEGA All Stars Racing##0
+35460##The Ball##0
+26800##Braid##0
+29180##Osmos##0
+40700##Machinarium##0
+93200##Revenge of the Titans##0
+4540##Titan Quest##0
+475150##Titan Quest Anniversary Edition##0
+112100##Avadon: The Black Fortress##0
+1500##Darwinia##0
+1510##Uplink##0
+1520##DEFCON##0
+1530##Multiwinia##0
+200260##Batman: Arkham City GOTY##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+203810##Dear Esther##0
+520720##Dear Esther: Landmark Edition##0
+228320##A Valley Without Wind 2##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+107100##Bastion##0
+209830##Lone Survivor: The Director's Cut##0
+12810##Overlord II##0
+72000##Closure##0
+220200##Kerbal Space Program##0
+221260##Little Inferno##0
+205790##Dota 2 Test##0
+105000##A New Beginning - Final Cut##0
+219680##Proteus##0
+265630##Fistful of Frags##0
+224580##Arma 2: DayZ Mod##0
+236850##Europa Universalis IV##0
+239350##Spelunky##0
+250700##Super Time Force Ultra##0
+231310##MirrorMoon EP##0
+257850##Hyper Light Drifter##0
+367540##Starbound - Unstable##0
+25000##Overgrowth##0
+272890##Vertiginous Golf##0
+274190##Broforce##0
+282070##This War of Mine##0
+33930##Arma 2: Operation Arrowhead##0
+65700##Arma 2: British Armed Forces##0
+65720##Arma 2: Private Military Company##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+294370##Crowntakers##0
+310060##Knights of Pen and Paper 2##0
+214490##Alien: Isolation##0
+322450##FRAMED Collection##0
+203630##Warlock - Master of the Arcane##0
+24240##PAYDAY: The Heist##0
+246070##Hack 'n' Slash##0
+350970##Planet of the Eyes##0
+362890##Black Mesa##0
+368730##No Time To Explain Remastered##0
+42960##Victoria II##0
+42980##Victoria: Revolutions##0
+290340##Armello##0
+388420##In Between##0
+394690##Tower Unite##0
+405640##Pony Island##0
+410320##EARTH DEFENSE FORCE 4.1  The Shadow of New Despair##0
+410700##System Shock: Classic##0
+410710##System Shock: Enhanced Edition##0
+437570##GoNNER##0
+384490##Necropolis##0
+342480##Gunscape##0
+464920##Surviving Mars##0
+319630##Life is Strange™##0
+514900##Observer##0
+536070##Double Fine Adventure: Ep01 Bonus - Kickstarter Pitch Video##0
+536071##Double Fine Adventure: Ep01 Bonus - Kickstarter Pitch Bloopers##0
+536072##Double Fine Adventure: Ep01 Bonus - Kickstarter DRM Update##0
+536073##Double Fine Adventure: Ep01 Bonus - Kickstarter Rewards Options##0
+536074##Double Fine Adventure: Ep01 Bonus - Kickstarter European Options##0
+536075##Double Fine Adventure: Ep02 Bonus - Tim's First Address to Backe##0
+536076##Double Fine Adventure: Ep02 Bonus - Project Q&A w/ Tim##0
+536077##Double Fine Adventure: Ep02 Bonus - Tim and Ron Adventure Chat##0
+536078##Double Fine Adventure: Ep03 Bonus - Lumberjack Animatic##0
+536079##Double Fine Adventure: Ep03 Bonus - Greg Models Backer T-Shirt##0
+536080##Double Fine Adventure: Ep03 Bonus - Moai Promo Video##0
+536081##Double Fine Adventure: Ep04 Bonus - Lumberjack Previz##0
+536082##Double Fine Adventure: Ep05 Bonus - Lumberjack Party (Kinect Demo)##0
+536083##Double Fine Adventure: Ep07 Bonus - Lili Picks the Girl##0
+536084##Double Fine Adventure: Ep07 Bonus - Marius Animatics##0
+536085##Double Fine Adventure: Ep09 Bonus - Teaser Trailer Previz##0
+536086##Double Fine Adventure: Ep09 Bonus - Broken Age Teaser Trailer##0
+536087##Double Fine Adventure: Ep09 Bonus - 90,000 Friends##0
+536088##Double Fine Adventure: Ep09 Bonus - Teaser Evolution##0
+536089##Double Fine Adventure: Ep11 Bonus - Scratch Audio Montage##0
+536090##Double Fine Adventure: Ep11 Bonus - Alternate Cinema Scenes##0
+536091##Double Fine Adventure: Ep12 Bonus - Jack Black Casting Reveal##0
+536092##Double Fine Adventure: Ep12 Bonus - Pendleton Ward in the Studio##0
+536093##Double Fine Adventure: Ep13 Bonus - Wil Wheaton Casting Reveal##0
+536094##Double Fine Adventure: Ep13 Bonus - Elijah Wood Casting Reveal##0
+536095##Double Fine Adventure: Ep13 Bonus - Dave G's Wolf Scene##0
+536096##Double Fine Adventure: Ep14 Bonus - Broken Age Vella Trailer##0
+536097##Double Fine Adventure: Ep14 Bonus - Broken Age Shay Trailer##0
+536098##Double Fine Adventure: Ep15 Bonus - Broken Age Act 1 Trailer##0
+536099##Double Fine Adventure: Ep16 Bonus - Broken Age iPad Promo##0
+536100##Double Fine Adventure: Ep17 Bonus - Anna Kipnis Dialog Talk##0
+536101##Double Fine Adventure: Ep17 Bonus - Oliver Franzke Scalability Talk##0
+536102##Double Fine Adventure: Ep18 Bonus - Shay Game Awards Interstital##0
+536103##Double Fine Adventure: Ep18 Bonus - Tim's Update on Exciting Times##0
+536104##Double Fine Adventure: Ep18 Bonus - Broken Age Climax Animatic##0
+536105##Double Fine Adventure: Ep19 Bonus - Broken Age Launch Trailer##0
+536106##Double Fine Adventure: Ep19 Bonus - Backer Box Poll##0
+536107##Double Fine Adventure: Ep20 Bonus - Russian Subtitles##0
+536108##Double Fine Adventure: Ep20 Bonus - Thank You from the Backers##0
+536110##Double Fine Adventure: Ep01 Deleted - Talking with Ron##0
+536111##Double Fine Adventure: Ep02 Deleted - Tim and Erik Chat##0
+536112##Double Fine Adventure: Ep02 Deleted - Feedback with Ron##0
+536113##Double Fine Adventure: Ep02 Deleted - Ron Responds to Pitch##0
+536114##Double Fine Adventure: Ep03 Deleted - Codenames##0
+536115##Double Fine Adventure: Ep03 Deleted - Bar Crawling##0
+536116##Double Fine Adventure: Ep04 Deleted - Dinosaurs##0
+536117##Double Fine Adventure: Ep04 Deleted - Art Jamming##0
+536118##Double Fine Adventure: Ep04 Deleted - Scott Gets Shot Down##0
+536119##Double Fine Adventure: Ep04 Deleted - Signing Posters##0
+536120##Double Fine Adventure: Ep05 Deleted - Early Story Decisions##0
+536121##Double Fine Adventure: Ep05 Deleted - It's Getting Even Hairier##0
+536122##Double Fine Adventure: Ep06 Deleted - Driving with Tim##0
+536123##Double Fine Adventure: Ep06 Deleted - Crazy Cat Man##0
+536124##Double Fine Adventure: Ep06 Deleted - Vella Alteration##0
+536125##Double Fine Adventure: Ep06 Deleted - Art Directon##0
+536126##Double Fine Adventure: Ep06 Deleted - Early Story Concepts##0
+536127##Double Fine Adventure: Ep08 Deleted - Extended Beard Trimming##0
+536128##Double Fine Adventure: Ep09 Deleted - Ron Gilbert's Notes##0
+536129##Double Fine Adventure: Ep10 Deleted - Brainstorming with John##0
+536130##Double Fine Adventure: Ep10 Deleted - Gameinformer Extended##0
+536131##Double Fine Adventure: Ep10 Deleted - Reflections##0
+536132##Double Fine Adventure: Ep10 Deleted - Lighting##0
+536133##Double Fine Adventure: Ep11 Deleted - Grabbing Game##0
+536134##Double Fine Adventure: Ep12 Deleted - Fem Shep##0
+536135##Double Fine Adventure: Ep14 Deleted - Mock Reviews##0
+536136##Double Fine Adventure: Ep15 Deleted - Refunds##0
+536137##Double Fine Adventure: Ep15 Deleted - One Unit##0
+536138##Double Fine Adventure: Ep15 Deleted - Act 2 Art Jammin'##0
+536139##Double Fine Adventure: Ep16 Deleted - Act 2 Brainstorming##0
+536140##Double Fine Adventure: Ep17 Deleted - Act 2 Hour Of Fun##0
+536141##Double Fine Adventure: Ep18 Deleted - Checking in with Bagel##0
+536142##Double Fine Adventure: Ep18 Deleted - Lee Leaves the Team##0
+536143##Double Fine Adventure: Ep19 Deleted - Tim's Last Call##0
+536144##Double Fine Adventure: Ep19 Deleted - The Thrush##0
+536145##Double Fine Adventure: Ep19 Deleted - Oliver's Creed##0
+536146##Double Fine Adventure: Ep20 Deleted - Act 2 Reviews##0
+577420##Double Fine Adventure: Sidequest 1 // Tim Schafer - "My Father Told Me It Would Be..."##0
+577421##Double Fine Adventure: Sidequest 2 // Tim Schafer - “I’m Such a F@#$in’ Genius”##0
+577422##Double Fine Adventure: Sidequest 3 // Lee Petty - "I Was a Very Pleasant Baby"##0
+577423##Double Fine Adventure: Sidequest 4 // Anna Kipnis - "I Got My Dream Job"##0
+577424##Double Fine Adventure: Sidequest 5 // Brandon Dillon - "There Could Possibly Be..."##0
+577425##Double Fine Adventure: Sidequest 6 // Ray Crook - "I Think it's OK i'm Still Here"##0
+577426##Double Fine Adventure: Sidequest 7 // JP LeBreton - "You Don't Step in the Same..."##0
+577427##Double Fine Adventure: Sidequest 8 // Oliver Franzke - "I Would Have Absolutely..."##0
+577428##Double Fine Adventure: Sidequest 9 // Dave Gardner - "Look, the Clocks..."##0
+577429##Double Fine Adventure: Sidequest 10 // Peter McConnell - "What I Wish I Could Have..."##0
+577430##Double Fine Adventure: Sidequest 11 // Khris Brown - "The Purity of Your Intent"##0
+577431##Double Fine Adventure: Sidequest 12 // Camden Stoddard - "The Weight of the Sound"##0
+577432##Double Fine Adventure: Sidequest 13 // Justin Bailey - "My Seat Only Goes Back So Far"##0
+577433##Double Fine Adventure: Sidequest 14 // Ben Peck - "It's Not Like This Every Day"##0
+577434##Double Fine Adventure: Sidequest 15 // Matt Hansen - "Just Take It Seriously"##0
+600300##Double Fine Adventure: Sidequest 16 // Malena Annable - "Autonomy to be Awesome"##0
+362960##Tyranny##0
+553260##Realpolitiks##0
+208140##Endless Space##0
+584980##Late Shift##0
+600370##Paradigm##0
+651500##My Memory of Us##0
+663240##All You Can Eat##0
+674520##Fight'N Rage##0
+732810##Slipstream##0
+368230##Kingdom: Classic##0
+794540##Neo Cab##0
+637090##BATTLETECH##0
+552500##Warhammer: Vermintide 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+848450##Subnautica: Below Zero##0
+1100600##Football Manager 2020##0
+1100620##Football Manager 2020 Touch##0
+1144030##Pesterquest##0
+231430##Company of Heroes 2##0
+1213210##Command & Conquer™ Remastered Collection##0
+@@REVIEW
+1250410##Not Recommended
+238960##Recommended
+232430##Recommended

@@ -1,0 +1,173 @@
+@@GAME
+271590##Grand Theft Auto V##107938
+9880##Champions Online##48348
+372000##Tree of Savior (English Ver.)##33577
+72850##The Elder Scrolls V: Skyrim##32636
+377160##Fallout 4##27435
+238960##Path of Exile##21165
+640820##Pathfinder: Kingmaker##18052
+1085660##Destiny 2##16320
+289650##Assassin's Creed Unity##12264
+291650##Pillars of Eternity##11068
+1174180##Red Dead Redemption 2##10588
+290080##Life is Feudal: Your Own##9879
+588430##Fallout Shelter##9595
+242050##Assassin's Creed IV Black Flag##9037
+379430##Kingdom Come: Deliverance##8938
+109600##Neverwinter##8733
+13140##America's Army 3##8055
+365590##Tom Clancy's The Division##8053
+356190##Middle-earth™: Shadow of War™##7659
+202170##Sleeping Dogs™##7146
+812140##Assassin's Creed Odyssey##6292
+550##Left 4 Dead 2##6222
+17450##Dragon Age: Origins##5754
+24980##Mass Effect 2##4941
+230070##The Age of Decadence##4751
+241540##State of Decay##4673
+241930##Middle-earth™: Shadow of Mordor™##4573
+22380##Fallout: New Vegas##4476
+234140##Mad Max##3718
+360430##Mafia III: Definitive Edition##3512
+230410##Warframe##3500
+306130##The Elder Scrolls Online##3450
+22300##Fallout 3##3186
+235600##Tom Clancy's Splinter Cell Blacklist##3081
+208520##Omerta - City of Gangsters##2793
+292030##The Witcher 3: Wild Hunt##2719
+336520##Might & Magic Heroes Online##2565
+55230##Saints Row: The Third##2534
+238090##Sniper Elite 3##2450
+218620##PAYDAY 2##2390
+48720##Mount & Blade: With Fire and Sword##2288
+209000##Batman™: Arkham Origins##2224
+489830##The Elder Scrolls V: Skyrim Special Edition##2213
+243470##Watch_Dogs##2143
+107410##Arma 3##1987
+205190##Rocksmith##1917
+200260##Batman: Arkham City GOTY##1631
+312660##Sniper Elite 4##1519
+232750##Mars: War Logs##1470
+205100##Dishonored##1444
+12210##Grand Theft Auto IV: The Complete Edition##1434
+314830##Blackguards 2##1343
+368500##Assassin's Creed Syndicate##1321
+8930##Sid Meier's Civilization V##1245
+307690##Sleeping Dogs: Definitive Edition##1226
+50300##Spec Ops: The Line##1212
+730##Counter-Strike: Global Offensive##1162
+700030##Life is Feudal: MMO##1147
+315880##WTFast Gamers Private Network (GPN)##1109
+311560##Assassin's Creed Rogue##1027
+287680##Pro Evolution Soccer 2015##985
+15170##Heroes of Might & Magic V##980
+105400##Fable III##926
+50130##Mafia II (Classic)##891
+203140##Hitman: Absolution##891
+204450##Call of Juarez Gunslinger##790
+110800##L.A. Noire##757
+43160##Metro: Last Light##756
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##751
+442080##Riders of Icarus##733
+209160##Call of Duty: Ghosts##696
+226320##Marvel Heroes Omega##676
+221680##Rocksmith® 2014 Edition - Remastered##627
+33910##Arma 2##626
+201810##Wolfenstein: The New Order##626
+34870##Sniper Ghost Warrior 2##589
+312920##Rugby League Live 3##535
+302510##Ryse: Son of Rome##493
+102500##Kingdoms of Amalur: Reckoning™##404
+7530##Two Worlds II Castle Defense##404
+43110##Metro 2033##389
+42160##War of the Roses##375
+1091500##Cyberpunk 2077##360
+234650##Shadowrun Returns##358
+232010##Euro Truck Simulator##325
+7520##Two Worlds II##305
+30##Day of Defeat##267
+229480##Dungeons & Dragons: Chronicles of Mystara##238
+311340##METAL GEAR SOLID V: GROUND ZEROES##234
+373420##Divinity: Original Sin Enhanced Edition##205
+11390##Crash Time II##202
+10##Counter-Strike##194
+33930##Arma 2: Operation Arrowhead##162
+217750##Age of Conan: Unchained##146
+326160##Shroud of the Avatar: Forsaken Virtues##136
+6810##Commandos: Beyond the Call of Duty##119
+227940##Heroes & Generals##94
+8890##Freedom Force vs. the 3rd Reich##85
+6900##Hitman: Codename 47##71
+8880##Freedom Force##54
+1930##Two Worlds: Epic Edition##43
+4520##Full Spectrum Warrior##38
+6860##Hitman: Blood Money##38
+8800##Sid Meier's Civilization IV: Beyond the Sword##30
+203290##America's Army: Proving Grounds##26
+9870##Ghostbusters: The Video Game##23
+6800##Commandos: Behind Enemy Lines##21
+247430##Hitman: Contracts##21
+6850##Hitman 2: Silent Assassin##19
+258180##Deus Ex: The Fall##18
+28000##Kane & Lynch 2: Dog Days##17
+482920##Hero Zero##7
+365720##Skyrim Script Extender (SKSE)##3
+209170##Call of Duty: Ghosts - Multiplayer##2
+47730##Dragon Age: Origins - Awakening##1
+65700##Arma 2: British Armed Forces##1
+65720##Arma 2: Private Military Company##1
+65780##Arma: Gold Edition##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+6830##Commandos 2: Men of Courage##0
+6840##Commandos 3: Destination Berlin##0
+1030830##Mafia II: Definitive Edition##0
+65790##Arma: Cold War Assault##0
+107430##Arma X: Anniversary Edition##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+206980##War of the Roses Balance Beta##0
+220240##Far Cry® 3##0
+205930##Hitman: Sniper Challenge##0
+218170##Age of Conan: Unchained OLD##0
+3900##Sid Meier's Civilization IV##0
+3910##Sid Meier's Civilization III: Complete##0
+3920##Sid Meier's Pirates!##0
+3990##Sid Meier's Civilization IV: Warlords##0
+7600##Sid Meier's Railroads!##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+8980##Borderlands GOTY##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+49520##Borderlands 2##0
+57900##Duke Nukem Forever##0
+65930##The Bureau: XCOM Declassified##0
+67370##The Darkness II##0
+200510##XCOM: Enemy Unknown##0
+244070##Sid Meier's Ace Patrol##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+729040##Borderlands GOTY Enhanced##0
+249650##Blackguards##0
+367500##Dragon's Dogma: Dark Arisen##0
+230230##Divinity: Original Sin (Classic)##0
+524440##Tom Clancy's The Division PTS##0
+310380##Fractured Space##0
+48000##LIMBO##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+863550##HITMAN™ 2##0
+231430##Company of Heroes 2##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+287680##Not Recommended
+271590##Recommended
+9880##Recommended
+242050##Recommended

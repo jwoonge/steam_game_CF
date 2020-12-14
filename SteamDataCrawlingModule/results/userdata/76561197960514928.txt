@@ -1,0 +1,43 @@
+@@GAME
+730##Counter-Strike: Global Offensive##496246
+240##Counter-Strike: Source##149085
+220##Half-Life 2##66537
+70##Half-Life##66406
+50##Half-Life: Opposing Force##66356
+60##Ricochet##66356
+40##Deathmatch Classic##66353
+30##Day of Defeat##66347
+10##Counter-Strike##63985
+212070##Star Conflict##59279
+227940##Heroes & Generals##57418
+261640##Borderlands: The Pre-Sequel##55044
+291480##Warface##48422
+318020##Act of Aggression##45578
+433850##Z1 Battle Royale##43105
+444090##Paladins##39712
+40100##Supreme Commander 2##38593
+506540##Last Man Standing##38139
+550650##Black Squad##36736
+563560##Alien Swarm: Reactive Drop##30708
+238960##Path of Exile##148
+755790##Ring of Elysium##41
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##4
+436520##Line of Sight##1
+20##Team Fortress Classic##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+532210##Life is Strange 2##0
+@@REVIEW
+506540##Recommended
+550650##Recommended
+563560##Recommended
+30##Recommended
+50##Recommended
+291480##Recommended
+40##Recommended
+60##Recommended
+10##Recommended
+227940##Recommended

@@ -1,0 +1,119 @@
+@@GAME
+252950##Rocket League##323978
+730##Counter-Strike: Global Offensive##117086
+211##Source SDK##58686
+107410##Arma 3##53579
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##23394
+418460##Rising Storm 2: Vietnam##10349
+30##Day of Defeat##7584
+374320##DARK SOULS™ III##7289
+300##Day of Defeat: Source##6407
+377160##Fallout 4##5702
+440##Team Fortress 2##5379
+393380##Squad##4302
+17570##Pirates, Vikings, & Knights II##4271
+17700##Insurgency: Modern Infantry Combat##4038
+130##Half-Life: Blue Shift##3817
+420##Half-Life 2: Episode Two##3800
+35450##Rising Storm/Red Orchestra 2 Multiplayer##3389
+385760##NBA 2K17##3233
+222880##Insurgency##2762
+298110##Far Cry 4##2720
+33930##Arma 2: Operation Arrowhead##1966
+255710##Cities: Skylines##1894
+550##Left 4 Dead 2##1725
+379720##DOOM##1576
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##1564
+203140##Hitman: Absolution##1351
+220##Half-Life 2##1305
+346110##ARK: Survival Evolved##1217
+310560##DiRT Rally##1088
+311210##Call of Duty: Black Ops III##669
+231430##Company of Heroes 2##660
+201810##Wolfenstein: The New Order##593
+10##Counter-Strike##547
+242050##Assassin's Creed IV Black Flag##538
+359550##Tom Clancy's Rainbow Six Siege##485
+240##Counter-Strike: Source##428
+242860##Verdun##419
+320##Half-Life 2: Deathmatch##413
+346010##Besiege##333
+70##Half-Life##274
+48700##Mount & Blade: Warband##227
+311340##METAL GEAR SOLID V: GROUND ZEROES##226
+50##Half-Life: Opposing Force##218
+287390##Metro: Last Light Redux##217
+213670##South Park™: The Stick of Truth™##215
+220240##Far Cry® 3##214
+49520##Borderlands 2##199
+360##Half-Life Deathmatch: Source##165
+227300##Euro Truck Simulator 2##164
+33900##Arma 2##157
+15620##Warhammer 40,000: Dawn of War II##147
+287290##Resident Evil Revelations 2##140
+219640##Chivalry: Medieval Warfare##126
+17080##Tribes: Ascend##124
+218230##PlanetSide 2##96
+380##Half-Life 2: Episode One##93
+12210##Grand Theft Auto IV: The Complete Edition##86
+205100##Dishonored##86
+15320##IL-2 Sturmovik: 1946##83
+203290##America's Army: Proving Grounds##71
+48720##Mount & Blade: With Fire and Sword##63
+228200##Company of Heroes ##61
+6860##Hitman: Blood Money##58
+20##Team Fortress Classic##54
+34870##Sniper Ghost Warrior 2##43
+204340##Serious Sam 2##41
+570##Dota 2##37
+290930##Half-Life 2: Update##35
+587650##Half-Life 2: DownFall##34
+41700##S.T.A.L.K.E.R.: Call of Pripyat##33
+504370##Battlerite##31
+342200##MechWarrior Online##29
+17510##Age of Chivalry##29
+48000##LIMBO##27
+265630##Fistful of Frags##23
+247430##Hitman: Contracts##22
+235780##MINERVA: Metastasis##20
+225840##Sven Co-op##15
+286690##Metro 2033 Redux##14
+1840##Source Filmmaker##11
+65790##Arma: Cold War Assault##10
+227940##Heroes & Generals##8
+530620##Resident Evil 7 Teaser: Beginning Hour##8
+104900##ORION: Prelude##7
+238070##Shadow Warrior Classic (1997)##7
+461560##Mandagon##7
+611500##Quake Champions##7
+339610##FreeStyle 2: Street Basketball##6
+407250##Pro Evolution Soccer 2016 myClub##6
+60##Ricochet##4
+707680##Slapshot##2
+223750##DCS World Steam Edition##1
+40##Deathmatch Classic##0
+340##Half-Life 2: Lost Coast##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+205790##Dota 2 Test##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+1083500##PlanetSide 2 - Test##0
+291390##Three Dead Zed##0
+205930##Hitman: Sniper Challenge##0
+22100##Mount & Blade##0
+338540##Navy Field 2 : Conqueror of the Ocean##0
+407530##ARK: Survival Of The Fittest##0
+355840##Survarium##0
+384400##Hordelicious##0
+774941##Squad - Public Testing##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+427460##Battlerite Public Test##0
+488790##South Park The Fractured But Whole##0
+@@REVIEW
+587650##Recommended
+252950##Recommended
+298110##Recommended

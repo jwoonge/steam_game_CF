@@ -1,0 +1,138 @@
+@@GAME
+1145360##Hades##5063
+424370##Wolcen: Lords of Mayhem##3805
+289070##Sid Meier's Civilization VI##3484
+851850##DRAGON BALL Z: KAKAROT##2945
+998740##Ring of Pain##2684
+1102190##Monster Train##2261
+582010##Monster Hunter: World##1607
+1057240##Crucible##1573
+230410##Warframe##427
+613830##CHRONO TRIGGER##412
+1030210##Torchlight III##409
+1235140##Yakuza: Like a Dragon##324
+714010##Aim Lab##308
+1104640##New Frontier##286
+65980##Sid Meier's Civilization: Beyond Earth##183
+632360##Risk of Rain 2##183
+30##Day of Defeat##154
+999860##Enemy On Board##141
+468920##Ultimate Fishing Simulator##104
+38400##Fallout##89
+219990##Grim Dawn##66
+400170##The Incredible Adventures of Van Helsing: Final Cut##55
+38420##Fallout Tactics##55
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##46
+288160##The Room##45
+1086940##Baldur's Gate 3##39
+221680##Rocksmith® 2014 Edition - Remastered##32
+1085660##Destiny 2##30
+380600##Fishing Planet##17
+234140##Mad Max##16
+377160##Fallout 4##13
+1238810##Battlefield™ V##11
+22370##Fallout 3 - Game of the Year Edition##7
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+7110##Jade Empire: Special Edition##0
+3480##Peggle Deluxe##0
+17300##Crysis##0
+3540##Peggle Nights##0
+17390##Spore##0
+17460##Mass Effect##0
+17470##Dead Space##0
+17410##Mirror's Edge##0
+3590##Plants vs. Zombies: Game of the Year##0
+24840##Medal of Honor: Airborne##0
+24980##Mass Effect 2##0
+24960##Battlefield: Bad Company™ 2##0
+24780##SimCity 4 Deluxe##0
+47810##Dragon Age: Origins - Ultimate Edition##0
+47780##Dead Space 2##0
+42140##Hamilton's Great Adventure##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+22320##The Elder Scrolls III: Morrowind##0
+22380##Fallout: New Vegas##0
+108800##Crysis 2 Maximum Edition##0
+42170##Krater##0
+47890##The Sims(TM) 3##0
+238960##Path of Exile##0
+218620##PAYDAY 2##0
+251570##7 Days to Die##0
+22330##The Elder Scrolls IV: Oblivion ##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+235540##Warhammer: End Times - Vermintide##0
+336420##Bloodsports.TV##0
+42120##Lead and Gold - Gangs of the Wild West##0
+389850##Legacy of Dorn: Herald of Oblivion##0
+394450##Warhammer 40,000: Deathwatch - Enhanced Edition##0
+393380##Squad##0
+774941##Squad - Public Testing##0
+425580##The Room Two##0
+374320##DARK SOULS™ III##0
+456750##The Room Three##0
+363680##Battlefleet Gothic: Armada##0
+502370##Warhammer 40,000: Sanctus Reach##0
+519190##Next Day: Survival##0
+522470##The House of Da Vinci##0
+292030##The Witcher 3: Wild Hunt##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+543460##Dead Rising 4##0
+285190##Warhammer 40,000: Dawn of War III##0
+236690##Blood Bowl 2##0
+602490##Blood Bowl: Death Zone##0
+368230##Kingdom: Classic##0
+798420##Professional Fishing##0
+552500##Warhammer: Vermintide 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+412020##Metro Exodus##0
+532790##Vampire: The Masquerade - Bloodlines 2##0
+1172380##STAR WARS Jedi: Fallen Order™ ##0
+15620##Warhammer 40,000: Dawn of War II##0
+275610##Warhammer 40,000: Kill Team##0
+55150##Warhammer 40,000: Space Marine##0
+1063730##New World##0
+1222690##Dragon Age™ Inquisition##0
+1222700##A Way Out##0
+1225560##Unravel##0
+1225570##Unravel Two##0
+1225580##Fe##0
+1225590##Sea of Solitude##0
+1233570##Mirror's Edge™ Catalyst##0
+1237980##STAR WARS™ Battlefront™##0
+1238040##Dragon Age II##0
+1238060##Dead Space™ 3##0
+1238080##Burnout™ Paradise Remastered##0
+1222670##The Sims™ 4##0
+1238000##Mass Effect™: Andromeda##0
+1222680##Need for Speed™ Heat ##0
+1238820##Battlefield 3™ ##0
+1238840##Battlefield 1 ™##0
+1238860##Battlefield 4™ ##0
+1238880##Battlefield™ Hardline##0
+1237970##Titanfall® 2##0
+582660##Black Desert Online##0
+1237950##STAR WARS™ Battlefront™ II##0
+1259840##The House of Da Vinci 2##0
+1262560##Need for Speed™ Most Wanted##0
+1262240##Plants vs. Zombies: Battle for Neighborville##0
+1262540##Need for Speed™##0
+1262580##Need for Speed™ Payback##0
+1262600##Need for Speed™ Rivals##0
+1238020##Mass Effect 3##0
+38410##Fallout 2##0
+1151340##Fallout 76##0
+1233550##Rocket Arena##0
+1289670##EA Play##0
+@@REVIEW
+1145360##Recommended
+998740##Recommended
+1289800##Recommended
+1057240##Not Recommended

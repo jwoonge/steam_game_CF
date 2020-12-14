@@ -1,0 +1,46 @@
+@@GAME
+252490##Rust##99313
+730##Counter-Strike: Global Offensive##67747
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##29081
+271590##Grand Theft Auto V##28668
+10##Counter-Strike##5039
+304930##Unturned##3863
+107410##Arma 3##904
+221100##DayZ##819
+359550##Tom Clancy's Rainbow Six Siege##577
+629520##Soundpad##454
+895400##Deadside##423
+1097150##Fall Guys: Ultimate Knockout##404
+299740##Miscreated##159
+397900##Business Tour - Online Multiplayer Board Game##114
+1128810##RISK: Global Domination##79
+433850##Z1 Battle Royale##77
+945360##Among Us##60
+1840##Source Filmmaker##51
+667530##Drunken Wrestlers 2##35
+252950##Rocket League##34
+527440##Rustangelo##9
+346110##ARK: Survival Evolved##4
+291210##UberStrike##3
+356670##Spooky's Jump Scare Mansion##2
+4000##Garry's Mod##1
+318600##The Flame in the Flood##1
+479130##ESEA##1
+700580##Rust - Staging Branch##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+912290##Miscreated: Experimental Server##0
+407530##ARK: Survival Of The Fittest##0
+439700##H1Z1: Test Server##0
+714010##Aim Lab##0
+1172470##Apex Legends##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+203160##Tomb Raider##0
+@@REVIEW
+252490##Recommended
+730##Recommended

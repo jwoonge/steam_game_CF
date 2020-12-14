@@ -1,0 +1,78 @@
+@@GAME
+252950##Rocket League##9302
+1085660##Destiny 2##6628
+440##Team Fortress 2##6414
+365590##Tom Clancy's The Division##5836
+275850##No Man's Sky##5613
+230410##Warframe##5463
+270880##American Truck Simulator##3985
+8190##Just Cause 2##3743
+227940##Heroes & Generals##3722
+227300##Euro Truck Simulator 2##3690
+505460##Foxhole##3454
+446800##Transport Fever##3215
+107410##Arma 3##3121
+1174180##Red Dead Redemption 2##2757
+9900##Star Trek Online##2600
+271590##Grand Theft Auto V##2453
+268400##Panzer Corps##2435
+313160##Farming Simulator 15##2082
+289930##TransOcean: The Shipping Company##2012
+255710##Cities: Skylines##1611
+394510##HELLDIVERS™##1146
+376570##WildStar##861
+200710##Torchlight II##811
+518790##theHunter: Call of the Wild™##594
+264710##Subnautica##497
+42500##DogFighter##496
+238960##Path of Exile##471
+460810##Vanquish##466
+42650##Transformers: War for Cybertron##406
+99300##Renegade Ops##379
+49520##Borderlands 2##363
+361200##Coast Guard##330
+337000##Deus Ex: Mankind Divided™##300
+326410##Windward##289
+310380##Fractured Space##286
+30##Day of Defeat##277
+249130##LEGO® MARVEL Super Heroes##263
+342200##MechWarrior Online##243
+6870##Battlestations: Midway##219
+4000##Garry's Mod##210
+265890##Hexcells##201
+304410##Hexcells Infinite##199
+224600##Defiance##186
+582160##Assassin's Creed Origins##175
+221680##Rocksmith® 2014 Edition - Remastered##154
+431240##Golf With Your Friends##151
+203160##Tomb Raider##142
+216110##Tiny Troopers##126
+976730##Halo: The Master Chief Collection##126
+12750##GRID##78
+209080##Guns of Icarus Online##73
+223850##3DMark##65
+212480##Sonic & All-Stars Racing Transformed Collection##63
+72850##The Elder Scrolls V: Skyrim##57
+24010##Train Simulator##47
+257790##Riptide GP2##41
+476360##Strike Vector EX##38
+314160##Microsoft Flight Simulator X: Steam Edition##21
+259080##Just Cause 2: Multiplayer Mod##8
+400##Portal##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+7010##Project: Snowblind##0
+91100##SkyDrift##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+271900##Hexcells Plus##0
+333930##Dirty Bomb##0
+524440##Tom Clancy's The Division PTS##0
+@@REVIEW

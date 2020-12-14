@@ -1,0 +1,120 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+2100##Dark Messiah of Might & Magic Single Player##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+45000##Sol Survivor##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+55100##Homefront##0
+39160##Dungeon Siege III##0
+57620##Patrician IV: Steam Special Edition##0
+57730##Patrician IV: Rise of a Dynasty##0
+72850##The Elder Scrolls V: Skyrim##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+2820##X3: Terran Conflict##0
+201310##X3: Albion Prelude##0
+22380##Fallout: New Vegas##0
+63380##Sniper Elite V2##0
+208140##Endless Space##0
+200710##Torchlight II##0
+201790##Orcs Must Die! 2##0
+57690##Tropico 4##0
+102700##A.V.A. Alliance of Valiant Arms™##0
+203290##America's Army: Proving Grounds##0
+212070##Star Conflict##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+238960##Path of Exile##0
+39000##Moonbase Alpha##0
+271290##HAWKEN##0
+223750##DCS World Steam Edition##0
+224600##Defiance##0
+242920##Banished##0
+58610##Wargame: European Escalation##0
+222750##Wargame: AirLand Battle##0
+2870##X Rebirth##0
+243800##Gas Guzzlers Extreme##0
+219990##Grim Dawn##0
+271590##Grand Theft Auto V##0
+281990##Stellaris##0
+294790##Haegemonia: The Solon Heritage##0
+245620##Tropico 5##0
+238090##Sniper Elite 3##0
+9900##Star Trek Online##0
+311260##The Guild 3##0
+291480##Warface##0
+227940##Heroes & Generals##0
+318020##Act of Aggression##0
+289930##TransOcean: The Shipping Company##0
+323370##TERA##0
+221540##Defense Grid 2##0
+326410##Windward##0
+333660##Towers of Altrac##0
+355840##Survarium##0
+306130##The Elder Scrolls Online##0
+359320##Elite Dangerous##0
+365720##Skyrim Script Extender (SKSE)##0
+234630##Project CARS##0
+235380##Blitzkrieg 3##0
+292030##The Witcher 3: Wild Hunt##0
+377160##Fallout 4##0
+384180##Prominence Poker##0
+390670##Steel Ocean##0
+396750##EVERSPACE™##0
+412470##Metal War Online: Retribution##0
+424370##Wolcen: Lords of Mayhem##0
+429540##Prime World: Defenders 2##0
+443110##Armored Warfare##0
+445720##Battle Islands: Commanders##0
+446800##Transport Fever##0
+310380##Fractured Space##0
+394360##Hearts of Iron IV##0
+302670##Call to Arms##0
+504050##Planet Nomads##0
+530700##Argo##0
+558100##Art of War: Red Tides##0
+8500##EVE Online##0
+574070##Space Wars: Interstellar Empires##0
+586030##Shardbound##0
+460930##Tom Clancy's Ghost Recon® Wildlands##0
+604500##Tank Force##0
+607200##Tanki X##0
+615050##Burst The Game##0
+622460##Steampunk Tower 2##0
+644290##Memories of Mars##0
+386180##Crossout##0
+672680##Call of War##0
+690830##Foundation##0
+691020##Fog Of War - Free Edition##0
+694480##DEFENDERS OF THE FALLEN ISLAND##0
+700030##Life is Feudal: MMO##0
+721720##Company of Heroes: Battle of Crete##0
+767560##War Robots##0
+809140##Cliff Empire##0
+835860##Dreadnought##0
+874240##MU Legend##0
+905370##Conqueror's Blade##0
+919640##Steel Division 2##0
+730##Counter-Strike: Global Offensive##0
+977390##Tokyo Warfare Turbo##0
+489520##Minion Masters##0
+1013320##Firestone Idle RPG##0
+1046930##Dota Underlords##0
+237870##Planet Explorers##0
+@@REVIEW
+429540##Recommended

@@ -1,0 +1,101 @@
+@@GAME
+440##Team Fortress 2##126100
+218620##PAYDAY 2##85102
+292030##The Witcher 3: Wild Hunt##38621
+570##Dota 2##38373
+4000##Garry's Mod##36685
+304930##Unturned##26691
+863550##HITMAN™ 2##24155
+211420##DARK SOULS™: Prepare To Die Edition##21388
+205100##Dishonored##17086
+105600##Terraria##16661
+335300##DARK SOULS™ II: Scholar of the First Sin##14413
+22380##Fallout: New Vegas##13471
+273350##Evolve Stage 2##11550
+333930##Dirty Bomb##9816
+24240##PAYDAY: The Heist##8679
+265630##Fistful of Frags##7647
+346900##AdVenture Capitalist##7501
+550##Left 4 Dead 2##6917
+620##Portal 2##6882
+374320##DARK SOULS™ III##6198
+409710##BioShock Remastered##5707
+379720##DOOM##5695
+403640##Dishonored 2##5211
+209000##Batman™: Arkham Origins##5151
+70##Half-Life##4587
+322330##Don't Starve Together##4554
+8870##BioShock Infinite##3994
+412020##Metro Exodus##3557
+287390##Metro: Last Light Redux##3035
+614570##Dishonored®: Death of the Outsider™ ##2887
+7670##BioShock##2827
+20##Team Fortress Classic##2530
+286690##Metro 2033 Redux##2346
+409720##BioShock 2 Remastered##2265
+322500##SUPERHOT##2185
+718670##Cultist Simulator##2055
+362890##Black Mesa##1960
+203140##Hitman: Absolution##1836
+420##Half-Life 2: Episode Two##1760
+220##Half-Life 2##1419
+219150##Hotline Miami##1317
+6860##Hitman: Blood Money##1281
+238210##System Shock 2##1029
+22300##Fallout 3##988
+8850##BioShock 2##940
+400##Portal##922
+380##Half-Life 2: Episode One##838
+50##Half-Life: Opposing Force##713
+500##Left 4 Dead##644
+1291340##Townscaper##644
+219890##Antichamber##554
+774861##Project Winter##454
+130##Half-Life: Blue Shift##420
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##392
+359550##Tom Clancy's Rainbow Six Siege##303
+17410##Mirror's Edge##255
+235780##MINERVA: Metastasis##196
+1289310##Helltaker##177
+690040##SUPERHOT: MIND CONTROL DELETE##167
+317360##Double Action: Boogaloo##150
+674940##Stick Fight: The Game##143
+1285670##Post Void##138
+466240##Deceit##125
+1168280##Resident Evil 2 "R.P.D. Demo"##123
+632730##Base Defense##117
+20900##The Witcher: Enhanced Edition##110
+291550##Brawlhalla##79
+10##Counter-Strike##75
+6900##Hitman: Codename 47##74
+320##Half-Life 2: Deathmatch##58
+225840##Sven Co-op##51
+679990##Half-Life: C.A.G.E.D.##46
+243470##Watch_Dogs##45
+340##Half-Life 2: Lost Coast##24
+1840##Source Filmmaker##20
+360##Half-Life Deathmatch: Source##9
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+6850##Hitman 2: Silent Assassin##0
+6980##Thief: Deadly Shadows##0
+211600##Thief Gold##0
+211740##Thief 2##0
+205790##Dota 2 Test##0
+205930##Hitman: Sniper Challenge##0
+11020##TrackMania Nations Forever##0
+253530##Fortress Forever##0
+247430##Hitman: Contracts##0
+239160##Thief##0
+214490##Alien: Isolation##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+499520##The Turing Test##0
+556240##Disoriented##0
+236870##HITMAN™##0
+480490##Prey##0
+741820##Prey: Typhon Hunter##0
+1249200##Ghostrunner Demo##0
+406970##The Uncertain: Last Quiet Day##0
+@@REVIEW
+440##Recommended

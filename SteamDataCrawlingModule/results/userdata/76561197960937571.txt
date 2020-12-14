@@ -1,0 +1,150 @@
+@@GAME
+427520##Factorio##119737
+220200##Kerbal Space Program##44434
+730##Counter-Strike: Global Offensive##41959
+271590##Grand Theft Auto V##39261
+18500##Defense Grid: The Awakening##28553
+1250410##Microsoft Flight Simulator##20673
+49520##Borderlands 2##17975
+516750##My Summer Car##16571
+268850##EVGA Precision X1##13623
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##12870
+8190##Just Cause 2##12090
+47890##The Sims(TM) 3##9652
+57600##Tropico 3: Absolute Power##9291
+22380##Fallout: New Vegas##7973
+294100##RimWorld##7683
+960090##Bloons TD 6##7492
+739630##Phasmophobia##6063
+270880##American Truck Simulator##5914
+57690##Tropico 4##5810
+489830##The Elder Scrolls V: Skyrim Special Edition##5524
+4920##Natural Selection 2##5492
+255710##Cities: Skylines##5066
+313120##Stranded Deep##4609
+22300##Fallout 3##3374
+275850##No Man's Sky##3342
+550##Left 4 Dead 2##3171
+620##Portal 2##3120
+225540##Just Cause 3##3096
+440900##Conan Exiles##2966
+242920##Banished##2897
+8870##BioShock Infinite##2829
+535930##Two Point Hospital##2803
+245620##Tropico 5##2719
+240##Counter-Strike: Source##2570
+213670##South Park™: The Stick of Truth™##2425
+409710##BioShock Remastered##2213
+488790##South Park The Fractured But Whole##2100
+239160##Thief##2054
+22000##World of Goo##2015
+201790##Orcs Must Die! 2##1925
+221540##Defense Grid 2##1906
+2700##RollerCoaster Tycoon 3: Platinum!##1905
+42910##Magicka##1866
+239820##Game Dev Tycoon##1797
+464920##Surviving Mars##1724
+400##Portal##1667
+220##Half-Life 2##1639
+43160##Metro: Last Light##1595
+305620##The Long Dark##1590
+264710##Subnautica##1546
+457140##Oxygen Not Included##1539
+204100##Max Payne 3##1517
+8850##BioShock 2##1436
+41070##Serious Sam 3: BFE##1348
+1091500##Cyberpunk 2077##1226
+12900##Audiosurf##1191
+70##Half-Life##1129
+306760##Obduction##1106
+48000##LIMBO##1013
+1286350##BPM: BULLETS PER MINUTE##962
+244430##realMyst: Masterpiece Edition##947
+945360##Among Us##806
+330020##Children of Morta##704
+492720##Tropico 6##697
+412020##Metro Exodus##688
+765870##Leisure Suit Larry - Wet Dreams Don't Dry##683
+420##Half-Life 2: Episode Two##645
+380##Half-Life 2: Episode One##586
+322330##Don't Starve Together##570
+591370##Production Line##487
+684410##Bridge Constructor Portal##429
+218620##PAYDAY 2##419
+517630##Just Cause 4##418
+238370##Magicka 2##374
+230150##Incredipede##373
+265930##Goat Simulator##345
+24780##SimCity 4 Deluxe##317
+260330##Flockers##316
+225420##Cities in Motion 2##315
+10##Counter-Strike##302
+257420##Serious Sam 4##290
+755790##Ring of Elysium##287
+80##Counter-Strike: Condition Zero##273
+218510##Planets Under Attack##225
+210770##Sanctum 2##223
+383120##Empyrion - Galactic Survival##149
+263280##Spintires®##124
+211820##Starbound##122
+223850##3DMark##122
+224480##Octodad: Dadliest Catch##115
+357480##Frozen Free Fall: Snowball Fight##103
+39000##Moonbase Alpha##102
+440##Team Fortress 2##101
+300##Day of Defeat: Source##91
+280##Half-Life: Source##88
+1127400##Mindustry##88
+286080##Thinking with Time Machine##87
+409720##BioShock 2 Remastered##86
+966330##Flower##77
+38410##Fallout 2##44
+298260##Only If##39
+570##Dota 2##39
+355840##Survarium##35
+1172470##Apex Legends##33
+323580##Jotun: Valhalla Edition##26
+50##Half-Life: Opposing Force##24
+102600##Orcs Must Die!##22
+1510##Uplink##21
+307290##Velvet Sundown##19
+340##Half-Life 2: Lost Coast##18
+33530##Tropico 2: Pirate Cove##16
+254000##East India Company Gold##14
+431240##Golf With Your Friends##11
+254060##KnightShift##7
+33520##Tropico##3
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+4000##Garry's Mod##0
+38400##Fallout##0
+38420##Fallout Tactics##0
+7670##BioShock##0
+43110##Metro 2033##0
+23490##Tropico 3 - Steam Special Edition##0
+564310##Serious Sam Fusion 2017 (beta)##0
+91600##Sanctum##0
+292640##Flockers Editor##0
+367690##Spintires® - Editor##0
+367540##Starbound - Unstable##0
+312860##Defense Grid 2: A Matter of Endurance##0
+205790##Dota 2 Test##0
+323370##TERA##0
+397080##Magicka 2: Spell Balance Beta##0
+374570##Kung Fury##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+931180##Conan Exiles - Testlive Client##0
+1151340##Fallout 76##0
+@@REVIEW
+306760##Recommended
+211820##Recommended
+220200##Recommended

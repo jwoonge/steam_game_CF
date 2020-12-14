@@ -1,0 +1,169 @@
+@@GAME
+730##Counter-Strike: Global Offensive##43671
+10##Counter-Strike##32083
+240##Counter-Strike: Source##28487
+570##Dota 2##20438
+271590##Grand Theft Auto V##16955
+221100##DayZ##14280
+418460##Rising Storm 2: Vietnam##14167
+550##Left 4 Dead 2##13864
+252490##Rust##11919
+379430##Kingdom Come: Deliverance##11429
+289070##Sid Meier's Civilization VI##9355
+629760##MORDHAU##9084
+490920##Wolfpack##8056
+513710##SCUM##7692
+275850##No Man's Sky##6504
+365590##Tom Clancy's The Division##6224
+829590##CryoFall##5671
+376210##The Isle##5070
+218620##PAYDAY 2##4764
+236390##War Thunder##4513
+20##Team Fortress Classic##4122
+1174180##Red Dead Redemption 2##3713
+100##Counter-Strike: Condition Zero Deleted Scenes##3691
+80##Counter-Strike: Condition Zero##3657
+500##Left 4 Dead##3410
+40##Deathmatch Classic##3270
+648800##Raft##3207
+410900##Forts##3152
+552990##World of Warships##3095
+30##Day of Defeat##3091
+231430##Company of Heroes 2##3004
+60##Ricochet##2964
+620##Portal 2##2822
+447020##Farming Simulator 17##2807
+380600##Fishing Planet##2732
+70##Half-Life##2722
+130##Half-Life: Blue Shift##2713
+1172620##Sea of Thieves##2674
+466240##Deceit##2558
+304390##For Honor##2393
+690530##Soul at Stake - 1v4##2270
+233450##Prison Architect##2218
+50##Half-Life: Opposing Force##2151
+285920##TerraTech##1985
+755790##Ring of Elysium##1873
+302670##Call to Arms##1482
+320##Half-Life 2: Deathmatch##1412
+360##Half-Life Deathmatch: Source##1409
+494840##UBOAT##1349
+835570##Conqueror's Blade##1259
+400##Portal##1211
+420##Half-Life 2: Episode Two##1109
+641320##Cooking Simulator##1099
+220##Half-Life 2##1078
+440##Team Fortress 2##1047
+280##Half-Life: Source##887
+380##Half-Life 2: Episode One##849
+242760##The Forest##843
+657200##Hand Simulator##755
+582010##Monster Hunter: World##657
+602960##Barotrauma##575
+440900##Conan Exiles##451
+644560##Mirror##402
+555670##Infinitum##392
+239140##Dying Light##385
+417480##Marcus Level##380
+279520##Rage Runner##347
+227940##Heroes & Generals##328
+227300##Euro Truck Simulator 2##314
+454690##Cyber City 2157: The Visual Novel##303
+485390##Machine Made: Rebirth##298
+449550##Chicken Invaders 2##273
+368230##Kingdom: Classic##273
+377460##Chicken Invaders 3##272
+458510##Zombie Pinball##271
+580560##Hero Barrier##271
+823130##Totally Accurate Battlegrounds##269
+429350##Satellite Rush##257
+271860##Super Killer Hornet: Resurrection##256
+292570##Chompy Chomp Chomp##244
+271640##Humanity Asset##241
+486120##Escape The Past##241
+526740##hack_me##241
+361600##Luna Sky##240
+355430##SNOWFLAKE TATTOO##225
+301680##Psichodelya##213
+292620##Pressured##211
+341070##Stay Dead Evolution##211
+267980##Hostile Waters: Antaeus Rising##210
+292410##Street Racing Syndicate##210
+347030##The Bluecoats: North vs South##210
+414550##Death Toll##204
+700330##SCP: Secret Laboratory##192
+300##Day of Defeat: Source##190
+35450##Rising Storm/Red Orchestra 2 Multiplayer##188
+285090##Robowars##184
+303840##Point Perfect##182
+270090##N.P.P.D. RUSH - The milk of Ultra violet##181
+292380##Racer 8##181
+326120##Horizon Shift##181
+354920##Pester##181
+313140##Blackbay Asylum##180
+345220##Agent Awesome##180
+414580##Uriel's Chasm 2: את##179
+279480##Abalone##167
+297080##Navpoint##164
+268240##Mechanic Escape##154
+348450##Lex Mortis##154
+502090##Invisible Mind##154
+667890##Dead Maze##144
+884660##CRSED##106
+685340##Delivery From The Pain##92
+1085660##Destiny 2##89
+230410##Warframe##69
+223750##DCS World Steam Edition##65
+427520##Factorio##36
+766570##Russian Fishing 4##25
+340##Half-Life 2: Lost Coast##19
+1106850##Totally Reliable Delivery Service Beta##19
+619080##SOS##9
+322980##Gods vs Humans##4
+280790##Creativerse##4
+540870##Crewsaders##2
+287100##Chaos Domain##1
+327010##Motorama##1
+358610##Exowar##1
+382160##Dark Years##1
+795100##Friday the 13th: Killer Puzzle##1
+265630##Fistful of Frags##0
+267940##Glacier 3: The Meltdown##0
+267960##Hyper Fighters##0
+283310##Soulbringer##0
+283330##Desert Thunder##0
+283350##Eurofighter Typhoon##0
+283370##Marine Sharpshooter II: Jungle Warfare##0
+283430##Litil Divil##0
+286440##Rover Rescue##0
+292390##Realms of the Haunting##0
+301690##Cobi Treasure Deluxe##0
+301700##Numba Deluxe##0
+302180##Voyage: Journey to the Moon##0
+302190##Amerzone: The Explorer's Legacy##0
+302240##Chernobyl Commando##0
+302250##Manhunter##0
+302260##Truffle Saga##0
+312710##Broadsword : Age of Chivalry##0
+315330##All Guns On Deck##0
+317920##Hills Of Glory 3D##0
+328100##Gunspell: Steam Edition##0
+338550##Terra Lander Remastered##0
+340200##Bloop##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+524440##Tom Clancy's The Division PTS##0
+654310##For Honor - Public Test##0
+700580##Rust - Staging Branch##0
+931180##Conan Exiles - Testlive Client##0
+802240##SOS: Classic##0
+@@REVIEW
+1174180##Recommended
+242760##Recommended
+641320##Recommended
+494840##Not Recommended
+513710##Recommended
+275850##Recommended
+690530##Recommended
+823130##Recommended
+410900##Recommended
+271590##Recommended

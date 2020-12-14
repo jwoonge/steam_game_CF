@@ -1,0 +1,106 @@
+@@GAME
+433850##Z1 Battle Royale##109093
+730##Counter-Strike: Global Offensive##34120
+271590##Grand Theft Auto V##23710
+295110##Just Survive##13217
+373420##Divinity: Original Sin Enhanced Edition##12865
+275850##No Man's Sky##4134
+10##Counter-Strike##3436
+755790##Ring of Elysium##3297
+50130##Mafia II (Classic)##1782
+12210##Grand Theft Auto IV: The Complete Edition##1685
+322330##Don't Starve Together##1481
+282070##This War of Mine##1432
+439700##H1Z1: Test Server##1223
+72850##The Elder Scrolls V: Skyrim##1106
+241930##Middle-earth™: Shadow of Mordor™##1045
+42910##Magicka##1026
+427290##Vampyr##940
+238320##Outlast##659
+620##Portal 2##651
+205100##Dishonored##625
+657200##Hand Simulator##460
+268910##Cuphead##436
+305620##The Long Dark##367
+238010##Deus Ex: Human Revolution - Director's Cut##335
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##297
+383870##Firewatch##296
+238370##Magicka 2##267
+22300##Fallout 3##250
+38400##Fallout##196
+544920##Darwin Project##175
+220440##DmC Devil May Cry##126
+362300##Just Survive Test Server##126
+728880##Overcooked! 2##125
+233550##Another World##120
+351920##Crazy Machines 3##107
+823130##Totally Accurate Battlegrounds##90
+8000##Tomb Raider: Anniversary##73
+12120##Grand Theft Auto: San Andreas##67
+11020##TrackMania Nations Forever##58
+357280##Alter World##53
+48000##LIMBO##50
+323580##Jotun: Valhalla Edition##43
+588430##Fallout Shelter##42
+17460##Mass Effect##37
+335300##DARK SOULS™ II: Scholar of the First Sin##32
+435150##Divinity: Original Sin 2##26
+321040##DiRT 3 Complete Edition##25
+504370##Battlerite##2
+282660##Easy eSports##1
+365720##Skyrim Script Extender (SKSE)##1
+207140##SpeedRunners##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+550##Left 4 Dead 2##0
+55100##Homefront##0
+1030830##Mafia II: Definitive Edition##0
+67370##The Darkness II##0
+55230##Saints Row: The Third##0
+210770##Sanctum 2##0
+234650##Shadowrun Returns##0
+65930##The Bureau: XCOM Declassified##0
+35720##Trine 2##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+12250##Grand Theft Auto: San Andreas##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+286570##F1 2015##0
+265590##The Red Solstice##0
+316010##Magic Duels##0
+320300##Car Mechanic Simulator 2015##0
+321360##Primal Carnage: Extinction##0
+350810##Pixel Puzzles 2: Anime##0
+351030##Pixel Puzzles Ultimate##0
+397080##Magicka 2: Spell Balance Beta##0
+219740##Don't Starve##0
+230230##Divinity: Original Sin (Classic)##0
+380840##Teeworlds##0
+391720##Layers of Fear##0
+397900##Business Tour - Online Multiplayer Board Game##0
+491950##Orwell##0
+550210##Layers of Fear - Soundtrack##0
+252850##Streamline##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+613280##Next Up Hero Beta##0
+506540##Last Man Standing##0
+218620##PAYDAY 2##0
+427460##Battlerite Public Test##0
+231430##Company of Heroes 2##0
+368230##Kingdom: Classic##0
+797470##METAL GEAR SURVIVE BETA##0
+809960##Radical Heights##0
+869760##Stoneshard: Prologue##0
+43110##Metro 2033##0
+278360##A Story About My Uncle##0
+@@REVIEW
+238320##Recommended

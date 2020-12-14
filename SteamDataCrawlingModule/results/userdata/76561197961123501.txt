@@ -1,0 +1,95 @@
+@@GAME
+570##Dota 2##424146
+33930##Arma 2: Operation Arrowhead##80362
+440900##Conan Exiles##54698
+252490##Rust##46377
+730##Counter-Strike: Global Offensive##37389
+346110##ARK: Survival Evolved##30120
+252950##Rocket League##29394
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##25892
+435150##Divinity: Original Sin 2##16490
+72850##The Elder Scrolls V: Skyrim##12751
+644930##They Are Billions##10228
+295110##Just Survive##9537
+292030##The Witcher 3: Wild Hunt##7661
+945360##Among Us##7616
+307780##Mortal Kombat X##7557
+8930##Sid Meier's Civilization V##6775
+107410##Arma 3##6677
+433850##Z1 Battle Royale##6414
+550##Left 4 Dead 2##6337
+289070##Sid Meier's Civilization VI##5182
+221100##DayZ##5117
+1046930##Dota Underlords##4955
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##4449
+583950##Artifact##4335
+49520##Borderlands 2##4296
+221380##Age of Empires II (2013)##3924
+356190##Middle-earth™: Shadow of War™##3458
+500##Left 4 Dead##3442
+271590##Grand Theft Auto V##3153
+629760##MORDHAU##3145
+234140##Mad Max##2752
+376210##The Isle##2680
+297000##Heroes of Might & Magic III - HD Edition##2325
+42710##Call of Duty: Black Ops - Multiplayer##2287
+268910##Cuphead##2014
+19930##The Settlers: Rise of an Empire Gold Edition  ##1655
+207610##The Walking Dead##1517
+47830##Medal of Honor(TM) Multiplayer##1370
+304240##Resident Evil##1328
+4000##Garry's Mod##1124
+242760##The Forest##917
+24240##PAYDAY: The Heist##854
+10180##Call of Duty: Modern Warfare 2##767
+57300##Amnesia: The Dark Descent##733
+883710##Resident Evil 2##719
+21100##F.E.A.R. 3##696
+35720##Trine 2##669
+466240##Deceit##562
+445310##Might & Magic Heroes VII – Trial by Fire##533
+261030##The Walking Dead: Season Two##527
+204100##Max Payne 3##517
+571740##Golf It!##502
+620##Portal 2##493
+18820##Zero Gear##413
+24960##Battlefield: Bad Company™ 2##401
+238370##Magicka 2##330
+234820##Driver Fusion##260
+10##Counter-Strike##223
+35700##Trine##200
+440##Team Fortress 2##190
+39160##Dungeon Siege III##174
+774861##Project Winter##160
+42700##Call of Duty: Black Ops##153
+239200##Amnesia: A Machine for Pigs##150
+354640##The Settlers Online##75
+321960##Might & Magic Heroes VII ##75
+999220##Amnesia: Rebirth##49
+505040##FORTIFY##15
+285900##Gang Beasts##12
+42910##Magicka##10
+33910##Arma 2##2
+12210##Grand Theft Auto IV: The Complete Edition##1
+224580##Arma 2: DayZ Mod##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+47790##Medal of Honor(TM) Single Player##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+407530##ARK: Survival Of The Fittest##0
+397080##Magicka 2: Spell Balance Beta##0
+931180##Conan Exiles - Testlive Client##0
+@@REVIEW

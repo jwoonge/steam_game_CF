@@ -1,0 +1,54 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+50300##Spec Ops: The Line##0
+35000##Mini Ninjas##0
+730##Counter-Strike: Global Offensive##0
+268870##Satellite Reign##0
+271570##Space Farmers##0
+285070##Between Me and The Night##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+303390##Dead Bits##0
+375460##16bit Trader##0
+391720##Layers of Fear##0
+470740##Demolish & Build 2017##0
+319630##Life is Strange™##0
+508530##HackyZack##0
+489520##Minion Masters##0
+550210##Layers of Fear - Soundtrack##0
+351940##The Descendant##0
+635240##Making of Furi: Episode 1 - Conception##0
+635241##Making of Furi: Episode 2 - Game Play##0
+635242##Making of Furi: Episode 3 - Art and Animation##0
+666960##Cowboy's Adventure##0
+611500##Quake Champions##0
+704040##Castle Clicker##0
+706400##Death's Maze##0
+15700##Oddworld: Abe's Oddysee##0
+436180##Spacelords##0
+784940##Countryballs: Over The World##0
+801280##Cowboy Escape##0
+804210##Star Advent##0
+825000##Temptation##0
+825610##Viking's drakkars##0
+828170##Pivross##0
+828230##Dungeons of the dead##0
+834470##Zima uhodi!##0
+840180##On Board 4 PC##0
+553660##PWND##0
+843890##WIN THE GAME: DO IT!##0
+232050##Eador. Masters of the Broken World##0
+286570##F1 2015##0
+270550##Yet Another Zombie Defense##0
+439190##Stories: The Path of Destinies##0
+334210##Fortified##0
+222880##Insurgency##0
+@@REVIEW
+730##Recommended

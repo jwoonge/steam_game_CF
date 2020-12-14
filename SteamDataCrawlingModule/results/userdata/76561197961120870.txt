@@ -1,0 +1,58 @@
+@@GAME
+252490##Rust##95094
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##70689
+252950##Rocket League##68850
+730##Counter-Strike: Global Offensive##63443
+221380##Age of Empires II (2013)##37277
+107410##Arma 3##12477
+552990##World of Warships##10116
+251060##Wargame: Red Dragon##8732
+813780##Age of Empires II: Definitive Edition##7111
+513710##SCUM##6373
+240##Counter-Strike: Source##6199
+550##Left 4 Dead 2##5998
+500##Left 4 Dead##5109
+255710##Cities: Skylines##4764
+228200##Company of Heroes ##3681
+629760##MORDHAU##2549
+231430##Company of Heroes 2##2256
+377160##Fallout 4##1951
+996470##eFootball PES 2020##1918
+393380##Squad##936
+307780##Mortal Kombat X##902
+933820##Endzone - A World Apart##846
+232090##Killing Floor 2##745
+238960##Path of Exile##734
+755790##Ring of Elysium##535
+33930##Arma 2: Operation Arrowhead##532
+543460##Dead Rising 4##518
+227940##Heroes & Generals##418
+91310##Dead Island##416
+218620##PAYDAY 2##374
+1172470##Apex Legends##163
+346010##Besiege##103
+300##Day of Defeat: Source##50
+572410##Steel Division: Normandy 44##48
+58610##Wargame: European Escalation##43
+823130##Totally Accurate Battlegrounds##35
+33910##Arma 2##12
+30##Day of Defeat##6
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+232150##Killing Floor 2 - SDK##0
+774941##Squad - Public Testing##0
+700580##Rust - Staging Branch##0
+@@REVIEW

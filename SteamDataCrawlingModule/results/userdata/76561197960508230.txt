@@ -1,0 +1,150 @@
+@@GAME
+730##Counter-Strike: Global Offensive##79370
+236850##Europa Universalis IV##7455
+394360##Hearts of Iron IV##6227
+108600##Project Zomboid##3662
+233450##Prison Architect##2287
+10150##Prototype##1539
+334230##Town of Salem##1463
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1393
+714010##Aim Lab##1066
+252950##Rocket League##489
+397900##Business Tour - Online Multiplayer Board Game##487
+433340##Slime Rancher##423
+356040##Sheltered##372
+544920##Darwin Project##367
+945360##Among Us##339
+477160##Human: Fall Flat##323
+361280##Turmoil##297
+393420##Hurtworld##262
+115320##PROTOTYPE 2##252
+12200##Bully: Scholarship Edition##200
+431960##Wallpaper Engine##139
+371660##Far Cry Primal##137
+1136160##Internet Cafe Simulator##137
+804430##Drink Pro Tycoon##100
+239030##Papers, Please##91
+273110##Counter-Strike Nexon: Studio##87
+438740##Friday the 13th: The Game##65
+22230##Rock of Ages##61
+10##Counter-Strike##52
+218620##PAYDAY 2##50
+238320##Outlast##50
+12120##Grand Theft Auto: San Andreas##41
+227300##Euro Truck Simulator 2##32
+230290##Universe Sandbox##23
+70##Half-Life##20
+244030##Take On Mars##20
+222730##Reus##19
+239140##Dying Light##19
+274940##Depth##17
+252490##Rust##13
+834740##Circle Empires##8
+48700##Mount & Blade: Warband##5
+346110##ARK: Survival Evolved##5
+12110##Grand Theft Auto: Vice City##3
+407530##ARK: Survival Of The Fittest##2
+535230##Domina##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+320##Half-Life 2: Deathmatch##0
+380##Half-Life 2: Episode One##0
+4000##Garry's Mod##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+17390##Spore##0
+17440##Spore: Creepy & Cute Parts Pack##0
+24720##Spore: Galactic Adventures##0
+550##Left 4 Dead 2##0
+620##Portal 2##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+12100##Grand Theft Auto III##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+236390##War Thunder##0
+242760##The Forest##0
+246900##Viscera Cleanup Detail##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+265210##Viscera Cleanup Detail: Santa's Rampage##0
+239820##Game Dev Tycoon##0
+214950##Total War: ROME II - Emperor Edition##0
+265930##Goat Simulator##0
+34830##Sniper: Ghost Warrior##0
+34870##Sniper Ghost Warrior 2##0
+271500##Sniper Art of Victory##0
+280160##Aragami##0
+289950##Construction-Simulator 2015##0
+301640##Zombie Army Trilogy##0
+243470##Watch_Dogs##0
+305620##The Long Dark##0
+336940##Basingstoke##0
+365450##Hacknet##0
+368360##60 Seconds!##0
+1012880##60 Seconds! Reatomized##0
+292030##The Witcher 3: Wild Hunt##0
+381210##Dead by Daylight##0
+445900##Hurtworld SDK##0
+394690##Tower Unite##0
+414700##Outlast 2##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+391220##Rise of the Tomb Raider##0
+434460##Rock of Ages 2##0
+367450##Poly Bridge##0
+496750##The Housewife##0
+312660##Sniper Elite 4##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+469820##Genital Jousting##0
+447040##Watch_Dogs 2##0
+568570##Force of Nature##0
+607200##Tanki X##0
+648350##Jurassic World Evolution##0
+654350##Cyber Utopia##0
+657200##Hand Simulator##0
+665360##Comedy Night##0
+704850##Thief Simulator##0
+720250##Welcome to the Game II##0
+466240##Deceit##0
+788210##The Bonfire: Forsaken Lands##0
+798380##Debtor##0
+700580##Rust - Staging Branch##0
+811360##Archibald##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+825610##Viking's drakkars##0
+834470##Zima uhodi!##0
+286570##F1 2015##0
+391720##Layers of Fear##0
+225540##Just Cause 3##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+510840##Evolvation##0
+43110##Metro 2033##0
+638070##Murderous Pursuits##0
+395170##DISTRAINT: Deluxe Edition##0
+500710##Wild Terra Online##0
+@@REVIEW
+10150##Recommended
+346110##Recommended
+730##Not Recommended
+108600##Recommended
+578080##Not Recommended
+236850##Not Recommended

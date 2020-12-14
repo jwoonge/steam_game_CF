@@ -1,0 +1,120 @@
+@@GAME
+730##Counter-Strike: Global Offensive##322789
+4000##Garry's Mod##3038
+252950##Rocket League##1888
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1576
+444090##Paladins##1465
+270550##Yet Another Zombie Defense##675
+70110##Hacker Evolution - Untold##494
+10##Counter-Strike##491
+233250##Planetary Annihilation##486
+398680##Ace of Words##384
+282660##Easy eSports##327
+328500##Potatoman Seeks the Troof##301
+863550##HITMAN™ 2##297
+428430##Endorlight##290
+382490##Relic Hunters Zero##236
+433210##Rhino's Rage##130
+449680##SAMOLIOTIK##123
+43110##Metro 2033##111
+222880##Insurgency##100
+813820##Realm Royale##81
+352700##Subspace Continuum##68
+1250##Killing Floor##51
+201700##DiRT Showdown##42
+12750##GRID##24
+304930##Unturned##13
+434110##Premium Pool##10
+805850##Wrecked##10
+534600##Steam Dev Days##5
+550784##Steam Dev Days: VR Developer Panel##5
+3910##Sid Meier's Civilization III: Complete##4
+773920##scram##3
+755790##Ring of Elysium##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+50300##Spec Ops: The Line##0
+7760##X-COM: UFO Defense##0
+67370##The Darkness II##0
+207610##The Walking Dead##0
+113400##APB Reloaded##0
+236390##War Thunder##0
+286570##F1 2015##0
+286940##S.K.I.L.L. - Special Force 2##0
+293180##Overcast - Walden and the Werewolf##0
+318600##The Flame in the Flood##0
+238320##Outlast##0
+366760##Adorables##0
+438100##VRChat##0
+596350##Paladins - Public Test##0
+444480##Broken Dreams##0
+485610##Ball 3D: Soccer Online##0
+534610##Steam Dev Days: Welcome Address##0
+534611##Steam Dev Days: Steam Machines in 2014 - Opening up the Living Room##0
+534612##Steam Dev Days: The Steam Controller##0
+534613##Steam Dev Days: In-Game Economies in Team Fortress 2 and Dota 2##0
+534614##Steam Dev Days: Embracing User Generated Content##0
+534615##Steam Dev Days: Getting Started with Linux Game Development##0
+534616##Steam Dev Days: Marketing Your Game##0
+534617##Steam Dev Days: Music in Valve Games and Media##0
+534618##Steam Dev Days: Moving Your Games to OpenGL##0
+534619##Steam Dev Days: Community and Communication in Games-As-Services##0
+534620##Steam Dev Days: United We Win##0
+534621##Steam Dev Days: Getting Started Debugging on Linux##0
+534622##Steam Dev Days: Optimizing Linux games for AMD Graphics using GPU PerfStudio2##0
+534623##Steam Dev Days: Data to Drive Decision-Making##0
+534624##Steam Dev Days: Is Early Access Right for You?##0
+534625##Steam Dev Days: Performance Tuning Applications for Intel GEN Graphics for Linux##0
+534626##Steam Dev Days: Steam Business Update##0
+534627##Steam Dev Days: Portal 2 and Team Fortress 2 Alternate Reality Games Q&A##0
+534628##Steam Dev Days: The Evolution of Gaming Hardware##0
+534629##Steam Dev Days: Steamworks Features - A Technical Overview##0
+534630##Steam Dev Days: Beyond Porting##0
+534631##Steam Dev Days: 100% Steam (Dovetail Games)##0
+534632##Steam Dev Days: Game Development with SDL 2.0##0
+534633##Steam Dev Days: What VR Could, Should, and Almost Certainly Will Be in 2 Years##0
+534634##Steam Dev Days: Porting Games to Virtual Reality##0
+534635##Steam Dev Days: Wild West of VR##0
+534636##Steam Dev Days: Virtual Reality and Steam##0
+550760##Steam Dev Days: Welcome##0
+550761##Steam Dev Days: Steam Business Update##0
+550762##Steam Dev Days: Philosophy of VR##0
+550763##Steam Dev Days: The Future of VR and Games##0
+550764##Steam Dev Days: Steam 101 - Getting Started with Marketing Features and Tools##0
+550765##Steam Dev Days: Steam Controller##0
+550766##Steam Dev Days: Steam 201 - Sound Advice from Successful Developers##0
+550767##Steam Dev Days: Your Game's Back-End Item APIs##0
+550768##Steam Dev Days: SteamVR Hardware##0
+550769##Steam Dev Days: Building Unity Games for SteamOS/Linux##0
+550770##Steam Dev Days: UGC and Workshop in ARK: Survival Evolved##0
+550771##Steam Dev Days: Video Content on Steam##0
+550772##Steam Dev Days: Game Server Hosting##0
+550773##Steam Dev Days: Games as a Service##0
+550774##Steam Dev Days: Unity Development for VR##0
+550775##Steam Dev Days: Developing The Lab##0
+550776##Steam Dev Days: The Psychology of Games##0
+550777##Steam Dev Days: Vulkan Graphics Panel##0
+550778##Steam Dev Days: Early Access##0
+550779##Steam Dev Days: Anti-Cheat for Multiplayer Games##0
+550780##Steam Dev Days: Delivering Great VR With Simple Graphics##0
+550781##Steam Dev Days: Healthy Publisher Relationships##0
+550782##Steam Dev Days: The Art of Communication: Decoding the Creative Relationship##0
+550783##Steam Dev Days: UE4 Development + Shipping an UE4 VR Game##0
+550650##Black Squad##0
+218620##PAYDAY 2##0
+15700##Oddworld: Abe's Oddysee##0
+783240##Seas dogs##0
+878760##Realm Royale - Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+844870##KurtzPel##0
+638070##Murderous Pursuits##0
+996470##eFootball PES 2020##0
+@@REVIEW
+730##Recommended

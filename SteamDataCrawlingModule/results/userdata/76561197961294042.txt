@@ -1,0 +1,209 @@
+@@GAME
+570##Dota 2##159317
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##20902
+250820##SteamVR##12515
+646570##Slay the Spire##10019
+466560##Northgard##8241
+427520##Factorio##8219
+268500##XCOM 2##5887
+17480##Command and Conquer: Red Alert 3##5667
+344850##Big Pharma##4312
+239140##Dying Light##4033
+730##Counter-Strike: Global Offensive##3762
+719040##Wasteland 3##3653
+8930##Sid Meier's Civilization V##3583
+377160##Fallout 4##3579
+644930##They Are Billions##3395
+588430##Fallout Shelter##3381
+225540##Just Cause 3##3190
+410900##Forts##3048
+356190##Middle-earth™: Shadow of War™##2847
+418240##Shadow Tactics: Blades of the Shogun##2707
+535930##Two Point Hospital##2433
+219990##Grim Dawn##2384
+550##Left 4 Dead 2##2350
+289070##Sid Meier's Civilization VI##2144
+1217060##Gunfire Reborn##2000
+476460##Picross Touch##1955
+298630##The Escapists##1792
+377840##FINAL FANTASY IX##1728
+1318690##shapez.io##1703
+24810##Command and Conquer 3: Kane's Wrath##1673
+200510##XCOM: Enemy Unknown##1590
+1213210##Command & Conquer™ Remastered Collection##1498
+408410##X-Morph: Defense##1416
+792100##7 Billion Humans##1386
+884660##CRSED##1364
+500##Left 4 Dead##1208
+569480##Kingdoms and Castles##1120
+213670##South Park™: The Stick of Truth™##1108
+24790##Command and Conquer 3: Tiberium Wars##1106
+207140##SpeedRunners##1067
+620##Portal 2##1037
+379720##DOOM##1023
+39140##FINAL FANTASY VII##970
+286160##Tabletop Simulator##944
+480490##Prey##865
+201790##Orcs Must Die! 2##861
+42910##Magicka##831
+242760##The Forest##806
+421050##Deponia Doomsday##782
+641990##The Escapists 2##773
+322330##Don't Starve Together##740
+48240##Anno 2070##685
+280220##Creeper World 3: Arc Eternal##672
+11020##TrackMania Nations Forever##664
+220##Half-Life 2##656
+1085660##Destiny 2##650
+739630##Phasmophobia##641
+214340##Deponia##563
+611500##Quake Champions##559
+22600##Worms Reloaded##526
+834740##Circle Empires##504
+102600##Orcs Must Die!##498
+292030##The Witcher 3: Wild Hunt##496
+107100##Bastion##481
+259570##Eden Star##476
+620980##Beat Saber##472
+431240##Golf With Your Friends##455
+905340##Heave Ho##445
+387990##Scrap Mechanic##444
+233450##Prison Architect##443
+282660##Easy eSports##436
+232910##TrackMania² Stadium##433
+41500##Torchlight##428
+235360##Prime World: Defenders##415
+218620##PAYDAY 2##406
+239030##Papers, Please##403
+1097150##Fall Guys: Ultimate Knockout##396
+238090##Sniper Elite 3##370
+236870##HITMAN™##370
+365450##Hacknet##360
+327030##Worms W.M.D##341
+255710##Cities: Skylines##320
+428660##Deliver Us The Moon##313
+63000##HOARD##312
+219740##Don't Starve##307
+207610##The Walking Dead##305
+1250##Killing Floor##268
+477160##Human: Fall Flat##261
+91310##Dead Island##260
+391220##Rise of the Tomb Raider##248
+387290##Ori and the Blind Forest: Definitive Edition##227
+319630##Life is Strange™##193
+291550##Brawlhalla##186
+24800##Command and Conquer: Red Alert 3 - Uprising##185
+211820##Starbound##183
+945360##Among Us##179
+45000##Sol Survivor##160
+8870##BioShock Infinite##149
+571740##Golf It!##127
+1016920##Unrailed!##120
+40800##Super Meat Boy##117
+1046030##ISLANDERS##112
+41300##Altitude##111
+221910##The Stanley Parable##102
+755790##Ring of Elysium##92
+230190##War for the Overworld##83
+527100##Star Trek: Bridge Crew##82
+285900##Gang Beasts##80
+35450##Rising Storm/Red Orchestra 2 Multiplayer##76
+437920##Tricky Towers##76
+684410##Bridge Constructor Portal##76
+785790##WHAT THE GOLF?##76
+311690##Enter the Gungeon##74
+15950##Reaxxion##66
+204300##Awesomenauts##65
+340170##FINAL FANTASY TYPE-0 HD##65
+1186040##Worms Rumble##63
+427270##Orcs Must Die! Unchained##60
+233610##Distance##59
+540840##Lara Croft GO##57
+346010##Besiege##55
+433850##Z1 Battle Royale##54
+205790##Dota 2 Test##50
+1106850##Totally Reliable Delivery Service Beta##47
+221260##Little Inferno##42
+1283220##Devolverland Expo##42
+493340##Planet Coaster##31
+591370##Production Line##31
+204240##The Bridge##30
+240720##Getting Over It with Bennett Foddy##30
+252950##Rocket League##29
+444220##Asteroid Bounty Hunter##29
+626680##Kreedz Climbing##29
+24780##SimCity 4 Deluxe##27
+504370##Battlerite##25
+770720##Hunt: Showdown (Test Server)##25
+95300##Capsized##21
+113020##Monaco##21
+346900##AdVenture Capitalist##19
+1510##Uplink##18
+323850##Move or Die##17
+1241700##There is no game: Jam Edition 2015##17
+400##Portal##16
+527720##Keep Defending##16
+18500##Defense Grid: The Awakening##15
+810500##PowerBeatsVR##14
+630##Alien Swarm##14
+93200##Revenge of the Titans##13
+297020##The Culling Of The Cows##8
+48000##LIMBO##7
+238960##Path of Exile##6
+584400##Sonic Mania##5
+708420##Broken Ground##5
+471710##Rec Room##4
+464920##Surviving Mars##1
+700330##SCP: Secret Laboratory##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+23490##Tropico 3 - Steam Special Edition##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+91200##Anomaly Warzone Earth##0
+91600##Sanctum##0
+203810##Dear Esther##0
+520720##Dear Esther: Landmark Edition##0
+38700##Toki Tori##0
+220780##Thomas Was Alone##0
+203140##Hitman: Absolution##0
+234940##The 39 Steps##0
+367540##Starbound - Unstable##0
+351030##Pixel Puzzles Ultimate##0
+298560##Captain Forever Remix##0
+321040##DiRT 3 Complete Edition##0
+258970##Gauntlet™ ##0
+329380##Stealth Inc 2##0
+347560##Terra Incognita ~ Chapter One: The Descendant##0
+368720##Sirius Online##0
+377310##The Tower Of Elements##0
+383580##Flesh Eaters##0
+261570##Ori and the Blind Forest##0
+399430##Tinboy##0
+57300##Amnesia: The Dark Descent##0
+412600##Lup##0
+418070##Turbo Pug##0
+428950##Kivi, Toilet and Shotgun##0
+439700##H1Z1: Test Server##0
+438180##Super Mustache##0
+439250##Space Pilgrim Episode III: Delta Pavonis##0
+563560##Alien Swarm: Reactive Drop##0
+250460##Bridge Constructor##0
+427460##Battlerite Public Test##0
+375820##Human Resource Machine##0
+804320##Papers, Please - The Short Film##0
+1209490##Exit the Gungeon##0
+203160##Tomb Raider##0
+308600##Geneshift##0
+@@REVIEW
+387990##Recommended
+466560##Recommended

@@ -1,0 +1,165 @@
+@@GAME
+570##Dota 2##134446
+730##Counter-Strike: Global Offensive##81467
+271590##Grand Theft Auto V##64084
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##58914
+10##Counter-Strike##45127
+381210##Dead by Daylight##11911
+30##Day of Defeat##6702
+359550##Tom Clancy's Rainbow Six Siege##5918
+33930##Arma 2: Operation Arrowhead##5864
+105600##Terraria##1872
+976310##Mortal Kombat 11##1845
+466240##Deceit##1501
+582010##Monster Hunter: World##1439
+444090##Paladins##1186
+1046930##Dota Underlords##1130
+513710##SCUM##1019
+766570##Russian Fishing 4##1019
+879160##Battlerite Royale##920
+307780##Mortal Kombat X##835
+1097150##Fall Guys: Ultimate Knockout##781
+945360##Among Us##694
+206420##Saints Row IV##680
+304930##Unturned##552
+464060##RUINER##406
+339610##FreeStyle 2: Street Basketball##379
+813820##Realm Royale##352
+252490##Rust##329
+386360##SMITE##321
+240##Counter-Strike: Source##269
+42910##Magicka##262
+218620##PAYDAY 2##229
+374320##DARK SOULS™ III##228
+242700##Injustice: Gods Among Us Ultimate Edition##202
+588430##Fallout Shelter##189
+230410##Warframe##187
+440##Team Fortress 2##176
+252950##Rocket League##161
+223470##POSTAL 2##154
+70##Half-Life##153
+236390##War Thunder##138
+307690##Sleeping Dogs: Definitive Edition##137
+237110##Mortal Kombat Komplete Edition##127
+550##Left 4 Dead 2##122
+320300##Car Mechanic Simulator 2015##117
+504370##Battlerite##105
+208090##Loadout##103
+205350##Mortal Kombat Kollection##101
+238960##Path of Exile##87
+109600##Neverwinter##86
+80##Counter-Strike: Condition Zero##70
+43110##Metro 2033##65
+222980##Dead Pixels##64
+227940##Heroes & Generals##64
+755790##Ring of Elysium##53
+224580##Arma 2: DayZ Mod##52
+214320##Dollar Dash##50
+217490##Borderlands 2 RU##48
+477160##Human: Fall Flat##42
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##34
+20##Team Fortress Classic##28
+1174180##Red Dead Redemption 2##27
+33910##Arma 2##25
+316390##Anomaly Zone##25
+438100##VRChat##25
+363970##Clicker Heroes##24
+205710##EverQuest Free-to-Play##18
+610080##Realm Grinder##18
+333930##Dirty Bomb##17
+291550##Brawlhalla##16
+307230##I, Zombie##15
+433850##Z1 Battle Royale##15
+240320##Panzar##14
+448460##Crazy Killer##11
+113400##APB Reloaded##9
+1250##Killing Floor##9
+280790##Creativerse##5
+572520##Dropzone##4
+40##Deathmatch Classic##2
+60##Ricochet##1
+130##Half-Life: Blue Shift##1
+258160##Rise of Incarnates##1
+355840##Survarium##1
+50##Half-Life: Opposing Force##0
+6210##Vegas: Make It Big##0
+11330##Obulis##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+204300##Awesomenauts##0
+49520##Borderlands 2##0
+205790##Dota 2 Test##0
+113420##Fallen Earth##0
+206210##Gotham City Impostors: Free To Play##0
+212500##The Lord of the Rings Online™##0
+107400##Arma 2: Free##0
+250460##Bridge Constructor##0
+700580##Rust - Staging Branch##0
+287020##Harvester##0
+200110##Nosgoth##0
+261640##Borderlands: The Pre-Sequel##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+337950##The SKIES##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+858460##SMITE - Public Test##0
+389300##TERA##0
+287920##Mortal Online##0
+596350##Paladins - Public Test##0
+444200##World of Tanks Blitz##0
+563560##Alien Swarm: Reactive Drop##0
+506540##Last Man Standing##0
+427460##Battlerite Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+878760##Realm Royale - Test Server##0
+439700##H1Z1: Test Server##0
+863550##HITMAN™ 2##0
+13250##Unreal Gold##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+611500##Quake Champions##0
+391720##Layers of Fear##0
+63500##Swords and Soldiers HD##0
+365450##Hacknet##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+638070##Murderous Pursuits##0
+395170##DISTRAINT: Deluxe Edition##0
+489520##Minion Masters##0
+204880##Sins of a Solar Empire: Rebellion##0
+308600##Geneshift##0
+278360##A Story About My Uncle##0
+285800##Braveland##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+780800##Ball laB##0
+44350##GRID 2##0
+1048540##Kao the Kangaroo: Round 2##0
+684680##Polygoneer##0
+431930##Kabounce##0
+226840##Age of Wonders III##0
+310560##DiRT Rally##0
+1085660##Destiny 2##0
+220820##Zombie Driver HD##0
+231430##Company of Heroes 2##0
+232770##POSTAL##0
+836620##Black Desert##0
+406970##The Uncertain: Last Quiet Day##0
+555000##GOAT OF DUTY##0
+797410##Headsnatchers##0
+760620##Deiland##0
+442070##Drawful 2##0
+289690##Lara Croft and the Temple of Osiris##0
+588210##HELLION##0
+814200##Simple Story - Alex##0
+628950##Nephise Begins##0
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##0
+34330##Total War: SHOGUN 2##0
+435790##10 Second Ninja X##0
+371140##Aegis Defenders##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+209630##Magrunner: Dark Pulse##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW
+271590##Recommended
+578080##Recommended

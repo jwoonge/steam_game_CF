@@ -1,0 +1,30 @@
+@@GAME
+107410##Arma 3##10039
+230410##Warframe##8783
+447820##Day of Infamy##1542
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1524
+1091500##Cyberpunk 2077##677
+1085660##Destiny 2##368
+218230##PlanetSide 2##294
+671510##Desolate##268
+220200##Kerbal Space Program##151
+80##Counter-Strike: Condition Zero##127
+433850##Z1 Battle Royale##121
+227940##Heroes & Generals##112
+291480##Warface##75
+310560##DiRT Rally##71
+30##Day of Defeat##70
+440##Team Fortress 2##60
+236390##War Thunder##39
+544920##Darwin Project##34
+10##Counter-Strike##32
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+1083500##PlanetSide 2 - Test##0
+439700##H1Z1: Test Server##0
+@@REVIEW

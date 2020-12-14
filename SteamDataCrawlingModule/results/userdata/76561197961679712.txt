@@ -1,0 +1,244 @@
+@@GAME
+252950##Rocket League##84606
+570##Dota 2##29077
+1046930##Dota Underlords##14858
+582010##Monster Hunter: World##13511
+730##Counter-Strike: Global Offensive##10495
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##9525
+346110##ARK: Survival Evolved##7026
+107410##Arma 3##6265
+219990##Grim Dawn##6211
+427520##Factorio##6184
+236390##War Thunder##5412
+646570##Slay the Spire##4835
+703080##Planet Zoo##4796
+1250##Killing Floor##3834
+446800##Transport Fever##3736
+469600##Legion TD 2##2915
+424370##Wolcen: Lords of Mayhem##2846
+242760##The Forest##2352
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##2296
+55150##Warhammer 40,000: Space Marine##2244
+383120##Empyrion - Galactic Survival##2231
+221100##DayZ##2223
+49520##Borderlands 2##2183
+644930##They Are Billions##2126
+238960##Path of Exile##2123
+594650##Hunt: Showdown##1992
+413150##Stardew Valley##1962
+1066780##Transport Fever 2##1950
+255710##Cities: Skylines##1937
+230230##Divinity: Original Sin (Classic)##1910
+493340##Planet Coaster##1785
+42710##Call of Duty: Black Ops - Multiplayer##1766
+91310##Dead Island##1653
+617290##Remnant: From the Ashes##1642
+228200##Company of Heroes ##1570
+648350##Jurassic World Evolution##1511
+232090##Killing Floor 2##1508
+15620##Warhammer 40,000: Dawn of War II##1291
+632360##Risk of Rain 2##1217
+268500##XCOM 2##1167
+33930##Arma 2: Operation Arrowhead##1098
+227940##Heroes & Generals##1095
+310510##Deathtrap##1088
+105600##Terraria##1074
+48220##Might & Magic: Heroes VI##1072
+440900##Conan Exiles##981
+550##Left 4 Dead 2##968
+504370##Battlerite##960
+225640##Sacred 2 Gold##955
+548430##Deep Rock Galactic##924
+1198740##Colony Siege##904
+251570##7 Days to Die##894
+435150##Divinity: Original Sin 2##884
+521150##Another Brick in The Mall##882
+386360##SMITE##868
+10180##Call of Duty: Modern Warfare 2##867
+594570##Total War: WARHAMMER II##852
+335300##DARK SOULS™ II: Scholar of the First Sin##826
+39160##Dungeon Siege III##777
+551730##Toukiden 2##751
+677120##Heroes of Hammerwatch##751
+42700##Call of Duty: Black Ops##700
+8980##Borderlands GOTY##639
+269770##Secrets of Grindea##638
+200510##XCOM: Enemy Unknown##615
+500##Left 4 Dead##610
+387990##Scrap Mechanic##596
+312660##Sniper Elite 4##595
+704270##Generation Zero®##565
+263440##The Stomping Land##559
+1200##Red Orchestra: Ostfront 41-45##546
+239820##Game Dev Tycoon##542
+630##Alien Swarm##538
+374040##Portal Knights##537
+275850##No Man's Sky##536
+10680##Aliens vs. Predator##523
+218620##PAYDAY 2##464
+34330##Total War: SHOGUN 2##446
+373420##Divinity: Original Sin Enhanced Edition##444
+311290##SpellForce 3##437
+91600##Sanctum##435
+306130##The Elder Scrolls Online##430
+72850##The Elder Scrolls V: Skyrim##429
+394510##HELLDIVERS™##421
+265550##Dead Rising 3##373
+359550##Tom Clancy's Rainbow Six Siege##370
+583950##Artifact##366
+222880##Insurgency##364
+558100##Art of War: Red Tides##347
+364360##Total War: WARHAMMER##345
+201790##Orcs Must Die! 2##335
+41500##Torchlight##328
+1024380##Second Extinction™##322
+648800##Raft##306
+231430##Company of Heroes 2##301
+552500##Warhammer: Vermintide 2##295
+244850##Space Engineers##274
+476600##Call of Duty: WWII##271
+221380##Age of Empires II (2013)##266
+588650##Dead Cells##266
+324800##Shadow Warrior 2##256
+209230##Sherlock Holmes and The Hound of The Baskervilles##255
+620##Portal 2##249
+245620##Tropico 5##243
+65800##Dungeon Defenders##234
+200710##Torchlight II##209
+56400##Warhammer 40,000: Dawn of War II - Retribution##208
+230410##Warframe##208
+10##Counter-Strike##202
+215530##The Incredible Adventures of Van Helsing##196
+259740##Nightmares from the Deep: The Cursed Heart##192
+48240##Anno 2070##185
+245550##Free to Play##184
+601510##Yu-Gi-Oh! Duel Links##167
+108600##Project Zomboid##163
+17700##Insurgency: Modern Infantry Combat##163
+457730##Mushroom Wars 2##161
+299860##Beasts of Prey##149
+475150##Titan Quest Anniversary Edition##149
+230190##War for the Overworld##146
+6830##Commandos 2: Men of Courage##136
+249050##Dungeon of the Endless™ - Crystal Edition##134
+248390##Craft The World##133
+380600##Fishing Planet##131
+22610##Alien Breed: Impact##124
+7620##Railroad Tycoon 2: Platinum##116
+528230##SYNTHETIK##111
+1213210##Command & Conquer™ Remastered Collection##111
+242920##Banished##109
+41000##Serious Sam HD: The First Encounter##104
+468630##Warhammer 40,000: Dawn of War III Open Beta##100
+563560##Alien Swarm: Reactive Drop##98
+1127400##Mindustry##96
+200110##Nosgoth##94
+239140##Dying Light##84
+291480##Warface##69
+648430##Hand of the Gods##62
+222900##Dead Island: Epidemic##61
+219640##Chivalry: Medieval Warfare##60
+8190##Just Cause 2##56
+223850##3DMark##55
+35450##Rising Storm/Red Orchestra 2 Multiplayer##54
+240##Counter-Strike: Source##52
+282070##This War of Mine##47
+27940##Dead Horde##41
+367450##Poly Bridge##41
+266840##Age of Mythology: Extended Edition##33
+30##Day of Defeat##29
+50##Half-Life: Opposing Force##29
+215470##Primal Carnage##24
+224580##Arma 2: DayZ Mod##23
+17530##D.I.P.R.I.P. Warm Up##22
+15370##Heroes of Might & Magic V: Tribes of the East##21
+813820##Realm Royale##17
+236110##Dungeon Defenders II##16
+400##Portal##15
+206500##AirMech Strike##9
+476620##Call of Duty: WWII - Multiplayer##9
+1280##Darkest Hour: Europe '44-'45##8
+323370##TERA##4
+411186##Dota 2 Player Profiles: Cloud9 - N0Tail##3
+411192##Dota 2 Player Profiles: Team Secret - S4##3
+411183##Dota 2 Player Profiles: Invictus Gaming - Ferrari##2
+411193##Dota 2 Player Profiles: Vici - fy##2
+33910##Arma 2##1
+224260##No More Room in Hell##1
+411180##Dota 2 Player Profiles##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1230##Mare Nostrum##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+564310##Serious Sam Fusion 2017 (beta)##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+729040##Borderlands GOTY Enhanced##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+205790##Dota 2 Test##0
+206690##iBomber Defense Pacific##0
+20540##Company of Heroes: Tales of Valor##0
+204360##Castle Crashers##0
+343450##Free To Play (Streaming)##0
+246900##Viscera Cleanup Detail##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+265210##Viscera Cleanup Detail: Santa's Rampage##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+1416260##SpellForce 3: Versus Edition##0
+333650##Pahelika: Revelations HD##0
+407530##ARK: Survival Of The Fittest##0
+266510##Hand of Fate##0
+232150##Killing Floor 2 - SDK##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+858460##SMITE - Public Test##0
+411181##Dota 2 Player Profiles: EG - Suma1L##0
+411182##Dota 2 Player Profiles: Na'Vi - XBOCT##0
+411184##Dota 2 Player Profiles: MVPHot6 - HEEN##0
+411185##Dota 2 Player Profiles: EHOME - ROTK##0
+411187##Dota 2 Player Profiles: Complexity - zfreek##0
+411188##Dota 2 Player Profiles: Empire - Alohadance##0
+411189##Dota 2 Player Profiles: Fnatic - Kecik-Imba##0
+411190##Dota 2 Player Profiles: LGD - Xiao8##0
+411191##Dota 2 Player Profiles: Newbee - Mu##0
+411194##Dota 2 Player Profiles: Virtus.Pro - FNG##0
+419910##Dota 2 Player Profiles: CDEC's Journey to The Majors##0
+420090##Dota 2 Player Profiles: EG Champions of TI5##0
+523480##Dota 2 Player Profiles: Vici Gaming Reborn - END##0
+523481##Dota 2 Player Profiles: OG - Fly##0
+523482##Dota 2 Player Profiles: EHOME - iceiceice##0
+523483##Dota 2 Player Profiles: Team Liquid - MATUMBAMAN##0
+523484##Dota 2 Player Profiles: LGD - Maybe##0
+523485##Dota 2 Player Profiles: MVP Phoenix - QO##0
+523486##Dota 2 Player Profiles: Not Playing Dota with Complexity##0
+523487##Dota 2 Player Profiles: Not Playing Dota with Dendi##0
+523488##Dota 2 Player Profiles: Not Playing Dota with END##0
+523489##Dota 2 Player Profiles: Not Playing Dota With MATUMBAMAN##0
+523490##Dota 2 Player Profiles: Not Playing Dota With QO##0
+702690##Dota 2 Player Profiles: OG - ANA##0
+702691##Dota 2 Player Profiles: Invictus Gaming -  BurNIng##0
+702692##Dota 2 Player Profiles: Team Liquid - Miracle-##0
+702693##Dota 2 Player Profiles: Virtus.Pro##0
+702694##Dota 2 Player Profiles: Not Playing Dota With ANA##0
+702695##Dota 2 Player Profiles: Not Playing Dota with Universe and Zai##0
+702696##Dota 2 Player Profiles: Not Playing Dota With Virtus.Pro##0
+931180##Conan Exiles - Testlive Client##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+427460##Battlerite Public Test##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+770720##Hunt: Showdown (Test Server)##0
+878760##Realm Royale - Test Server##0
+396900##GRIP: Combat Racing##0
+489520##Minion Masters##0
+@@REVIEW
+1046930##Recommended
+582010##Recommended
+324800##Recommended
+346110##Recommended

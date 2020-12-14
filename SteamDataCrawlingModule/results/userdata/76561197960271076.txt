@@ -1,0 +1,299 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+380##Half-Life 2: Episode One##0
+3830##Psychonauts##0
+4000##Garry's Mod##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+8600##RACE 07##0
+8660##GTR Evolution##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+16450##F.E.A.R. 2: Project Origin##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+17470##Dead Space##0
+21760##World in Conflict##0
+21910##World in Conflict: Soviet Assault##0
+26800##Braid##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+12830##Operation Flashpoint: Dragon Rising##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+22370##Fallout 3 - Game of the Year Edition##0
+24960##Battlefield: Bad Company™ 2##0
+8190##Just Cause 2##0
+49600##Beat Hazard##0
+21090##F.E.A.R.##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+33900##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+17410##Mirror's Edge##0
+205790##Dota 2 Test##0
+8930##Sid Meier's Civilization V##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+42700##Call of Duty: Black Ops##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+72200##Universe Sandbox Legacy##0
+620##Portal 2##0
+70000##Dino D-Day##0
+92000##Hydrophobia: Prophecy##0
+22350##BRINK##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+98200##Frozen Synapse##0
+21100##F.E.A.R. 3##0
+107300##Breath of Death VII ##0
+107310##Cthulhu Saves the World ##0
+28050##Deus Ex: Human Revolution##0
+24240##PAYDAY: The Heist##0
+9200##RAGE##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+44340##Operation Flashpoint: Red River##0
+22380##Fallout: New Vegas##0
+104700##Super Monday Night Combat##0
+12840##DiRT 2##0
+104900##ORION: Prelude##0
+108800##Crysis 2 Maximum Edition##0
+204100##Max Payne 3##0
+91310##Dead Island##0
+98400##Hard Reset##0
+209270##Hero Academy##0
+730##Counter-Strike: Global Offensive##0
+204300##Awesomenauts##0
+212680##FTL: Faster Than Light##0
+49520##Borderlands 2##0
+200710##Torchlight II##0
+204630##Retro City Rampage™ DX##0
+218740##Pid ##0
+220240##Far Cry® 3##0
+43110##Metro 2033##0
+221640##Super Hexagon##0
+212480##Sonic & All-Stars Racing Transformed Collection##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+223850##3DMark##0
+211500##RaceRoom Racing Experience ##0
+212800##Super Crate Box##0
+230410##Warframe##0
+238070##Shadow Warrior Classic (1997)##0
+238960##Path of Exile##0
+3483##Peggle Extreme##0
+241660##Ohm Studio##0
+265630##Fistful of Frags##0
+223750##DCS World Steam Edition##0
+224580##Arma 2: DayZ Mod##0
+107410##Arma 3##0
+233450##Prison Architect##0
+210770##Sanctum 2##0
+224760##FEZ##0
+233270##Far Cry® 3 Blood Dragon##0
+204450##Call of Juarez Gunslinger##0
+236090##Dust: An Elysian Tail##0
+236370##Interstellar Marines##0
+233250##Planetary Annihilation##0
+239250##Castlevania: Lords of Shadow 2##0
+58610##Wargame: European Escalation##0
+222750##Wargame: AirLand Battle##0
+241620##Inquisitor##0
+234080##Castlevania: Lords of Shadow - Ultimate Edition##0
+225180##Narco Terror##0
+244210##Assetto Corsa##0
+248820##Risk of Rain##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+209000##Batman™: Arkham Origins##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+252950##Rocket League##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+247910##Sniper Elite: Nazi Zombie Army 2##0
+259620##3079 -- Block Action RPG##0
+94400##Nidhogg##0
+238430##Contagion##0
+262260##Jets'n'Guns Gold##0
+263360##3089 -- Futuristic Action RPG##0
+264200##One Finger Death Punch##0
+269170##SportsBar VR ##0
+235460##METAL GEAR RISING: REVENGEANCE##0
+236510##Takedown: Red Sabre##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+203160##Tomb Raider##0
+232790##Broken Age##0
+222880##Insurgency##0
+275850##No Man's Sky##0
+277430##Halo: Spartan Assault##0
+250180##METAL SLUG 3##0
+282440##Quake Live##0
+43160##Metro: Last Light##0
+286040##Dead Effect##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+201810##Wolfenstein: The New Order##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+238460##BattleBlock Theater##0
+301520##Robocraft##0
+301640##Zombie Army Trilogy##0
+304930##Unturned##0
+238090##Sniper Elite 3##0
+63380##Sniper Elite V2##0
+244630##NEOTOKYO°##0
+206420##Saints Row IV##0
+261640##Borderlands: The Pre-Sequel##0
+41300##Altitude##0
+322770##Vanishing Realms##0
+239140##Dying Light##0
+221540##Defense Grid 2##0
+333930##Dirty Bomb##0
+338000##Echoes+##0
+343730##Irrational Exuberance: Prologue##0
+346010##Besiege##0
+348250##Google Earth VR##0
+349480##Modular Combat##0
+350080##Wolfenstein: The Old Blood ##0
+355980##Dungeon Warfare##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+320590##Warside##0
+363970##Clicker Heroes##0
+234630##Project CARS##0
+377160##Fallout 4##0
+365960##rFactor 2##0
+236870##HITMAN™##0
+253030##Race The Sun##0
+400940##Budget Cuts##0
+407840##Guardians of Orion (Phase 1)##0
+394510##HELLDIVERS™##0
+410900##Forts##0
+411820##The FOO Show##0
+272890##Vertiginous Golf##0
+422970##Devil Daggers##0
+427520##Factorio##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+424280##Iron Snout##0
+436320##Raw Data##0
+436820##Waltz of the Wizard##0
+438100##VRChat##0
+437220##The Culling##0
+446750##Portal Stories: VR##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+327140##Tilt Brush##0
+386690##Fantastic Contraption##0
+448280##Job Simulator##0
+450390##The Lab##0
+450540##Hot Dogs, Horseshoes & Hand Grenades##0
+451520##theBlu##0
+451840##Out of Ammo##0
+455440##Spell Fighter VR##0
+457420##Surgeon Simulator VR: Meet The Medic##0
+457550##Bigscreen Beta##0
+457320##HoloBall##0
+292730##Call of Duty: Infinite Warfare##0
+393080##Call of Duty: Modern Warfare Remastered##0
+393100##Call of Duty: Modern Warfare Remastered - Multiplayer##0
+379720##DOOM##0
+469650##Disney Movies VR##0
+289070##Sid Meier's Civilization VI##0
+471710##Rec Room##0
+477170##Chamber 19##0
+480490##Prey##0
+48000##LIMBO##0
+498570##Extreme Forklifting 2##0
+502500##ACE COMBAT™ 7: SKIES UNKNOWN##0
+515020##The VR Museum of Fine Art##0
+518580##Accounting##0
+527100##Star Trek: Bridge Crew##0
+535520##Nidhogg 2##0
+337000##Deus Ex: Mankind Divided™##0
+548430##Deep Rock Galactic##0
+553640##ICEY##0
+553880##Archangel™: Hellfire##0
+555160##Pavlov VR##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+578210##A-Tech Cybernetic VR##0
+587430##I Expect You To Die##0
+588430##Fallout Shelter##0
+594650##Hunt: Showdown##0
+770720##Hunt: Showdown (Test Server)##0
+356190##Middle-earth™: Shadow of War™##0
+611660##Fallout 4 VR##0
+612880##Wolfenstein II: The New Colossus##0
+617830##SUPERHOT VR##0
+618740##Beat Hazard 2##0
+218620##PAYDAY 2##0
+667970##VTOL VR##0
+677620##Splitgate: Arena Warfare##0
+690810##Killing Floor: Incursion##0
+38400##Fallout##0
+739630##Phasmophobia##0
+745920##Temtem##0
+755790##Ring of Elysium##0
+804490##Creed: Rise to Glory™##0
+805550##Assetto Corsa Competizione##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+823500##BONEWORKS##0
+847370##Sunset Overdrive##0
+868020##Aperture Hand Lab##0
+870780##Control##0
+877200##Zero Caliber VR##0
+881100##Noita##0
+884660##CRSED##0
+714010##Aim Lab##0
+980300##One Finger Death Punch 2##0
+581320##Insurgency: Sandstorm##0
+342180##Arizona Sunshine##0
+1012790##Into the Radius VR##0
+632360##Risk of Rain 2##0
+1079800##Pistol Whip##0
+1092430##Budget Cuts 2: Mission Insolvency##0
+1085660##Destiny 2##0
+1097150##Fall Guys: Ultimate Knockout##0
+690790##DiRT Rally 2.0##0
+1176640##Frostpoint VR: Proving Grounds##0
+546560##Half-Life: Alyx##0
+1217060##Gunfire Reborn##0
+916840##The Walking Dead: Saints & Sinners##0
+1222730##STAR WARS™: Squadrons##0
+835950##Transpose##0
+1361700##Half-Life: Alyx - Final Hours##0
+1190460##DEATH STRANDING##0
+@@REVIEW
+546560##Recommended
+359550##Recommended
+1079800##Recommended
+617830##Recommended
+755790##Recommended
+477170##Recommended
+264200##Recommended

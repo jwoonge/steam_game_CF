@@ -1,0 +1,129 @@
+@@GAME
+570##Dota 2##115315
+251060##Wargame: Red Dragon##54183
+374320##DARK SOULS™ III##33378
+56400##Warhammer 40,000: Dawn of War II - Retribution##21585
+222750##Wargame: AirLand Battle##17152
+219640##Chivalry: Medieval Warfare##13826
+364360##Total War: WARHAMMER##12171
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##11820
+291650##Pillars of Eternity##9910
+55150##Warhammer 40,000: Space Marine##8953
+58610##Wargame: European Escalation##7415
+64000##Men of War: Assault Squad##6271
+236430##DARK SOULS™ II##6058
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##5884
+794260##Outward##5822
+222880##Insurgency##5785
+214950##Total War: ROME II - Emperor Edition##5672
+17510##Age of Chivalry##5419
+17700##Insurgency: Modern Infantry Combat##5172
+30##Day of Defeat##4979
+211420##DARK SOULS™: Prepare To Die Edition##4694
+362960##Tyranny##4124
+218230##PlanetSide 2##3383
+552620##ATOM RPG##3207
+632470##Disco Elysium##3152
+594570##Total War: WARHAMMER II##2694
+236390##War Thunder##2425
+570940##DARK SOULS™: REMASTERED##2287
+22380##Fallout: New Vegas##2252
+34030##Total War: NAPOLEON - Definitive Edition##2044
+72850##The Elder Scrolls V: Skyrim##1823
+10500##Total War: EMPIRE - Definitive Edition##1506
+107410##Arma 3##1468
+403640##Dishonored 2##1410
+272270##Torment: Tides of Numenera##1310
+393380##Squad##1290
+2760##Neverwinter Nights 2: Platinum##1219
+783170##INSOMNIA: The Ark##1072
+7830##Men of War##981
+300##Day of Defeat: Source##928
+242860##Verdun##918
+35450##Rising Storm/Red Orchestra 2 Multiplayer##893
+912570##BEAUTIFUL DESOLATION##798
+617290##Remnant: From the Ashes##761
+552520##Far Cry 5##699
+262060##Darkest Dungeon®##698
+232790##Broken Age##672
+244450##Men of War: Assault Squad 2##656
+814380##Sekiro™: Shadows Die Twice##608
+550##Left 4 Dead 2##605
+377160##Fallout 4##589
+227940##Heroes & Generals##547
+15620##Warhammer 40,000: Dawn of War II##517
+629760##MORDHAU##402
+235540##Warhammer: End Times - Vermintide##391
+581320##Insurgency: Sandstorm##175
+241600##Rogue Legacy##167
+4890##Cossacks II: Battle for Europe##152
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##132
+481510##Night in the Woods##123
+244160##Homeworld Remastered Collection##93
+367270##Angels Fall First##77
+552500##Warhammer: Vermintide 2##56
+440##Team Fortress 2##56
+630##Alien Swarm##52
+113200##The Binding of Isaac##45
+205790##Dota 2 Test##43
+115200##Cossacks II: Napoleonic Wars##37
+10##Counter-Strike##31
+201290##Sins of a Solar Empire: Trinity##28
+1200##Red Orchestra: Ostfront 41-45##27
+220##Half-Life 2##25
+320##Half-Life 2: Deathmatch##19
+228880##Ashes of the Singularity: Classic##17
+25840##Take Command: Second Manassas##11
+205100##Dishonored##4
+633460##Tannenberg##4
+335300##DARK SOULS™ II: Scholar of the First Sin##2
+921800##Encased##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+340##Half-Life 2: Lost Coast##0
+1230##Mare Nostrum##0
+1280##Darkest Hour: Europe '44-'45##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+1670##Iron Warriors: T-72 Tank Command##0
+20900##The Witcher: Enhanced Edition##0
+3130##Men of War: Red Tide##0
+34330##Total War: SHOGUN 2##0
+98300##Toy Soldiers##0
+730##Counter-Strike: Global Offensive##0
+220090##The Journey Down: Chapter One##0
+208030##Moon Breakers##0
+1083500##PlanetSide 2 - Test##0
+90530##Battle for Graxia##0
+262850##The Journey Down: Chapter Two##0
+91330##Iron Front : Liberation 1944##0
+507490##Ashes of the Singularity: Escalation##0
+292030##The Witcher 3: Wild Hunt##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+774941##Squad - Public Testing##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+592480##Knights and Bikes##0
+614570##Dishonored®: Death of the Outsider™ ##0
+392110##Endless Space® 2 - Digital Deluxe Edition##0
+424840##Little Nightmares##0
+753640##Outer Wilds##0
+220240##Far Cry® 3##0
+560130##Pillars of Eternity II: Deadfire##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+379430##Kingdom Come: Deliverance##0
+@@REVIEW
+794260##Recommended
+251060##Recommended

@@ -1,0 +1,166 @@
+@@GAME
+627690##Idle Champions of the Forgotten Realms##4361
+440##Team Fortress 2##3417
+216150##MapleStory##3260
+41500##Torchlight##2429
+730##Counter-Strike: Global Offensive##2399
+200710##Torchlight II##1483
+997070##Marvel's Avengers##1295
+207610##The Walking Dead##1026
+240##Counter-Strike: Source##1015
+241600##Rogue Legacy##889
+234330##Marvel Puzzle Quest##849
+1085660##Destiny 2##701
+782330##DOOM Eternal##675
+646570##Slay the Spire##517
+207750##Symphony##490
+219640##Chivalry: Medieval Warfare##477
+289070##Sid Meier's Civilization VI##441
+1097150##Fall Guys: Ultimate Knockout##423
+49600##Beat Hazard##411
+24240##PAYDAY: The Heist##405
+211820##Starbound##392
+1250##Killing Floor##373
+630##Alien Swarm##348
+560380##MapleStory 2##339
+618740##Beat Hazard 2##335
+1286830##STAR WARS™: The Old Republic™##309
+48700##Mount & Blade: Warband##290
+214770##Guacamelee! Gold Edition##278
+493340##Planet Coaster##275
+233450##Prison Architect##249
+238960##Path of Exile##248
+363970##Clicker Heroes##244
+244730##Divekick##236
+329110##Gems of War##230
+453480##Shadowverse##229
+610180##The Jackbox Party Pack 4##227
+286160##Tabletop Simulator##207
+237630##DuckTales Remastered##205
+232090##Killing Floor 2##194
+960090##Bloons TD 6##164
+212680##FTL: Faster Than Light##163
+110800##L.A. Noire##159
+570##Dota 2##159
+201790##Orcs Must Die! 2##153
+8930##Sid Meier's Civilization V##151
+620##Portal 2##150
+550##Left 4 Dead 2##146
+281990##Stellaris##143
+531640##Eternal Card Game##132
+310950##Street Fighter V##127
+535930##Two Point Hospital##122
+239820##Game Dev Tycoon##118
+233720##Surgeon Simulator##108
+33930##Arma 2: Operation Arrowhead##106
+218230##PlanetSide 2##105
+311690##Enter the Gungeon##102
+489940##BATTALION 1944##100
+504370##Battlerite##98
+4000##Garry's Mod##88
+225260##Brütal Legend##85
+247080##Crypt of the NecroDancer##85
+41070##Serious Sam 3: BFE##84
+204300##Awesomenauts##84
+261030##The Walking Dead: Season Two##82
+250760##Shovel Knight: Treasure Trove##80
+7940##Call of Duty 4: Modern Warfare##74
+230050##DLC Quest##74
+316010##Magic Duels##71
+235800##Audiosurf 2##70
+255370##KickBeat Steam Edition##68
+105600##Terraria##64
+238460##BattleBlock Theater##64
+274190##Broforce##63
+221380##Age of Empires II (2013)##60
+232430##Gone Home##59
+262060##Darkest Dungeon®##56
+4760##Rome: Total War##55
+218620##PAYDAY 2##53
+63380##Sniper Elite V2##52
+506140##Shop Heroes##52
+400##Portal##51
+230410##Warframe##50
+1046930##Dota Underlords##45
+320##Half-Life 2: Deathmatch##43
+433850##Z1 Battle Royale##43
+220##Half-Life 2##41
+1087280##Out of the Park Baseball 21##41
+33900##Arma 2##39
+12900##Audiosurf##37
+234710##Poker Night 2##37
+632360##Risk of Rain 2##37
+246620##Plague Inc: Evolved##36
+230290##Universe Sandbox##36
+8190##Just Cause 2##35
+465650##Out of the Park Baseball 18##34
+31280##Poker Night at the Inventory##32
+444090##Paladins##30
+238430##Contagion##29
+6060##Star Wars: Battlefront 2 (Classic, 2005)##28
+237930##Transistor##27
+20##Team Fortress Classic##26
+413150##Stardew Valley##25
+17700##Insurgency: Modern Infantry Combat##24
+18500##Defense Grid: The Awakening##22
+200170##Worms Revolution##22
+285900##Gang Beasts##22
+45760##Ultra Street Fighter IV##22
+1253920##Rogue Legacy 2##22
+265930##Goat Simulator##21
+219150##Hotline Miami##20
+217860##Special Forces: Team X##20
+273110##Counter-Strike Nexon: Studio##20
+247730##Nether##19
+22650##Alien Breed 2: Assault##18
+224540##Ace of Spades##17
+204360##Castle Crashers##17
+239350##Spelunky##16
+17730##Smashball##16
+70000##Dino D-Day##15
+104900##ORION: Prelude##15
+219680##Proteus##15
+945360##Among Us##15
+4920##Natural Selection 2##13
+418460##Rising Storm 2: Vietnam##13
+24860##Battlefield 2##9
+239030##Papers, Please##8
+397060##Faeria##8
+225420##Cities in Motion 2##7
+308420##Ziggurat##7
+30##Day of Defeat##6
+42910##Magicka##6
+227700##Firefall##4
+273350##Evolve Stage 2##3
+10##Counter-Strike##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+43110##Metro 2033##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+564310##Serious Sam Fusion 2017 (beta)##0
+205790##Dota 2 Test##0
+102600##Orcs Must Die!##0
+91600##Sanctum##0
+1083500##PlanetSide 2 - Test##0
+210770##Sanctum 2##0
+221910##The Stanley Parable##0
+367540##Starbound - Unstable##0
+312990##The Expendabros##0
+255710##Cities: Skylines##0
+232150##Killing Floor 2 - SDK##0
+439700##H1Z1: Test Server##0
+434170##The Jackbox Party Pack 3##0
+596350##Paladins - Public Test##0
+427460##Battlerite Public Test##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+278360##A Story About My Uncle##0
+1148590##DOOM 64##0
+489520##Minion Masters##0
+442070##Drawful 2##0
+@@REVIEW
+241600##Recommended

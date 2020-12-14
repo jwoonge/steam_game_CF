@@ -1,0 +1,26 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+550##Left 4 Dead 2##0
+322330##Don't Starve Together##0
+730##Counter-Strike: Global Offensive##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+657120##Flix and Chill 2: Millennials##0
+657440##Burn It Down##0
+660270##Space Scumbags##0
+664610##Gelu##0
+664620##Pink Rage Otome##0
+304930##Unturned##0
+859610##S.T.R.E.T.C.H.##0
+1172470##Apex Legends##0
+477160##Human: Fall Flat##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+730##Recommended

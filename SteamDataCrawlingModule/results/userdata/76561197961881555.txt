@@ -1,0 +1,101 @@
+@@GAME
+4000##Garry's Mod##109843
+440##Team Fortress 2##60931
+313160##Farming Simulator 15##33499
+252490##Rust##29843
+447020##Farming Simulator 17##16765
+382310##Eco##15355
+598330##SimAirport##11634
+501080##Fishing: Barents Sea##10637
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##7647
+24780##SimCity 4 Deluxe##7218
+7600##Sid Meier's Railroads!##6672
+464920##Surviving Mars##6209
+271590##Grand Theft Auto V##4842
+58510##Cities XL 2011##4106
+730##Counter-Strike: Global Offensive##3813
+7610##Railroad Tycoon 3##3426
+23490##Tropico 3 - Steam Special Edition##3415
+24610##Trainz Classics: 1st & 2nd Edition##3308
+613100##House Flipper##3046
+518790##theHunter: Call of the Wild™##3011
+57690##Tropico 4##2843
+320300##Car Mechanic Simulator 2015##2786
+620##Portal 2##2673
+787860##Farming Simulator 19##2661
+314160##Microsoft Flight Simulator X: Steam Edition##2043
+57600##Tropico 3: Absolute Power##1851
+12210##Grand Theft Auto IV: The Complete Edition##1717
+868360##Project Hospital##1642
+2700##RollerCoaster Tycoon 3: Platinum!##1534
+606800##Startup Company##1517
+255710##Cities: Skylines##1501
+486310##Meadow##1456
+270850##Car Mechanic Simulator 2014##1381
+245620##Tropico 5##1318
+239820##Game Dev Tycoon##1278
+672630##Academia : School Simulator##1102
+1174180##Red Dead Redemption 2##803
+266840##Age of Mythology: Extended Edition##766
+521150##Another Brick in The Mall##689
+221380##Age of Empires II (2013)##601
+645630##Car Mechanic Simulator 2018##563
+492720##Tropico 6##546
+282560##RollerCoaster Tycoon World##373
+380##Half-Life 2: Episode One##218
+275100##Shelter 2##200
+550##Left 4 Dead 2##193
+503940##Railway Empire##179
+400##Portal##172
+200050##Naval War: Arctic Circle##164
+293760##Automation - The Car Company Tycoon Game##127
+1520##DEFCON##126
+7620##Railroad Tycoon 2: Platinum##111
+280790##Creativerse##107
+516750##My Summer Car##92
+420##Half-Life 2: Episode Two##91
+300##Day of Defeat: Source##87
+287980##Mini Metro##87
+377160##Fallout 4##81
+203290##America's Army: Proving Grounds##48
+20##Team Fortress Classic##42
+270370##Lambda Wars Beta##26
+17480##Command and Conquer: Red Alert 3##24
+240##Counter-Strike: Source##21
+285310##RollerCoaster Tycoon: Deluxe##18
+320##Half-Life 2: Deathmatch##15
+17700##Insurgency: Modern Infantry Combat##15
+616560##Ultimate Epic Battle Simulator##12
+265930##Goat Simulator##9
+218620##PAYDAY 2##9
+291550##Brawlhalla##8
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##4
+266290##Helicopter Simulator 2014: Search and Rescue##4
+252050##Construction Machines 2014##3
+1280##Darkest Hour: Europe '44-'45##1
+284290##Farm Machines Championships 2014##1
+10##Counter-Strike##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+3480##Peggle Deluxe##0
+238260##Pinball Arcade##0
+700580##Rust - Staging Branch##0
+265890##Hexcells##0
+271900##Hexcells Plus##0
+304410##Hexcells Infinite##0
+509220##Save Jesus##0
+@@REVIEW
+503940##Not Recommended
+382310##Recommended

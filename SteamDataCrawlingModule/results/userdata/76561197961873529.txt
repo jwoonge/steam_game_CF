@@ -1,0 +1,153 @@
+@@GAME
+730##Counter-Strike: Global Offensive##128265
+271590##Grand Theft Auto V##15368
+252490##Rust##7053
+359550##Tom Clancy's Rainbow Six Siege##5452
+10##Counter-Strike##5334
+4000##Garry's Mod##5066
+107410##Arma 3##4342
+252950##Rocket League##3484
+359050##Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad##2281
+295110##Just Survive##2161
+344760##Reign Of Kings##1945
+629760##MORDHAU##1752
+33930##Arma 2: Operation Arrowhead##1632
+221100##DayZ##1346
+240##Counter-Strike: Source##1285
+242760##The Forest##1117
+304050##Trove##818
+412880##Drift Streets Japan##788
+221640##Super Hexagon##717
+570##Dota 2##640
+218620##PAYDAY 2##572
+286160##Tabletop Simulator##558
+333930##Dirty Bomb##542
+304930##Unturned##528
+227940##Heroes & Generals##518
+244850##Space Engineers##467
+236390##War Thunder##465
+976730##Halo: The Master Chief Collection##457
+55230##Saints Row: The Third##448
+70100##Hacker Evolution##438
+223470##POSTAL 2##428
+282660##Easy eSports##412
+70120##Hacker Evolution Duality##396
+433850##Z1 Battle Royale##389
+355840##Survarium##384
+303390##Dead Bits##353
+550##Left 4 Dead 2##223
+516750##My Summer Car##211
+48700##Mount & Blade: Warband##196
+407530##ARK: Survival Of The Fittest##186
+43160##Metro: Last Light##151
+265930##Goat Simulator##130
+314160##Microsoft Flight Simulator X: Steam Edition##129
+299740##Miscreated##122
+322330##Don't Starve Together##119
+70110##Hacker Evolution - Untold##112
+29800##Caster##110
+92100##DETOUR##110
+34900##Bad Rats##105
+96100##Defy Gravity##105
+232770##POSTAL##104
+283290##Nosferatu: The Wrath of Malachi##104
+306040##The Howler##104
+391070##Stellar 2D##104
+329380##Stealth Inc 2##102
+15700##Oddworld: Abe's Oddysee##102
+200170##Worms Revolution##101
+417860##Emily is Away##57
+321040##DiRT 3 Complete Edition##56
+427730##Who's Your Daddy?!##54
+945360##Among Us##51
+440##Team Fortress 2##45
+50300##Spec Ops: The Line##40
+70##Half-Life##37
+113400##APB Reloaded##27
+24740##Burnout Paradise: The Ultimate Box##25
+310380##Fractured Space##18
+509420##Riding Club Championships##14
+413854##CS:GO Player Profiles: olofmeister - fnatic##12
+365670##Blender##11
+401190##Dinosaur Hunt##10
+211500##RaceRoom Racing Experience ##9
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##8
+218230##PlanetSide 2##7
+359800##Copa Petrobras de Marcas##7
+11020##TrackMania Nations Forever##6
+675010##MudRunner##6
+700330##SCP: Secret Laboratory##5
+413850##CS:GO Player Profiles##4
+413855##CS:GO Player Profiles: kennyS - Team Envyus##4
+33910##Arma 2##3
+262410##World of Guns: Gun Disassembly##2
+57300##Amnesia: The Dark Descent##2
+30##Day of Defeat##1
+271290##HAWKEN##1
+349700##Aftermath##1
+327030##Worms W.M.D##1
+479130##ESEA##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+57900##Duke Nukem Forever##0
+67370##The Darkness II##0
+209080##Guns of Icarus Online##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+243870##Tom Clancy's Ghost Recon Phantoms - NA##0
+209870##Blacklight: Retribution##0
+224260##No More Room in Hell##0
+224580##Arma 2: DayZ Mod##0
+65790##Arma: Cold War Assault##0
+242880##Sir, You Are Being Hunted##0
+700580##Rust - Staging Branch##0
+273110##Counter-Strike Nexon: Studio##0
+222880##Insurgency##0
+225840##Sven Co-op##0
+278490##Aveyond 3-2: Gates of Night##0
+282440##Quake Live##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+222900##Dead Island: Epidemic##0
+912290##Miscreated: Experimental Server##0
+301520##Robocraft##0
+38700##Toki Tori##0
+38720##RUSH##0
+38740##EDGE##0
+257510##The Talos Principle##0
+339610##FreeStyle 2: Street Basketball##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+657200##Hand Simulator##0
+939510##Pandemic Express - Zombie Escape##0
+252130##Divide by Sheep##0
+310560##DiRT Rally##0
+231430##Company of Heroes 2##0
+489520##Minion Masters##0
+@@REVIEW
+509420##Recommended
+359050##Recommended

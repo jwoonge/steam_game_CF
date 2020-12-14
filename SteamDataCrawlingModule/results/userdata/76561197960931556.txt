@@ -1,0 +1,132 @@
+@@GAME
+4000##Garry's Mod##1181800
+231430##Company of Heroes 2##126891
+440##Team Fortress 2##111286
+377160##Fallout 4##58243
+107410##Arma 3##55649
+394360##Hearts of Iron IV##46909
+500##Left 4 Dead##45988
+22380##Fallout: New Vegas##30887
+227940##Heroes & Generals##28549
+550##Left 4 Dead 2##22955
+270370##Lambda Wars Beta##22622
+20##Team Fortress Classic##18548
+228200##Company of Heroes ##13512
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##12167
+730##Counter-Strike: Global Offensive##11607
+240##Counter-Strike: Source##11581
+281990##Stellaris##10854
+8850##BioShock 2##10011
+976730##Halo: The Master Chief Collection##9439
+360##Half-Life Deathmatch: Source##9096
+17520##Synergy##8564
+244450##Men of War: Assault Squad 2##8413
+620##Portal 2##8209
+33930##Arma 2: Operation Arrowhead##8197
+459220##Halo Wars: Definitive Edition##7185
+49520##Borderlands 2##7030
+10##Counter-Strike##6449
+630##Alien Swarm##4823
+1151340##Fallout 76##4106
+220##Half-Life 2##4055
+235460##METAL GEAR RISING: REVENGEANCE##3896
+50##Half-Life: Opposing Force##3846
+236390##War Thunder##3592
+287390##Metro: Last Light Redux##3549
+602960##Barotrauma##3473
+1530##Multiwinia##3394
+218230##PlanetSide 2##3245
+320##Half-Life 2: Deathmatch##2806
+300##Day of Defeat: Source##2765
+883710##Resident Evil 2##2583
+24980##Mass Effect 2##2324
+362890##Black Mesa##2214
+1238020##Mass Effect 3##2151
+304930##Unturned##2025
+100##Counter-Strike: Condition Zero Deleted Scenes##2004
+400##Portal##1983
+4920##Natural Selection 2##1937
+782330##DOOM Eternal##1741
+80##Counter-Strike: Condition Zero##1737
+420##Half-Life 2: Episode Two##1672
+394510##HELLDIVERS™##1624
+17460##Mass Effect##1608
+1500##Darwinia##1596
+1091500##Cyberpunk 2077##1318
+17580##Dystopia##1166
+945360##Among Us##1163
+563560##Alien Swarm: Reactive Drop##1076
+41700##S.T.A.L.K.E.R.: Call of Pripyat##1029
+70##Half-Life##929
+280##Half-Life: Source##886
+380##Half-Life 2: Episode One##840
+409720##BioShock 2 Remastered##784
+1280##Darkest Hour: Europe '44-'45##752
+43110##Metro 2033##661
+723390##Hunt Down The Freeman##618
+211##Source SDK##606
+35450##Rising Storm/Red Orchestra 2 Multiplayer##602
+225840##Sven Co-op##599
+234710##Poker Night 2##589
+17510##Age of Chivalry##492
+224260##No More Room in Hell##482
+379720##DOOM##429
+1200##Red Orchestra: Ostfront 41-45##413
+1840##Source Filmmaker##397
+700330##SCP: Secret Laboratory##384
+681590##Company of Heroes: Blitzkrieg Mod##367
+17700##Insurgency: Modern Infantry Combat##346
+714070##Entropy : Zero##320
+57300##Amnesia: The Dark Descent##319
+30##Day of Defeat##314
+130##Half-Life: Blue Shift##277
+355180##Codename CURE##255
+332800##Five Nights at Freddy's 2##245
+594570##Total War: WARHAMMER II##211
+399120##Prospekt##209
+218620##PAYDAY 2##207
+290930##Half-Life 2: Update##184
+311340##METAL GEAR SOLID V: GROUND ZEROES##171
+22370##Fallout 3 - Game of the Year Edition##162
+222880##Insurgency##150
+17730##Smashball##121
+252490##Rust##105
+235780##MINERVA: Metastasis##91
+17530##D.I.P.R.I.P. Warm Up##85
+438100##VRChat##80
+319510##Five Nights at Freddy's##75
+1127460##Mod and Play##70
+365300##Transmissions: Element 120##39
+40##Deathmatch Classic##38
+587650##Half-Life 2: DownFall##25
+31280##Poker Night at the Inventory##17
+1230##Mare Nostrum##9
+33910##Arma 2##9
+60##Ricochet##8
+342370##Company of Heroes: Europe at War##8
+65720##Arma 2: Private Military Company##2
+65790##Arma: Cold War Assault##2
+51100##Tactical Intervention##1
+340##Half-Life 2: Lost Coast##0
+4560##Company of Heroes - Legacy Edition##0
+20540##Company of Heroes: Tales of Valor##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+1083500##PlanetSide 2 - Test##0
+700580##Rust - Staging Branch##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+1148590##DOOM 64##0
+1085660##Destiny 2##0
+582660##Black Desert Online##0
+203160##Tomb Raider##0
+38400##Fallout##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+976730##Recommended
+714070##Recommended
+287700##Recommended
+723390##Not Recommended
+4000##Recommended
+227940##Recommended

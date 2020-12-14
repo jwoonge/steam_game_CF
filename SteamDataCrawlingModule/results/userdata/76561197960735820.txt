@@ -1,0 +1,121 @@
+@@GAME
+730##Counter-Strike: Global Offensive##154543
+240##Counter-Strike: Source##23231
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##18300
+550##Left 4 Dead 2##11377
+359550##Tom Clancy's Rainbow Six Siege##6875
+271590##Grand Theft Auto V##4808
+381210##Dead by Daylight##3779
+202990##Call of Duty: Black Ops II - Multiplayer##3546
+611500##Quake Champions##3023
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##2846
+209660##Call of Duty: Advanced Warfare - Multiplayer##2719
+755790##Ring of Elysium##2627
+252950##Rocket League##1582
+42710##Call of Duty: Black Ops - Multiplayer##1515
+10##Counter-Strike##1453
+239140##Dying Light##1430
+42700##Call of Duty: Black Ops##1379
+311210##Call of Duty: Black Ops III##1318
+12210##Grand Theft Auto IV: The Complete Edition##1270
+214490##Alien: Isolation##1203
+418370##Resident Evil 7 Biohazard##1053
+476620##Call of Duty: WWII - Multiplayer##968
+212910##Call of Duty: Black Ops II - Zombies##881
+1172470##Apex Legends##778
+813820##Realm Royale##744
+209170##Call of Duty: Ghosts - Multiplayer##735
+7940##Call of Duty 4: Modern Warfare##665
+304390##For Honor##601
+1097150##Fall Guys: Ultimate Knockout##593
+601430##The Evil Within 2##559
+202970##Call of Duty: Black Ops II##539
+282440##Quake Live##524
+433850##Z1 Battle Royale##485
+323470##DRAGON BALL XENOVERSE##421
+945360##Among Us##396
+45760##Ultra Street Fighter IV##364
+391220##Rise of the Tomb Raider##357
+379720##DOOM##320
+273110##Counter-Strike Nexon: Studio##297
+414340##Hellblade: Senua's Sacrifice##297
+10180##Call of Duty: Modern Warfare 2##293
+209650##Call of Duty: Advanced Warfare##270
+535930##Two Point Hospital##257
+274920##FaceRig##249
+24960##Battlefield: Bad Company™ 2##232
+237110##Mortal Kombat Komplete Edition##228
+292730##Call of Duty: Infinite Warfare##228
+47870##Need for Speed: Hot Pursuit##219
+414700##Outlast 2##217
+397900##Business Tour - Online Multiplayer Board Game##209
+440##Team Fortress 2##191
+307780##Mortal Kombat X##188
+218620##PAYDAY 2##177
+209000##Batman™: Arkham Origins##176
+221100##DayZ##170
+209120##Street Fighter X Tekken##152
+268910##Cuphead##150
+421020##DiRT 4##149
+400##Portal##140
+230410##Warframe##140
+252490##Rust##121
+480490##Prey##117
+322500##SUPERHOT##113
+212480##Sonic & All-Stars Racing Transformed Collection##90
+444090##Paladins##90
+470220##UNO##89
+7200##TrackMania United Forever##76
+220##Half-Life 2##75
+304240##Resident Evil##62
+352400##LEGO® Jurassic World##57
+250180##METAL SLUG 3##38
+209160##Call of Duty: Ghosts##38
+620##Portal 2##31
+22600##Worms Reloaded##30
+22350##BRINK##16
+431960##Wallpaper Engine##8
+883710##Resident Evil 2##6
+476600##Call of Duty: WWII##3
+920490##Driver Booster for Steam##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+2200##Quake III Arena##0
+2350##Quake III: Team Arena##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+43110##Metro 2033##0
+205790##Dota 2 Test##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+700580##Rust - Staging Branch##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+24240##PAYDAY: The Heist##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+434570##Blood and Bacon##0
+596350##Paladins - Public Test##0
+654310##For Honor - Public Test##0
+743650##Quake Champions PTS##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+878760##Realm Royale - Test Server##0
+@@REVIEW
+611500##Recommended
+730##Recommended

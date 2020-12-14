@@ -1,0 +1,219 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+300##Day of Defeat: Source##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+1280##Darkest Hour: Europe '44-'45##0
+2810##X3: Reunion##0
+2630##Call of Duty 2##0
+6300##Dreamfall: The Longest Journey##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+10000##Enemy Territory: Quake Wars##0
+7940##Call of Duty 4: Modern Warfare##0
+12900##Audiosurf##0
+9460##Frontlines: Fuel of War##0
+13210##Unreal Tournament 3: Black Edition##0
+200060##Sacred 2: Fallen Angel (EU)##0
+10090##Call of Duty: World at War##0
+26000##The Maw##0
+27000##The Path##0
+25900##King's Bounty: The Legend##0
+3590##Plants vs. Zombies: Game of the Year##0
+35700##Trine##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+41500##Torchlight##0
+550##Left 4 Dead 2##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+24170##Star Wars Galaxies##0
+17020##Global Agenda##0
+9900##Star Trek Online##0
+42120##Lead and Gold - Gangs of the Wild West##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+42700##Call of Duty: Black Ops##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+18050##DeathSpank: Thongs Of Virtue##0
+620##Portal 2##0
+105600##Terraria##0
+105400##Fable III##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+205550##Foreign Legion: Multi Massacre##0
+204300##Awesomenauts##0
+730##Counter-Strike: Global Offensive##0
+200710##Torchlight II##0
+202970##Call of Duty: Black Ops II##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+2700##RollerCoaster Tycoon 3: Platinum!##0
+109600##Neverwinter##0
+203290##America's Army: Proving Grounds##0
+212070##Star Conflict##0
+212500##The Lord of the Rings Online™##0
+230410##Warframe##0
+236390##War Thunder##0
+238960##Path of Exile##0
+272350##Tom Clancy's Ghost Recon Phantoms - EU##0
+209870##Blacklight: Retribution##0
+214420##Gear Up##0
+225420##Cities in Motion 2##0
+219990##Grim Dawn##0
+242860##Verdun##0
+244030##Take On Mars##0
+209160##Call of Duty: Ghosts##0
+209170##Call of Duty: Ghosts - Multiplayer##0
+264710##Subnautica##0
+271590##Grand Theft Auto V##0
+274170##Hotline Miami 2: Wrong Number##0
+274190##Broforce##0
+275850##No Man's Sky##0
+285820##Action Henk##0
+290300##Rebel Galaxy##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+301520##Robocraft##0
+227700##Firefall##0
+9880##Champions Online##0
+268420##Aura Kingdom##0
+200110##Nosgoth##0
+318600##The Flame in the Flood##0
+322300##The Repopulation##0
+441790##Fragmented##0
+242640##Styx: Master of Shadows##0
+323370##TERA##0
+209650##Call of Duty: Advanced Warfare##0
+209660##Call of Duty: Advanced Warfare - Multiplayer##0
+327070##Gloria Victis##0
+327690##Gigantic##0
+330020##Children of Morta##0
+332970##Storm United##0
+333930##Dirty Bomb##0
+276810##Mordheim: City of the Damned##0
+345010##Ascent - The Space Game##0
+345180##Victor Vran##0
+345230##The Dark Inside Me##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+348030##Trackday Manager##0
+298630##The Escapists##0
+291650##Pillars of Eternity##0
+353640##Train Valley##0
+39120##RIFT##0
+255710##Cities: Skylines##0
+356050##Beyond Eyes##0
+365450##Hacknet##0
+311210##Call of Duty: Black Ops III##0
+366844##Call of Duty: Black Ops III - Awakening DLC Pack##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+367500##Dragon's Dogma: Dark Arisen##0
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##0
+370910##Kathy Rain##0
+359320##Elite Dangerous##0
+377360##Western Press##0
+383120##Empyrion - Galactic Survival##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+384190##ABZÛ##0
+396750##EVERSPACE™##0
+413150##Stardew Valley##0
+280790##Creativerse##0
+418070##Turbo Pug##0
+421050##Deponia Doomsday##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+424370##Wolcen: Lords of Mayhem##0
+427270##Orcs Must Die! Unchained##0
+431960##Wallpaper Engine##0
+433340##Slime Rancher##0
+435150##Divinity: Original Sin 2##0
+433530##Heliborne - Enhanced Edition##0
+440900##Conan Exiles##0
+931180##Conan Exiles - Testlive Client##0
+443110##Armored Warfare##0
+443080##Elite Dangerous: Arena##0
+374320##DARK SOULS™ III##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+446800##Transport Fever##0
+447820##Day of Infamy##0
+394230##Battleborn##0
+310380##Fractured Space##0
+281990##Stellaris##0
+459160##Allods Online##0
+464170##VRMark##0
+466560##Northgard##0
+394360##Hearts of Iron IV##0
+487120##Citadel: Forged With Fire##0
+487350##Pirate Pop Plus##0
+489460##The Last Leviathan##0
+489520##Minion Masters##0
+223850##3DMark##0
+442080##Riders of Icarus##0
+273350##Evolve Stage 2##0
+510620##THOTH##0
+529180##Dark and Light##0
+292730##Call of Duty: Infinite Warfare##0
+393080##Call of Duty: Modern Warfare Remastered##0
+393100##Call of Duty: Modern Warfare Remastered - Multiplayer##0
+550040##Steep Open Beta##0
+420980##Army Gals##0
+560380##MapleStory 2##0
+460920##Steep##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+208140##Endless Space##0
+586030##Shardbound##0
+598330##SimAirport##0
+582660##Black Desert Online##0
+219640##Chivalry: Medieval Warfare##0
+368420##Mirage: Arcane Warfare##0
+531800##Mirage: Arcane Warfare BETA##0
+306130##The Elder Scrolls Online##0
+646570##Slay the Spire##0
+323580##Jotun: Valhalla Edition##0
+589360##Ni no Kuni™ II: Revenant Kingdom##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+22350##BRINK##0
+476600##Call of Duty: WWII##0
+476620##Call of Duty: WWII - Multiplayer##0
+582160##Assassin's Creed Origins##0
+808290##Runes of Magic##0
+24200##DC Universe Online##0
+840010##Garden Paws##0
+681660##Bless Online##0
+876330##Revelation Online##0
+582010##Monster Hunter: World##0
+969680##Steel Circus##0
+1046930##Dota Underlords##0
+1086940##Baldur's Gate 3##0
+1085660##Destiny 2##0
+1097150##Fall Guys: Ultimate Knockout##0
+226840##Age of Wonders III##0
+1151640##Horizon Zero Dawn##0
+527430##Warhammer 40,000: Inquisitor - Martyr##0
+1042800##Warhammer 40,000: Inquisitor - Prophecy##0
+594770##Legends of Aria##0
+1063730##New World##0
+1281930##tModLoader##0
+1286830##STAR WARS™: The Old Republic™##0
+@@REVIEW
+487120##Recommended

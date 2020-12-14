@@ -1,0 +1,29 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##200596
+730##Counter-Strike: Global Offensive##182209
+413150##Stardew Valley##116966
+433850##Z1 Battle Royale##116008
+10##Counter-Strike##115069
+668630##Tricolour Lovestory##114421
+20##Team Fortress Classic##112382
+30##Day of Defeat##112381
+40##Deathmatch Classic##112380
+50##Half-Life: Opposing Force##112379
+70##Half-Life##112378
+570##Dota 2##65984
+408110##Planet R-12##26382
+630060##Consummate:Missing World##26382
+60##Ricochet##26358
+130##Half-Life: Blue Shift##26358
+439700##H1Z1: Test Server##26357
+442070##Drawful 2##26357
+765100##Labirinto##26356
+271590##Grand Theft Auto V##20436
+33230##Assassin's Creed II##20414
+500##Left 4 Dead##429
+550##Left 4 Dead 2##429
+431960##Wallpaper Engine##27
+@@REVIEW
+550##Recommended
+578080##Not Recommended
+730##Recommended

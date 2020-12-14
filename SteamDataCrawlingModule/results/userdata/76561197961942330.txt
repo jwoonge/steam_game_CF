@@ -1,0 +1,164 @@
+@@GAME
+976730##Halo: The Master Chief Collection##19495
+294100##RimWorld##5890
+730##Counter-Strike: Global Offensive##5036
+424370##Wolcen: Lords of Mayhem##3825
+570##Dota 2##2243
+629760##MORDHAU##1811
+230410##Warframe##1459
+440##Team Fortress 2##1129
+632360##Risk of Rain 2##945
+493520##GTFO##823
+629520##Soundpad##823
+218230##PlanetSide 2##665
+945360##Among Us##647
+1071870##Biped##600
+10##Counter-Strike##362
+242680##Nuclear Throne##241
+246620##Plague Inc: Evolved##239
+291550##Brawlhalla##184
+236390##War Thunder##126
+70##Half-Life##100
+445980##Wizard of Legend##68
+433850##Z1 Battle Royale##65
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+57800##Doc Clock: The Toasted Sandwich of Time##0
+60350##Glowfish##0
+205650##The Testament of Sherlock Holmes##0
+204440##Pickers##0
+205830##Luxor Evolved##0
+216930##Luxor Amun Rising HD##0
+208630##Midnight Mysteries 3: Devil on the Mississippi##0
+208620##Midnight Mysteries: Salem Witch Trials##0
+223000##7 Wonders: Ancient Alien Makeover##0
+217270##Karateka ##0
+1083500##PlanetSide 2 - Test##0
+238960##Path of Exile##0
+218700##Angelica Weaver: Catch Me When You Can - Collector’s Edition##0
+16020##Samantha Swift and the Hidden Roses of Athena##0
+16040##Luxor: Quest for the Afterlife##0
+16060##Samantha Swift and the Golden Touch##0
+32110##Luxor Mahjong##0
+32120##Chainz 2: Relinked##0
+234350##Luxor 2 HD##0
+209630##Magrunner: Dark Pulse##0
+242780##Cognition: An Erica Reed Thriller##0
+244690##Face Noir##0
+248330##Dino Run DX##0
+252710##The Last Express Gold Edition##0
+259740##Nightmares from the Deep: The Cursed Heart##0
+264560##Quest for Infamy##0
+264580##Lost Civilization##0
+275810##7 Wonders of the Ancient World##0
+277500##Farming World##0
+279420##Gardens Inc. – From Rakes to Riches##0
+279800##Grim Legends 2: Song of the Dark Swan##0
+284050##Sanitarium##0
+284390##The Last Door - Collector's Edition##0
+284410##Cornerstone: The Song Of Tyrim##0
+284730##Dark Arcana: The Carnival##0
+284750##Enigmatis: The Ghosts of Maple Creek##0
+284770##Enigmatis 2: The Mists of Ravenwood##0
+284790##Nightmares from the Deep 2: The Siren`s Call##0
+284810##Nightmares from the Deep 3: Davy Jones##0
+284830##Clockwork Tales: Of Glass and Ink##0
+284850##Grim Legends: The Forsaken Bride##0
+284870##9 Clues: The Secret of Serpent Creek##0
+284890##Left in the Dark: No One on Board##0
+264520##Moebius: Empire Rising##0
+306950##Heroes & Legends: Conquerors of Kolhar##0
+307760##Zoo Park##0
+310560##DiRT Rally##0
+314150##Double Dragon Trilogy##0
+317100##Republique##0
+321270##UNLOVED##0
+326990##Deep Eclipse##0
+327260##Super Life of Pixel##0
+328500##Potatoman Seeks the Troof##0
+334470##Adventures of Robinson Crusoe##0
+334480##Robinson Crusoe and the Cursed Pirates##0
+334490##The Fool##0
+336060##Raptor: Call of The Shadows - 2015 Edition##0
+339130##Morningstar: Descent to Deadrock##0
+341120##Glorkian Warrior: The Trials Of Glork##0
+331760##Supreme League of Patriots Issue 1: A Patriot Is Born##0
+336710##Supreme League of Patriots Issue 2: Patriot Frames##0
+336730##Supreme League of Patriots Issue 3: Ice Cold in Ellis##0
+347830##Fairy Fencer F##0
+348790##Wooden Floor##0
+355020##Bomb The Monsters!##0
+355510##Crazy Belts##0
+363330##Mind Snares: Alice's Journey##0
+364390##Downfall##0
+381120##Shoppe Keep##0
+387850##Airport Madness 4##0
+394220##Last Horizon##0
+397330##Little Big Adventure##0
+398000##Little Big Adventure 2##0
+402530##The Last Door: Season 2 - Collector's Edition##0
+403510##Fairy Tale Mysteries 2: The Beanstalk##0
+407600##Raiden Legacy##0
+411610##Tick's Tales##0
+415150##Pang Adventures##0
+415300##Monster Monpiece##0
+422810##River City Ransom: Underground##0
+422970##Devil Daggers##0
+429610##The Emerald Maiden: Symphony of Dreams##0
+433790##Wooden Floor 2 - Resurrection##0
+458000##March of the Living##0
+462680##BalanCity##0
+465720##Demon Hunter 2: New Chapter##0
+477730##Eador. Imperium##0
+486130##Best Buds##0
+492170##Planet Driller##0
+495110##Enigmatis 3: The Shadow of Karkhala##0
+499660##Medieval Kingdom Wars##0
+505210##Neon Space 2##0
+509570##In Celebration of Violence##0
+510420##The Hex##0
+483420##Adam Wolfe##0
+528660##Spin Rush##0
+525070##Captain Lycop: Invasion of the Heters##0
+362960##Tyranny##0
+546350##Craft Keep VR##0
+556870##Charlie's Adventure##0
+567280##Cube Runner##0
+567290##Slash It##0
+578590##City Siege: Faction Island##0
+583760##Slash It 2##0
+586960##Upside Down##0
+638160##Moero Chronicle##0
+656600##Slash It Ultimate##0
+663380##Tales from Candlekeep: Tomb of Annihilation##0
+666140##My Time At Portia##0
+674750##Yet Another Zombie Defense HD##0
+677160##We Were Here Too##0
+684580##Shoppe Keep 2##0
+466240##Deceit##0
+740090##Lost Grimoires 3: The Forgotten Well##0
+746840##Chronicles of Magic: Divided Kingdoms##0
+748610##Airport Madness 3D: Volume 2##0
+755980##Deployment##0
+756500##Noir Chronicles: City of Crime##0
+814030##Queen's Quest 4: Sacred Truce##0
+820500##Tisnart Shapes##0
+439700##H1Z1: Test Server##0
+834390##King's Heir: Rise to the Throne##0
+855640##My Brother Rabbit##0
+867050##Endless Fables 3: Dark Moor##0
+869060##Resort Boss: Golf##0
+895420##Path of Sin: Greed##0
+343710##KHOLAT##0
+1159640##ANIME - World War II##0
+289690##Lara Croft and the Temple of Osiris##0
+335190##200% Mixed Juice!##0
+390710##Acceleration of SUGURI 2##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW
+294100##Recommended
+976730##Recommended

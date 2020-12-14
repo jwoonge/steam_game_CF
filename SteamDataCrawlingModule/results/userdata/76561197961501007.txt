@@ -1,0 +1,177 @@
+@@GAME
+570##Dota 2##70815
+730##Counter-Strike: Global Offensive##2020
+8930##Sid Meier's Civilization V##1383
+200260##Batman: Arkham City GOTY##1191
+200510##XCOM: Enemy Unknown##1101
+8870##BioShock Infinite##1043
+205100##Dishonored##946
+17470##Dead Space##936
+108800##Crysis 2 Maximum Edition##929
+204100##Max Payne 3##886
+289070##Sid Meier's Civilization VI##840
+203160##Tomb Raider##814
+207610##The Walking Dead##809
+290790##Grey Goo##756
+220##Half-Life 2##755
+48240##Anno 2070##641
+47780##Dead Space 2##591
+248170##Clickteam Fusion 2.5##566
+261030##The Walking Dead: Season Two##556
+99810##Bulletstorm##539
+211420##DARK SOULS™: Prepare To Die Edition##484
+40100##Supreme Commander 2##476
+536220##The Walking Dead: A New Frontier##447
+550##Left 4 Dead 2##368
+420##Half-Life 2: Episode Two##364
+304430##INSIDE##329
+620##Portal 2##288
+380##Half-Life 2: Episode One##257
+221040##Resident Evil 6##239
+206440##To the Moon##233
+383870##Firewatch##202
+218620##PAYDAY 2##198
+202170##Sleeping Dogs™##174
+300550##Shadowrun: Dragonfall - Director's Cut##174
+50130##Mafia II (Classic)##153
+250320##The Wolf Among Us##148
+72850##The Elder Scrolls V: Skyrim##147
+274290##Gods Will Be Watching##131
+233250##Planetary Annihilation##119
+206190##Gunpoint##118
+212680##FTL: Faster Than Light##103
+292030##The Witcher 3: Wild Hunt##102
+24810##Command and Conquer 3: Kane's Wrath##96
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##89
+435150##Divinity: Original Sin 2##85
+43110##Metro 2033##81
+233720##Surgeon Simulator##72
+281990##Stellaris##72
+91310##Dead Island##71
+431240##Golf With Your Friends##57
+15620##Warhammer 40,000: Dawn of War II##54
+113020##Monaco##52
+8980##Borderlands GOTY##51
+17410##Mirror's Edge##30
+107100##Bastion##28
+222880##Insurgency##26
+47700##Command and Conquer 4: Tiberian Twilight##24
+255710##Cities: Skylines##21
+507490##Ashes of the Singularity: Escalation##21
+345520##Infinite Crisis™##19
+200170##Worms Revolution##17
+49520##Borderlands 2##16
+219600##NBA 2K13##12
+305620##The Long Dark##9
+205790##Dota 2 Test##8
+233270##Far Cry® 3 Blood Dragon##7
+204080##The Showdown Effect##6
+24790##Command and Conquer 3: Tiberium Wars##5
+204300##Awesomenauts##5
+319510##Five Nights at Freddy's##4
+203630##Warlock - Master of the Arcane##3
+237930##Transistor##2
+320##Half-Life 2: Deathmatch##1
+553640##ICEY##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+24740##Burnout Paradise: The Ultimate Box##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+48950##Greed Corp##0
+1030830##Mafia II: Definitive Edition##0
+729040##Borderlands GOTY Enhanced##0
+7600##Sid Meier's Railroads!##0
+42160##War of the Roses##0
+206980##War of the Roses Balance Beta##0
+55150##Warhammer 40,000: Space Marine##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+108200##Ticket to Ride##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+12750##GRID##0
+214830##Half Minute Hero: Super Mega Neo Climax Ultimate Boy##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+220700##RPG Maker VX Ace##0
+218130##Dungeonland##0
+225260##Brütal Legend##0
+230150##Incredipede##0
+233450##Prison Architect##0
+234900##Anodyne##0
+44350##GRID 2##0
+202270##Leviathan: Warships##0
+3910##Sid Meier's Civilization III: Complete##0
+234650##Shadowrun Returns##0
+244070##Sid Meier's Ace Patrol##0
+232430##Gone Home##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+249650##Blackguards##0
+225280##Full Mojo Rampage##0
+42910##Magicka##0
+203770##Crusader Kings II##0
+25800##Europa Universalis III##0
+255370##KickBeat Steam Edition##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+262280##Dungeons 2##0
+227300##Euro Truck Simulator 2##0
+226840##Age of Wonders III##0
+235900##RPG Maker XP##0
+268870##Satellite Reign##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+274310##Always Sometimes Monsters##0
+278460##Skyborn##0
+246620##Plague Inc: Evolved##0
+284240##Maize##0
+285160##LEGO® The Hobbit™##0
+285420##Deadly Sin 2##0
+261510##Tesla Effect##0
+294860##Valkyria Chronicles™##0
+300540##Sweet Lily Dreams##0
+227940##Heroes & Generals##0
+265590##The Red Solstice##0
+318600##The Flame in the Flood##0
+322500##SUPERHOT##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+232890##Stronghold Crusader 2##0
+329380##Stealth Inc 2##0
+282070##This War of Mine##0
+307780##Mortal Kombat X##0
+274500##Brigador: Up-Armored Edition##0
+381120##Shoppe Keep##0
+491950##Orwell##0
+442080##Riders of Icarus##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+15700##Oddworld: Abe's Oddysee##0
+368230##Kingdom: Classic##0
+232050##Eador. Masters of the Broken World##0
+391720##Layers of Fear##0
+63500##Swords and Soldiers HD##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+96000##The Tiny Bang Story##0
+395170##DISTRAINT: Deluxe Edition##0
+@@REVIEW

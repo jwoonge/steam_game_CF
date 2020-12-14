@@ -1,0 +1,228 @@
+@@GAME
+252490##Rust##119807
+10##Counter-Strike##54089
+363970##Clicker Heroes##26801
+294100##RimWorld##19826
+730##Counter-Strike: Global Offensive##16303
+295110##Just Survive##16184
+107410##Arma 3##15473
+4920##Natural Selection 2##13211
+221100##DayZ##9151
+233450##Prison Architect##8226
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##7864
+251570##7 Days to Die##7816
+644930##They Are Billions##7775
+227940##Heroes & Generals##7059
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##6724
+72850##The Elder Scrolls V: Skyrim##5612
+220200##Kerbal Space Program##5246
+632360##Risk of Rain 2##3920
+42710##Call of Duty: Black Ops - Multiplayer##3796
+262060##Darkest Dungeon®##3279
+264710##Subnautica##3086
+393380##Squad##2814
+242920##Banished##2660
+207890##Football Manager 2013##2652
+346110##ARK: Survival Evolved##2619
+246620##Plague Inc: Evolved##2596
+454650##DRAGON BALL XENOVERSE 2##2357
+275850##No Man's Sky##2323
+255710##Cities: Skylines##2312
+500##Left 4 Dead##2249
+271590##Grand Theft Auto V##2187
+851850##DRAGON BALL Z: KAKAROT##2163
+365590##Tom Clancy's The Division##2090
+493340##Planet Coaster##1870
+212680##FTL: Faster Than Light##1856
+244450##Men of War: Assault Squad 2##1841
+221380##Age of Empires II (2013)##1802
+242760##The Forest##1768
+534370##Pure Farming 2018##1717
+535230##Domina##1684
+648350##Jurassic World Evolution##1599
+8930##Sid Meier's Civilization V##1558
+250820##SteamVR##1424
+690830##Foundation##1405
+231670##Football Manager 2014##1343
+226700##Infestation: Survivor Stories 2020##1296
+42700##Call of Duty: Black Ops##1272
+377160##Fallout 4##1257
+447020##Farming Simulator 17##1042
+236390##War Thunder##1034
+323190##Frostpunk##1029
+858810##Dawn of Man##1013
+227300##Euro Truck Simulator 2##947
+221430##Pro Evolution Soccer 2013##945
+219740##Don't Starve##928
+453090##Parkitect##880
+219640##Chivalry: Medieval Warfare##879
+848450##Subnautica: Below Zero##851
+10180##Call of Duty: Modern Warfare 2##786
+220240##Far Cry® 3##766
+326410##Windward##766
+433850##Z1 Battle Royale##739
+47410##Stronghold Kingdoms##712
+333930##Dirty Bomb##687
+244210##Assetto Corsa##672
+352720##The Universim##621
+7200##TrackMania United Forever##532
+787860##Farming Simulator 19##515
+24780##SimCity 4 Deluxe##510
+322920##theHunter: Primal##486
+550##Left 4 Dead 2##483
+42160##War of the Roses##459
+440900##Conan Exiles##458
+736220##Post Scriptum##458
+437220##The Culling##455
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##450
+232090##Killing Floor 2##408
+240##Counter-Strike: Source##401
+218620##PAYDAY 2##366
+552500##Warhammer: Vermintide 2##361
+245620##Tropico 5##342
+313120##Stranded Deep##341
+444090##Paladins##338
+884660##CRSED##331
+13210##Unreal Tournament 3: Black Edition##299
+361280##Turmoil##297
+231430##Company of Heroes 2##293
+214950##Total War: ROME II - Emperor Edition##282
+305620##The Long Dark##279
+203140##Hitman: Absolution##265
+224600##Defiance##260
+402710##Osiris: New Dawn##238
+304930##Unturned##228
+64000##Men of War: Assault Squad##216
+289070##Sid Meier's Civilization VI##203
+457140##Oxygen Not Included##200
+427520##Factorio##188
+383120##Empyrion - Galactic Survival##186
+503940##Railway Empire##180
+48240##Anno 2070##177
+247730##Nether##174
+1017900##Age of Empires: Definitive Edition##169
+219990##Grim Dawn##166
+241540##State of Decay##162
+21970##R.U.S.E##152
+569480##Kingdoms and Castles##146
+228380##Wreckfest##142
+324800##Shadow Warrior 2##140
+108600##Project Zomboid##139
+222880##Insurgency##117
+22380##Fallout: New Vegas##109
+215280##Secret World Legends##107
+272350##Tom Clancy's Ghost Recon Phantoms - EU##107
+393420##Hurtworld##102
+440##Team Fortress 2##102
+535930##Two Point Hospital##100
+33930##Arma 2: Operation Arrowhead##91
+505040##FORTIFY##82
+513710##SCUM##81
+686810##Hell Let Loose##75
+9200##RAGE##71
+242460##Football Manager 2014 Editor##68
+424280##Iron Snout##65
+34330##Total War: SHOGUN 2##62
+346900##AdVenture Capitalist##61
+688420##Bad North##60
+223750##DCS World Steam Edition##58
+312210##The Fifth Day##53
+17700##Insurgency: Modern Infantry Combat##51
+1280##Darkest Hour: Europe '44-'45##49
+238960##Path of Exile##31
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##30
+322330##Don't Starve Together##28
+755790##Ring of Elysium##28
+273110##Counter-Strike Nexon: Studio##27
+4000##Garry's Mod##25
+236370##Interstellar Marines##25
+70##Half-Life##24
+20##Team Fortress Classic##23
+299860##Beasts of Prey##23
+512470##The Pirate: Caribbean Hunt##21
+2310##Quake##19
+300##Day of Defeat: Source##18
+349700##Aftermath##17
+238430##Contagion##14
+42680##Call of Duty: Modern Warfare 3##13
+222900##Dead Island: Epidemic##13
+2320##Quake II##12
+209190##Stealth Bastard Deluxe##12
+530700##Argo##11
+33910##Arma 2##10
+113420##Fallen Earth##9
+1200##Red Orchestra: Ostfront 41-45##8
+519190##Next Day: Survival##8
+2300##DOOM II: Hell on Earth##7
+1230##Mare Nostrum##6
+316390##Anomaly Zone##6
+4880##Cossacks: European Wars##5
+4890##Cossacks II: Battle for Europe##4
+224580##Arma 2: DayZ Mod##4
+588430##Fallout Shelter##4
+9000##Wolfenstein 3D: Spear of Destiny##3
+291550##Brawlhalla##3
+220##Half-Life 2##2
+2200##Quake III Arena##2
+9010##Return to Castle Wolfenstein##2
+9050##DOOM 3##2
+355180##Codename CURE##2
+2350##Quake III: Team Arena##1
+9070##DOOM 3: Resurrection of Evil##1
+253880##Earth 2150 Trilogy##1
+259280##Earth 2150: The Moon Project##1
+259300##Earth 2150: Lost Souls##1
+267600##Airport Simulator 2014##1
+362300##Just Survive Test Server##1
+301520##Robocraft##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+2100##Dark Messiah of Might & Magic Single Player##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+2270##Wolfenstein 3D##0
+2280##The Ultimate DOOM##0
+2290##Final DOOM##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2360##HeXen: Beyond Heretic##0
+2370##HeXen: Deathkings of the Dark Citadel##0
+2390##Heretic: Shadow of the Serpent Riders##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+9060##HeXen II##0
+9160##Master Levels for DOOM II##0
+9180##Commander Keen Complete Pack##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+206980##War of the Roses Balance Beta##0
+242720##GunZ 2: The Second Duel##0
+226320##Marvel Heroes Omega##0
+700580##Rust - Staging Branch##0
+242480##Football Manager 2014 Resource Archiver##0
+237870##Planet Explorers##0
+225840##Sven Co-op##0
+439700##H1Z1: Test Server##0
+291480##Warface##0
+200110##Nosgoth##0
+407530##ARK: Survival Of The Fittest##0
+232150##Killing Floor 2 - SDK##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+445900##Hurtworld SDK##0
+774941##Squad - Public Testing##0
+931180##Conan Exiles - Testlive Client##0
+596350##Paladins - Public Test##0
+524440##Tom Clancy's The Division PTS##0
+545650##High Profits##0
+568810##FreeStyleFootball##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+@@REVIEW
+275850##Recommended
+242920##Recommended

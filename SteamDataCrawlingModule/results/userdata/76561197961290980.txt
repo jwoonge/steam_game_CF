@@ -1,0 +1,191 @@
+@@GAME
+570##Dota 2##295811
+363970##Clicker Heroes##45973
+730##Counter-Strike: Global Offensive##29852
+359550##Tom Clancy's Rainbow Six Siege##26552
+218620##PAYDAY 2##13650
+1046930##Dota Underlords##13521
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##10594
+20##Team Fortress Classic##9949
+381210##Dead by Daylight##6575
+10##Counter-Strike##6528
+271590##Grand Theft Auto V##5777
+424370##Wolcen: Lords of Mayhem##3799
+238960##Path of Exile##3120
+243470##Watch_Dogs##2978
+433850##Z1 Battle Royale##2923
+49520##Borderlands 2##2647
+346900##AdVenture Capitalist##2634
+219990##Grim Dawn##2548
+55230##Saints Row: The Third##2359
+109600##Neverwinter##2198
+307690##Sleeping Dogs: Definitive Edition##2048
+739630##Phasmophobia##2014
+444090##Paladins##1946
+391220##Rise of the Tomb Raider##1945
+440##Team Fortress 2##1668
+427520##Factorio##1608
+345180##Victor Vran##1531
+242760##The Forest##1244
+304050##Trove##1055
+884660##CRSED##1017
+220##Half-Life 2##876
+239160##Thief##823
+372000##Tree of Savior (English Ver.)##823
+251570##7 Days to Die##755
+34270##SEGA Mega Drive & Genesis Classics##644
+269210##Hero Siege##635
+239220##The Mighty Quest For Epic Loot##526
+322330##Don't Starve Together##481
+280790##Creativerse##467
+761890##Albion Online##434
+335300##DARK SOULS™ II: Scholar of the First Sin##381
+1097150##Fall Guys: Ultimate Knockout##367
+239140##Dying Light##314
+456750##The Room Three##310
+205790##Dota 2 Test##309
+226320##Marvel Heroes Omega##309
+755790##Ring of Elysium##302
+200710##Torchlight II##299
+552500##Warhammer: Vermintide 2##290
+206420##Saints Row IV##283
+376570##WildStar##279
+230410##Warframe##260
+268420##Aura Kingdom##245
+240##Counter-Strike: Source##231
+1250##Killing Floor##215
+236110##Dungeon Defenders II##201
+24240##PAYDAY: The Heist##195
+204360##Castle Crashers##181
+17390##Spore##179
+252950##Rocket League##178
+201790##Orcs Must Die! 2##169
+374320##DARK SOULS™ III##163
+728880##Overcooked! 2##149
+72850##The Elder Scrolls V: Skyrim##141
+30##Day of Defeat##133
+402840##Crusaders of the Lost Idols##119
+470220##UNO##112
+215080##WAKFU##110
+70000##Dino D-Day##99
+4920##Natural Selection 2##89
+1172470##Apex Legends##87
+582500##We Were Here##86
+339280##Strife##83
+204300##Awesomenauts##80
+8870##BioShock Infinite##78
+241540##State of Decay##76
+657200##Hand Simulator##73
+314410##Rampage Knights##71
+203160##Tomb Raider##68
+320##Half-Life 2: Deathmatch##59
+323370##TERA##59
+70##Half-Life##55
+550##Left 4 Dead 2##50
+200110##Nosgoth##50
+340810##Deepworld##49
+380600##Fishing Planet##30
+333930##Dirty Bomb##27
+247730##Nether##21
+714010##Aim Lab##21
+4000##Garry's Mod##19
+293560##TOME: Immortal Arena##19
+224260##No More Room in Hell##16
+360620##Spellsworn##14
+1227800##Quantum League - Open Beta##13
+331360##Heavy Metal Machines##10
+282440##Quake Live##9
+304930##Unturned##9
+223710##Cry of Fear##8
+412940##Back to Dinosaur Island ##8
+444640##Bloons TD Battles##8
+840260##Endless World Idle RPG##8
+214420##Gear Up##6
+254200##FortressCraft Evolved##6
+380140##The Secret of Tremendous Corporation##6
+211160##Viking: Battle for Asgard##6
+60##Ricochet##5
+99300##Renegade Ops##5
+269390##Dethroned!##3
+253530##Fortress Forever##2
+373680##Aion##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+6870##Battlestations: Midway##0
+6880##Just Cause##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+6980##Thief: Deadly Shadows##0
+7000##Tomb Raider: Legend##0
+7010##Project: Snowblind##0
+8000##Tomb Raider: Anniversary##0
+8080##Kane & Lynch: Dead Men##0
+8100##Conflict: Denied Ops##0
+8140##Tomb Raider: Underworld##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+8170##Battlestations: Pacific##0
+35000##Mini Ninjas##0
+34600##Order of War##0
+35070##Flora's Fruit Farm##0
+40100##Supreme Commander 2##0
+8190##Just Cause 2##0
+35130##Lara Croft and the Guardian of Light##0
+39160##Dungeon Siege III##0
+211780##Conflict Desert Storm##0
+211600##Thief Gold##0
+211740##Thief 2##0
+224300##Legacy of Kain: Defiance##0
+224920##Legacy of Kain: Soul Reaver##0
+224940##Legacy of Kain: Soul Reaver 2##0
+224960##Tomb Raider I##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+224980##Tomb Raider: The Last Revelation##0
+225000##Tomb Raider: Chronicles##0
+225020##Tomb Raider (VI): The Angel of Darkness##0
+265630##Fistful of Frags##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+39200##Dungeon Siege 2##0
+39190##Dungeon Siege##0
+242940##Anachronox##0
+243020##Pandemonium##0
+242960##Blood Omen 2: Legacy of Kain##0
+242980##Daikatana##0
+245010##Deathtrap Dungeon##0
+243000##Omikron - The Nomad Soul##0
+258180##Deus Ex: The Fall##0
+9480##Saints Row 2##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+326960##Killing Floor - Toy Master##0
+331181##Hero Siege - Avenger Paladin (Class + Skin)##0
+289690##Lara Croft and the Temple of Osiris##0
+277950##Deadbreed®##0
+319630##Life is Strange™##0
+28000##Kane & Lynch 2: Dog Days##0
+225540##Just Cause 3##0
+421740##Goetia##0
+427820##Hitman GO: Definitive Edition##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+488470##Hero Siege - Shaman (Class)##0
+499520##The Turing Test##0
+540840##Lara Croft GO##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+692120##Hero Siege - Death Lord Necromancer (Skin)##0
+337000##Deus Ex: Mankind Divided™##0
+771890##Hero Siege - Marauder (Class)##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+945070##Hero Siege - Eastfoundian Trooper (SKIN)##0
+987730##Hero Siege - Class - Plague Doctor##0
+1058390##Hero Siege - Shield Lancer (Class)##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+555440##Deathgarden: BLOODHARVEST##0
+329430##State of Decay: Year-One##0
+1063730##New World##0
+1368430##Streets Of Kamurocho##0
+@@REVIEW
+218620##Recommended

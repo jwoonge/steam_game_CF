@@ -1,0 +1,161 @@
+@@GAME
+730##Counter-Strike: Global Offensive##58048
+230410##Warframe##17086
+840260##Endless World Idle RPG##12864
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##12733
+536930##MOBIUS FINAL FANTASY##12143
+252490##Rust##11569
+252950##Rocket League##9067
+435150##Divinity: Original Sin 2##6146
+743090##Defiance 2050##5474
+238960##Path of Exile##5299
+895400##Deadside##5103
+374320##DARK SOULS™ III##5038
+386180##Crossout##3776
+630##Alien Swarm##3656
+359550##Tom Clancy's Rainbow Six Siege##3000
+376570##WildStar##2788
+1085660##Destiny 2##2735
+460930##Tom Clancy's Ghost Recon® Wildlands##2525
+678960##CODE VEIN##2423
+715220##Ironsight##2167
+355840##Survarium##2027
+571740##Golf It!##1678
+113400##APB Reloaded##1549
+884660##CRSED##1283
+333930##Dirty Bomb##1228
+678800##SAS: Zombie Assault 4##1163
+236390##War Thunder##1149
+552500##Warhammer: Vermintide 2##1110
+1091500##Cyberpunk 2077##1013
+227700##Firefall##1007
+291410##Duelyst##967
+236110##Dungeon Defenders II##885
+364470##The Elder Scrolls: Legends##844
+905370##Conqueror's Blade##814
+764050##Maelstrom##739
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##674
+291480##Warface##661
+240##Counter-Strike: Source##650
+215830##Closers##640
+755790##Ring of Elysium##620
+250820##SteamVR##618
+359320##Elite Dangerous##533
+440##Team Fortress 2##516
+504370##Battlerite##498
+243870##Tom Clancy's Ghost Recon Phantoms - NA##377
+11020##TrackMania Nations Forever##357
+530700##Argo##301
+874240##MU Legend##270
+984110##SYNTHETIK: Arena##257
+244930##SNOW##252
+271290##HAWKEN##234
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##203
+436520##Line of Sight##199
+415270##Star Crusade CCG##153
+444090##Paladins##146
+544810##KARDS - The WWII Card Game##130
+439350##Kritika:REBOOT##122
+453480##Shadowverse##119
+794600##LET IT DIE##118
+297110##Cosmic DJ##115
+550650##Black Squad##112
+323370##TERA##111
+1046930##Dota Underlords##106
+265590##The Red Solstice##103
+322910##Warhammer 40,000: Regicide##99
+375230##Warhammer 40,000: Eternal Crusade##97
+921590##DISSIDIA FINAL FANTASY NT Free Edition##92
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##87
+1056640##Phantasy Star Online 2##79
+690790##DiRT Rally 2.0##76
+630100##SoulWorker##71
+705220##Tactical Monsters Rumble Arena##68
+374280##Hired Ops##66
+402570##Atlas Reactor##65
+327690##Gigantic##60
+816090##Space Hulk: Deathwing - Enhanced Edition##60
+436180##Spacelords##58
+489520##Minion Masters##58
+394510##HELLDIVERS™##56
+495910##Dungeon Fighter Online##54
+466240##Deceit##48
+7670##BioShock##47
+400##Portal##45
+1144170##Warhammer: Chaos & Conquest##45
+761890##Albion Online##43
+673880##Warhammer 40,000: Mechanicus##40
+558100##Art of War: Red Tides##39
+531640##Eternal Card Game##37
+227940##Heroes & Generals##34
+690510##Black Survival##33
+268850##EVGA Precision X1##30
+555570##Infestation: The New Z##29
+1180380##Stay Out##29
+1209040##Cyber Hunter##27
+677620##Splitgate: Arena Warfare##22
+707010##Will To Live Online##22
+553660##PWND##20
+670290##Real Pool 3D - Poolians##18
+802200##Hellbound: Survival Mode##18
+714010##Aim Lab##18
+331360##Heavy Metal Machines##17
+563560##Alien Swarm: Reactive Drop##17
+616700##Rage of Car Force: Car Crashing Games##16
+795580##THE DAY Online##15
+534220##Dragon Sin##10
+363970##Clicker Heroes##8
+552990##World of Warships##5
+212160##Vindictus##2
+257730##Infinity Wars - Animated Trading Card Game##2
+785130##Clawface##2
+239220##The Mighty Quest For Epic Loot##1
+490230##SWARMRIDERS##1
+643980##Ironbound##1
+611500##Quake Champions##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+409710##BioShock Remastered##0
+10000##Enemy Territory: Quake Wars##0
+205790##Dota 2 Test##0
+99900##Spiral Knights##0
+206500##AirMech Strike##0
+218620##PAYDAY 2##0
+274620##Skara - The Blade Remains##0
+301520##Robocraft##0
+224600##Defiance##0
+310560##DiRT Rally##0
+39120##RIFT##0
+372000##Tree of Savior (English Ver.)##0
+410380##HEX: Shards of Fate##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+429680##Spellweaver##0
+596350##Paladins - Public Test##0
+302670##Call to Arms##0
+8500##EVE Online##0
+586030##Shardbound##0
+506540##Last Man Standing##0
+572520##Dropzone##0
+627690##Idle Champions of the Forgotten Realms##0
+427460##Battlerite Public Test##0
+700580##Rust - Staging Branch##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+298900##Space Hulk: Deathwing##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+1153700##Eternal Magic##0
+203160##Tomb Raider##0
+1284410##GWENT: The Witcher Card Game##0
+@@REVIEW

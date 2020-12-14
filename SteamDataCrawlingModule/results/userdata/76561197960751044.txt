@@ -1,0 +1,132 @@
+@@GAME
+730##Counter-Strike: Global Offensive##123911
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##46224
+10##Counter-Strike##41982
+333930##Dirty Bomb##3448
+221380##Age of Empires II (2013)##2606
+905370##Conqueror's Blade##2527
+227700##Firefall##2164
+570##Dota 2##2107
+291480##Warface##1788
+372000##Tree of Savior (English Ver.)##1542
+359550##Tom Clancy's Rainbow Six Siege##1348
+355840##Survarium##1196
+240##Counter-Strike: Source##605
+300##Day of Defeat: Source##440
+365670##Blender##391
+550##Left 4 Dead 2##378
+224600##Defiance##366
+55150##Warhammer 40,000: Space Marine##322
+287450##Rise of Nations: Extended Edition##319
+222900##Dead Island: Epidemic##283
+277430##Halo: Spartan Assault##239
+323850##Move or Die##151
+252490##Rust##143
+233630##Ascend: Hand of Kul##114
+230410##Warframe##90
+272350##Tom Clancy's Ghost Recon Phantoms - EU##82
+273110##Counter-Strike Nexon: Studio##77
+563560##Alien Swarm: Reactive Drop##77
+286940##S.K.I.L.L. - Special Force 2##65
+218620##PAYDAY 2##41
+755790##Ring of Elysium##38
+203160##Tomb Raider##37
+552500##Warhammer: Vermintide 2##36
+530700##Argo##35
+440##Team Fortress 2##33
+102700##A.V.A. Alliance of Valiant Arms™##30
+24240##PAYDAY: The Heist##23
+222880##Insurgency##22
+433350##BlackShot: Mercenary Warfare FPS##22
+242700##Injustice: Gods Among Us Ultimate Edition##22
+13520##Far Cry##20
+218230##PlanetSide 2##16
+35450##Rising Storm/Red Orchestra 2 Multiplayer##16
+611500##Quake Champions##16
+238960##Path of Exile##15
+227940##Heroes & Generals##14
+8000##Tomb Raider: Anniversary##14
+550650##Black Squad##14
+797470##METAL GEAR SURVIVE BETA##14
+263980##Out There Somewhere##13
+282070##This War of Mine##13
+261820##Estranged: Act I##13
+105450##Age of Empires® III (2007)##11
+220240##Far Cry® 3##11
+225300##Tomb Raider II##11
+57300##Amnesia: The Dark Descent##10
+386180##Crossout##10
+258700##Dragon Nest Europe##9
+678550##Oats Studios - Volume 1: Zygote##9
+225320##Tomb Raider III: Adventures of Lara Croft##8
+408410##X-Morph: Defense##8
+310380##Fractured Space##8
+70100##Hacker Evolution##6
+397500##Labyronia RPG 2##6
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##5
+282440##Quake Live##4
+225000##Tomb Raider: Chronicles##3
+374570##Kung Fury##3
+323580##Jotun: Valhalla Edition##3
+813820##Realm Royale##3
+224960##Tomb Raider I##2
+339280##Strife##2
+70##Half-Life##1
+209870##Blacklight: Retribution##1
+282660##Easy eSports##1
+19900##Far Cry 2##1
+224980##Tomb Raider: The Last Revelation##1
+225020##Tomb Raider (VI): The Angel of Darkness##1
+479130##ESEA##1
+588430##Fallout Shelter##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+224920##Legacy of Kain: Soul Reaver##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+226320##Marvel Heroes Omega##0
+700580##Rust - Staging Branch##0
+233270##Far Cry® 3 Blood Dragon##0
+215080##WAKFU##0
+7000##Tomb Raider: Legend##0
+8140##Tomb Raider: Underworld##0
+35130##Lara Croft and the Guardian of Light##0
+316390##Anomaly Zone##0
+343360##Particula##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+291550##Brawlhalla##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+417910##Street Warriors Online##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+633251##Oats Studios - Volume 1: RAKKA##0
+660740##Oats Studios - Volume 1: Cooking With Bill - Damasu 950##0
+669300##Oats Studios - Volume 1: FIREBASE##0
+674460##Oats Studios - Volume 1: God - Serengeti##0
+675150##Oats Studios - Volume 1: Cooking With Bill - Sushi##0
+675151##Oats Studios - Volume 1: Cooking With Bill - Prestoveg##0
+675152##Oats Studios - Volume 1: Cooking With Bill - Smoothie##0
+692330##Oats Studios - Volume 1: Kapture: Fluke##0
+726920##Oats Studios - Volume 1: ADAM: Episode 2##0
+748950##Oats Studios - Volume 1: Praetoria##0
+749020##Oats Studios - Volume 1: Bad President##0
+755440##Oats Studios - Volume 1: LIMA - Trailer##0
+759320##Oats Studios - Volume 1: Gdansk##0
+763470##Oats Studios - Volume 1: ADAM: Episode 3##0
+209670##Cortex Command##0
+878760##Realm Royale - Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+391720##Layers of Fear##0
+231430##Company of Heroes 2##0
+@@REVIEW
+755790##Recommended
+578080##Recommended
+730##Not Recommended
+333930##Recommended
+272350##Recommended

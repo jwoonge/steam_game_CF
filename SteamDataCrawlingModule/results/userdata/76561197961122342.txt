@@ -1,0 +1,150 @@
+@@GAME
+730##Counter-Strike: Global Offensive##173610
+4000##Garry's Mod##108810
+252950##Rocket League##30245
+240##Counter-Strike: Source##28820
+304930##Unturned##28427
+105600##Terraria##27805
+10##Counter-Strike##16638
+291550##Brawlhalla##14376
+440##Team Fortress 2##10698
+313160##Farming Simulator 15##9664
+271590##Grand Theft Auto V##9373
+346110##ARK: Survival Evolved##9324
+107410##Arma 3##7135
+265930##Goat Simulator##6699
+304050##Trove##6595
+620##Portal 2##6155
+280790##Creativerse##5686
+301520##Robocraft##5322
+960090##Bloons TD 6##3642
+218680##Scribblenauts Unlimited##3275
+526870##Satisfactory##3248
+243870##Tom Clancy's Ghost Recon Phantoms - NA##3181
+393380##Squad##3015
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2697
+332310##LEGO® Worlds##2555
+2700##RollerCoaster Tycoon 3: Platinum!##2471
+252490##Rust##2450
+429050##Feed and Grow: Fish##2384
+221100##DayZ##2305
+674940##Stick Fight: The Game##2138
+440740##Tap Tap Legions - Epic battles within 5 seconds!##2104
+269950##X-Plane 11##2087
+24240##PAYDAY: The Heist##1900
+648800##Raft##1776
+24860##Battlefield 2##1708
+24960##Battlefield: Bad Company™ 2##1578
+42710##Call of Duty: Black Ops - Multiplayer##1458
+324080##Rising World##1428
+214420##Gear Up##1287
+33930##Arma 2: Operation Arrowhead##1262
+444090##Paladins##1246
+293540##Guns and Robots##1189
+265630##Fistful of Frags##1186
+236110##Dungeon Defenders II##1154
+250340##Blockland##1092
+335330##Brick-Force##1074
+365590##Tom Clancy's The Division##1059
+641990##The Escapists 2##1058
+33900##Arma 2##1004
+285920##TerraTech##979
+385770##Time Clickers##878
+226320##Marvel Heroes Omega##835
+206500##AirMech Strike##673
+227300##Euro Truck Simulator 2##632
+410900##Forts##628
+420930##CHKN##556
+278360##A Story About My Uncle##524
+363970##Clicker Heroes##496
+200210##Realm of the Mad God Exalt##471
+813820##Realm Royale##449
+444640##Bloons TD Battles##442
+636040##Pixel Worlds##420
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##395
+945360##Among Us##363
+57690##Tropico 4##351
+289950##Construction-Simulator 2015##295
+299360##Block N Load##287
+237310##Elsword##253
+270850##Car Mechanic Simulator 2014##244
+113400##APB Reloaded##239
+386180##Crossout##230
+42700##Call of Duty: Black Ops##221
+299420##CubeGun##218
+12120##Grand Theft Auto: San Andreas##210
+340810##Deepworld##193
+42120##Lead and Gold - Gangs of the Wild West##178
+332070##School of Dragons: How to Train Your Dragon##154
+322170##Geometry Dash##146
+65730##Take On Helicopters##126
+317470##Cubic Castles##102
+70##Half-Life##100
+63380##Sniper Elite V2##86
+236390##War Thunder##85
+1281930##tModLoader##82
+714010##Aim Lab##76
+219640##Chivalry: Medieval Warfare##72
+380600##Fishing Planet##71
+397100##MachineCraft##70
+414730##Epic Clicker Journey##66
+544330##Snake Pass##61
+251450##Heroes of Havoc##52
+734580##BattleRush##52
+642390##Blocksworld##40
+726390##Scream Collector##39
+537180##Digimon Masters Online##38
+224540##Ace of Spades##32
+262410##World of Guns: Gun Disassembly##31
+702810##Shooty Skies##31
+999730##Secret Neighbor Beta##29
+409510##Genesis Online##26
+524970##Helmet Heroes##26
+562590##Galactic Junk League##26
+380360##Tap Tap Infinity##25
+708340##Shark Simulator##20
+767560##War Robots##19
+356330##Dragomon Hunter##18
+552990##World of Warships##18
+979060##Bloons Adventure Time TD##17
+557810##Clicker Guild##12
+302830##BLOCKADE 3D##8
+335240##Transformice##6
+51100##Tactical Intervention##5
+407530##ARK: Survival Of The Fittest##5
+20##Team Fortress Classic##2
+15320##IL-2 Sturmovik: 1946##2
+550040##Steep Open Beta##2
+479130##ESEA##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+1600##Dangerous Waters##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+12560##Ride! Carnival Tycoon##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+230410##Warframe##0
+700580##Rust - Staging Branch##0
+550##Left 4 Dead 2##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+342200##MechWarrior Online##0
+12250##Grand Theft Auto: San Andreas##0
+774941##Squad - Public Testing##0
+596350##Paladins - Public Test##0
+524440##Tom Clancy's The Division PTS##0
+450390##The Lab##0
+402570##Atlas Reactor##0
+878760##Realm Royale - Test Server##0
+1085660##Destiny 2##0
+@@REVIEW
+237310##Recommended
+387990##Recommended

@@ -1,0 +1,23 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+4000##Garry's Mod##0
+500##Left 4 Dead##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+45760##Ultra Street Fighter IV##0
+730##Counter-Strike: Global Offensive##0
+221680##Rocksmith® 2014 Edition - Remastered##0
+282660##Easy eSports##0
+386800##Street Fighter V Beta##0
+310950##Street Fighter V##0
+422110##Wand Wars##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+@@REVIEW

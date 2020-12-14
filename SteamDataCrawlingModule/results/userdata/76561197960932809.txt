@@ -1,0 +1,203 @@
+@@GAME
+570##Dota 2##90245
+258700##Dragon Nest Europe##77566
+582010##Monster Hunter: World##59305
+291550##Brawlhalla##44591
+594570##Total War: WARHAMMER II##38214
+273350##Evolve Stage 2##26969
+232450##SolForge##24581
+359320##Elite Dangerous##18410
+252950##Rocket League##16984
+218230##PlanetSide 2##15677
+301520##Robocraft##15099
+489520##Minion Masters##14927
+552500##Warhammer: Vermintide 2##14831
+504370##Battlerite##9772
+518790##theHunter: Call of the Wild™##9584
+221100##DayZ##9317
+252490##Rust##9122
+202090##Magicka: Wizard Wars##6396
+440##Team Fortress 2##5848
+386360##SMITE##5530
+39120##RIFT##5339
+238960##Path of Exile##5130
+550##Left 4 Dead 2##4961
+35720##Trine 2##4546
+1250##Killing Floor##4529
+42910##Magicka##3946
+632360##Risk of Rain 2##3795
+212740##TERA##3600
+235540##Warhammer: End Times - Vermintide##3269
+218620##PAYDAY 2##3150
+445980##Wizard of Legend##2786
+10##Counter-Strike##2759
+45750##Lost Planet 2##2546
+272510##NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution##2484
+251570##7 Days to Die##2256
+216890##Blood Bowl: Chaos Edition##2236
+17020##Global Agenda##2187
+286160##Tabletop Simulator##1890
+1046930##Dota Underlords##1734
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##1298
+219640##Chivalry: Medieval Warfare##1163
+65800##Dungeon Defenders##1156
+863550##HITMAN™ 2##1149
+113400##APB Reloaded##1083
+225540##Just Cause 3##1081
+4000##Garry's Mod##1005
+730##Counter-Strike: Global Offensive##957
+24240##PAYDAY: The Heist##914
+232090##Killing Floor 2##907
+207140##SpeedRunners##860
+4920##Natural Selection 2##836
+246280##Happy Wars##798
+304050##Trove##776
+665360##Comedy Night##689
+240380##Solstice Arena##680
+261430##AION Free-to-Play##629
+372000##Tree of Savior (English Ver.)##593
+591530##Hyper Universe##588
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##547
+280790##Creativerse##533
+204360##Castle Crashers##501
+236110##Dungeon Defenders II##482
+224600##Defiance##463
+213650##Dwarfs F2P##443
+111400##Bunch Of Heroes##402
+48700##Mount & Blade: Warband##382
+224260##No More Room in Hell##274
+30##Day of Defeat##271
+214870##Painkiller Hell & Damnation##267
+19680##Alice: Madness Returns##251
+10680##Aliens vs. Predator##239
+304390##For Honor##208
+304930##Unturned##205
+316010##Magic Duels##189
+473690##Absolver##179
+4550##Titan Quest: Immortal Throne##173
+289690##Lara Croft and the Temple of Osiris##173
+242700##Injustice: Gods Among Us Ultimate Edition##160
+205950##Jet Set Radio##143
+322330##Don't Starve Together##138
+257730##Infinity Wars - Animated Trading Card Game##137
+467820##Zero G Arena##127
+206480##Dungeons & Dragons Online®##119
+376300##GUILTY GEAR Xrd -SIGN-##117
+217750##Age of Conan: Unchained##116
+431960##Wallpaper Engine##105
+475150##Titan Quest Anniversary Edition##102
+105430##Age of Empires Online##101
+714010##Aim Lab##98
+207230##Archeblade##97
+231060##Ragnarok Online 2##86
+33910##Arma 2##82
+39530##Painkiller: Black Edition##81
+220##Half-Life 2##66
+200170##Worms Revolution##63
+327690##Gigantic##62
+230410##Warframe##60
+755790##Ring of Elysium##60
+33930##Arma 2: Operation Arrowhead##52
+35700##Trine##50
+471010##Seven: Enhanced Edition##45
+760060##Mutant Year Zero: Road to Eden##45
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##39
+797410##Headsnatchers##37
+236690##Blood Bowl 2##33
+630##Alien Swarm##31
+969680##Steel Circus##30
+718670##Cultist Simulator##26
+4540##Titan Quest##22
+258160##Rise of Incarnates##22
+248570##Toribash##20
+363440##Mega Man Legacy Collection##20
+60##Ricochet##19
+324810##TOXIKK##17
+212500##The Lord of the Rings Online™##16
+242720##GunZ 2: The Second Duel##14
+667890##Dead Maze##13
+17510##Age of Chivalry##13
+513370##Blade & Bones##12
+674940##Stick Fight: The Game##10
+48720##Mount & Blade: With Fire and Sword##8
+442070##Drawful 2##6
+238090##Sniper Elite 3##5
+70##Half-Life##4
+338340##Nightbanes##4
+386180##Crossout##3
+34270##SEGA Mega Drive & Genesis Classics##3
+240320##Panzar##2
+282660##Easy eSports##2
+9880##Champions Online##1
+719730##Uptasia##1
+582660##Black Desert Online##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+3270##Painkiller Overdose##0
+39560##Painkiller: Resurrection##0
+65560##Painkiller: Redemption##0
+22100##Mount & Blade##0
+205790##Dota 2 Test##0
+11020##TrackMania Nations Forever##0
+17080##Tribes: Ascend##0
+206210##Gotham City Impostors: Free To Play##0
+218130##Dungeonland##0
+1083500##PlanetSide 2 - Test##0
+241640##Haunted Memories##0
+225260##Brütal Legend##0
+236850##Europa Universalis IV##0
+700580##Rust - Staging Branch##0
+264360##La Tale##0
+301640##Zombie Army Trilogy##0
+63380##Sniper Elite V2##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+227940##Heroes & Generals##0
+200110##Nosgoth##0
+266030##DRAKERZ-Confrontation##0
+322500##SUPERHOT##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+336520##Might & Magic Heroes Online##0
+342200##MechWarrior Online##0
+351570##Killing Floor: Uncovered##0
+232150##Killing Floor 2 - SDK##0
+378860##Project CARS 2##0
+380600##Fishing Planet##0
+381560##Epic Cards Battle(TCG)##0
+858460##SMITE - Public Test##0
+388410##Darksiders II Deathinitive Edition##0
+299360##Block N Load##0
+442120##Pinball FX3##0
+456780##DUCATI - 90th Anniversary##0
+50620##Darksiders##0
+462780##Darksiders Warmastered Edition##0
+319630##Life is Strange™##0
+508440##Totally Accurate Battle Simulator##0
+507490##Ashes of the Singularity: Escalation##0
+602490##Blood Bowl: Death Zone##0
+578720##A Mortician's Tale##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+427460##Battlerite Public Test##0
+773580##Game Dev Studio##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+364360##Total War: WARHAMMER##0
+654310##For Honor - Public Test##0
+1056640##Phantasy Star Online 2##0
+843260##The Bard's Tale Trilogy##0
+1091980##The Bard's Tale IV: Director's Cut##0
+44350##GRID 2##0
+555000##GOAT OF DUTY##0
+760620##Deiland##0
+203160##Tomb Raider##0
+628950##Nephise Begins##0
+702150##Project Mercury##0
+1078000##Gamecraft##0
+34330##Total War: SHOGUN 2##0
+1368450##Endless Zone##0
+209630##Magrunner: Dark Pulse##0
+@@REVIEW

@@ -1,0 +1,193 @@
+@@GAME
+72850##The Elder Scrolls V: Skyrim##4518
+588650##Dead Cells##3520
+28050##Deus Ex: Human Revolution##1782
+8600##RACE 07##1738
+244210##Assetto Corsa##1623
+445980##Wizard of Legend##1301
+310560##DiRT Rally##1266
+105600##Terraria##1211
+241600##Rogue Legacy##1124
+431730##Aseprite##1070
+620##Portal 2##997
+387290##Ori and the Blind Forest: Definitive Edition##947
+1091500##Cyberpunk 2077##887
+44310##F1 2010™##771
+1222730##STAR WARS™: Squadrons##764
+24010##Train Simulator##707
+500##Left 4 Dead##631
+49520##Borderlands 2##585
+214850##GameMaker: Studio##366
+31170##Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal##350
+367520##Hollow Knight##346
+55230##Saints Row: The Third##321
+227300##Euro Truck Simulator 2##311
+203140##Hitman: Absolution##306
+12210##Grand Theft Auto IV: The Complete Edition##292
+690790##DiRT Rally 2.0##288
+211500##RaceRoom Racing Experience ##277
+220200##Kerbal Space Program##277
+263280##Spintires®##250
+248820##Risk of Rain##244
+219890##Antichamber##237
+274190##Broforce##228
+440##Team Fortress 2##193
+24870##Need for Speed: SHIFT##182
+224760##FEZ##176
+379720##DOOM##151
+44350##GRID 2##129
+44320##DiRT 3##127
+17470##Dead Space##121
+32360##The Secret of Monkey Island: Special Edition##115
+24740##Burnout Paradise: The Ultimate Box##107
+300##Day of Defeat: Source##106
+8190##Just Cause 2##96
+323320##Grow Home##96
+47780##Dead Space 2##84
+201790##Orcs Must Die! 2##82
+346010##Besiege##73
+47790##Medal of Honor(TM) Single Player##70
+573170##Fidel Dungeon Rescue##65
+201700##DiRT Showdown##63
+544750##SOULCALIBUR VI##60
+40800##Super Meat Boy##54
+389140##Horizon Chase Turbo##54
+33230##Assassin's Creed II##52
+234900##Anodyne##52
+15100##Assassin's Creed##51
+12110##Grand Theft Auto: Vice City##49
+316790##Grim Fandango Remastered##48
+6910##Deus Ex: Game of the Year Edition##46
+211400##Deadlight##45
+115100##Costume Quest##43
+43110##Metro 2033##43
+70##Half-Life##40
+220##Half-Life 2##38
+214560##Mark of the Ninja##37
+428550##Momodora: Reverie Under the Moonlight##35
+222940##THE KING OF FIGHTERS XIII STEAM EDITION##33
+1840##Source Filmmaker##30
+310950##Street Fighter V##22
+404730##Wasteland 2: Director's Cut##21
+6920##Deus Ex: Invisible War##20
+225140##Duke Nukem 3D: Megaton Edition##18
+240##Counter-Strike: Source##17
+35720##Trine 2##16
+248610##Door Kickers##15
+107100##Bastion##14
+302790##Momodora III##14
+234390##Teleglitch: Die More Edition##13
+346110##ARK: Survival Evolved##13
+674520##Fight'N Rage##12
+30##Day of Defeat##9
+204300##Awesomenauts##9
+105450##Age of Empires® III (2007)##9
+221380##Age of Empires II (2013)##8
+95300##Capsized##7
+247020##Cook, Serve, Delicious!##7
+22600##Worms Reloaded##6
+268870##Satellite Reign##5
+345820##Shantae and the Pirate's Curse##5
+8660##GTR Evolution##4
+400##Portal##4
+31180##Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay ##1
+347350##The Making of Grim Fandango Remastered##1
+495400##The Making of Grim Fandango Remastered: Developing the Game##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+12240##Grand Theft Auto: Vice City##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+31100##Wallace & Gromit Ep 1: Fright of the Bumblebees##0
+31190##Tales of Monkey Island: Chapter 3 - Lair of the Leviathan ##0
+31200##Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood ##0
+31210##Tales of Monkey Island: Chapter 5 - Rise of the Pirate God##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+48950##Greed Corp##0
+17410##Mirror's Edge##0
+3830##Psychonauts##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+203810##Dear Esther##0
+520720##Dear Esther: Landmark Edition##0
+41900##The Bard's Tale##0
+203770##Crusader Kings II##0
+48000##LIMBO##0
+207170##Legend of Grimrock##0
+207570##English Country Tune##0
+207650##A Virus Named TOM##0
+108200##Ticket to Ride##0
+105800##PixelJunk Eden##0
+212680##FTL: Faster Than Light##0
+108800##Crysis 2 Maximum Edition##0
+200390##Oil Rush##0
+205910##Tiny and Big: Grandpa's Leftovers##0
+215670##Home##0
+215510##Rocketbirds: Hardboiled Chicken##0
+214970##Intrusion 2##0
+220780##Thomas Was Alone##0
+221260##Little Inferno##0
+57690##Tropico 4##0
+205930##Hitman: Sniper Challenge##0
+225260##Brütal Legend##0
+230150##Incredipede##0
+233740##Organ Trail: Director's Cut##0
+12840##DiRT 2##0
+321040##DiRT 3 Complete Edition##0
+57640##Broken Sword 1 - Shadow of the Templars: Director's Cut##0
+9480##Saints Row 2##0
+40390##Risen 2 - Dark Waters##0
+225640##Sacred 2 Gold##0
+950670##Gothic Playable Teaser##0
+91310##Dead Island##0
+40300##Risen##0
+207930##Sacred Citadel##0
+47830##Medal of Honor(TM) Multiplayer##0
+214550##Eets Munchies##0
+251530##Anomaly Korea##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+367690##Spintires® - Editor##0
+215530##The Incredible Adventures of Van Helsing##0
+213670##South Park™: The Stick of Truth™##0
+282070##This War of Mine##0
+256290##Child of Light##0
+296970##Renowned Explorers: International Society##0
+240760##Wasteland 2##0
+259130##Wasteland 1 - The Original Classic##0
+317280##Solstice##0
+323190##Frostpunk##0
+323380##The Magic Circle##0
+325370##Nova-111##0
+327890##I am Bread##0
+332500##GRAV##0
+337150##Sentinels of the Multiverse##0
+242680##Nuclear Throne##0
+266410##iRacing##0
+407530##ARK: Survival Of The Fittest##0
+347360##The Making of Grim Fandango Remastered: E3 and Beyond##0
+347370##The Making of Grim Fandango Remastered: The Remastered Treatment##0
+351250##Avalanche 2: Super Avalanche##0
+359580##Uncanny Valley##0
+359320##Elite Dangerous##0
+261570##Ori and the Blind Forest##0
+388550##Galactic Missile Defense##0
+385710##INK##0
+429330##Stikbold!##0
+442210##Switchcars##0
+666140##My Time At Portia##0
+231430##Company of Heroes 2##0
+587620##Okami HD##0
+750920##Shadow of the Tomb Raider##0
+834530##Yakuza Kiwami##0
+640820##Pathfinder: Kingmaker##0
+945360##Among Us##0
+396900##GRIP: Combat Racing##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW

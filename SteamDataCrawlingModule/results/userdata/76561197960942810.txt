@@ -1,0 +1,32 @@
+@@GAME
+730##Counter-Strike: Global Offensive##361691
+10##Counter-Strike##351276
+230410##Warframe##38780
+1046930##Dota Underlords##3995
+221380##Age of Empires II (2013)##1348
+257400##Fuse##78
+813780##Age of Empires II: Definitive Edition##3
+365670##Blender##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+240##Counter-Strike: Source##0
+223750##DCS World Steam Edition##0
+291480##Warface##0
+550650##Black Squad##0
+671810##The Adventures of Capitano Navarro##0
+684870##Spiral Splatter##0
+702320##March of Empires##0
+711210##StepX##0
+809320##Silent Tweets##0
+859610##S.T.R.E.T.C.H.##0
+996470##eFootball PES 2020##0
+@@REVIEW
+230410##Not Recommended
+730##Recommended

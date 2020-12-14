@@ -1,0 +1,105 @@
+@@GAME
+359550##Tom Clancy's Rainbow Six Siege##35166
+239140##Dying Light##32949
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##28819
+252490##Rust##25526
+230410##Warframe##16661
+240##Counter-Strike: Source##9770
+550##Left 4 Dead 2##5569
+440##Team Fortress 2##4532
+10##Counter-Strike##4331
+21000##LEGO® Batman™: The Videogame##3770
+433850##Z1 Battle Royale##3702
+381210##Dead by Daylight##2926
+646910##The Crew 2##1849
+13230##Unreal Tournament 2004##1656
+105600##Terraria##1491
+438100##VRChat##1428
+80##Counter-Strike: Condition Zero##1396
+242760##The Forest##1352
+24960##Battlefield: Bad Company™ 2##1196
+13210##Unreal Tournament 3: Black Edition##1093
+7940##Call of Duty 4: Modern Warfare##783
+945360##Among Us##710
+10150##Prototype##568
+755790##Ring of Elysium##522
+550650##Black Squad##462
+333930##Dirty Bomb##263
+100##Counter-Strike: Condition Zero Deleted Scenes##242
+10680##Aliens vs. Predator##236
+292030##The Witcher 3: Wild Hunt##218
+15170##Heroes of Might & Magic V##196
+12130##Manhunt##192
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##150
+960090##Bloons TD 6##150
+730##Counter-Strike: Global Offensive##134
+657200##Hand Simulator##132
+304050##Trove##122
+220##Half-Life 2##116
+813820##Realm Royale##104
+3590##Plants vs. Zombies: Game of the Year##97
+384180##Prominence Poker##83
+291550##Brawlhalla##83
+431960##Wallpaper Engine##76
+555570##Infestation: The New Z##74
+42680##Call of Duty: Modern Warfare 3##73
+346110##ARK: Survival Evolved##61
+470220##UNO##57
+397900##Business Tour - Online Multiplayer Board Game##44
+434570##Blood and Bacon##40
+352460##Dead Realm##40
+809960##Radical Heights##39
+238960##Path of Exile##32
+1085660##Destiny 2##27
+70##Half-Life##9
+20##Team Fortress Classic##2
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+1002##Rag Doll Kung Fu##0
+3300##Bejeweled 2 Deluxe##0
+3310##Chuzzle Deluxe##0
+3320##Insaniquarium! Deluxe##0
+3330##Zuma Deluxe##0
+3340##AstroPop Deluxe##0
+3350##Bejeweled Deluxe##0
+3360##Big Money! Deluxe##0
+3370##BookWorm Deluxe##0
+3380##Dynomite! Deluxe##0
+3390##Feeding Frenzy 2: Shipwreck Showdown Deluxe##0
+3400##Hammer Heads Deluxe##0
+3410##Heavy Weapon Deluxe##0
+3420##Iggle Pop! Deluxe##0
+3430##Pizza Frenzy##0
+3440##Rocket Mania! Deluxe##0
+3450##Typer Shark! Deluxe##0
+3460##Talismania Deluxe##0
+3470##Bookworm Adventures Deluxe##0
+3480##Peggle Deluxe##0
+3490##Venice##0
+3500##Mystery P.I.: The Lottery Ticket##0
+3510##Amazing Adventures: The Lost Tomb##0
+3520##Mystery PI: The Vegas Heist##0
+3530##Amazing Adventures Around the World##0
+3540##Peggle Nights##0
+3560##Bejeweled Twist##0
+3570##Mystery P.I.: The New York Fortune##0
+3580##The Wizard's Pen##0
+3600##Escape Rosecliff Island##0
+29660##Aion##0
+700580##Rust - Staging Branch##0
+291480##Warface##0
+407530##ARK: Survival Of The Fittest##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+878760##Realm Royale - Test Server##0
+439700##H1Z1: Test Server##0
+@@REVIEW
+359550##Recommended
+239140##Recommended

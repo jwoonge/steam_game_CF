@@ -1,0 +1,34 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+227300##Euro Truck Simulator 2##0
+271590##Grand Theft Auto V##0
+228380##Wreckfest##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+730##Counter-Strike: Global Offensive##0
+255710##Cities: Skylines##0
+431240##Golf With Your Friends##0
+244930##SNOW##0
+516750##My Summer Car##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+613100##House Flipper##0
+621060##PC Building Simulator##0
+645630##Car Mechanic Simulator 2018##0
+657200##Hand Simulator##0
+690790##DiRT Rally 2.0##0
+750050##Diesel Brothers: Truck Building Simulator##0
+766570##Russian Fishing 4##0
+1097150##Fall Guys: Ultimate Knockout##0
+928600##F1 2019##0
+1174180##Red Dead Redemption 2##0
+@@REVIEW

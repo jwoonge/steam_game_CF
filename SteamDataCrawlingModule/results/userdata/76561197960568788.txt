@@ -1,0 +1,250 @@
+@@GAME
+252490##Rust##114189
+238960##Path of Exile##80640
+226320##Marvel Heroes Omega##23980
+730##Counter-Strike: Global Offensive##23594
+304030##ArcheAge##16836
+435150##Divinity: Original Sin 2##15524
+24960##Battlefield: Bad Company™ 2##15022
+640820##Pathfinder: Kingmaker##14046
+440900##Conan Exiles##13515
+262060##Darkest Dungeon®##10501
+1174180##Red Dead Redemption 2##10364
+440##Team Fortress 2##10089
+373420##Divinity: Original Sin Enhanced Edition##8737
+65800##Dungeon Defenders##7035
+201790##Orcs Must Die! 2##6830
+460930##Tom Clancy's Ghost Recon® Wildlands##6524
+24980##Mass Effect 2##6158
+582010##Monster Hunter: World##6099
+794260##Outward##6018
+8980##Borderlands GOTY##5414
+500##Left 4 Dead##5003
+242760##The Forest##4633
+617290##Remnant: From the Ashes##3709
+286160##Tabletop Simulator##3319
+728880##Overcooked! 2##2838
+221100##DayZ##2816
+1172380##STAR WARS Jedi: Fallen Order™ ##2092
+72850##The Elder Scrolls V: Skyrim##2063
+552520##Far Cry 5##2058
+760060##Mutant Year Zero: Road to Eden##1974
+113400##APB Reloaded##1895
+322330##Don't Starve Together##1765
+306130##The Elder Scrolls Online##1665
+10180##Call of Duty: Modern Warfare 2##1596
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1521
+236110##Dungeon Defenders II##1455
+630##Alien Swarm##1353
+102600##Orcs Must Die!##1346
+207610##The Walking Dead##1316
+239140##Dying Light##1279
+55230##Saints Row: The Third##1272
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##1227
+63380##Sniper Elite V2##1158
+240##Counter-Strike: Source##1157
+250320##The Wolf Among Us##1121
+620##Portal 2##1036
+200510##XCOM: Enemy Unknown##1032
+550##Left 4 Dead 2##1012
+205100##Dishonored##999
+228200##Company of Heroes ##934
+220##Half-Life 2##897
+962130##Grounded##798
+42910##Magicka##763
+230410##Warframe##753
+566090##The Bard's Tale IV##753
+241930##Middle-earth™: Shadow of Mordor™##742
+49520##Borderlands 2##630
+212910##Call of Duty: Black Ops II - Zombies##587
+648800##Raft##581
+632360##Risk of Rain 2##577
+644930##They Are Billions##562
+448510##Overcooked##516
+234140##Mad Max##495
+238090##Sniper Elite 3##480
+10##Counter-Strike##454
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##429
+219990##Grim Dawn##424
+202990##Call of Duty: Black Ops II - Multiplayer##400
+209080##Guns of Icarus Online##376
+281990##Stellaris##372
+108800##Crysis 2 Maximum Edition##368
+67370##The Darkness II##354
+305620##The Long Dark##319
+235540##Warhammer: End Times - Vermintide##305
+55100##Homefront##298
+204450##Call of Juarez Gunslinger##284
+209000##Batman™: Arkham Origins##270
+7670##BioShock##263
+268500##XCOM 2##261
+203160##Tomb Raider##252
+292030##The Witcher 3: Wild Hunt##247
+43110##Metro 2033##222
+312670##Strange Brigade##208
+552500##Warhammer: Vermintide 2##206
+214490##Alien: Isolation##194
+476620##Call of Duty: WWII - Multiplayer##186
+362890##Black Mesa##179
+570##Dota 2##174
+380##Half-Life 2: Episode One##166
+504370##Battlerite##165
+231430##Company of Heroes 2##147
+22600##Worms Reloaded##122
+548430##Deep Rock Galactic##115
+221910##The Stanley Parable##113
+22330##The Elder Scrolls IV: Oblivion ##105
+241540##State of Decay##101
+219740##Don't Starve##92
+346110##ARK: Survival Evolved##81
+111400##Bunch Of Heroes##78
+35140##Batman: Arkham Asylum GOTY Edition##75
+202970##Call of Duty: Black Ops II##74
+238430##Contagion##74
+400##Portal##68
+65300##Dustforce##65
+239030##Papers, Please##63
+91310##Dead Island##62
+367500##Dragon's Dogma: Dark Arisen##59
+273350##Evolve Stage 2##58
+939520##HELLGATE: London##56
+32370##STAR WARS™: Knights of the Old Republic™##52
+475150##Titan Quest Anniversary Edition##52
+359550##Tom Clancy's Rainbow Six Siege##52
+445220##Avorion##52
+312990##The Expendabros##50
+307670##Hard West##50
+47810##Dragon Age: Origins - Ultimate Edition##45
+374320##DARK SOULS™ III##44
+638070##Murderous Pursuits##44
+32500##STAR WARS™: The Force Unleashed™ II##41
+388210##Day of the Tentacle Remastered##38
+275850##No Man's Sky##38
+409160##Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist##33
+223510##Miasmata##28
+49540##Aliens: Colonial Marines##28
+628770##Tangledeep##28
+17410##Mirror's Edge##26
+212160##Vindictus##24
+339340##Resident Evil 0##23
+333930##Dirty Bomb##23
+372030##Starship Rubicon##19
+108710##Alan Wake##18
+396750##EVERSPACE™##15
+850290##Grimmwood Open beta##14
+376570##WildStar##13
+70100##Hacker Evolution##11
+249050##Dungeon of the Endless™ - Crystal Edition##10
+4560##Company of Heroes - Legacy Edition##7
+223100##Homefront: The Revolution##5
+368370##Her Story##4
+674940##Stick Fight: The Game##3
+843260##The Bard's Tale Trilogy##2
+60##Ricochet##1
+70##Half-Life##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+340##Half-Life 2: Lost Coast##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+420##Half-Life 2: Episode Two##0
+409710##BioShock Remastered##0
+20900##The Witcher: Enhanced Edition##0
+17390##Spore##0
+17460##Mass Effect##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+729040##Borderlands GOTY Enhanced##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+4540##Titan Quest##0
+105600##Terraria##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+22450##Hunted: The Demon's Forge##0
+9200##RAGE##0
+205790##Dota 2 Test##0
+104900##ORION: Prelude##0
+202750##Alan Wake's American Nightmare##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+200260##Batman: Arkham City GOTY##0
+208200##DOOM 3: BFG Edition##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+219780##Divinity II: Developer's Cut##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+462780##Darksiders Warmastered Edition##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+233860##Kenshi##0
+8870##BioShock Infinite##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+204100##Max Payne 3##0
+210770##Sanctum 2##0
+232430##Gone Home##0
+218620##PAYDAY 2##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+238320##Outlast##0
+700580##Rust - Staging Branch##0
+261030##The Walking Dead: Season Two##0
+282140##SOMA##0
+287630##The Council##0
+246700##Strike Vector##0
+201810##Wolfenstein: The New Order##0
+304430##INSIDE##0
+8600##RACE 07##0
+8660##GTR Evolution##0
+211500##RaceRoom Racing Experience ##0
+242640##Styx: Master of Shadows##0
+323370##TERA##0
+319630##Life is Strange™##0
+407530##ARK: Survival Of The Fittest##0
+350080##Wolfenstein: The Old Blood ##0
+230230##Divinity: Original Sin (Classic)##0
+383150##Dead Island Definitive Edition##0
+215530##The Incredible Adventures of Van Helsing##0
+272470##The Incredible Adventures of Van Helsing II##0
+310510##Deathtrap##0
+359900##The Incredible Adventures of Van Helsing III##0
+399810##Call of Cthulhu##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+931180##Conan Exiles - Testlive Client##0
+460790##Bayonetta##0
+312660##Sniper Elite 4##0
+469820##Genital Jousting##0
+1091980##The Bard's Tale IV: Director's Cut##0
+355790##Styx: Shards of Darkness##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+356190##Middle-earth™: Shadow of War™##0
+612880##Wolfenstein II: The New Colossus##0
+554620##Life is Strange: Before the Storm##0
+476600##Call of Duty: WWII##0
+427460##Battlerite Public Test##0
+379430##Kingdom Come: Deliverance##0
+812140##Assassin's Creed Odyssey##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+882100##XCOM: Chimera Squad##0
+883710##Resident Evil 2##0
+222880##Insurgency##0
+204880##Sins of a Solar Empire: Rebellion##0
+278360##A Story About My Uncle##0
+752590##A Plague Tale: Innocence##0
+343710##KHOLAT##0
+1056960##Wolfenstein: Youngblood##0
+1097840##Gears 5##0
+1238000##Mass Effect™: Andromeda##0
+1238020##Mass Effect 3##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW
+242760##Recommended

@@ -1,0 +1,134 @@
+@@GAME
+240##Counter-Strike: Source##191885
+440##Team Fortress 2##147713
+4000##Garry's Mod##140328
+550##Left 4 Dead 2##55071
+500##Left 4 Dead##27628
+273110##Counter-Strike Nexon: Studio##22659
+730##Counter-Strike: Global Offensive##17186
+381210##Dead by Daylight##16274
+17520##Synergy##4680
+17570##Pirates, Vikings, & Knights II##4561
+102700##A.V.A. Alliance of Valiant Arms™##4104
+320##Half-Life 2: Deathmatch##3305
+270370##Lambda Wars Beta##3024
+563560##Alien Swarm: Reactive Drop##2739
+1250##Killing Floor##2730
+1840##Source Filmmaker##2538
+242760##The Forest##2517
+224260##No More Room in Hell##2345
+630##Alien Swarm##2250
+47780##Dead Space 2##1897
+17500##Zombie Panic! Source##1714
+225840##Sven Co-op##1652
+238460##BattleBlock Theater##1596
+221040##Resident Evil 6##1559
+10680##Aliens vs. Predator##1537
+99900##Spiral Knights##1511
+237110##Mortal Kombat Komplete Edition##1447
+304390##For Honor##1422
+220##Half-Life 2##1415
+218620##PAYDAY 2##1311
+300##Day of Defeat: Source##1144
+70000##Dino D-Day##1115
+207610##The Walking Dead##1087
+10##Counter-Strike##1073
+209100##Resident Evil: Operation Raccoon City##991
+232090##Killing Floor 2##954
+380##Half-Life 2: Episode One##902
+355180##Codename CURE##868
+248330##Dino Run DX##849
+226700##Infestation: Survivor Stories 2020##796
+420##Half-Life 2: Episode Two##556
+319150##Hazard Ops##524
+10090##Call of Duty: World at War##498
+216250##Dead Island Riptide##462
+238430##Contagion##450
+261030##The Walking Dead: Season Two##437
+51100##Tactical Intervention##391
+620##Portal 2##366
+236450##PAC-MAN Championship Edition DX+##347
+222880##Insurgency##320
+285900##Gang Beasts##319
+444640##Bloons TD Battles##314
+666220##CS2D##293
+291480##Warface##265
+203160##Tomb Raider##210
+252330##Slender: The Arrival##158
+223710##Cry of Fear##157
+113400##APB Reloaded##122
+466240##Deceit##115
+274920##FaceRig##104
+277430##Halo: Spartan Assault##95
+253530##Fortress Forever##80
+17730##Smashball##79
+778930##Property##70
+212160##Vindictus##66
+286940##S.K.I.L.L. - Special Force 2##66
+304930##Unturned##66
+50##Half-Life: Opposing Force##61
+365300##Transmissions: Element 120##61
+438100##VRChat##57
+40##Deathmatch Classic##54
+17700##Insurgency: Modern Infantry Combat##54
+588430##Fallout Shelter##53
+211##Source SDK##44
+433850##Z1 Battle Royale##41
+349700##Aftermath##34
+207230##Archeblade##33
+265930##Goat Simulator##31
+270550##Yet Another Zombie Defense##27
+555570##Infestation: The New Z##27
+316390##Anomaly Zone##24
+302590##Of Guards And Thieves##24
+436520##Line of Sight##20
+70##Half-Life##19
+714070##Entropy : Zero##18
+31280##Poker Night at the Inventory##16
+250340##Blockland##14
+130##Half-Life: Blue Shift##13
+550650##Black Squad##13
+361700##Mortal Kombat: Legacy##12
+17510##Age of Chivalry##12
+203290##America's Army: Proving Grounds##11
+333930##Dirty Bomb##11
+361750##Mortal Kombat: Legacy: Raiden##11
+361720##Mortal Kombat: Legacy: Johnny Cage##10
+361760##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 1)##9
+361780##Mortal Kombat: Legacy: Cyrax & Sektor##9
+332790##Darkness Assault##9
+360##Half-Life Deathmatch: Source##8
+361730##Mortal Kombat: Legacy: Kitana & Mileena (Part 1)##8
+361710##Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 2)##7
+361740##Mortal Kombat: Legacy: Kitana & Mileena (Part 2)##7
+506540##Last Man Standing##7
+361770##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)##6
+530700##Argo##6
+700330##SCP: Secret Laboratory##4
+397680##FIREFIGHT RELOADED##2
+767460##Technotron Defense##2
+35420##Killing Floor Mod: Defence Alliance 2##1
+9880##Champions Online##1
+468250##Warfare Online##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+60##Ricochet##0
+340##Half-Life 2: Lost Coast##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+266430##Anarchy Arcade##0
+317360##Double Action: Boogaloo##0
+324570##Halo: Spartan Strike##0
+355840##Survarium##0
+232150##Killing Floor 2 - SDK##0
+495460##Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 1)##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+439700##H1Z1: Test Server##0
+654310##For Honor - Public Test##0
+@@REVIEW
+500##Recommended
+390340##Recommended
+355180##Recommended
+440##Recommended

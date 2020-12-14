@@ -1,0 +1,55 @@
+@@GAME
+326460##ShellShock Live##48052
+240##Counter-Strike: Source##34489
+730##Counter-Strike: Global Offensive##30177
+271590##Grand Theft Auto V##8090
+22330##The Elder Scrolls IV: Oblivion ##6535
+489830##The Elder Scrolls V: Skyrim Special Edition##2759
+304930##Unturned##1374
+322170##Geometry Dash##1062
+1132190##Coloring Game: Little City##545
+1216200##Coloring Game 2##403
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##360
+440##Team Fortress 2##325
+438040##Shakes and Fidget##258
+22230##Rock of Ages##191
+239160##Thief##188
+4000##Garry's Mod##154
+105600##Terraria##108
+304050##Trove##107
+704850##Thief Simulator##103
+70##Half-Life##73
+220##Half-Life 2##72
+1281930##tModLoader##72
+436150##Governor of Poker 3##61
+431960##Wallpaper Engine##45
+17700##Insurgency: Modern Infantry Combat##38
+17730##Smashball##30
+206420##Saints Row IV##20
+412620##CropDuster Supreme##18
+884660##CRSED##18
+550##Left 4 Dead 2##11
+323850##Move or Die##10
+438100##VRChat##8
+513560##Hunger Dungeon##8
+773920##scram##8
+643270##OLDTV##7
+10##Counter-Strike##5
+607260##McOsu##3
+20##Team Fortress Classic##1
+40##Deathmatch Classic##1
+340##Half-Life 2: Lost Coast##1
+433850##Z1 Battle Royale##1
+30##Day of Defeat##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+365670##Blender##0
+439700##H1Z1: Test Server##0
+582010##Monster Hunter: World##0
+1085660##Destiny 2##0
+@@REVIEW
+240##Recommended
+730##Recommended
+326460##Recommended

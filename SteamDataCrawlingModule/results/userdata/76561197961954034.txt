@@ -1,0 +1,35 @@
+@@GAME
+730##Counter-Strike: Global Offensive##125934
+359550##Tom Clancy's Rainbow Six Siege##78740
+10##Counter-Strike##77563
+433850##Z1 Battle Royale##40006
+4000##Garry's Mod##31145
+227300##Euro Truck Simulator 2##21957
+623990##Tom Clancy's Rainbow Six Siege - Test Server##20661
+222880##Insurgency##15737
+108600##Project Zomboid##15047
+70##Half-Life##10360
+273110##Counter-Strike Nexon: Studio##1831
+282070##This War of Mine##643
+304930##Unturned##95
+20##Team Fortress Classic##32
+270550##Yet Another Zombie Defense##8
+40##Deathmatch Classic##7
+343360##Particula##3
+525300##Starship Annihilator##3
+30##Day of Defeat##1
+1079310##Elemental Girls##1
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+34830##Sniper: Ghost Warrior##0
+34870##Sniper Ghost Warrior 2##0
+271500##Sniper Art of Victory##0
+420290##Blackwake##0
+703270##Run, my little pixel##0
+754120##Ninja Stealth 3##0
+817110##Bitcoin VS Brain##0
+439700##H1Z1: Test Server##0
+368180##Polyball##0
+@@REVIEW
+359550##Recommended

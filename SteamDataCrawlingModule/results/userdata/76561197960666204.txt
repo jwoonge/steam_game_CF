@@ -1,0 +1,24 @@
+@@GAME
+570##Dota 2##19239
+10##Counter-Strike##6368
+730##Counter-Strike: Global Offensive##4291
+678950##DRAGON BALL FighterZ##3466
+440##Team Fortress 2##2664
+292120##FINAL FANTASY XIII##378
+322330##Don't Starve Together##378
+550##Left 4 Dead 2##148
+203160##Tomb Raider##87
+252490##Rust##64
+80##Counter-Strike: Condition Zero##31
+20##Team Fortress Classic##14
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+219740##Don't Starve##0
+@@REVIEW

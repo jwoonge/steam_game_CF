@@ -1,0 +1,262 @@
+@@GAME
+730##Counter-Strike: Global Offensive##5496
+200710##Torchlight II##3892
+222900##Dead Island: Epidemic##3550
+246420##Kingdom Rush##2206
+550##Left 4 Dead 2##1469
+201810##Wolfenstein: The New Order##1338
+269210##Hero Siege##829
+8930##Sid Meier's Civilization V##787
+39120##RIFT##749
+292910##Deponia: The Complete Journey##713
+316010##Magic Duels##712
+261030##The Walking Dead: Season Two##659
+612880##Wolfenstein II: The New Colossus##625
+49520##Borderlands 2##599
+536220##The Walking Dead: A New Frontier##566
+38600##Faerie Solitaire##510
+208650##Batman™: Arkham Knight##508
+113200##The Binding of Isaac##506
+41070##Serious Sam 3: BFE##489
+1286830##STAR WARS™: The Old Republic™##483
+291650##Pillars of Eternity##461
+18500##Defense Grid: The Awakening##434
+996580##Spyro™ Reignited Trilogy##393
+209000##Batman™: Arkham Origins##363
+570##Dota 2##311
+225080##Brothers - A Tale of Two Sons##308
+1046930##Dota Underlords##287
+1930##Two Worlds: Epic Edition##282
+268810##Paranormal State: Poison Spring Collector's Edition##272
+200510##XCOM: Enemy Unknown##262
+275470##Chip##261
+338050##Anoxemia##254
+275490##Canyon Capers##241
+203630##Warlock - Master of the Arcane##232
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##228
+271860##Super Killer Hornet: Resurrection##221
+301750##RADical ROACH Remastered##211
+3830##Psychonauts##210
+208090##Loadout##208
+364690##SUPER DISTRO##205
+46500##Syberia##204
+620##Portal 2##201
+200260##Batman: Arkham City GOTY##201
+57690##Tropico 4##201
+22200##Zeno Clash##201
+257890##Frozen Hearth##201
+307070##Memories of a Vagabond##201
+253980##Enclave##186
+238910##Bionic Dues##185
+235250##Super Sanctum TD##183
+92800##SpaceChem##181
+253900##Knights and Merchants##181
+295930##Swipecart##180
+221380##Age of Empires II (2013)##167
+307350##Nux##165
+35450##Rising Storm/Red Orchestra 2 Multiplayer##162
+111100##Snuggle Truck##161
+307230##I, Zombie##161
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##158
+220##Half-Life 2##157
+258970##Gauntlet™ ##136
+10##Counter-Strike##123
+91900##Post Apocalyptic Mayhem##99
+231430##Company of Heroes 2##98
+440##Team Fortress 2##98
+202090##Magicka: Wizard Wars##95
+224420##Afterfall InSanity Extended Edition##95
+63380##Sniper Elite V2##93
+905370##Conqueror's Blade##87
+91200##Anomaly Warzone Earth##85
+70##Half-Life##78
+234490##Rush Bros##71
+240##Counter-Strike: Source##62
+444090##Paladins##61
+351040##Moonrise##56
+400##Portal##46
+270550##Yet Another Zombie Defense##38
+236110##Dungeon Defenders II##33
+266450##Conquest of Champions##30
+1421230##Syberia The World Before - Prologue##26
+207730##Arena Wars 2##25
+227700##Firefall##22
+285800##Braveland##17
+218640##Lucius##16
+270570##Reversion - The Escape##14
+251970##Sins of a Dark Age##12
+43110##Metro 2033##11
+299800##The Land of Eyas##8
+316390##Anomaly Zone##8
+291550##Brawlhalla##8
+46510##Syberia 2##5
+200110##Nosgoth##5
+218740##Pid ##5
+246280##Happy Wars##5
+34270##SEGA Mega Drive & Genesis Classics##2
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+23490##Tropico 3 - Steam Special Edition##0
+205790##Dota 2 Test##0
+564310##Serious Sam Fusion 2017 (beta)##0
+583930##Faerie Solitaire Remastered##0
+206690##iBomber Defense Pacific##0
+234190##Receiver##0
+254000##East India Company Gold##0
+254020##Commander: Conquest of the Americas Gold##0
+254040##Pirates of Black Cove Gold##0
+254060##KnightShift##0
+252150##Grimm##0
+261430##AION Free-to-Play##0
+272060##Serena##0
+283370##Marine Sharpshooter II: Jungle Warfare##0
+291290##Motte Island##0
+351030##Pixel Puzzles Ultimate##0
+65790##Arma: Cold War Assault##0
+311480##Vertical Drop Heroes HD##0
+317780##Eternal Fate##0
+319180##Platypus II##0
+319730##Granado Espada##0
+329790##Krosmaster Arena##0
+336520##Might & Magic Heroes Online##0
+339600##VEGA Conflict##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+342200##MechWarrior Online##0
+344190##Immortal Empire##0
+350990##Bloodwood Reload##0
+353130##Time of Dragons##0
+354290##LoveBeat##0
+356330##Dragomon Hunter##0
+364110##Swordsman##0
+372190##Astro Lords: Oort Cloud##0
+372540##The Lost Mythologies##0
+373680##Aion##0
+373700##Lineage II##0
+381640##Allods Online RU##0
+381990##Dragon Saga##0
+305280##Cakewalk Loop Manager##0
+352280##Cakewalk Sound Center##0
+386640##Affected Zone Tactics##0
+389430##Knight Online##0
+390670##Steel Ocean##0
+391780##Uebergame##0
+230410##Warframe##0
+397040##Sphere 3: Enchanted World##0
+397680##FIREFIGHT RELOADED##0
+397720##Romance of the Three Kingdoms Maker##0
+398840##War of Beach##0
+399660##Battle Battalions##0
+400030##Cloney##0
+400040##ShareX##0
+402840##Crusaders of the Lost Idols##0
+403690##Codename: Rogue Fleet##0
+404580##Relive##0
+404410##Endless Sky##0
+15700##Oddworld: Abe's Oddysee##0
+405980##Legend of Dungeon: Masters##0
+407090##Heroes and Titans: Online##0
+407120##Soccer Manager 2016##0
+407250##Pro Evolution Soccer 2016 myClub##0
+407510##Devilian##0
+407900##Princess Remedy in a World of Hurt##0
+408330##Warhammer 40,000: Dark Nexus Arena##0
+408930##ePic Character Generator##0
+409160##Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist##0
+409510##Genesis Online##0
+409670##Pink Hour##0
+409690##Pink Heaven##0
+403040##Driver Booster 3 for STEAM##0
+412400##GASP##0
+412470##Metal War Online: Retribution##0
+413010##Conflicks - Revolutionary Space Battles Demo##0
+280790##Creativerse##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+415310##TyranoBuilder Visual Novel Studio Demo##0
+415270##Star Crusade CCG##0
+415840##Mystic Saga##0
+416130##Written in the Sky##0
+416670##Gunslingers##0
+417860##Emily is Away##0
+417890##Apotheon Arena##0
+418110##MoW: Face Off XL##0
+420880##I must kill...: Fresh Meat##0
+421730##Block N Load PTR##0
+422630##Metaverse Construction Kit##0
+423880##Carpe Diem##0
+230310##Akaneiro: Demon Hunters##0
+425680##Ultimate Grenade Tutorial - Hardsurface 3D Course##0
+425681##UGT - 1. 3DS Max Modeling - 1.1##0
+425682##UGT - 1. 3DS Max Modeling - 1.2##0
+425683##UGT - 1. 3DS Max Modeling - 1.3##0
+425684##UGT - 1. 3DS Max Modeling - 1.4##0
+425685##UGT - 1. 3DS Max Modeling - 1.5##0
+425686##UGT - 2. S.P. Texturing - 1.1##0
+425687##UGT - 2. S.P. Texturing - 1.2##0
+425688##UGT - 2. S.P. Texturing - 1.3##0
+425689##UGT - 2. S.P. Texturing - 1.4##0
+426560##Full Tilt Poker##0
+259760##Two Brothers##0
+372820##Shot In The Dark##0
+429300##Sepia Tears##0
+429680##Spellweaver##0
+429940##The Sad Story of Emmeline Burns##0
+360730##Cards and Castles##0
+431540##Frosty Kiss##0
+424280##Iron Snout##0
+434120##To Burn in Memory##0
+435060##GameLooper##0
+366960##SECTOR##0
+244930##SNOW##0
+310380##Fractured Space##0
+264120##Victory: The Age of Racing##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+4720##Condemned: Criminal Origins##0
+203750##Binary Domain##0
+99300##Renegade Ops##0
+211160##Viking: Battle for Asgard##0
+596350##Paladins - Public Test##0
+38400##Fallout##0
+731490##Crash Bandicoot™ N. Sane Trilogy##0
+476600##Call of Duty: WWII##0
+476620##Call of Duty: WWII - Multiplayer##0
+1057240##Crucible##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW
+208090##Recommended
+550##Recommended

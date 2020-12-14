@@ -1,0 +1,81 @@
+@@GAME
+730##Counter-Strike: Global Offensive##35043
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##16509
+359550##Tom Clancy's Rainbow Six Siege##10324
+1172470##Apex Legends##10302
+1172620##Sea of Thieves##3374
+582010##Monster Hunter: World##1265
+880940##Pummel Party##1077
+397540##Borderlands 3##915
+976730##Halo: The Master Chief Collection##812
+814380##Sekiro™: Shadows Die Twice##785
+203160##Tomb Raider##585
+1213210##Command & Conquer™ Remastered Collection##573
+1313860##EA SPORTS™ FIFA 21 ##486
+739630##Phasmophobia##451
+431960##Wallpaper Engine##429
+557340##My Friend Pedro##424
+386940##Ultimate Chicken Horse##392
+349040##NARUTO SHIPPUDEN: Ultimate Ninja STORM 4##356
+268910##Cuphead##351
+1237950##STAR WARS™ Battlefront™ II##323
+674940##Stick Fight: The Game##311
+286690##Metro 2033 Redux##298
+550##Left 4 Dead 2##100
+8870##BioShock Infinite##92
+244210##Assetto Corsa##85
+627270##Injustice™ 2##61
+70##Half-Life##57
+381210##Dead by Daylight##47
+105600##Terraria##45
+413150##Stardew Valley##43
+312990##The Expendabros##36
+367520##Hollow Knight##29
+10##Counter-Strike##24
+3590##Plants vs. Zombies: Game of the Year##21
+252610##Death Road to Canada##20
+285900##Gang Beasts##18
+130##Half-Life: Blue Shift##15
+304930##Unturned##15
+1222680##Need for Speed™ Heat ##13
+4000##Garry's Mod##11
+524220##NieR:Automata™##10
+1238840##Battlefield 1 ™##10
+1149660##Seek Girl Ⅱ##8
+500##Left 4 Dead##6
+50##Half-Life: Opposing Force##5
+322330##Don't Starve Together##4
+495140##NARUTO: Ultimate Ninja STORM##3
+30##Day of Defeat##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+218620##PAYDAY 2##0
+234670##NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst##0
+287390##Metro: Last Light Redux##0
+71340##Sonic Generations##0
+543870##NARUTO SHIPPUDEN: Ultimate Ninja STORM 2##0
+450860##Andarilho##0
+1089350##NBA 2K20##0
+1168660##Barro 2020##0
+1172380##STAR WARS Jedi: Fallen Order™ ##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+1238810##Battlefield™ V##0
+1237970##Titanfall® 2##0
+1262240##Plants vs. Zombies: Battle for Neighborville##0
+308600##Geneshift##0
+1048540##Kao the Kangaroo: Round 2##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+1289670##EA Play##0
+266310##GameGuru##0
+1222730##STAR WARS™: Squadrons##0
+34270##SEGA Mega Drive & Genesis Classics##0
+368230##Kingdom: Classic##0
+@@REVIEW
+1313860##Recommended
+1237950##Recommended
+1172470##Recommended
+739630##Recommended
+359550##Recommended
+268910##Recommended
+730##Not Recommended

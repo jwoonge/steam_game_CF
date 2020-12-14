@@ -1,0 +1,170 @@
+@@GAME
+238960##Path of Exile##108222
+730##Counter-Strike: Global Offensive##94630
+107410##Arma 3##61718
+10##Counter-Strike##59852
+294100##RimWorld##44083
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##29955
+1284410##GWENT: The Witcher Card Game##19284
+457140##Oxygen Not Included##14664
+594570##Total War: WARHAMMER II##12869
+39120##RIFT##12711
+281990##Stellaris##11548
+440##Team Fortress 2##8196
+814380##Sekiro™: Shadows Die Twice##8182
+10500##Total War: EMPIRE - Definitive Edition##8169
+262060##Darkest Dungeon®##7807
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##6542
+550##Left 4 Dead 2##6520
+311690##Enter the Gungeon##6315
+268500##XCOM 2##6265
+570##Dota 2##5702
+212680##FTL: Faster Than Light##5438
+105600##Terraria##5335
+230230##Divinity: Original Sin (Classic)##4874
+552990##World of Warships##4093
+255710##Cities: Skylines##4091
+4920##Natural Selection 2##4057
+374320##DARK SOULS™ III##3572
+49520##Borderlands 2##3542
+594650##Hunt: Showdown##3502
+15620##Warhammer 40,000: Dawn of War II##3279
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##3255
+552500##Warhammer: Vermintide 2##3127
+8930##Sid Meier's Civilization V##3110
+200510##XCOM: Enemy Unknown##3017
+221100##DayZ##2862
+222880##Insurgency##2816
+239140##Dying Light##2681
+48240##Anno 2070##2671
+377160##Fallout 4##2491
+504370##Battlerite##2433
+233450##Prison Architect##2270
+323190##Frostpunk##2168
+367520##Hollow Knight##1935
+273350##Evolve Stage 2##1872
+1030210##Torchlight III##1671
+28050##Deus Ex: Human Revolution##1653
+236390##War Thunder##1625
+305620##The Long Dark##1580
+386360##SMITE##1567
+113200##The Binding of Isaac##1535
+620##Portal 2##1403
+394510##HELLDIVERS™##1354
+322330##Don't Starve Together##1272
+108600##Project Zomboid##1271
+42710##Call of Duty: Black Ops - Multiplayer##1260
+208090##Loadout##1184
+219990##Grim Dawn##1159
+48220##Might & Magic: Heroes VI##1152
+220##Half-Life 2##1055
+230410##Warframe##869
+107100##Bastion##809
+630##Alien Swarm##733
+1057240##Crucible##723
+755790##Ring of Elysium##717
+485510##Nioh: Complete Edition##704
+244160##Homeworld Remastered Collection##667
+379720##DOOM##631
+57300##Amnesia: The Dark Descent##624
+1046930##Dota Underlords##616
+271290##HAWKEN##576
+500##Left 4 Dead##562
+109600##Neverwinter##552
+550650##Black Squad##552
+213850##Magic 2014 ##542
+19680##Alice: Madness Returns##491
+333930##Dirty Bomb##486
+33930##Arma 2: Operation Arrowhead##457
+588430##Fallout Shelter##426
+250900##The Binding of Isaac: Rebirth##418
+23490##Tropico 3 - Steam Special Edition##414
+680360##Regions Of Ruin##401
+48000##LIMBO##387
+240##Counter-Strike: Source##341
+719690##Ghost Recon Wildlands Ghost War Open Beta##339
+42700##Call of Duty: Black Ops##311
+43110##Metro 2033##294
+45400##Fortix##252
+1145360##Hades##244
+466240##Deceit##243
+4000##Garry's Mod##232
+97000##Solar 2##198
+400##Portal##187
+57690##Tropico 4##157
+211500##RaceRoom Racing Experience ##150
+770720##Hunt: Showdown (Test Server)##143
+879160##Battlerite Royale##142
+253030##Race The Sun##136
+437220##The Culling##102
+10180##Call of Duty: Modern Warfare 2##94
+489520##Minion Masters##86
+33910##Arma 2##74
+304930##Unturned##74
+530700##Argo##71
+272350##Tom Clancy's Ghost Recon Phantoms - EU##69
+218620##PAYDAY 2##68
+544920##Darwin Project##63
+764050##Maelstrom##61
+301520##Robocraft##60
+714010##Aim Lab##58
+207690##Botanicula##55
+323370##TERA##54
+323580##Jotun: Valhalla Edition##52
+203160##Tomb Raider##50
+65800##Dungeon Defenders##35
+310380##Fractured Space##30
+61100##Lucid##25
+35450##Rising Storm/Red Orchestra 2 Multiplayer##21
+8230##Sam & Max 104: Abe Lincoln Must Die!##21
+203810##Dear Esther##19
+200110##Nosgoth##16
+201480##Serious Sam: The Random Encounter##11
+884660##CRSED##11
+42160##War of the Roses##10
+251970##Sins of a Dark Age##10
+368180##Polyball##10
+247000##Talisman: Digital Edition##6
+305050##Outland##6
+364360##Total War: WARHAMMER##5
+340##Half-Life 2: Lost Coast##4
+203770##Crusader Kings II##3
+70000##Dino D-Day##2
+213030##Penny Arcade's On the Rain-Slick Precipice of Darkness 3##2
+229810##A Fistful of Gun##2
+34270##SEGA Mega Drive & Genesis Classics##2
+308600##Geneshift##2
+60##Ricochet##1
+205790##Dota 2 Test##1
+327690##Gigantic##1
+208140##Endless Space##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+17470##Dead Space##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+206980##War of the Roses Balance Beta##0
+49600##Beat Hazard##0
+111600##Serious Sam Double D XXL##0
+9350##Supreme Commander##0
+9420##Supreme Commander: Forged Alliance##0
+520720##Dear Esther: Landmark Edition##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+373420##Divinity: Original Sin Enhanced Edition##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+291480##Warface##0
+858460##SMITE - Public Test##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+479130##ESEA##0
+427460##Battlerite Public Test##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+627690##Idle Champions of the Forgotten Realms##0
+308040##Back to Bed##0
+611500##Quake Champions##0
+@@REVIEW

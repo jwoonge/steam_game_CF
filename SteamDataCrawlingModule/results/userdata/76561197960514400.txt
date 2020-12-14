@@ -1,0 +1,24 @@
+@@GAME
+730##Counter-Strike: Global Offensive##139905
+570##Dota 2##124836
+10##Counter-Strike##30891
+240##Counter-Strike: Source##7758
+30##Day of Defeat##1674
+252490##Rust##339
+440##Team Fortress 2##42
+245550##Free to Play##38
+224580##Arma 2: DayZ Mod##16
+611500##Quake Champions##9
+33900##Arma 2##8
+33930##Arma 2: Operation Arrowhead##3
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+205790##Dota 2 Test##0
+343450##Free To Play (Streaming)##0
+700580##Rust - Staging Branch##0
+@@REVIEW

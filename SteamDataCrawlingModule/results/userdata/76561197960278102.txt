@@ -1,0 +1,287 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+6220##FlatOut##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+12200##Bully: Scholarship Edition##0
+12810##Overlord II##0
+34900##Bad Rats##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+27330##Blacklight: Tango Down##0
+22380##Fallout: New Vegas##0
+70000##Dino D-Day##0
+32510##LEGO® Star Wars™ III: The Clone Wars™##0
+105600##Terraria##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+96100##Defy Gravity##0
+24240##PAYDAY: The Heist##0
+65800##Dungeon Defenders##0
+104900##ORION: Prelude##0
+204100##Max Payne 3##0
+12750##GRID##0
+211420##DARK SOULS™: Prepare To Die Edition##0
+730##Counter-Strike: Global Offensive##0
+216110##Tiny Troopers##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+200710##Torchlight II##0
+223470##POSTAL 2##0
+201790##Orcs Must Die! 2##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+9350##Supreme Commander##0
+9420##Supreme Commander: Forged Alliance##0
+9480##Saints Row 2##0
+15620##Warhammer 40,000: Dawn of War II##0
+20530##Red Faction##0
+20550##Red Faction II##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+43110##Metro 2033##0
+50620##Darksiders##0
+50650##Darksiders II##0
+55100##Homefront##0
+55110##Red Faction: Armageddon##0
+55140##MX vs. ATV Reflex##0
+55150##Warhammer 40,000: Space Marine##0
+55230##Saints Row: The Third##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+96800##Nexuiz##0
+216370##Nexuiz Beta##0
+225760##Nexuiz STUPID Mode##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+475150##Titan Quest Anniversary Edition##0
+11610##Dragon Nest##0
+17080##Tribes: Ascend##0
+99900##Spiral Knights##0
+109600##Neverwinter##0
+200210##Realm of the Mad God Exalt##0
+201210##Pox Nora##0
+203290##America's Army: Proving Grounds##0
+211500##RaceRoom Racing Experience ##0
+212070##Star Conflict##0
+212160##Vindictus##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+234310##March of War##0
+236390##War Thunder##0
+238960##Path of Exile##0
+39120##RIFT##0
+214420##Gear Up##0
+223390##Forge##0
+223710##Cry of Fear##0
+233630##Ascend: Hand of Kul##0
+265630##Fistful of Frags##0
+271290##HAWKEN##0
+202090##Magicka: Wizard Wars##0
+223750##DCS World Steam Edition##0
+224260##No More Room in Hell##0
+226320##Marvel Heroes Omega##0
+227220##Sang-Froid - Tales of Werewolves##0
+65790##Arma: Cold War Assault##0
+204450##Call of Juarez Gunslinger##0
+72850##The Elder Scrolls V: Skyrim##0
+242760##The Forest##0
+207930##Sacred Citadel##0
+225640##Sacred 2 Gold##0
+225080##Brothers - A Tale of Two Sons##0
+219640##Chivalry: Medieval Warfare##0
+251570##7 Days to Die##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+253980##Enclave##0
+215630##Demonicon##0
+256370##MXGP - The Official Motocross Videogame##0
+40300##Risen##0
+40390##Risen 2 - Dark Waters##0
+950670##Gothic Playable Teaser##0
+49520##Borderlands 2##0
+259570##Eden Star##0
+238430##Contagion##0
+221100##DayZ##0
+268850##EVGA Precision X1##0
+270370##Lambda Wars Beta##0
+222880##Insurgency##0
+283680##Astebreed: Definitive Edition##0
+285580##ACE - Arena: Cyber Evolution##0
+201810##Wolfenstein: The New Order##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+295550##Royal Quest##0
+213850##Magic 2014 ##0
+299740##Miscreated##0
+912290##Miscreated: Experimental Server##0
+300040##Divine Souls##0
+301520##Robocraft##0
+305260##Battle Islands##0
+238090##Sniper Elite 3##0
+58610##Wargame: European Escalation##0
+222750##Wargame: AirLand Battle##0
+251060##Wargame: Red Dragon##0
+63380##Sniper Elite V2##0
+224600##Defiance##0
+306830##Zombies Monsters Robots##0
+307880##Savage Lands##0
+227700##Firefall##0
+310560##DiRT Rally##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+291480##Warface##0
+215080##WAKFU##0
+313120##Stranded Deep##0
+268420##Aura Kingdom##0
+227940##Heroes & Generals##0
+269910##Xam##0
+206420##Saints Row IV##0
+222900##Dead Island: Epidemic##0
+317360##Double Action: Boogaloo##0
+200110##Nosgoth##0
+258160##Rise of Incarnates##0
+205790##Dota 2 Test##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+323370##TERA##0
+214490##Alien: Isolation##0
+272470##The Incredible Adventures of Van Helsing II##0
+241930##Middle-earth™: Shadow of Mordor™##0
+307690##Sleeping Dogs: Definitive Edition##0
+258970##Gauntlet™ ##0
+227180##Kingdom Wars##0
+330020##Children of Morta##0
+308420##Ziggurat##0
+332070##School of Dragons: How to Train Your Dragon##0
+333930##Dirty Bomb##0
+319630##Life is Strange™##0
+332500##GRAV##0
+301910##Saints Row: Gat out of Hell##0
+345520##Infinite Crisis™##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+350700##Red Stone Online##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+354500##PAYDAY: The Web Series##0
+354510##PAYDAY: The Web Series: The Vault##0
+354520##PAYDAY: The Web Series: Hector##0
+354530##PAYDAY: The Web Series: The Elephant##0
+354540##PAYDAY: The Web Series: Greta: The Assassin##0
+354550##PAYDAY: The Web Series: Vlad & Gage##0
+494710##PAYDAY: The Web Series: First World Bank##0
+350080##Wolfenstein: The Old Blood ##0
+355840##Survarium##0
+306130##The Elder Scrolls Online##0
+361700##Mortal Kombat: Legacy##0
+361710##Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 2)##0
+361720##Mortal Kombat: Legacy: Johnny Cage##0
+361730##Mortal Kombat: Legacy: Kitana & Mileena (Part 1)##0
+361740##Mortal Kombat: Legacy: Kitana & Mileena (Part 2)##0
+361750##Mortal Kombat: Legacy: Raiden##0
+361760##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 1)##0
+361770##Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)##0
+361780##Mortal Kombat: Legacy: Cyrax & Sektor##0
+495460##Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 1)##0
+362180##Mortal Kombat: Legacy II: Reunited in Macau##0
+362190##Mortal Kombat: Legacy II: The Fall of Liu Kang##0
+362200##Mortal Kombat: Legacy II: Kenshi's Origin##0
+362210##Mortal Kombat: Legacy II: Kenshi Encounters Ermac##0
+362220##Mortal Kombat: Legacy II: Kitana and Mileena##0
+362230##Mortal Kombat: Legacy II: Johnny Cage##0
+362240##Mortal Kombat: Legacy II: Scorpion and Sub-Zero (Part 1)##0
+362250##Mortal Kombat: Legacy II: Scorpion and Sub-Zero (Part 2)##0
+362260##Mortal Kombat: Legacy II: Liu Kang##0
+362270##Mortal Kombat: Legacy II: Liu Kang and Kung Lao##0
+362280##Mortal Kombat: Legacy II##0
+495470##Mortal Kombat: Legacy II: Prelude##0
+365670##Blender##0
+243800##Gas Guzzlers Extreme##0
+249230##Risen 3 - Titan Lords##0
+376570##WildStar##0
+380600##Fishing Planet##0
+236870##HITMAN™##0
+381210##Dead by Daylight##0
+383120##Empyrion - Galactic Survival##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+291550##Brawlhalla##0
+393420##Hurtworld##0
+445900##Hurtworld SDK##0
+234140##Mad Max##0
+393380##Squad##0
+774941##Squad - Public Testing##0
+407840##Guardians of Orion (Phase 1)##0
+236110##Dungeon Defenders II##0
+280790##Creativerse##0
+414870##Super Mega Baseball 2##0
+208650##Batman™: Arkham Knight##0
+427270##Orcs Must Die! Unchained##0
+431240##Golf With Your Friends##0
+440900##Conan Exiles##0
+931180##Conan Exiles - Testlive Client##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+444560##Agent Origins: Escape##0
+107410##Arma 3##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+447820##Day of Infamy##0
+310380##Fractured Space##0
+457330##High Octane Drift##0
+377160##Fallout 4##0
+471550##Nine Parchments##0
+273350##Evolve Stage 2##0
+324810##TOXIKK##0
+530620##Resident Evil 7 Teaser: Beginning Hour##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+550040##Steep Open Beta##0
+252950##Rocket League##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+581320##Insurgency: Sandstorm##0
+582660##Black Desert Online##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+630030##War Tech Fighters##0
+386180##Crossout##0
+658980##Valnir Rok##0
+738390##Black Clover: Asta and Yuno##0
+739630##Phasmophobia##0
+755790##Ring of Elysium##0
+418370##Resident Evil 7 Biohazard##0
+802200##Hellbound: Survival Mode##0
+611500##Quake Champions##0
+714010##Aim Lab##0
+895400##Deadside##0
+945360##Among Us##0
+1091500##Cyberpunk 2077##0
+1104640##New Frontier##0
+1085660##Destiny 2##0
+220820##Zombie Driver HD##0
+1174180##Red Dead Redemption 2##0
+203160##Tomb Raider##0
+38400##Fallout##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+1151340##Fallout 76##0
+1368440##Armor Of Heroes##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW
+221100##Recommended
+307880##Not Recommended
+238960##Recommended
+299740##Recommended
+225640##Recommended
+222880##Recommended
+49520##Recommended
+43110##Recommended
+50620##Recommended
+10##Recommended

@@ -1,0 +1,158 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+240##Counter-Strike: Source##0
+4000##Garry's Mod##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+8600##RACE 07##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+20900##The Witcher: Enhanced Edition##0
+17410##Mirror's Edge##0
+29800##Caster##0
+1930##Two Worlds: Epic Edition##0
+35700##Trine##0
+37400##Time Gentlemen, Please!##0
+37420##Ben There, Dan That!##0
+24860##Battlefield 2##0
+39530##Painkiller: Black Edition##0
+550##Left 4 Dead 2##0
+39500##Gothic 3##0
+950670##Gothic Playable Teaser##0
+33230##Assassin's Creed II##0
+45400##Fortix##0
+8930##Sid Meier's Civilization V##0
+44310##F1 2010™##0
+38600##Faerie Solitaire##0
+583930##Faerie Solitaire Remastered##0
+42700##Call of Duty: Black Ops##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+80360##Blackwell Deception##0
+47810##Dragon Age: Origins - Ultimate Edition##0
+55140##MX vs. ATV Reflex##0
+70000##Dino D-Day##0
+620##Portal 2##0
+105600##Terraria##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+7600##Sid Meier's Railroads!##0
+105300##Critical Mass##0
+71390##Virtua Tennis 4##0
+107300##Breath of Death VII ##0
+107310##Cthulhu Saves the World ##0
+96100##Defy Gravity##0
+24240##PAYDAY: The Heist##0
+113200##The Binding of Isaac##0
+72850##The Elder Scrolls V: Skyrim##0
+55230##Saints Row: The Third##0
+205790##Dota 2 Test##0
+204340##Serious Sam 2##0
+104900##ORION: Prelude##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+213030##Penny Arcade's On the Rain-Slick Precipice of Darkness 3##0
+730##Counter-Strike: Global Offensive##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+208500##F1 2012##0
+204360##Castle Crashers##0
+217690##Anna - Extended Edition##0
+200710##Torchlight II##0
+204630##Retro City Rampage™ DX##0
+223470##POSTAL 2##0
+220240##Far Cry® 3##0
+221640##Super Hexagon##0
+43110##Metro 2033##0
+105000##A New Beginning - Final Cut##0
+227200##Waking Mars##0
+238960##Path of Exile##0
+203160##Tomb Raider##0
+230050##DLC Quest##0
+65780##Arma: Gold Edition##0
+219740##Don't Starve##0
+322330##Don't Starve Together##0
+3910##Sid Meier's Civilization III: Complete##0
+234710##Poker Night 2##0
+209520##Mini Motor Racing EVO##0
+1303990##Mini Motor Racing X##0
+244070##Sid Meier's Ace Patrol##0
+231670##Football Manager 2014##0
+242460##Football Manager 2014 Editor##0
+242480##Football Manager 2014 Resource Archiver##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+252950##Rocket League##0
+253900##Knights and Merchants##0
+253980##Enclave##0
+254000##East India Company Gold##0
+255480##NBA 2K14##0
+256330##WRC 4 FIA WORLD RALLY CHAMPIONSHIP##0
+258010##Ring Runner: Flight of the Sages##0
+49520##Borderlands 2##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+16700##Stronghold Crusader Extreme HD##0
+40970##Stronghold Crusader HD##0
+266010##LYNE##0
+271590##Grand Theft Auto V##0
+222880##Insurgency##0
+274560##Revolution Ace##0
+277430##Halo: Spartan Assault##0
+277450##Imperial Glory##0
+48700##Mount & Blade: Warband##0
+282440##Quake Live##0
+286570##F1 2015##0
+287390##Metro: Last Light Redux##0
+291010##The Hat Man: Shadow Ward##0
+293180##Overcast - Walden and the Werewolf##0
+297000##Heroes of Might & Magic III - HD Edition##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+298520##Orbital Gear##0
+301480##GEARCRACK Arena##0
+302210##Curse: The Eye of Isis##0
+303390##Dead Bits##0
+304930##Unturned##0
+305050##Outland##0
+310560##DiRT Rally##0
+313980##Proxy Blade Zero##0
+314020##Morphopolis##0
+318430##Squishy the Suicidal Pig##0
+319550##The Collider##0
+321040##DiRT 3 Complete Edition##0
+330350##Robotex##0
+347930##Hatland Adventures##0
+357780##Defend Your Life##0
+368750##Nebula Online##0
+378860##Project CARS 2##0
+57300##Amnesia: The Dark Descent##0
+292030##The Witcher 3: Wild Hunt##0
+513780##Turbo Pug DX##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+737800##F1 2018##0
+1100600##Football Manager 2020##0
+1100620##Football Manager 2020 Touch##0
+490860##DashBored##0
+220820##Zombie Driver HD##0
+489520##Minion Masters##0
+1076280##Showdown Bandit##0
+435790##10 Second Ninja X##0
+579110##Interkosmos##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+465760##Scrap Garden##0
+@@REVIEW
+1100600##Recommended
+42700##Recommended

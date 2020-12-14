@@ -1,0 +1,42 @@
+@@GAME
+730##Counter-Strike: Global Offensive##196880
+10##Counter-Strike##88250
+252490##Rust##71861
+271590##Grand Theft Auto V##7573
+440##Team Fortress 2##2439
+212070##Star Conflict##657
+200710##Torchlight II##527
+620##Portal 2##340
+20##Team Fortress Classic##259
+251570##7 Days to Die##198
+70##Half-Life##154
+630##Alien Swarm##134
+48700##Mount & Blade: Warband##114
+304930##Unturned##114
+359550##Tom Clancy's Rainbow Six Siege##87
+49520##Borderlands 2##68
+241930##Middle-earth™: Shadow of Mordor™##64
+200510##XCOM: Enemy Unknown##41
+99900##Spiral Knights##6
+273110##Counter-Strike Nexon: Studio##4
+109600##Neverwinter##2
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+7520##Two Worlds II##0
+7510##X-Blades##0
+208090##Loadout##0
+224220##Pressure##0
+700580##Rust - Staging Branch##0
+267960##Hyper Fighters##0
+296630##Kraven Manor##0
+303390##Dead Bits##0
+318430##Squishy the Suicidal Pig##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+849000##Open The Door##0
+864110##Trap Defense##0
+@@REVIEW
+730##Recommended

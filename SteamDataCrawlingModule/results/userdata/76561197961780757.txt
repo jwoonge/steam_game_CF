@@ -1,0 +1,133 @@
+@@GAME
+224600##Defiance##400005
+271590##Grand Theft Auto V##190289
+730##Counter-Strike: Global Offensive##49606
+292030##The Witcher 3: Wild Hunt##25076
+236390##War Thunder##17078
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##9631
+105450##Age of Empires® III (2007)##6319
+219640##Chivalry: Medieval Warfare##6177
+4540##Titan Quest##5353
+222880##Insurgency##4211
+218620##PAYDAY 2##3819
+4550##Titan Quest: Immortal Throne##3573
+15120##Tom Clancy's Rainbow Six: Vegas 2##2860
+250400##How to Survive##2715
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##2436
+107410##Arma 3##2298
+236510##Takedown: Red Sabre##2028
+24960##Battlefield: Bad Company™ 2##1945
+550##Left 4 Dead 2##1844
+221100##DayZ##1427
+254440##Pool Nation##1377
+213670##South Park™: The Stick of Truth™##1349
+217790##Dogfight 1942##1140
+203140##Hitman: Absolution##1067
+218660##iBomber Attack##979
+9870##Ghostbusters: The Video Game##962
+34870##Sniper Ghost Warrior 2##952
+239660##Soldier Front 2##926
+204450##Call of Juarez Gunslinger##850
+277430##Halo: Spartan Assault##655
+202170##Sleeping Dogs™##625
+6060##Star Wars: Battlefront 2 (Classic, 2005)##598
+291480##Warface##489
+102700##A.V.A. Alliance of Valiant Arms™##426
+80##Counter-Strike: Condition Zero##377
+47790##Medal of Honor(TM) Single Player##326
+240##Counter-Strike: Source##308
+244850##Space Engineers##287
+933110##Age of Empires III: Definitive Edition##287
+21970##R.U.S.E##286
+1900##Earth 2160##272
+268870##Satellite Reign##184
+203160##Tomb Raider##181
+368070##Sniper Ghost Warrior 3##154
+458830##Snooker Nation Championship##138
+47830##Medal of Honor(TM) Multiplayer##124
+238010##Deus Ex: Human Revolution - Director's Cut##122
+243870##Tom Clancy's Ghost Recon Phantoms - NA##119
+491950##Orwell##106
+402570##Atlas Reactor##98
+411330##Men of Valor##95
+64000##Men of War: Assault Squad##86
+270550##Yet Another Zombie Defense##84
+438740##Friday the 13th: The Game##82
+218230##PlanetSide 2##67
+205930##Hitman: Sniper Challenge##60
+360170##How to Survive 2##60
+235600##Tom Clancy's Splinter Cell Blacklist##59
+236870##HITMAN™##54
+212370##Arctic Combat##53
+21980##Call of Juarez: Bound in Blood##49
+24400##King Arthur - The Role-playing Wargame##42
+60800##Numen: Contest of Heroes##37
+374570##Kung Fury##37
+10##Counter-Strike##33
+324570##Halo: Spartan Strike##32
+314000##Pool Nation FX##27
+259280##Earth 2150: The Moon Project##26
+42500##DogFighter##21
+475150##Titan Quest Anniversary Edition##19
+30##Day of Defeat##16
+570##Dota 2##15
+33910##Arma 2##13
+225540##Just Cause 3##11
+95900##Air Conflicts - Secret Wars##10
+282070##This War of Mine##9
+63940##Men of War: Vietnam##6
+46340##Theatre of War 2: Africa 1943##5
+70##Half-Life##3
+227260##DisplayFusion##3
+253880##Earth 2150 Trilogy##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+20900##The Witcher: Enhanced Edition##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+55150##Warhammer 40,000: Space Marine##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+67370##The Darkness II##0
+204880##Sins of a Solar Empire: Rebellion##0
+50300##Spec Ops: The Line##0
+9050##DOOM 3##0
+214510##LEGO® The Lord of the Rings™##0
+1083500##PlanetSide 2 - Test##0
+44350##GRID 2##0
+22300##Fallout 3##0
+259300##Earth 2150: Lost Souls##0
+264200##One Finger Death Punch##0
+226840##Age of Wonders III##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+278360##A Story About My Uncle##0
+286570##F1 2015##0
+292910##Deponia: The Complete Journey##0
+34830##Sniper: Ghost Warrior##0
+271500##Sniper Art of Victory##0
+21690##Resident Evil 5##0
+337000##Deus Ex: Mankind Divided™##0
+507490##Ashes of the Singularity: Escalation##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+231430##Company of Heroes 2##0
+359320##Elite Dangerous##0
+737800##F1 2018##0
+760620##Deiland##0
+289690##Lara Croft and the Temple of Osiris##0
+350300##Gang of Four##0
+348510##Autobahn Police Simulator##0
+34330##Total War: SHOGUN 2##0
+1076280##Showdown Bandit##0
+406970##The Uncertain: Last Quiet Day##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW
+271590##Recommended
+292030##Recommended
+105450##Recommended
+254440##Recommended
+21980##Recommended

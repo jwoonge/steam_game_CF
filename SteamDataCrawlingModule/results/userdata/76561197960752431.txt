@@ -1,0 +1,28 @@
+@@GAME
+730##Counter-Strike: Global Offensive##39171
+10##Counter-Strike##16156
+629520##Soundpad##4602
+431960##Wallpaper Engine##1558
+440900##Conan Exiles##571
+1097150##Fall Guys: Ultimate Knockout##425
+945360##Among Us##422
+755790##Ring of Elysium##394
+381210##Dead by Daylight##188
+550##Left 4 Dead 2##107
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##49
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+500##Left 4 Dead##0
+931180##Conan Exiles - Testlive Client##0
+582660##Black Desert Online##0
+@@REVIEW
+550##Recommended
+1097150##Recommended
+629520##Recommended
+730##Recommended
+381210##Recommended

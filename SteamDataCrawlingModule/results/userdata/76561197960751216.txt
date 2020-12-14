@@ -1,0 +1,113 @@
+@@GAME
+252950##Rocket League##37647
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##18768
+570##Dota 2##8972
+730##Counter-Strike: Global Offensive##7983
+10##Counter-Strike##6432
+238960##Path of Exile##5570
+30##Day of Defeat##4899
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##3124
+629760##MORDHAU##2242
+440900##Conan Exiles##2178
+17080##Tribes: Ascend##1516
+552500##Warhammer: Vermintide 2##1474
+271590##Grand Theft Auto V##1450
+300380##Road Redemption##1149
+7260##Loki##992
+228380##Wreckfest##657
+232090##Killing Floor 2##624
+300##Day of Defeat: Source##601
+237110##Mortal Kombat Komplete Edition##480
+291550##Brawlhalla##459
+611500##Quake Champions##417
+813820##Realm Royale##404
+285900##Gang Beasts##336
+394510##HELLDIVERS™##270
+1097150##Fall Guys: Ultimate Knockout##263
+258970##Gauntlet™ ##259
+20##Team Fortress Classic##238
+240##Counter-Strike: Source##208
+420290##Blackwake##191
+389730##TEKKEN 7##128
+233130##Shadow Warrior##113
+227940##Heroes & Generals##106
+242700##Injustice: Gods Among Us Ultimate Edition##100
+880940##Pummel Party##96
+373420##Divinity: Original Sin Enhanced Edition##95
+24740##Burnout Paradise: The Ultimate Box##78
+399820##Kopanito All-Stars Soccer##78
+211400##Deadlight##77
+431240##Golf With Your Friends##73
+396900##GRIP: Combat Racing##57
+630##Alien Swarm##52
+310950##Street Fighter V##48
+477160##Human: Fall Flat##46
+230410##Warframe##40
+41070##Serious Sam 3: BFE##34
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##33
+70##Half-Life##27
+577940##Killer Instinct##26
+39800##Nation Red##21
+202750##Alan Wake's American Nightmare##20
+208090##Loadout##17
+249990##FORCED##15
+312610##METAL SLUG X##13
+440##Team Fortress 2##13
+262830##Crimsonland##10
+35720##Trine 2##9
+368420##Mirage: Arcane Warfare##9
+222480##Resident Evil Revelations##4
+224420##Afterfall InSanity Extended Edition##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+10180##Call of Duty: Modern Warfare 2##0
+35130##Lara Croft and the Guardian of Light##0
+55100##Homefront##0
+205790##Dota 2 Test##0
+201700##DiRT Showdown##0
+12750##GRID##0
+209080##Guns of Icarus Online##0
+205100##Dishonored##0
+41000##Serious Sam HD: The First Encounter##0
+41010##Serious Sam HD: The Second Encounter##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+111600##Serious Sam Double D XXL##0
+201480##Serious Sam: The Random Encounter##0
+204340##Serious Sam 2##0
+227780##Serious Sam Classics: Revolution##0
+564310##Serious Sam Fusion 2017 (beta)##0
+225260##Brütal Legend##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+262280##Dungeons 2##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+222880##Insurgency##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+312530##Duck Game##0
+321040##DiRT 3 Complete Edition##0
+221380##Age of Empires II (2013)##0
+242640##Styx: Master of Shadows##0
+355400##Diesel Guns##0
+232150##Killing Floor 2 - SDK##0
+230230##Divinity: Original Sin (Classic)##0
+391720##Layers of Fear##0
+931180##Conan Exiles - Testlive Client##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+218620##PAYDAY 2##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+755790##Ring of Elysium##0
+878760##Realm Royale - Test Server##0
+823130##Totally Accurate Battlegrounds##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+1085660##Destiny 2##0
+1172470##Apex Legends##0
+@@REVIEW

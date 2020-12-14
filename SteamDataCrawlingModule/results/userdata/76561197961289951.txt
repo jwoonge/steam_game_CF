@@ -1,0 +1,44 @@
+@@GAME
+730##Counter-Strike: Global Offensive##78276
+10##Counter-Strike##28802
+433850##Z1 Battle Royale##6184
+227300##Euro Truck Simulator 2##3510
+386360##SMITE##2169
+291550##Brawlhalla##1928
+282660##Easy eSports##1467
+813820##Realm Royale##1169
+570##Dota 2##507
+321040##DiRT 3 Complete Edition##342
+304930##Unturned##322
+236390##War Thunder##197
+582010##Monster Hunter: World##50
+438040##Shakes and Fidget##40
+130##Half-Life: Blue Shift##16
+273110##Counter-Strike Nexon: Studio##14
+70##Half-Life##3
+30##Day of Defeat##2
+20##Team Fortress Classic##1
+50##Half-Life: Opposing Force##1
+40##Deathmatch Classic##0
+60##Ricochet##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+64000##Men of War: Assault Squad##0
+201700##DiRT Showdown##0
+205790##Dota 2 Test##0
+230410##Warframe##0
+214420##Gear Up##0
+224260##No More Room in Hell##0
+254060##KnightShift##0
+277520##Albedo: Eyes from Outer Space##0
+331980##Last Inua##0
+858460##SMITE - Public Test##0
+439700##H1Z1: Test Server##0
+443080##Elite Dangerous: Arena##0
+218620##PAYDAY 2##0
+766570##Russian Fishing 4##0
+878760##Realm Royale - Test Server##0
+952060##Resident Evil 3##0
+952070##RESIDENT EVIL RESISTANCE##0
+203160##Tomb Raider##0
+@@REVIEW
+730##Recommended

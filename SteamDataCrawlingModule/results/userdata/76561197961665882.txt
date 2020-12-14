@@ -1,0 +1,256 @@
+@@GAME
+377840##FINAL FANTASY IX##28809
+39140##FINAL FANTASY VII##19741
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##14184
+330840##Game of Thrones - A Telltale Games Series##13976
+201870##Assassin's Creed Revelations##10837
+208480##Assassin's Creed® III##9746
+34270##SEGA Mega Drive & Genesis Classics##9220
+241930##Middle-earth™: Shadow of Mordor™##8902
+637650##FINAL FANTASY XV WINDOWS EDITION##8262
+242050##Assassin's Creed IV Black Flag##7240
+1172470##Apex Legends##6491
+250820##SteamVR##4445
+216150##MapleStory##4416
+569480##Kingdoms and Castles##3416
+219740##Don't Starve##2401
+311560##Assassin's Creed Rogue##2373
+252490##Rust##2040
+70##Half-Life##1810
+812140##Assassin's Creed Odyssey##1809
+252950##Rocket League##1754
+289650##Assassin's Creed Unity##1591
+261530##Lifeless Planet##1411
+730##Counter-Strike: Global Offensive##1373
+240##Counter-Strike: Source##1341
+57300##Amnesia: The Dark Descent##1141
+1190460##DEATH STRANDING##1104
+546560##Half-Life: Alyx##1030
+945360##Among Us##818
+362890##Black Mesa##807
+466560##Northgard##787
+10##Counter-Strike##745
+480490##Prey##683
+8870##BioShock Infinite##657
+409710##BioShock Remastered##561
+221680##Rocksmith® 2014 Edition - Remastered##481
+241600##Rogue Legacy##388
+588950##Kingsway##386
+50##Half-Life: Opposing Force##384
+379720##DOOM##364
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##359
+107100##Bastion##345
+620##Portal 2##342
+204360##Castle Crashers##310
+311340##METAL GEAR SOLID V: GROUND ZEROES##290
+301640##Zombie Army Trilogy##264
+1213210##Command & Conquer™ Remastered Collection##250
+130##Half-Life: Blue Shift##247
+383870##Firewatch##218
+365160##Kona##205
+239030##Papers, Please##200
+223850##3DMark##182
+1286830##STAR WARS™: The Old Republic™##176
+219150##Hotline Miami##149
+227100##Sniper Elite: Nazi Zombie Army##140
+235460##METAL GEAR RISING: REVENGEANCE##140
+300##Day of Defeat: Source##129
+225840##Sven Co-op##107
+201810##Wolfenstein: The New Order##107
+377160##Fallout 4##104
+550##Left 4 Dead 2##82
+1250##Killing Floor##79
+9010##Return to Castle Wolfenstein##77
+560380##MapleStory 2##72
+214360##Tower Wars##69
+356190##Middle-earth™: Shadow of War™##67
+1097150##Fall Guys: Ultimate Knockout##65
+1057240##Crucible##64
+262060##Darkest Dungeon®##58
+48000##LIMBO##57
+49520##Borderlands 2##54
+249990##FORCED##54
+7670##BioShock##49
+265930##Goat Simulator##47
+30##Day of Defeat##38
+391540##Undertale##36
+252030##Valdis Story: Abyssal City##34
+202530##SONIC THE HEDGEHOG 4 Episode I##32
+292120##FINAL FANTASY XIII##32
+555160##Pavlov VR##32
+340170##FINAL FANTASY TYPE-0 HD##31
+365590##Tom Clancy's The Division##29
+393360##Metal Gear Solid Legacy##28
+239200##Amnesia: A Machine for Pigs##24
+8400##Geometry Wars: Retro Evolved##21
+17480##Command and Conquer: Red Alert 3##21
+440##Team Fortress 2##20
+39150##FINAL FANTASY VIII##19
+246110##MASSIVE CHALICE##19
+359870##FINAL FANTASY X/X-2 HD Remaster##19
+251570##7 Days to Die##16
+365300##Transmissions: Element 120##14
+400##Portal##11
+9480##Saints Row 2##10
+39120##RIFT##10
+305620##The Long Dark##10
+50620##Darksiders##9
+232430##Gone Home##9
+373420##Divinity: Original Sin Enhanced Edition##9
+382890##FINAL FANTASY V##9
+214560##Mark of the Ninja##8
+363440##Mega Man Legacy Collection##8
+359550##Tom Clancy's Rainbow Six Siege##8
+32470##STAR WARS™ Empire at War: Gold Pack##6
+310510##Deathtrap##5
+424840##Little Nightmares##5
+218620##PAYDAY 2##4
+613830##CHRONO TRIGGER##4
+40800##Super Meat Boy##3
+6000##STAR WARS™ Republic Commando##3
+32400##STAR WARS™: Dark Forces##3
+391220##Rise of the Tomb Raider##3
+280##Half-Life: Source##2
+238460##BattleBlock Theater##2
+6060##Star Wars: Battlefront 2 (Classic, 2005)##2
+32370##STAR WARS™: Knights of the Old Republic™##2
+220##Half-Life 2##1
+205100##Dishonored##1
+211400##Deadlight##1
+274170##Hotline Miami 2: Wrong Number##1
+239120##FINAL FANTASY III##1
+343710##KHOLAT##1
+312750##FINAL FANTASY IV##1
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##1
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##1
+418190##Helen's Mysterious Castle##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+12100##Grand Theft Auto III##0
+12230##Grand Theft Auto III##0
+13520##Far Cry##0
+15100##Assassin's Creed##0
+19200##Tank Universal##0
+19900##Far Cry 2##0
+20900##The Witcher: Enhanced Edition##0
+21600##Age of Booty##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+33230##Assassin's Creed II##0
+8190##Just Cause 2##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+70300##VVVVVV##0
+8930##Sid Meier's Civilization V##0
+42910##Magicka##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+17470##Dead Space##0
+47780##Dead Space 2##0
+113200##The Binding of Isaac##0
+72850##The Elder Scrolls V: Skyrim##0
+67370##The Darkness II##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+211420##DARK SOULS™: Prepare To Die Edition##0
+17300##Crysis##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+108800##Crysis 2 Maximum Edition##0
+234740##Tower Wars Editor##0
+200260##Batman: Arkham City GOTY##0
+200710##Torchlight II##0
+219640##Chivalry: Medieval Warfare##0
+220240##Far Cry® 3##0
+224940##Legacy of Kain: Soul Reaver 2##0
+2280##The Ultimate DOOM##0
+2290##Final DOOM##0
+2300##DOOM II: Hell on Earth##0
+9160##Master Levels for DOOM II##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+9350##Supreme Commander##0
+9420##Supreme Commander: Forged Alliance##0
+15620##Warhammer 40,000: Dawn of War II##0
+20530##Red Faction##0
+20550##Red Faction II##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+43110##Metro 2033##0
+50650##Darksiders II##0
+55100##Homefront##0
+55110##Red Faction: Armageddon##0
+55140##MX vs. ATV Reflex##0
+55150##Warhammer 40,000: Space Marine##0
+55230##Saints Row: The Third##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+96800##Nexuiz##0
+216370##Nexuiz Beta##0
+225760##Nexuiz STUPID Mode##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+475150##Titan Quest Anniversary Edition##0
+225260##Brütal Legend##0
+203160##Tomb Raider##0
+235250##Super Sanctum TD##0
+233270##Far Cry® 3 Blood Dragon##0
+238210##System Shock 2##0
+231160##The Swapper##0
+322330##Don't Starve Together##0
+243120##Betrayer##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+91310##Dead Island##0
+216250##Dead Island Riptide##0
+225080##Brothers - A Tale of Two Sons##0
+860950##Mark of the Ninja: Remastered##0
+209000##Batman™: Arkham Origins##0
+252330##Slender: The Arrival##0
+700580##Rust - Staging Branch##0
+253980##Enclave##0
+254060##KnightShift##0
+241540##State of Decay##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+235900##RPG Maker XP##0
+290890##You Must Build A Boat##0
+290930##Half-Life 2: Update##0
+222900##Dead Island: Epidemic##0
+304430##INSIDE##0
+238320##Outlast##0
+298110##Far Cry 4##0
+524440##Tom Clancy's The Division PTS##0
+346830##FINAL FANTASY IV: THE AFTER YEARS##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+32350##STAR WARS™ Starfighter™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32420##STAR WARS™: The Clone Wars - Republic Heroes™##0
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+230230##Divinity: Original Sin (Classic)##0
+382900##FINAL FANTASY VI##0
+388410##Darksiders II Deathinitive Edition##0
+414700##Outlast 2##0
+371660##Far Cry Primal##0
+403640##Dishonored 2##0
+489520##Minion Masters##0
+496300##Kingdom: New Lands##0
+900270##Reventure##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+552520##Far Cry 5##0
+939960##Far Cry New Dawn##0
+329430##State of Decay: Year-One##0
+@@REVIEW
+730##Recommended
+57300##Recommended
+10##Recommended

@@ -1,0 +1,171 @@
+@@GAME
+238960##Path of Exile##61017
+730##Counter-Strike: Global Offensive##56212
+107410##Arma 3##25415
+372000##Tree of Savior (English Ver.)##24202
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##23758
+39210##FINAL FANTASY XIV Online##11112
+105600##Terraria##9173
+221100##DayZ##9013
+10##Counter-Strike##8454
+1016120##PGA TOUR 2K21##5359
+387990##Scrap Mechanic##3978
+211820##Starbound##3822
+560380##MapleStory 2##3497
+424370##Wolcen: Lords of Mayhem##3427
+742120##DRAGON QUEST® XI: Echoes of an Elusive Age™##3202
+252490##Rust##3151
+310950##Street Fighter V##2780
+297810##Landmark##2743
+884660##CRSED##2588
+617290##Remnant: From the Ashes##2322
+745920##Temtem##1963
+219990##Grim Dawn##1939
+431240##Golf With Your Friends##1872
+442080##Riders of Icarus##1641
+656350##UnderMine##1528
+570##Dota 2##1452
+109600##Neverwinter##1430
+269770##Secrets of Grindea##1346
+304030##ArcheAge##1329
+295550##Royal Quest##1314
+239140##Dying Light##1309
+903950##Last Oasis##1288
+441830##I am Setsuna##1233
+215280##Secret World Legends##1229
+39120##RIFT##1041
+513710##SCUM##940
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##929
+280790##Creativerse##928
+242760##The Forest##924
+224600##Defiance##867
+360830##Yooka-Laylee##850
+678950##DRAGON BALL FighterZ##799
+291550##Brawlhalla##786
+295110##Just Survive##737
+555570##Infestation: The New Z##691
+431960##Wallpaper Engine##661
+322780##Worlds Adrift##600
+436560##Kings and Heroes##579
+219640##Chivalry: Medieval Warfare##489
+332500##GRAV##452
+1307550##Craftopia##444
+244930##SNOW##416
+42910##Magicka##361
+263440##The Stomping Land##346
+530700##Argo##333
+324510##Boundless##323
+65800##Dungeon Defenders##306
+504370##Battlerite##272
+1253920##Rogue Legacy 2##271
+212740##TERA##264
+1097150##Fall Guys: Ultimate Knockout##262
+1250##Killing Floor##260
+374040##Portal Knights##260
+204300##Awesomenauts##249
+704270##Generation Zero®##239
+327090##Out of Reach##204
+442710##Fantasy Tales Online##201
+385380##Planet Centauri##200
+630100##SoulWorker##191
+49520##Borderlands 2##177
+393420##Hurtworld##172
+238430##Contagion##152
+304930##Unturned##149
+381990##Dragon Saga##147
+200110##Nosgoth##144
+823130##Totally Accurate Battlegrounds##143
+495910##Dungeon Fighter Online##139
+475630##Crush Online##136
+208090##Loadout##134
+881100##Noita##131
+282440##Quake Live##125
+337950##The SKIES##121
+319150##Hazard Ops##120
+323470##DRAGON BALL XENOVERSE##118
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##118
+874240##MU Legend##116
+200210##Realm of the Mad God Exalt##114
+1057240##Crucible##112
+381210##Dead by Daylight##86
+436520##Line of Sight##78
+755790##Ring of Elysium##76
+1217060##Gunfire Reborn##76
+207230##Archeblade##74
+96300##Ravaged Zombie Apocalypse##73
+550470##NosTale##70
+17700##Insurgency: Modern Infantry Combat##68
+356330##Dragomon Hunter##66
+612290##ASTA Online##66
+389430##Knight Online##62
+4000##Garry's Mod##61
+347940##Forsaken Isle##57
+323670##Super Indie Karts##56
+869760##Stoneshard: Prologue##55
+714010##Aim Lab##55
+291480##Warface##54
+550650##Black Squad##52
+349720##Audition Online##50
+33930##Arma 2: Operation Arrowhead##42
+550##Left 4 Dead 2##42
+240##Counter-Strike: Source##40
+17510##Age of Chivalry##38
+391460##WARMODE##34
+458960##Winning Putt: Golf Online##34
+544920##Darwin Project##34
+356640##Metro Conflict##33
+209080##Guns of Icarus Online##32
+230410##Warframe##30
+548290##Dark Eden##25
+222900##Dead Island: Epidemic##17
+222880##Insurgency##12
+331360##Heavy Metal Machines##12
+23360##FINAL FANTASY XI##8
+220##Half-Life 2##5
+513560##Hunger Dungeon##5
+320##Half-Life 2: Deathmatch##4
+252950##Rocket League##4
+33910##Arma 2##3
+715220##Ironsight##3
+272350##Tom Clancy's Ghost Recon Phantoms - EU##2
+536950##Legend of Ares##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+7530##Two Worlds II Castle Defense##0
+205790##Dota 2 Test##0
+215790##Dream Pinball 3D##0
+7510##X-Blades##0
+215930##Jagged Alliance 2 - Wildfire ##0
+224900##Iron Sky Invasion##0
+113400##APB Reloaded##0
+205710##EverQuest Free-to-Play##0
+700580##Rust - Staging Branch##0
+253940##Septerra Core##0
+253980##Enclave##0
+254080##World War III: Black Gold##0
+254100##World War II: Panzer Claws##0
+367540##Starbound - Unstable##0
+279720##The I of the Dragon##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+445900##Hurtworld SDK##0
+233720##Surgeon Simulator##0
+271920##Worlds Adrift Island Creator##0
+327890##I am Bread##0
+606140##Survived By##0
+427460##Battlerite Public Test##0
+@@REVIEW

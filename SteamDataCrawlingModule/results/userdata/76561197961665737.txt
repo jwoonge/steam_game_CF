@@ -1,0 +1,31 @@
+@@GAME
+570##Dota 2##158729
+730##Counter-Strike: Global Offensive##147071
+219640##Chivalry: Medieval Warfare##31495
+252490##Rust##13900
+42160##War of the Roses##4034
+202090##Magicka: Wizard Wars##3742
+391220##Rise of the Tomb Raider##1759
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1646
+239140##Dying Light##1032
+476600##Call of Duty: WWII##992
+460930##Tom Clancy's Ghost Recon® Wildlands##784
+323190##Frostpunk##750
+367520##Hollow Knight##403
+476620##Call of Duty: WWII - Multiplayer##238
+396750##EVERSPACE™##107
+750920##Shadow of the Tomb Raider##83
+10##Counter-Strike##76
+70##Half-Life##22
+206980##War of the Roses Balance Beta##21
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+1085660##Destiny 2##0
+203160##Tomb Raider##0
+@@REVIEW

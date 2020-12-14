@@ -1,0 +1,230 @@
+@@GAME
+730##Counter-Strike: Global Offensive##128871
+10##Counter-Strike##42871
+240##Counter-Strike: Source##38546
+476620##Call of Duty: WWII - Multiplayer##9198
+433850##Z1 Battle Royale##8741
+460930##Tom Clancy's Ghost Recon® Wildlands##4878
+399790##Destiny Warriors##4611
+331790##Data Hacker: Reboot##4578
+401190##Dinosaur Hunt##4385
+349260##BlastZone 2##4051
+248530##Depth Hunter 2: Deep Dive##4024
+332790##Darkness Assault##3426
+341310##Greyfox##3199
+391260##Labyronia RPG##3199
+314020##Morphopolis##3198
+407230##Legend of Mysteria##3198
+397500##Labyronia RPG 2##3197
+432470##Magdalena##3179
+359810##Hare In The Hat##3132
+548430##Deep Rock Galactic##2877
+405610##Flight of the Paladin##2688
+570##Dota 2##2668
+263980##Out There Somewhere##2584
+104900##ORION: Prelude##2579
+454890##Project Starship##2578
+378270##Putrefaction##2575
+389700##My Bones##2574
+314370##boxlife##2521
+851850##DRAGON BALL Z: KAKAROT##2292
+274560##Revolution Ace##2205
+261820##Estranged: Act I##2109
+17550##Eternal Silence##2073
+340070##Battle Ranch##2070
+461640##Sins Of The Demon RPG##2067
+280320##Adventurer Manager##2045
+431710##Space Pilgrim Episode II: Epsilon Indi##2007
+476600##Call of Duty: WWII##2005
+326190##Alchemy Mysteries: Prague Legends##2004
+438020##AI: Rampage##2003
+630##Alien Swarm##2001
+440760##Cube Destroyer##1897
+251570##7 Days to Die##1575
+326470##Space Warp##1570
+261640##Borderlands: The Pre-Sequel##1450
+49520##Borderlands 2##1443
+346110##ARK: Survival Evolved##1442
+407530##ARK: Survival Of The Fittest##1442
+914620##Mist Survival##1343
+394540##Spaceport Hope##1324
+1237950##STAR WARS™ Battlefront™ II##1290
+318100##AXYOS##1264
+636150##Cyberhunt##1263
+253650##Sparkle 2 Evo##1243
+29800##Caster##1195
+24790##Command and Conquer 3: Tiberium Wars##1018
+297000##Heroes of Might & Magic III - HD Edition##1007
+395170##DISTRAINT: Deluxe Edition##966
+359550##Tom Clancy's Rainbow Six Siege##941
+448630##Rabiez: Epidemic##746
+50##Half-Life: Opposing Force##640
+30##Day of Defeat##638
+813780##Age of Empires II: Definitive Edition##609
+223470##POSTAL 2##599
+259080##Just Cause 2: Multiplayer Mod##555
+70##Half-Life##553
+13210##Unreal Tournament 3: Black Edition##537
+344910##Sun Blast##532
+291010##The Hat Man: Shadow Ward##525
+282660##Easy eSports##505
+291550##Brawlhalla##478
+311870##Super Trench Attack!##465
+434420##The Chosen RPG##463
+412540##The Minotaur##461
+648350##Jurassic World Evolution##405
+24810##Command and Conquer 3: Kane's Wrath##354
+275850##No Man's Sky##245
+411300##ELEX##178
+242760##The Forest##152
+431960##Wallpaper Engine##152
+211820##Starbound##133
+228200##Company of Heroes ##123
+383580##Flesh Eaters##123
+357070##UBERMOSH##120
+398710##Timberman##120
+13230##Unreal Tournament 2004##113
+386160##Vampire of the Sands##108
+293860##White Noise Online##104
+433110##Zipple World##103
+72900##Winter Voices##100
+355150##gravilon##99
+270550##Yet Another Zombie Defense##98
+440##Team Fortress 2##98
+391420##Gun Rocket##83
+343360##Particula##81
+370040##Lilly and Sasha: Nexus of Souls##81
+2500##Shadowgrounds##80
+373440##Stargazer##80
+383520##Lilly and Sasha: Guardian Angels##80
+333740##The Falling Sun##79
+306040##The Howler##78
+453670##The Lost Souls##78
+400740##VERGE:Lost chapter##77
+616560##Ultimate Epic Battle Simulator##73
+60##Ricochet##69
+755500##ONE PIECE World Seeker##65
+707030##POSTAL 4: No Regerts##62
+222880##Insurgency##59
+582010##Monster Hunter: World##51
+674940##Stick Fight: The Game##44
+231430##Company of Heroes 2##36
+1840##Source Filmmaker##27
+496750##The Housewife##25
+377290##Biodrone Battle##24
+38700##Toki Tori##23
+20##Team Fortress Classic##22
+47700##Command and Conquer 4: Tiberian Twilight##22
+355800##Space Run Galaxy##22
+645830##Son Korsan##21
+8230##Sam & Max 104: Abe Lincoln Must Die!##21
+613220##Steam 360 Video Player##21
+640310##Drive By Hero##6
+323850##Move or Die##3
+13200##Unreal II: The Awakening##2
+13250##Unreal Gold##2
+237760##Intake##2
+387060##Earth Overclocked##2
+664290##The Mexican Dream##2
+7520##Two Worlds II##1
+38720##RUSH##1
+620##Portal 2##1
+38740##EDGE##1
+13240##Unreal Tournament: Game of the Year Edition##1
+224220##Pressure##1
+201420##Toki Tori 2+##1
+251310##Eleusis##1
+253980##Enclave##1
+278100##RIVE##1
+348540##Divine Slice of Life##1
+404690##This Book Is A Dungeon##1
+407300##The Last NightMary - A Lenda do Cabeça de Cuia##1
+416060##Westboro##1
+425340##Space Moth DX##1
+449540##There's Poop In My Soup##1
+438480##Rock 'N' Roll Defense##1
+539720##Razortron 2000##1
+562360##Planes, Bullets and Vodka##1
+289070##Sid Meier's Civilization VI##1
+526740##hack_me##1
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1
+602890##hack_me 2##1
+610840##JASEM: Just Another Shooter with Electronic Music##1
+623080##planetarian HD##1
+677160##We Were Here Too##1
+805940##RUSSIA BATTLEGROUNDS##1
+865360##We Were Here Together##1
+1070330##Russian Life Simulator##1
+232770##POSTAL##1
+40##Deathmatch Classic##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+400##Portal##0
+11560##Maelstrom##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+6000##STAR WARS™ Republic Commando##0
+32350##STAR WARS™ Starfighter™##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+32420##STAR WARS™: The Clone Wars - Republic Heroes™##0
+32440##LEGO® Star Wars™: The Complete Saga##0
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##0
+8190##Just Cause 2##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+32510##LEGO® Star Wars™ III: The Clone Wars™##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+214790##The Basement Collection##0
+237530##Toki Tori 2+ Level Editor##0
+249130##LEGO® MARVEL Super Heroes##0
+367540##Starbound - Unstable##0
+221100##DayZ##0
+302470##Battle Mages##0
+307560##Run For Rum##0
+321610##Demonlisher##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+331650##Carmageddon TDR 2000##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+348440##Quell Memento##0
+354430##STAR WARS™: X-Wing Special Edition##0
+355250##STAR WARS™: TIE Fighter Special Edition##0
+356500##STAR WARS™ Galactic Battlegrounds Saga##0
+356790##Galacide##0
+361670##STAR WARS™: X-Wing Alliance™##0
+361690##STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™##0
+405310##LEGO® MARVEL's Avengers##0
+950670##Gothic Playable Teaser##0
+225540##Just Cause 3##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+407730##Dungeons Of Kragmor##0
+439700##H1Z1: Test Server##0
+441550##STAR WARS™ Rebellion##0
+455910##STAR WARS™: Rogue Squadron 3D##0
+456540##STAR WARS™: Rebel Assault I + II##0
+533850##EggK47##0
+560170##STAR WARS™: Shadows of the Empire##0
+601020##Seed Of The Arcane , Episode 1##0
+368070##Sniper Ghost Warrior 3##0
+683230##Defendoooooor!!##0
+684870##Spiral Splatter##0
+697440##POSTAL The Movie##0
+712670##POSTAL The Movie: "Raging Boll" - Uwe Boll Boxes His Critics##0
+710120##Trivia Vault: Mini Mixed Trivia 4##0
+718370##LSD##0
+726020##Mission Ammunition##0
+735410##Task is to Survive##0
+647830##LEGO® MARVEL Super Heroes 2##0
+808910##STAR WARS™ Episode I Racer##0
+914290##Welcome to Princeland##0
+1058020##STAR WARS™ Battlefront (Classic, 2004)##0
+582500##We Were Here##0
+@@REVIEW
+914620##Recommended
+211820##Recommended
+730##Recommended

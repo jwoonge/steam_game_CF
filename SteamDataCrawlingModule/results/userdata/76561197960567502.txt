@@ -1,0 +1,213 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+300##Day of Defeat: Source##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+2400##The Ship##0
+2430##The Ship Tutorial##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+4000##Garry's Mod##0
+2620##Call of Duty##0
+2630##Call of Duty 2##0
+2640##Call of Duty: United Offensive##0
+6850##Hitman 2: Silent Assassin##0
+6860##Hitman: Blood Money##0
+6900##Hitman: Codename 47##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+475150##Titan Quest Anniversary Edition##0
+4760##Rome: Total War##0
+4770##Rome: Total War - Alexander##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+8500##EVE Online##0
+17390##Spore##0
+17440##Spore: Creepy & Cute Parts Pack##0
+15620##Warhammer 40,000: Dawn of War II##0
+10500##Total War: EMPIRE - Definitive Edition##0
+22330##The Elder Scrolls IV: Oblivion ##0
+22320##The Elder Scrolls III: Morrowind##0
+24720##Spore: Galactic Adventures##0
+39530##Painkiller: Black Edition##0
+41500##Torchlight##0
+11450##Overlord##0
+12710##Overlord: Raising Hell##0
+12810##Overlord II##0
+11170##Blood Bowl: Dark Elves Edition##0
+22370##Fallout 3 - Game of the Year Edition##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+8190##Just Cause 2##0
+49800##Flight of the Icarus##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+33900##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+8930##Sid Meier's Civilization V##0
+70900##Star Ruler##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+34330##Total War: SHOGUN 2##0
+91600##Sanctum##0
+48720##Mount & Blade: With Fire and Sword##0
+105600##Terraria##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+57900##Duke Nukem Forever##0
+28050##Deus Ex: Human Revolution##0
+17470##Dead Space##0
+47780##Dead Space 2##0
+33460##From Dust##0
+102600##Orcs Must Die!##0
+201760##Cities XL 2012##0
+48220##Might & Magic: Heroes VI##0
+201280##Deus Ex: Human Revolution - The Missing Link##0
+72850##The Elder Scrolls V: Skyrim##0
+55230##Saints Row: The Third##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+23530##Earth Defense Force: Insect Armageddon##0
+22380##Fallout: New Vegas##0
+48700##Mount & Blade: Warband##0
+63380##Sniper Elite V2##0
+55150##Warhammer 40,000: Space Marine##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+65800##Dungeon Defenders##0
+201790##Orcs Must Die! 2##0
+730##Counter-Strike: Global Offensive##0
+49520##Borderlands 2##0
+200710##Torchlight II##0
+205100##Dishonored##0
+200510##XCOM: Enemy Unknown##0
+219640##Chivalry: Medieval Warfare##0
+4920##Natural Selection 2##0
+219740##Don't Starve##0
+322330##Don't Starve Together##0
+203140##Hitman: Absolution##0
+208480##Assassin's Creed® III##0
+48240##Anno 2070##0
+99900##Spiral Knights##0
+208090##Loadout##0
+219340##The Banner Saga: Factions##0
+230410##Warframe##0
+236390##War Thunder##0
+238960##Path of Exile##0
+39000##Moonbase Alpha##0
+233630##Ascend: Hand of Kul##0
+262410##World of Guns: Gun Disassembly##0
+239220##The Mighty Quest For Epic Loot##0
+224580##Arma 2: DayZ Mod##0
+227100##Sniper Elite: Nazi Zombie Army##0
+202130##Impire##0
+220200##Kerbal Space Program##0
+234710##Poker Night 2##0
+214950##Total War: ROME II - Emperor Edition##0
+210770##Sanctum 2##0
+242860##Verdun##0
+233250##Planetary Annihilation##0
+231430##Company of Heroes 2##0
+206420##Saints Row IV##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+9310##Warhammer 40,000: Dawn of War - Winter Assault##0
+9450##Warhammer 40,000: Dawn of War - Soulstorm##0
+251570##7 Days to Die##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+219990##Grim Dawn##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+261550##Mount & Blade II: Bannerlord##0
+262060##Darkest Dungeon®##0
+263760##Turbo Dismount##0
+265930##Goat Simulator##0
+221100##DayZ##0
+268870##Satellite Reign##0
+274190##Broforce##0
+275850##No Man's Sky##0
+213670##South Park™: The Stick of Truth™##0
+286160##Tabletop Simulator##0
+289070##Sid Meier's Civilization VI##0
+290300##Rebel Galaxy##0
+301520##Robocraft##0
+244160##Homeworld Remastered Collection##0
+243470##Watch_Dogs##0
+307880##Savage Lands##0
+9880##Champions Online##0
+239140##Dying Light##0
+327890##I am Bread##0
+261640##Borderlands: The Pre-Sequel##0
+274940##Depth##0
+331670##The Jackbox Party Pack##0
+332310##LEGO® Worlds##0
+305620##The Long Dark##0
+236110##Dungeon Defenders II##0
+257510##The Talos Principle##0
+346010##Besiege##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+325610##Total War: ATTILA##0
+235540##Warhammer: End Times - Vermintide##0
+271590##Grand Theft Auto V##0
+236870##HITMAN™##0
+383120##Empyrion - Galactic Survival##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+392110##Endless Space® 2 - Digital Deluxe Edition##0
+234140##Mad Max##0
+397460##The Jackbox Party Pack 2##0
+337000##Deus Ex: Mankind Divided™##0
+313160##Farming Simulator 15##0
+434170##The Jackbox Party Pack 3##0
+268500##XCOM 2##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+377160##Fallout 4##0
+364360##Total War: WARHAMMER##0
+442080##Riders of Icarus##0
+298900##Space Hulk: Deathwing##0
+816090##Space Hulk: Deathwing - Enhanced Edition##0
+292030##The Witcher 3: Wild Hunt##0
+548430##Deep Rock Galactic##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+552500##Warhammer: Vermintide 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+588430##Fallout Shelter##0
+375230##Warhammer 40,000: Eternal Crusade##0
+610180##The Jackbox Party Pack 4##0
+616560##Ultimate Epic Battle Simulator##0
+632360##Risk of Rain 2##0
+374040##Portal Knights##0
+635310##Ski Sniper##0
+594570##Total War: WARHAMMER II##0
+774461##The Jackbox Party Pack 5##0
+854250##FPV Freerider##0
+857980##Void Bastards##0
+863550##HITMAN™ 2##0
+884660##CRSED##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+1005300##The Jackbox Party Pack 6##0
+1091500##Cyberpunk 2077##0
+976730##Halo: The Master Chief Collection##0
+1085660##Destiny 2##0
+1167630##Teardown##0
+1179210##Kill It With Fire##0
+1222730##STAR WARS™: Squadrons##0
+1291500##Kill It With Fire: IGNITION##0
+@@REVIEW
+289070##Recommended
+275850##Recommended
+257510##Recommended
+239140##Recommended
+220200##Recommended
+208090##Recommended
+251570##Recommended

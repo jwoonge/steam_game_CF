@@ -1,0 +1,80 @@
+@@GAME
+570##Dota 2##261863
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##35606
+730##Counter-Strike: Global Offensive##26171
+10##Counter-Strike##25134
+250820##SteamVR##21841
+526870##Satisfactory##13436
+1046930##Dota Underlords##11562
+646570##Slay the Spire##7967
+424370##Wolcen: Lords of Mayhem##6867
+229870##ShootMania Storm##6221
+457550##Bigscreen Beta##5978
+236430##DARK SOULS™ II##5799
+620980##Beat Saber##4631
+688130##Pogostuck: Rage With Your Friends##3124
+588650##Dead Cells##2962
+427520##Factorio##2251
+200170##Worms Revolution##1659
+239140##Dying Light##1631
+249990##FORCED##1013
+648800##Raft##976
+677120##Heroes of Hammerwatch##847
+527230##For The King##840
+251570##7 Days to Die##592
+387990##Scrap Mechanic##547
+546560##Half-Life: Alyx##392
+242760##The Forest##342
+493520##GTFO##321
+880940##Pummel Party##270
+301520##Robocraft##188
+431240##Golf With Your Friends##161
+620##Portal 2##126
+346110##ARK: Survival Evolved##109
+755790##Ring of Elysium##103
+210970##The Witness##101
+606180##Viveport Video##84
+348250##Google Earth VR##81
+208650##Batman™: Arkham Knight##77
+240720##Getting Over It with Bennett Foddy##70
+205790##Dota 2 Test##61
+217200##Worms Armageddon##59
+242700##Injustice: Gods Among Us Ultimate Edition##59
+386940##Ultimate Chicken Horse##56
+286160##Tabletop Simulator##55
+1131720##Prop and Seek##55
+450390##The Lab##41
+352720##The Universim##37
+813820##Realm Royale##31
+26800##Braid##27
+238370##Magicka 2##20
+333930##Dirty Bomb##19
+952440##OVERKILL's The Walking Dead - BETA##18
+359050##Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad##7
+768100##GizmoVR Video Player##6
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+400##Portal##0
+247000##Talisman: Digital Edition##0
+226840##Age of Wonders III##0
+312530##Duck Game##0
+323850##Move or Die##0
+407530##ARK: Survival Of The Fittest##0
+397080##Magicka 2: Spell Balance Beta##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+200260##Batman: Arkham City GOTY##0
+209000##Batman™: Arkham Origins##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+432980##INVERSUS Deluxe##0
+489520##Minion Masters##0
+674940##Stick Fight: The Game##0
+878760##Realm Royale - Test Server##0
+203770##Crusader Kings II##0
+510840##Evolvation##0
+@@REVIEW
+570##Recommended

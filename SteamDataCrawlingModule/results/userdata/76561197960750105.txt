@@ -1,0 +1,18 @@
+@@GAME
+570##Dota 2##57959
+730##Counter-Strike: Global Offensive##14468
+813820##Realm Royale##212
+479130##ESEA##9
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+878760##Realm Royale - Test Server##0
+1046930##Dota Underlords##0
+1172470##Apex Legends##0
+@@REVIEW
+570##Recommended

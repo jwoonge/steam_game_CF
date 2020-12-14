@@ -1,0 +1,145 @@
+@@GAME
+730##Counter-Strike: Global Offensive##149521
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##77339
+9420##Supreme Commander: Forged Alliance##12795
+271590##Grand Theft Auto V##10645
+10##Counter-Strike##6231
+611500##Quake Champions##4805
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##2369
+7940##Call of Duty 4: Modern Warfare##1702
+6910##Deus Ex: Game of the Year Edition##1643
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##1600
+105450##Age of Empires® III (2007)##1485
+220##Half-Life 2##1224
+620##Portal 2##1137
+16600##Trials 2: Second Edition##747
+17300##Crysis##701
+433850##Z1 Battle Royale##699
+240##Counter-Strike: Source##656
+380##Half-Life 2: Episode One##562
+99830##Crysis 2##518
+535930##Two Point Hospital##369
+420##Half-Life 2: Episode Two##337
+28050##Deus Ex: Human Revolution##273
+42680##Call of Duty: Modern Warfare 3##267
+12210##Grand Theft Auto IV: The Complete Edition##255
+17330##Crysis Warhead##241
+10180##Call of Duty: Modern Warfare 2##179
+2320##Quake II##155
+500##Left 4 Dead##150
+400##Portal##147
+209170##Call of Duty: Ghosts - Multiplayer##130
+12120##Grand Theft Auto: San Andreas##127
+221380##Age of Empires II (2013)##95
+378860##Project CARS 2##83
+7670##BioShock##82
+340##Half-Life 2: Lost Coast##78
+550##Left 4 Dead 2##76
+9010##Return to Castle Wolfenstein##70
+397550##Deus Ex: Revision##64
+22300##Fallout 3##60
+1174180##Red Dead Redemption 2##60
+314160##Microsoft Flight Simulator X: Steam Edition##59
+13210##Unreal Tournament 3: Black Edition##56
+17410##Mirror's Edge##56
+739630##Phasmophobia##55
+221300##Monopoly##45
+24780##SimCity 4 Deluxe##43
+209160##Call of Duty: Ghosts##41
+24240##PAYDAY: The Heist##33
+630##Alien Swarm##32
+213670##South Park™: The Stick of Truth™##26
+33910##Arma 2##23
+228880##Ashes of the Singularity: Classic##23
+337000##Deus Ex: Mankind Divided™##23
+252490##Rust##21
+1213210##Command & Conquer™ Remastered Collection##19
+259080##Just Cause 2: Multiplayer Mod##19
+110800##L.A. Noire##17
+17520##Synergy##16
+40100##Supreme Commander 2##15
+12250##Grand Theft Auto: San Andreas##14
+284240##Maize##13
+282440##Quake Live##12
+43160##Metro: Last Light##11
+1200##Red Orchestra: Ostfront 41-45##10
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##9
+16620##Monster Trucks Nitro##9
+47790##Medal of Honor(TM) Single Player##9
+237110##Mortal Kombat Komplete Edition##9
+2200##Quake III Arena##8
+43110##Metro 2033##8
+15100##Assassin's Creed##6
+10150##Prototype##6
+6920##Deus Ex: Invisible War##3
+12230##Grand Theft Auto III##3
+289070##Sid Meier's Civilization VI##3
+12100##Grand Theft Auto III##2
+12180##Grand Theft Auto 2##2
+211600##Thief Gold##1
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##1
+15700##Oddworld: Abe's Oddysee##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+1230##Mare Nostrum##0
+1280##Darkest Hour: Europe '44-'45##0
+320##Half-Life 2: Deathmatch##0
+2310##Quake##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+409710##BioShock Remastered##0
+360##Half-Life Deathmatch: Source##0
+12110##Grand Theft Auto: Vice City##0
+12170##Grand Theft Auto##0
+12240##Grand Theft Auto: Vice City##0
+13200##Unreal II: The Awakening##0
+13230##Unreal Tournament 2004##0
+13240##Unreal Tournament: Game of the Year Edition##0
+13250##Unreal Gold##0
+11240##Space Trader: Merchant Marine##0
+17340##Crysis Wars##0
+11390##Crash Time II##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+33230##Assassin's Creed II##0
+8190##Just Cause 2##0
+21090##F.E.A.R.##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+47830##Medal of Honor(TM) Multiplayer##0
+28000##Kane & Lynch 2: Dog Days##0
+9350##Supreme Commander##0
+35000##Mini Ninjas##0
+6900##Hitman: Codename 47##0
+104900##ORION: Prelude##0
+220240##Far Cry® 3##0
+6850##Hitman 2: Silent Assassin##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+242940##Anachronox##0
+700580##Rust - Staging Branch##0
+242980##Daikatana##0
+271860##Super Killer Hornet: Resurrection##0
+273110##Counter-Strike Nexon: Studio##0
+292620##Pressured##0
+115320##PROTOTYPE 2##0
+203160##Tomb Raider##0
+334920##Zero-K##0
+386070##Planetary Annihilation: TITANS##0
+425410##Road to Ballhalla##0
+439700##H1Z1: Test Server##0
+507490##Ashes of the Singularity: Escalation##0
+312660##Sniper Elite 4##0
+562270##Shot Shot Tactic##0
+@@REVIEW
+271590##Recommended

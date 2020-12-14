@@ -1,0 +1,67 @@
+@@GAME
+440##Team Fortress 2##160897
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##94221
+730##Counter-Strike: Global Offensive##60839
+300##Day of Defeat: Source##60781
+594570##Total War: WARHAMMER II##11399
+755790##Ring of Elysium##5893
+214950##Total War: ROME II - Emperor Edition##5801
+552500##Warhammer: Vermintide 2##4141
+238960##Path of Exile##3322
+241930##Middle-earth™: Shadow of Mordor™##2582
+739630##Phasmophobia##2344
+550##Left 4 Dead 2##2122
+945360##Among Us##1513
+231430##Company of Heroes 2##1135
+1200##Red Orchestra: Ostfront 41-45##1047
+63380##Sniper Elite V2##771
+301640##Zombie Army Trilogy##461
+757300##Truberbrook##406
+10##Counter-Strike##306
+278360##A Story About My Uncle##235
+356190##Middle-earth™: Shadow of War™##138
+240##Counter-Strike: Source##129
+414340##Hellblade: Senua's Sacrifice##113
+1085660##Destiny 2##101
+72850##The Elder Scrolls V: Skyrim##84
+44350##GRID 2##64
+813820##Realm Royale##54
+690790##DiRT Rally 2.0##48
+1280##Darkest Hour: Europe '44-'45##37
+275390##Guacamelee! Super Turbo Championship Edition##29
+714010##Aim Lab##27
+226840##Age of Wonders III##22
+383150##Dead Island Definitive Edition##22
+244450##Men of War: Assault Squad 2##9
+17510##Age of Chivalry##7
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1230##Mare Nostrum##0
+12160##Midnight Club II##0
+3700##Sniper Elite##0
+292910##Deponia: The Complete Journey##0
+371140##Aegis Defenders##0
+98400##Hard Reset##0
+407810##Hard Reset Redux##0
+273350##Evolve Stage 2##0
+521890##Hello Neighbor##0
+530320##Wandersong##0
+544330##Snake Pass##0
+633460##Tannenberg##0
+671440##Rise of Industry##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+364360##Total War: WARHAMMER##0
+620590##Ancestors Legacy##0
+878760##Realm Royale - Test Server##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+834530##Yakuza Kiwami##0
+1104660##MO:Astray##0
+@@REVIEW

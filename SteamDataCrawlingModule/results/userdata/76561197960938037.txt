@@ -1,0 +1,108 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+12900##Audiosurf##0
+35700##Trine##0
+34190##Sonic and SEGA All Stars Racing##0
+21090##F.E.A.R.##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+71230##Crazy Taxi##0
+620##Portal 2##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+202970##Call of Duty: Black Ops II##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+49540##Aliens: Colonial Marines##0
+208090##Loadout##0
+211500##RaceRoom Racing Experience ##0
+272350##Tom Clancy's Ghost Recon Phantoms - EU##0
+271290##HAWKEN##0
+35720##Trine 2##0
+271590##Grand Theft Auto V##0
+274190##Broforce##0
+224600##Defiance##0
+291480##Warface##0
+312990##The Expendabros##0
+319910##Trine 3: The Artifacts of Power##0
+41300##Altitude##0
+233610##Distance##0
+327140##Tilt Brush##0
+331360##Heavy Metal Machines##0
+338000##Echoes+##0
+348250##Google Earth VR##0
+244210##Assetto Corsa##0
+234630##Project CARS##0
+378860##Project CARS 2##0
+408900##Unfortunate Spacemen##0
+410570##Gunjack##0
+418650##Space Pirate Trainer##0
+427760##A Chair in a Room: Greenwater##0
+436320##Raw Data##0
+436820##Waltz of the Wizard##0
+264120##Victory: The Age of Racing##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+446750##Portal Stories: VR##0
+450390##The Lab##0
+450670##Table Top Racing: World Tour##0
+455160##PaintLab##0
+465240##Serious Sam VR: The Last Hope##0
+379720##DOOM##0
+493520##GTFO##0
+508440##Totally Accurate Battle Simulator##0
+510930##Thirst##0
+518580##Accounting##0
+507210##The Wire##0
+522020##Blue Effect VR##0
+546560##Half-Life: Alyx##0
+552450##Serious Sam VR: The First Encounter##0
+564310##Serious Sam Fusion 2017 (beta)##0
+552460##Serious Sam VR: The Second Encounter##0
+556140##We Are Stars##0
+577940##Killer Instinct##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+600140##Belko VR: An Escape Room Experiment##0
+370770##Holodrive##0
+617830##SUPERHOT VR##0
+629220##Rise of Insanity##0
+666220##CS2D##0
+672640##War Robots VR: The Skirmish##0
+678800##SAS: Zombie Assault 4##0
+681390##ZomDay##0
+688480##EVE: Valkyrie - Warzone##0
+691930##MSI Electric City: Core Assault##0
+707580##AFFECTED: The Manor##0
+755770##YouTube VR##0
+805550##Assetto Corsa Competizione##0
+877200##Zero Caliber VR##0
+730##Counter-Strike: Global Offensive##0
+963930##Contractors VR##0
+530830##Sophie's Guardian##0
+396900##GRIP: Combat Racing##0
+342180##Arizona Sunshine##0
+690790##DiRT Rally 2.0##0
+359320##Elite Dangerous##0
+1097840##Gears 5##0
+1085660##Destiny 2##0
+1174180##Red Dead Redemption 2##0
+1213210##Command & Conquer™ Remastered Collection##0
+1055210##Retrograde Arena##0
+@@REVIEW
+493520##Recommended
+877200##Recommended

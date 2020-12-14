@@ -1,0 +1,54 @@
+@@GAME
+313160##Farming Simulator 15##154875
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##93703
+787860##Farming Simulator 19##83886
+447020##Farming Simulator 17##74790
+570##Dota 2##62942
+8930##Sid Meier's Civilization V##21896
+289070##Sid Meier's Civilization VI##21840
+227300##Euro Truck Simulator 2##12768
+223850##3DMark##11766
+263280##Spintires®##8189
+107410##Arma 3##7660
+380600##Fishing Planet##5760
+251570##7 Days to Die##5156
+1066780##Transport Fever 2##3936
+270880##American Truck Simulator##3362
+236390##War Thunder##3177
+675010##MudRunner##2994
+704030##Professional Farmer: Cattle and Crops##2722
+378860##Project CARS 2##2010
+298050##Master of Orion##1290
+221100##DayZ##940
+220200##Kerbal Space Program##727
+285190##Warhammer 40,000: Dawn of War III##670
+516750##My Summer Car##550
+310560##DiRT Rally##391
+228380##Wreckfest##200
+440##Team Fortress 2##184
+10##Counter-Strike##106
+524390##PCMark 10##92
+15320##IL-2 Sturmovik: 1946##82
+387990##Scrap Mechanic##75
+109600##Neverwinter##40
+433850##Z1 Battle Royale##3
+298030##Total Annihilation##2
+252490##Rust##1
+266410##iRacing##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+367690##Spintires® - Editor##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+700580##Rust - Staging Branch##0
+439700##H1Z1: Test Server##0
+464170##VRMark##0
+38400##Fallout##0
+231430##Company of Heroes 2##0
+@@REVIEW
+787860##Recommended

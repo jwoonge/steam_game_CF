@@ -1,0 +1,19 @@
+@@GAME
+730##Counter-Strike: Global Offensive##275103
+10##Counter-Strike##74828
+570##Dota 2##9159
+440##Team Fortress 2##2311
+252490##Rust##1245
+49520##Borderlands 2##209
+304050##Trove##21
+20##Team Fortress Classic##3
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+323370##TERA##0
+700580##Rust - Staging Branch##0
+@@REVIEW

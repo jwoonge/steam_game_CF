@@ -1,0 +1,42 @@
+@@GAME
+730##Counter-Strike: Global Offensive##49652
+570##Dota 2##35578
+440##Team Fortress 2##24416
+444090##Paladins##21755
+304930##Unturned##12224
+292030##The Witcher 3: Wild Hunt##2798
+391220##Rise of the Tomb Raider##2316
+50##Half-Life: Opposing Force##1509
+389430##Knight Online##1334
+613100##House Flipper##781
+282660##Easy eSports##707
+92500##PC Gamer##542
+305620##The Long Dark##104
+704850##Thief Simulator##28
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+7000##Tomb Raider: Legend##0
+8000##Tomb Raider: Anniversary##0
+8140##Tomb Raider: Underworld##0
+35130##Lara Croft and the Guardian of Light##0
+224960##Tomb Raider I##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+224980##Tomb Raider: The Last Revelation##0
+225000##Tomb Raider: Chronicles##0
+225020##Tomb Raider (VI): The Angel of Darkness##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+596350##Paladins - Public Test##0
+540840##Lara Croft GO##0
+438740##Friday the 13th: The Game##0
+645630##Car Mechanic Simulator 2018##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+@@REVIEW
+444090##Recommended

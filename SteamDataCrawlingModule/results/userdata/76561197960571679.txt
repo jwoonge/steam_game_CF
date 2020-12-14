@@ -1,0 +1,32 @@
+@@GAME
+730##Counter-Strike: Global Offensive##64047
+10##Counter-Strike##11242
+227300##Euro Truck Simulator 2##5744
+570##Dota 2##401
+550##Left 4 Dead 2##386
+431960##Wallpaper Engine##273
+1222140##Detroit: Become Human##234
+960990##Beyond: Two Souls##233
+680310##Poker World##142
+436150##Governor of Poker 3##88
+440##Team Fortress 2##59
+397900##Business Tour - Online Multiplayer Board Game##55
+96200##Steel Storm: Burning Retribution##54
+211500##RaceRoom Racing Experience ##40
+333930##Dirty Bomb##17
+20##Team Fortress Classic##15
+298610##Ylands##12
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+70000##Dino D-Day##0
+11260##Pacific Storm: Allies##0
+25890##Hearts of Iron III##0
+253980##Enclave##0
+555000##GOAT OF DUTY##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+1222140##Recommended

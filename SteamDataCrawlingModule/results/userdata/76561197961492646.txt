@@ -1,0 +1,88 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##135250
+730##Counter-Strike: Global Offensive##122319
+10##Counter-Strike##107584
+252950##Rocket League##14670
+476620##Call of Duty: WWII - Multiplayer##6885
+444090##Paladins##1370
+202990##Call of Duty: Black Ops II - Multiplayer##1315
+637650##FINAL FANTASY XV WINDOWS EDITION##1126
+365670##Blender##757
+431960##Wallpaper Engine##380
+476600##Call of Duty: WWII##265
+287290##Resident Evil Revelations 2##208
+421020##DiRT 4##152
+202970##Call of Duty: Black Ops II##125
+626690##Sword Art Online: Fatal Bullet##113
+646910##The Crew 2##92
+433850##Z1 Battle Royale##58
+44360##F1 2011##53
+799070##Zup! 8##43
+755790##Ring of Elysium##42
+961440##Resident Evil 2 "1-Shot Demo"##32
+823130##Totally Accurate Battlegrounds##29
+588430##Fallout Shelter##21
+570##Dota 2##18
+350810##Pixel Puzzles 2: Anime##16
+282660##Easy eSports##12
+550650##Black Squad##12
+258520##The Vanishing of Ethan Carter##10
+601510##Yu-Gi-Oh! Duel Links##7
+271550##Tribloos 2##4
+11020##TrackMania Nations Forever##2
+444200##World of Tanks Blitz##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12140##Max Payne##0
+31270##Puzzle Agent##0
+65790##Arma: Cold War Assault##0
+50300##Spec Ops: The Line##0
+8200##Sam & Max 101: Culture Shock##0
+8210##Sam & Max 102: Situation: Comedy##0
+8220##Sam & Max 103: The Mole, the Mob and the Meatball##0
+8240##Sam & Max 105: Reality 2.0##0
+8250##Sam & Max 106: Bright Side of the Moon##0
+212910##Call of Duty: Black Ops II - Zombies##0
+261110##Killer is Dead##0
+278360##A Story About My Uncle##0
+321920##Schein##0
+400430##The Vanishing of Ethan Carter Redux##0
+344130##Cataegis : The White Wind##0
+351030##Pixel Puzzles Ultimate##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+395170##DISTRAINT: Deluxe Edition##0
+421120##Samorost 3##0
+437390##HoPiKo##0
+442120##Pinball FX3##0
+596350##Paladins - Public Test##0
+455690##Pixel Puzzles Junior##0
+510620##THOTH##0
+600660##Kimmy##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+439700##H1Z1: Test Server##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+203770##Crusader Kings II##0
+544920##Darwin Project##0
+490220##Prismata##0
+13250##Unreal Gold##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+611500##Quake Champions##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+231430##Company of Heroes 2##0
+1085660##Destiny 2##0
+@@REVIEW
+637650##Recommended
+578080##Recommended
+730##Not Recommended

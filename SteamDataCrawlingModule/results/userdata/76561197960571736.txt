@@ -1,0 +1,107 @@
+@@GAME
+440##Team Fortress 2##20751
+730##Counter-Strike: Global Offensive##15895
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##12707
+550##Left 4 Dead 2##8207
+500##Left 4 Dead##6435
+4920##Natural Selection 2##5950
+268500##XCOM 2##2713
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##2597
+252490##Rust##2403
+24960##Battlefield: Bad Company™ 2##2388
+42710##Call of Duty: Black Ops - Multiplayer##2073
+208650##Batman™: Arkham Knight##1976
+374320##DARK SOULS™ III##1806
+1213210##Command & Conquer™ Remastered Collection##1737
+883710##Resident Evil 2##1324
+200510##XCOM: Enemy Unknown##1235
+391220##Rise of the Tomb Raider##1034
+91310##Dead Island##998
+620##Portal 2##927
+211420##DARK SOULS™: Prepare To Die Edition##792
+239140##Dying Light##672
+218620##PAYDAY 2##535
+24240##PAYDAY: The Heist##440
+42700##Call of Duty: Black Ops##376
+22600##Worms Reloaded##371
+952060##Resident Evil 3##366
+311340##METAL GEAR SOLID V: GROUND ZEROES##335
+223710##Cry of Fear##313
+240##Counter-Strike: Source##252
+219640##Chivalry: Medieval Warfare##223
+434170##The Jackbox Party Pack 3##186
+304430##INSIDE##172
+104900##ORION: Prelude##171
+312660##Sniper Elite 4##150
+301640##Zombie Army Trilogy##145
+35720##Trine 2##130
+320##Half-Life 2: Deathmatch##125
+630##Alien Swarm##110
+1250##Killing Floor##87
+4000##Garry's Mod##60
+20500##Red Faction: Guerrilla Steam Edition##58
+9480##Saints Row 2##47
+530620##Resident Evil 7 Teaser: Beginning Hour##41
+333930##Dirty Bomb##40
+300##Day of Defeat: Source##35
+400##Portal##28
+6800##Commandos: Behind Enemy Lines##27
+629760##MORDHAU##21
+1313##SiN: Gold##18
+290930##Half-Life 2: Update##13
+20##Team Fortress Classic##8
+340##Half-Life 2: Lost Coast##6
+12900##Audiosurf##3
+10##Counter-Strike##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+4520##Full Spectrum Warrior##0
+4530##Full Spectrum Warrior: Ten Hammers##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+4560##Company of Heroes - Legacy Edition##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+9310##Warhammer 40,000: Dawn of War - Winter Assault##0
+9340##Company of Heroes: Opposing Fronts##0
+9400##Juiced 2: Hot Import Nights##0
+9450##Warhammer 40,000: Dawn of War - Soulstorm##0
+9460##Frontlines: Fuel of War##0
+15620##Warhammer 40,000: Dawn of War II##0
+20530##Red Faction##0
+20540##Company of Heroes: Tales of Valor##0
+20550##Red Faction II##0
+228200##Company of Heroes ##0
+475150##Titan Quest Anniversary Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+21100##F.E.A.R. 3##0
+16450##F.E.A.R. 2: Project Origin##0
+32800##The Lord of the Rings: War in the North##0
+200260##Batman: Arkham City GOTY##0
+35700##Trine##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+218680##Scribblenauts Unlimited##0
+17080##Tribes: Ascend##0
+700580##Rust - Staging Branch##0
+331670##The Jackbox Party Pack##0
+209000##Batman™: Arkham Origins##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+291550##Brawlhalla##0
+397460##The Jackbox Party Pack 2##0
+952070##RESIDENT EVIL RESISTANCE##0
+@@REVIEW

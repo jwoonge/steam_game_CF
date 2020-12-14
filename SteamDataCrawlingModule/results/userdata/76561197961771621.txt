@@ -1,0 +1,90 @@
+@@GAME
+252950##Rocket League##130920
+730##Counter-Strike: Global Offensive##72266
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##43618
+10##Counter-Strike##7650
+245490##Trials Fusion##4903
+252490##Rust##3717
+433850##Z1 Battle Royale##2796
+251570##7 Days to Die##2774
+271590##Grand Theft Auto V##2420
+440900##Conan Exiles##1840
+552520##Far Cry 5##1782
+255710##Cities: Skylines##1581
+242760##The Forest##1494
+221100##DayZ##1197
+620##Portal 2##1080
+251110##INFRA##1063
+431240##Golf With Your Friends##895
+635260##CarX Drift Racing Online##722
+641080##Trials Rising##620
+296470##Mount Your Friends##562
+451340##Gold Rush: The Game##507
+675010##MudRunner##442
+359550##Tom Clancy's Rainbow Six Siege##394
+704850##Thief Simulator##340
+587860##Tales of Escape##331
+516750##My Summer Car##293
+519190##Next Day: Survival##279
+752590##A Plague Tale: Innocence##229
+456750##The Room Three##219
+4000##Garry's Mod##205
+265930##Goat Simulator##200
+425580##The Room Two##190
+850450##Escape First##177
+221380##Age of Empires II (2013)##162
+48000##LIMBO##128
+11020##TrackMania Nations Forever##128
+284160##BeamNG.drive##118
+703950##Just Fishing##104
+1094060##Escape First 2##102
+500##Left 4 Dead##100
+378610##Valley##92
+994140##Lightmatter##87
+210970##The Witness##85
+400##Portal##74
+658570##FURIDASHI: Drift Cyber Sport##73
+813820##Realm Royale##73
+834910##ATLAS##65
+70##Half-Life##64
+971120##Forgiveness##64
+1128810##RISK: Global Domination##63
+312280##Simply Chess##62
+648800##Raft##57
+285900##Gang Beasts##55
+223100##Homefront: The Revolution##46
+324080##Rising World##45
+530700##Argo##43
+444880##Death Stair##36
+501080##Fishing: Barents Sea##36
+657200##Hand Simulator##34
+963710##Lost in Vivo##30
+360940##The Mean Greens - Plastic Warfare##23
+962730##Skater XL##22
+217200##Worms Armageddon##19
+333950##Medieval Engineers##19
+550650##Black Squad##15
+914620##Mist Survival##12
+321400##Supraball##11
+635310##Ski Sniper##7
+466240##Deceit##6
+432310##Virtual Pool 4 Multiplayer##3
+244850##Space Engineers##2
+550##Left 4 Dead 2##1
+600140##Belko VR: An Escape Room Experiment##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+222900##Dead Island: Epidemic##0
+349110##Medieval Engineers - Mod SDK##0
+919670##Medieval Engineers - Remote Client##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+439700##H1Z1: Test Server##0
+700580##Rust - Staging Branch##0
+878760##Realm Royale - Test Server##0
+931180##Conan Exiles - Testlive Client##0
+@@REVIEW
+252950##Recommended

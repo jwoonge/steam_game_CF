@@ -1,0 +1,83 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+4000##Garry's Mod##0
+2620##Call of Duty##0
+2630##Call of Duty 2##0
+2640##Call of Duty: United Offensive##0
+220##Half-Life 2##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+17300##Crysis##0
+500##Left 4 Dead##0
+10090##Call of Duty: World at War##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+34000##Football Manager 2010##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+70000##Dino D-Day##0
+102200##Runespell: Overture##0
+204340##Serious Sam 2##0
+730##Counter-Strike: Global Offensive##0
+205790##Dota 2 Test##0
+230410##Warframe##0
+65790##Arma: Cold War Assault##0
+242760##The Forest##0
+218620##PAYDAY 2##0
+231670##Football Manager 2014##0
+242460##Football Manager 2014 Editor##0
+242480##Football Manager 2014 Resource Archiver##0
+252950##Rocket League##0
+107410##Arma 3##0
+209160##Call of Duty: Ghosts##0
+209170##Call of Duty: Ghosts - Multiplayer##0
+268850##EVGA Precision X1##0
+550##Left 4 Dead 2##0
+271590##Grand Theft Auto V##0
+282660##Easy eSports##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+291480##Warface##0
+313120##Stranded Deep##0
+227940##Heroes & Generals##0
+352700##Subspace Continuum##0
+489940##BATTALION 1944##0
+479130##ESEA##0
+482730##Football Manager 2017##0
+482750##Football Manager Touch 2017##0
+436520##Line of Sight##0
+571740##Golf It!##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+624090##Football Manager 2018##0
+624120##Football Manager Touch 2018##0
+476600##Call of Duty: WWII##0
+476620##Call of Duty: WWII - Multiplayer##0
+239140##Dying Light##0
+728540##Islands of Nyne: Battle Royale##0
+755790##Ring of Elysium##0
+757240##Aimtastic##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+884660##CRSED##0
+920490##Driver Booster for Steam##0
+611500##Quake Champions##0
+1172470##Apex Legends##0
+@@REVIEW
+730##Recommended

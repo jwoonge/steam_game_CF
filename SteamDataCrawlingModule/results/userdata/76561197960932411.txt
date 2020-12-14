@@ -1,0 +1,103 @@
+@@GAME
+211##Source SDK##31599
+300##Day of Defeat: Source##20991
+359550##Tom Clancy's Rainbow Six Siege##9642
+365590##Tom Clancy's The Division##7188
+1172470##Apex Legends##6836
+220##Half-Life 2##6536
+234630##Project CARS##5854
+440##Team Fortress 2##5554
+244210##Assetto Corsa##4862
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##4770
+42710##Call of Duty: Black Ops - Multiplayer##4303
+372000##Tree of Savior (English Ver.)##4172
+295110##Just Survive##3749
+271590##Grand Theft Auto V##3538
+730##Counter-Strike: Global Offensive##2835
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2665
+241560##The Crew##2428
+378860##Project CARS 2##2300
+252490##Rust##2069
+240##Counter-Strike: Source##1620
+588650##Dead Cells##1468
+500##Left 4 Dead##1320
+47830##Medal of Honor(TM) Multiplayer##1278
+11020##TrackMania Nations Forever##1133
+606150##Moonlighter##1025
+250820##SteamVR##1008
+570##Dota 2##965
+550##Left 4 Dead 2##960
+227300##Euro Truck Simulator 2##770
+228380##Wreckfest##544
+620##Portal 2##440
+10##Counter-Strike##399
+28050##Deus Ex: Human Revolution##393
+275850##No Man's Sky##305
+39210##FINAL FANTASY XIV Online##225
+840010##Garden Paws##204
+105450##Age of Empires® III (2007)##191
+10180##Call of Duty: Modern Warfare 2##183
+42700##Call of Duty: Black Ops##167
+255710##Cities: Skylines##146
+202990##Call of Duty: Black Ops II - Multiplayer##133
+230410##Warframe##133
+582660##Black Desert Online##127
+413150##Stardew Valley##114
+282070##This War of Mine##94
+211500##RaceRoom Racing Experience ##90
+238960##Path of Exile##70
+268910##Cuphead##66
+282440##Quake Live##62
+310560##DiRT Rally##59
+105600##Terraria##54
+47790##Medal of Honor(TM) Single Player##53
+582010##Monster Hunter: World##48
+307780##Mortal Kombat X##44
+291550##Brawlhalla##43
+55100##Homefront##42
+17520##Synergy##35
+333930##Dirty Bomb##22
+354640##The Settlers Online##19
+320##Half-Life 2: Deathmatch##11
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##11
+380600##Fishing Planet##11
+348250##Google Earth VR##7
+258760##Scania Truck Driving Simulator##6
+302080##Bus Driver##2
+444560##Agent Origins: Escape##2
+258160##Rise of Incarnates##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+29650##Aion Collectors Edition##0
+205790##Dota 2 Test##0
+202970##Call of Duty: Black Ops II##0
+212910##Call of Duty: Black Ops II - Zombies##0
+21690##Resident Evil 5##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+232010##Euro Truck Simulator##0
+302060##Trucks & Trailers##0
+524440##Tom Clancy's The Division PTS##0
+365960##rFactor 2##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+@@REVIEW
+244210##Recommended
+228380##Recommended

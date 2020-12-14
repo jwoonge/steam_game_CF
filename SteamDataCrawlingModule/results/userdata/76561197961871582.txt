@@ -1,0 +1,94 @@
+@@GAME
+240##Counter-Strike: Source##63442
+730##Counter-Strike: Global Offensive##23272
+477160##Human: Fall Flat##7529
+222880##Insurgency##4615
+113400##APB Reloaded##3194
+220##Half-Life 2##2430
+386180##Crossout##2182
+489520##Minion Masters##2134
+274900##Murder Miners##1810
+570##Dota 2##1762
+351940##The Descendant##1126
+554530##CRACKHEAD##1016
+763400##Cave Runner##834
+304930##Unturned##810
+363970##Clicker Heroes##805
+252150##Grimm##744
+254080##World War III: Black Gold##736
+200170##Worms Revolution##683
+286570##F1 2015##660
+343100##Overture##655
+236510##Takedown: Red Sabre##653
+236390##War Thunder##431
+10##Counter-Strike##375
+440##Team Fortress 2##298
+261820##Estranged: Act I##298
+630##Alien Swarm##236
+259080##Just Cause 2: Multiplayer Mod##236
+438100##VRChat##78
+17550##Eternal Silence##61
+238960##Path of Exile##52
+530700##Argo##11
+391460##WARMODE##8
+302590##Of Guards And Thieves##2
+405760##Robot Squad Simulator 2017##1
+687280##The Awakening##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+259280##Earth 2150: The Moon Project##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+205790##Dota 2 Test##0
+331360##Heavy Metal Machines##0
+338550##Terra Lander Remastered##0
+382490##Relic Hunters Zero##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+470740##Demolish & Build 2017##0
+575720##Mighty Party##0
+613280##Next Up Hero Beta##0
+642520##Trio##0
+667920##Survival Tycoon##0
+684460##Project Lucie##0
+702200##Lost with Dinosaurs##0
+715060##Lost in the Forest##0
+733050##Lines Infinite##0
+739990##Lucky Panda##0
+769440##Beach Restaurant##0
+770440##Hangover##0
+778850##Please close the doors##0
+804210##Star Advent##0
+825610##Viking's drakkars##0
+@@REVIEW
+730##Not Recommended

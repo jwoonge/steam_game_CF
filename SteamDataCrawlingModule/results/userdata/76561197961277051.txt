@@ -1,0 +1,249 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+4000##Garry's Mod##0
+2400##The Ship##0
+2420##The Ship Single Player##0
+2430##The Ship Tutorial##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+12900##Audiosurf##0
+22000##World of Goo##0
+24740##Burnout Paradise: The Ultimate Box##0
+17390##Spore##0
+17440##Spore: Creepy & Cute Parts Pack##0
+24720##Spore: Galactic Adventures##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+23490##Tropico 3 - Steam Special Edition##0
+550##Left 4 Dead 2##0
+24780##SimCity 4 Deluxe##0
+57300##Amnesia: The Dark Descent##0
+8930##Sid Meier's Civilization V##0
+4540##Titan Quest##0
+475150##Titan Quest Anniversary Edition##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+34330##Total War: SHOGUN 2##0
+400##Portal##0
+620##Portal 2##0
+105600##Terraria##0
+108600##Project Zomboid##0
+50130##Mafia II (Classic)##0
+1030830##Mafia II: Definitive Edition##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+48000##LIMBO##0
+24240##PAYDAY: The Heist##0
+102840##Shank 2##0
+55230##Saints Row: The Third##0
+3830##Psychonauts##0
+102600##Orcs Must Die!##0
+110800##L.A. Noire##0
+22380##Fallout: New Vegas##0
+108710##Alan Wake##0
+207170##Legend of Grimrock##0
+207690##Botanicula##0
+207610##The Walking Dead##0
+211360##Offspring Fling!##0
+212680##FTL: Faster Than Light##0
+207080##Indie Game: The Movie##0
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##0
+201790##Orcs Must Die! 2##0
+113200##The Binding of Isaac##0
+209080##Guns of Icarus Online##0
+204220##Snapshot##0
+42910##Magicka##0
+202170##Sleeping Dogs™##0
+730##Counter-Strike: Global Offensive##0
+214790##The Basement Collection##0
+72000##Closure##0
+200510##XCOM: Enemy Unknown##0
+204300##Awesomenauts##0
+205650##The Testament of Sherlock Holmes##0
+214560##Mark of the Ninja##0
+220780##Thomas Was Alone##0
+220860##McPixel##0
+200710##Torchlight II##0
+204360##Castle Crashers##0
+100970##ArtRage Studio Pro##0
+205790##Dota 2 Test##0
+219640##Chivalry: Medieval Warfare##0
+218680##Scribblenauts Unlimited##0
+4920##Natural Selection 2##0
+43110##Metro 2033##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+204880##Sins of a Solar Empire: Rebellion##0
+12110##Grand Theft Auto: Vice City##0
+12240##Grand Theft Auto: Vice City##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+65800##Dungeon Defenders##0
+200900##Cave Story+##0
+35720##Trine 2##0
+204080##The Showdown Effect##0
+218130##Dungeonland##0
+219890##Antichamber##0
+230410##Warframe##0
+236390##War Thunder##0
+238960##Path of Exile##0
+243870##Tom Clancy's Ghost Recon Phantoms - NA##0
+39000##Moonbase Alpha##0
+209870##Blacklight: Retribution##0
+214420##Gear Up##0
+248570##Toribash##0
+265630##Fistful of Frags##0
+42160##War of the Roses##0
+224260##No More Room in Hell##0
+239220##The Mighty Quest For Epic Loot##0
+256410##Might & Magic: Duel of Champions##0
+218060##BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien##0
+225260##Brütal Legend##0
+233450##Prison Architect##0
+233390##Cart Life##0
+113020##Monaco##0
+233720##Surgeon Simulator##0
+216250##Dead Island Riptide##0
+234190##Receiver##0
+222730##Reus##0
+210770##Sanctum 2##0
+72850##The Elder Scrolls V: Skyrim##0
+242820##140##0
+242920##Banished##0
+213850##Magic 2014 ##0
+244870##Electronic Super Joy##0
+237110##Mortal Kombat Komplete Edition##0
+9480##Saints Row 2##0
+40390##Risen 2 - Dark Waters##0
+225640##Sacred 2 Gold##0
+950670##Gothic Playable Teaser##0
+91310##Dead Island##0
+40300##Risen##0
+207930##Sacred Citadel##0
+234390##Teleglitch: Die More Edition##0
+247350##Artemis Spaceship Bridge Simulator##0
+248820##Risk of Rain##0
+218620##PAYDAY 2##0
+111900##Guardians of Middle-earth##0
+224460##Contrast##0
+255370##KickBeat Steam Edition##0
+58520##Blood Bowl: Legendary Edition##0
+204560##Confrontation##0
+208730##Game of Thrones ##0
+209730##RAW - Realms of Ancient War##0
+219780##Divinity II: Developer's Cut##0
+231140##Cities XL Platinum##0
+258070##Probability 0##0
+49520##Borderlands 2##0
+221910##The Stanley Parable##0
+261030##The Walking Dead: Season Two##0
+266430##Anarchy Arcade##0
+211820##Starbound##0
+367540##Starbound - Unstable##0
+269050##Year Walk##0
+251570##7 Days to Die##0
+225840##Sven Co-op##0
+22100##Mount & Blade##0
+48700##Mount & Blade: Warband##0
+48720##Mount & Blade: With Fire and Sword##0
+213670##South Park™: The Stick of Truth™##0
+246620##Plague Inc: Evolved##0
+247000##Talisman: Digital Edition##0
+287980##Mini Metro##0
+290510##GNOG##0
+293540##Guns and Robots##0
+286160##Tabletop Simulator##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+298260##Only If##0
+238460##BattleBlock Theater##0
+301460##Electronic Super Joy: Groove City##0
+301520##Robocraft##0
+304930##Unturned##0
+306680##Lexica##0
+63380##Sniper Elite V2##0
+206420##Saints Row IV##0
+312990##The Expendabros##0
+227940##Heroes & Generals##0
+232430##Gone Home##0
+316010##Magic Duels##0
+315260##Space Hack##0
+200110##Nosgoth##0
+296470##Mount Your Friends##0
+250400##How to Survive##0
+322170##Geometry Dash##0
+322500##SUPERHOT##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+323190##Frostpunk##0
+327140##Tilt Brush##0
+334230##Town of Salem##0
+219740##Don't Starve##0
+322330##Don't Starve Together##0
+319630##Life is Strange™##0
+348250##Google Earth VR##0
+255710##Cities: Skylines##0
+356400##Thumper##0
+383580##Flesh Eaters##0
+291550##Brawlhalla##0
+391540##Undertale##0
+395570##We Are The Dwarves##0
+399430##Tinboy##0
+400940##Budget Cuts##0
+413150##Stardew Valley##0
+418070##Turbo Pug##0
+418650##Space Pirate Trainer##0
+427240##Cosmic Trip##0
+433340##Slime Rancher##0
+65980##Sid Meier's Civilization: Beyond Earth##0
+448280##Job Simulator##0
+457140##Oxygen Not Included##0
+458540##Lines##0
+468560##Blind Trust##0
+501220##Space Ribbon##0
+289070##Sid Meier's Civilization VI##0
+527700##Containment Initiative##0
+530350##Smashbox Arena##0
+115800##Owlboy##0
+469820##Genital Jousting##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+8500##EVE Online##0
+578620##GORN##0
+582500##We Were Here##0
+587580##Nature Treks VR##0
+595280##Throne of Lies®: Medieval Politics##0
+611670##The Elder Scrolls V: Skyrim VR##0
+617830##SUPERHOT VR##0
+620980##Beat Saber##0
+559460##Cloud Pirates##0
+641960##BOXVR##0
+667530##Drunken Wrestlers 2##0
+673450##TimeLock VR##0
+692690##Dance Collider##0
+702320##March of Empires##0
+466240##Deceit##0
+755980##Deployment##0
+846470##Moss##0
+945360##Among Us##0
+954280##3dSenVR##0
+987230##Shadow Legend VR##0
+342180##Arizona Sunshine##0
+1046030##ISLANDERS##0
+1058200##Pixel Puzzles Traditional Jigsaws##0
+794260##Outward##0
+1128810##RISK: Global Domination##0
+1216200##Coloring Game 2##0
+797410##Headsnatchers##0
+1158310##Crusader Kings III##0
+@@REVIEW

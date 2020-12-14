@@ -1,0 +1,188 @@
+@@GAME
+570##Dota 2##124817
+236850##Europa Universalis IV##59145
+251060##Wargame: Red Dragon##31401
+311310##Naval Action##30407
+250820##SteamVR##19359
+42960##Victoria II##15170
+294100##RimWorld##14109
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##11657
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##11473
+552990##World of Warships##10677
+594570##Total War: WARHAMMER II##9000
+292030##The Witcher 3: Wild Hunt##8773
+4920##Natural Selection 2##7646
+222750##Wargame: AirLand Battle##7161
+394360##Hearts of Iron IV##7095
+220200##Kerbal Space Program##6568
+8930##Sid Meier's Civilization V##6305
+8500##EVE Online##5773
+236390##War Thunder##5311
+25890##Hearts of Iron III##4991
+105600##Terraria##4390
+255710##Cities: Skylines##4330
+377160##Fallout 4##3999
+359320##Elite Dangerous##3930
+223750##DCS World Steam Edition##3743
+372000##Tree of Savior (English Ver.)##3668
+440##Team Fortress 2##2501
+1158310##Crusader Kings III##2473
+413150##Stardew Valley##2383
+265990##Rogue's Tale##2355
+359550##Tom Clancy's Rainbow Six Siege##2105
+1068820##OVR Toolkit##2073
+328080##Rise to Ruins##1929
+231430##Company of Heroes 2##1879
+233450##Prison Architect##1775
+107410##Arma 3##1734
+291650##Pillars of Eternity##1708
+245620##Tropico 5##1706
+620980##Beat Saber##1636
+1046930##Dota Underlords##1635
+1222730##STAR WARS™: Squadrons##1575
+677120##Heroes of Hammerwatch##1569
+233700##Sword of the Stars: The Pit##1511
+200210##Realm of the Mad God Exalt##1457
+248860##NEO Scavenger##1442
+289070##Sid Meier's Civilization VI##1428
+270150##RUNNING WITH RIFLES##1420
+728880##Overcooked! 2##1302
+630##Alien Swarm##1192
+211820##Starbound##1115
+219640##Chivalry: Medieval Warfare##1109
+34330##Total War: SHOGUN 2##1085
+213850##Magic 2014 ##1076
+271240##Offworld Trading Company##1050
+730##Counter-Strike: Global Offensive##950
+297000##Heroes of Might & Magic III - HD Edition##946
+280220##Creeper World 3: Arc Eternal##900
+268130##Heat Signature##895
+466560##Northgard##832
+282070##This War of Mine##825
+269210##Hero Siege##817
+546560##Half-Life: Alyx##748
+65800##Dungeon Defenders##745
+812040##Shortest Trip to Earth##743
+392110##Endless Space® 2 - Digital Deluxe Edition##671
+269950##X-Plane 11##655
+287260##Toybox Turbos##655
+207150##Stellar Impact##648
+550##Left 4 Dead 2##647
+241930##Middle-earth™: Shadow of Mordor™##643
+8190##Just Cause 2##618
+212680##FTL: Faster Than Light##586
+231740##Knights of Pen and Paper +1##579
+450390##The Lab##524
+253230##A Hat in Time##523
+92800##SpaceChem##515
+671440##Rise of Industry##505
+496300##Kingdom: New Lands##483
+108600##Project Zomboid##470
+242920##Banished##463
+321040##DiRT 3 Complete Edition##463
+281610##Homeworld: Deserts of Kharak##448
+512900##Streets of Rogue##439
+234650##Shadowrun Returns##431
+113200##The Binding of Isaac##421
+500##Left 4 Dead##419
+1213210##Command & Conquer™ Remastered Collection##414
+340300##Teddy Floppy Ear - Mountain Adventure##399
+673610##Airport CEO##384
+286160##Tabletop Simulator##382
+10180##Call of Duty: Modern Warfare 2##375
+32470##STAR WARS™ Empire at War: Gold Pack##367
+620##Portal 2##356
+319850##Bridge Constructor Medieval##334
+264730##Deadly 30##330
+208140##Endless Space##288
+200510##XCOM: Enemy Unknown##280
+200710##Torchlight II##271
+327030##Worms W.M.D##270
+572410##Steel Division: Normandy 44##257
+348250##Google Earth VR##240
+17710##Nuclear Dawn##226
+277490##Battle Group 2##221
+231140##Cities XL Platinum##205
+99900##Spiral Knights##192
+259680##Tales of Maj'Eyal##186
+454060##Blueprint Tycoon##185
+111400##Bunch Of Heroes##164
+240##Counter-Strike: Source##149
+611500##Quake Champions##122
+209670##Cortex Command##114
+340310##Teddy Floppy Ear - Kayaking##95
+306680##Lexica##83
+394510##HELLDIVERS™##83
+747350##Hellblade: Senua's Sacrifice VR Edition##72
+373420##Divinity: Original Sin Enhanced Edition##71
+444250##Crown and Council##68
+219990##Grim Dawn##63
+49520##Borderlands 2##62
+10##Counter-Strike##58
+908520##fpsVR##55
+639130##Ultrawings##49
+34030##Total War: NAPOLEON - Definitive Edition##45
+206500##AirMech Strike##31
+414340##Hellblade: Senua's Sacrifice##30
+552440##The Talos Principle VR##25
+270050##Quest of Dungeons##23
+606180##Viveport Video##22
+755770##YouTube VR##21
+15620##Warhammer 40,000: Dawn of War II##20
+617830##SUPERHOT VR##18
+65300##Dustforce##17
+30##Day of Defeat##16
+244160##Homeworld Remastered Collection##16
+371420##Teddy Floppy Ear - The Race##16
+244210##Assetto Corsa##14
+373930##Sudden Strike 4##14
+837380##DeoVR Video Player##14
+225540##Just Cause 3##10
+342980##Destination Sol##9
+386070##Planetary Annihilation: TITANS##9
+400##Portal##1
+300550##Shadowrun: Dragonfall - Director's Cut##1
+374570##Kung Fury##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+7760##X-COM: UFO Defense##0
+205790##Dota 2 Test##0
+57690##Tropico 4##0
+367540##Starbound - Unstable##0
+286000##Tooth and Tail##0
+65790##Arma: Cold War Assault##0
+42980##Victoria: Revolutions##0
+214490##Alien: Isolation##0
+341800##Keep Talking and Nobody Explodes##0
+346940##Shadowrun: Hong Kong - Extended Edition##0
+235540##Warhammer: End Times - Vermintide##0
+10500##Total War: EMPIRE - Definitive Edition##0
+345260##MEDIEVAL: Total War™ - Gold Edition##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+364360##Total War: WARHAMMER##0
+368230##Kingdom: Classic##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+219780##Divinity II: Developer's Cut##0
+435150##Divinity: Original Sin 2##0
+322500##SUPERHOT##0
+@@REVIEW
+546560##Recommended
+1222730##Not Recommended

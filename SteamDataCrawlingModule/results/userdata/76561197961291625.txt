@@ -1,0 +1,22 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+282660##Easy eSports##0
+730##Counter-Strike: Global Offensive##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+735360##Driver Booster 5 for Steam##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+920490##Driver Booster for Steam##0
+325180##AppGameKit Classic##0
+@@REVIEW
+730##Recommended

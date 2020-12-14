@@ -1,0 +1,191 @@
+@@GAME
+8930##Sid Meier's Civilization V##25816
+440##Team Fortress 2##22889
+289070##Sid Meier's Civilization VI##16523
+268500##XCOM 2##14074
+281990##Stellaris##14009
+394360##Hearts of Iron IV##13631
+227940##Heroes & Generals##12673
+228280##Baldur's Gate: Enhanced Edition##11944
+427520##Factorio##10276
+212680##FTL: Faster Than Light##8879
+98800##Dungeons of Dredmor##7509
+200510##XCOM: Enemy Unknown##6518
+418460##Rising Storm 2: Vietnam##6442
+377160##Fallout 4##5678
+201790##Orcs Must Die! 2##5280
+72850##The Elder Scrolls V: Skyrim##5224
+257350##Baldur's Gate II: Enhanced Edition##4944
+233450##Prison Architect##4897
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##4636
+3590##Plants vs. Zombies: Game of the Year##3706
+8800##Sid Meier's Civilization IV: Beyond the Sword##3690
+834910##ATLAS##3305
+41500##Torchlight##2748
+282590##Star Ruler 2##2487
+203770##Crusader Kings II##2370
+241600##Rogue Legacy##2190
+42710##Call of Duty: Black Ops - Multiplayer##1931
+4920##Natural Selection 2##1900
+241930##Middle-earth™: Shadow of Mordor™##1860
+220200##Kerbal Space Program##1802
+47900##Dragon Age II (Retired)##1753
+34330##Total War: SHOGUN 2##1744
+203630##Warlock - Master of the Arcane##1700
+39210##FINAL FANTASY XIV Online##1697
+300##Day of Defeat: Source##1621
+1018830##Element TD 2##1599
+268850##EVGA Precision X1##1540
+550##Left 4 Dead 2##1510
+326410##Windward##1501
+9900##Star Trek Online##1349
+386180##Crossout##1253
+208140##Endless Space##1223
+91600##Sanctum##1151
+33220##Tom Clancy's Splinter Cell: Conviction##1042
+34010##Alpha Protocol##973
+12900##Audiosurf##968
+238090##Sniper Elite 3##921
+15620##Warhammer 40,000: Dawn of War II##906
+813820##Realm Royale##898
+228260##Fallen Enchantress: Legendary Heroes##881
+312660##Sniper Elite 4##878
+620##Portal 2##864
+207610##The Walking Dead##813
+225420##Cities in Motion 2##733
+20540##Company of Heroes: Tales of Valor##709
+1520##DEFCON##686
+10500##Total War: EMPIRE - Definitive Edition##681
+291650##Pillars of Eternity##668
+42990##Sword of the Stars II: Enhanced Edition##653
+55040##Atom Zombie Smasher ##643
+362960##Tyranny##642
+102600##Orcs Must Die!##631
+240##Counter-Strike: Source##606
+108200##Ticket to Ride##555
+98200##Frozen Synapse##552
+261030##The Walking Dead: Season Two##542
+108210##Memoir '44 Online##536
+239030##Papers, Please##535
+882100##XCOM: Chimera Squad##493
+292030##The Witcher 3: Wild Hunt##489
+204880##Sins of a Solar Empire: Rebellion##485
+33230##Assassin's Creed II##468
+92800##SpaceChem##459
+228200##Company of Heroes ##431
+251570##7 Days to Die##426
+22300##Fallout 3##416
+22380##Fallout: New Vegas##415
+346110##ARK: Survival Evolved##369
+236390##War Thunder##367
+252870##PULSAR: Lost Colony##350
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##340
+42700##Call of Duty: Black Ops##326
+400##Portal##321
+397060##Faeria##315
+570##Dota 2##315
+221910##The Stanley Parable##301
+10680##Aliens vs. Predator##260
+4560##Company of Heroes - Legacy Edition##244
+321800##Icewind Dale: Enhanced Edition##233
+15560##AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome##219
+3480##Peggle Deluxe##214
+244850##Space Engineers##195
+500##Left 4 Dead##190
+206190##Gunpoint##176
+6420##Nexus: The Jupiter Incident##170
+202270##Leviathan: Warships##167
+563560##Alien Swarm: Reactive Drop##167
+43110##Metro 2033##163
+41070##Serious Sam 3: BFE##160
+210770##Sanctum 2##139
+202200##Galactic Civilizations II: Ultimate Edition##128
+3720##Evil Genius##119
+63000##HOARD##118
+3900##Sid Meier's Civilization IV##112
+225840##Sven Co-op##101
+73190##Pride of Nations##97
+19900##Far Cry 2##75
+289130##Endless Legend™ - Emperor Edition##75
+8190##Just Cause 2##71
+42910##Magicka##71
+209080##Guns of Icarus Online##69
+608800##Guns of Icarus Alliance##69
+233860##Kenshi##65
+212800##Super Crate Box##51
+427270##Orcs Must Die! Unchained##51
+420290##Blackwake##50
+24780##SimCity 4 Deluxe##44
+4760##Rome: Total War##43
+50620##Darksiders##42
+420##Half-Life 2: Episode Two##41
+40400##AI War: Fleet Command##41
+220##Half-Life 2##37
+13230##Unreal Tournament 2004##33
+335830##Distant Star: Revenant Fleet##26
+217060##Total War Battles: SHOGUN##18
+630##Alien Swarm##18
+340##Half-Life 2: Lost Coast##16
+20900##The Witcher: Enhanced Edition##8
+13520##Far Cry##6
+20##Team Fortress Classic##5
+47410##Stronghold Kingdoms##4
+30##Day of Defeat##2
+33930##Arma 2: Operation Arrowhead##1
+55230##Saints Row: The Third##1
+10##Counter-Strike##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+4000##Garry's Mod##0
+3970##Prey##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+23490##Tropico 3 - Steam Special Edition##0
+3990##Sid Meier's Civilization IV: Warlords##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+42890##Sword of the Stars Complete Collection##0
+33900##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+1238040##Dragon Age II##0
+4540##Titan Quest##0
+475150##Titan Quest Anniversary Edition##0
+48190##Assassin's Creed Brotherhood##0
+91700##E.Y.E: Divine Cybermancy##0
+9420##Supreme Commander: Forged Alliance##0
+564310##Serious Sam Fusion 2017 (beta)##0
+205790##Dota 2 Test##0
+98100##TRAUMA##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+34030##Total War: NAPOLEON - Definitive Edition##0
+211160##Viking: Battle for Asgard##0
+9340##Company of Heroes: Opposing Fronts##0
+55110##Red Faction: Armageddon##0
+462780##Darksiders Warmastered Edition##0
+214150##Galactic Civilizations I: Ultimate Edition##0
+212070##Star Conflict##0
+238960##Path of Exile##0
+238210##System Shock 2##0
+218620##PAYDAY 2##0
+274940##Depth##0
+407530##ARK: Survival Of The Fittest##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+271240##Offworld Trading Company##0
+466300##Planescape: Torment: Enhanced Edition##0
+480490##Prey##0
+573410##AI War 2##0
+704450##Neverwinter Nights: Enhanced Edition##0
+878760##Realm Royale - Test Server##0
+823130##Totally Accurate Battlegrounds##0
+730##Counter-Strike: Global Offensive##0
+226840##Age of Wonders III##0
+@@REVIEW
+418460##Recommended

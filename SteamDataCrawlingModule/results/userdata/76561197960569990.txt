@@ -1,0 +1,95 @@
+@@GAME
+252490##Rust##11131
+365590##Tom Clancy's The Division##7149
+271590##Grand Theft Auto V##2125
+258970##Gauntlet™ ##2080
+620##Portal 2##1786
+304240##Resident Evil##1681
+730##Counter-Strike: Global Offensive##1635
+200710##Torchlight II##1485
+209000##Batman™: Arkham Origins##1324
+377160##Fallout 4##1271
+252950##Rocket League##1191
+238960##Path of Exile##889
+220240##Far Cry® 3##887
+17700##Insurgency: Modern Infantry Combat##823
+218620##PAYDAY 2##819
+8870##BioShock Infinite##771
+10##Counter-Strike##679
+17430##Need for Speed: Undercover##661
+8980##Borderlands GOTY##638
+203290##America's Army: Proving Grounds##525
+550##Left 4 Dead 2##364
+440##Team Fortress 2##356
+28050##Deus Ex: Human Revolution##312
+21690##Resident Evil 5##224
+42910##Magicka##206
+10090##Call of Duty: World at War##160
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##131
+400##Portal##98
+240##Counter-Strike: Source##79
+433850##Z1 Battle Royale##64
+304390##For Honor##31
+236390##War Thunder##26
+4920##Natural Selection 2##6
+252350##Double Dragon Neon##5
+233270##Far Cry® 3 Blood Dragon##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+4000##Garry's Mod##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+22300##Fallout 3##0
+41500##Torchlight##0
+45700##Devil May Cry 4##0
+729040##Borderlands GOTY Enhanced##0
+55100##Homefront##0
+72850##The Elder Scrolls V: Skyrim##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+205790##Dota 2 Test##0
+67370##The Darkness II##0
+22380##Fallout: New Vegas##0
+102600##Orcs Must Die!##0
+209080##Guns of Icarus Online##0
+219150##Hotline Miami##0
+91600##Sanctum##0
+219640##Chivalry: Medieval Warfare##0
+204100##Max Payne 3##0
+201790##Orcs Must Die! 2##0
+47410##Stronghold Kingdoms##0
+99900##Spiral Knights##0
+200210##Realm of the Mad God Exalt##0
+212070##Star Conflict##0
+230410##Warframe##0
+231060##Ragnarok Online 2##0
+225420##Cities in Motion 2##0
+210770##Sanctum 2##0
+65930##The Bureau: XCOM Declassified##0
+207140##SpeedRunners##0
+368730##No Time To Explain Remastered##0
+700580##Rust - Staging Branch##0
+261110##Killer is Dead##0
+213670##South Park™: The Stick of Truth™##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+291480##Warface##0
+265590##The Red Solstice##0
+333930##Dirty Bomb##0
+355840##Survarium##0
+439700##H1Z1: Test Server##0
+524440##Tom Clancy's The Division PTS##0
+553640##ICEY##0
+654310##For Honor - Public Test##0
+@@REVIEW

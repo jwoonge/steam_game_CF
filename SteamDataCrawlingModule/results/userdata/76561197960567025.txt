@@ -1,0 +1,227 @@
+@@GAME
+215100##Ragnarok##22935
+216150##MapleStory##9295
+11020##TrackMania Nations Forever##2321
+440##Team Fortress 2##2297
+4000##Garry's Mod##1558
+761890##Albion Online##1473
+238960##Path of Exile##1282
+242920##Banished##1200
+219990##Grim Dawn##1017
+240##Counter-Strike: Source##948
+105600##Terraria##947
+356190##Middle-earth™: Shadow of War™##797
+323370##TERA##631
+730##Counter-Strike: Global Offensive##572
+41500##Torchlight##488
+588650##Dead Cells##483
+241600##Rogue Legacy##470
+751780##Forager##434
+225840##Sven Co-op##408
+70##Half-Life##367
+328080##Rise to Ruins##309
+55230##Saints Row: The Third##292
+252950##Rocket League##260
+255710##Cities: Skylines##251
+65800##Dungeon Defenders##249
+630##Alien Swarm##244
+4540##Titan Quest##242
+433340##Slime Rancher##232
+7670##BioShock##198
+264140##Pixel Piracy##182
+233470##Evoland##162
+236110##Dungeon Defenders II##162
+8190##Just Cause 2##159
+102600##Orcs Must Die!##159
+239070##Hammerwatch##153
+24240##PAYDAY: The Heist##147
+200710##Torchlight II##144
+107200##Space Pirates and Zombies##136
+635260##CarX Drift Racing Online##134
+321040##DiRT 3 Complete Edition##130
+452060##Caveblazers##126
+12750##GRID##122
+269210##Hero Siege##117
+413150##Stardew Valley##96
+34270##SEGA Mega Drive & Genesis Classics##74
+15620##Warhammer 40,000: Dawn of War II##68
+219830##King Arthur's Gold##67
+220##Half-Life 2##65
+109600##Neverwinter##63
+206500##AirMech Strike##59
+248820##Risk of Rain##53
+244210##Assetto Corsa##51
+107800##Rochard##44
+211##Source SDK##44
+236730##Anomaly 2##40
+113020##Monaco##38
+308040##Back to Bed##38
+400##Portal##34
+210770##Sanctum 2##33
+200170##Worms Revolution##32
+20820##Shatter##23
+10##Counter-Strike##18
+207730##Arena Wars 2##18
+979120##Autonauts##18
+315940##Top Hat##16
+214510##LEGO® The Lord of the Rings™##15
+372360##Tales of Symphonia##12
+382490##Relic Hunters Zero##9
+314010##Boid##7
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+409710##BioShock Remastered##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+98200##Frozen Synapse##0
+28050##Deus Ex: Human Revolution##0
+3830##Psychonauts##0
+202070##Choplifter HD##0
+204880##Sins of a Solar Empire: Rebellion##0
+35000##Mini Ninjas##0
+207690##Botanicula##0
+104900##ORION: Prelude##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+4550##Titan Quest: Immortal Throne##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+43110##Metro 2033##0
+50620##Darksiders##0
+55100##Homefront##0
+55150##Warhammer 40,000: Space Marine##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+96800##Nexuiz##0
+216370##Nexuiz Beta##0
+225760##Nexuiz STUPID Mode##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+475150##Titan Quest Anniversary Edition##0
+209080##Guns of Icarus Online##0
+108500##Vessel##0
+65300##Dustforce##0
+219640##Chivalry: Medieval Warfare##0
+4920##Natural Selection 2##0
+239220##The Mighty Quest For Epic Loot##0
+218060##BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien##0
+224220##Pressure##0
+44350##GRID 2##0
+203750##Binary Domain##0
+206190##Gunpoint##0
+252310##Syder Arcade##0
+252410##SteamWorld Dig##0
+257120##Not The Robots##0
+257990##Oozi: Earth Adventure##0
+262280##Dungeons 2##0
+263320##Saturday Morning RPG##0
+265930##Goat Simulator##0
+268870##Satellite Reign##0
+269330##Chronology##0
+281640##The Banner Saga 2##0
+285160##LEGO® The Hobbit™##0
+237350##Frozen Cortex##0
+270150##RUNNING WITH RIFLES##0
+293880##Dark Scavenger##0
+302010##The Blue Flamingo##0
+307620##Curses 'N Chaos##0
+312670##Strange Brigade##0
+315430##Polarity##0
+318600##The Flame in the Flood##0
+320340##Cosmonautica##0
+325090##Deep Dungeons of Doom##0
+330020##Children of Morta##0
+304650##Sunless Sea##0
+340150##Basement##0
+343100##Overture##0
+343710##KHOLAT##0
+342020##BiT Evolution##0
+367500##Dragon's Dogma: Dark Arisen##0
+238370##Magicka 2##0
+397080##Magicka 2: Spell Balance Beta##0
+294100##RimWorld##0
+371330##Two Digits##0
+383270##Hue##0
+214770##Guacamelee! Gold Edition##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+390040##Small Radios Big Televisions##0
+392410##ToyOdyssey##0
+393190##TSIOQUE##0
+394700##Karma. Incarnation 1##0
+397060##Faeria##0
+402840##Crusaders of the Lost Idols##0
+406970##The Uncertain: Last Quiet Day##0
+423900##Dinocide##0
+425210##Shadwen##0
+427270##Orcs Must Die! Unchained##0
+427680##Zwei: The Arges Adventure##0
+427700##Zwei: The Ilvard Insurrection##0
+431240##Golf With Your Friends##0
+460190##Rocket Riot##0
+461710##Tales Across Time##0
+485120##Frog Climbers##0
+486290##Waddle Home##0
+491950##Orwell##0
+528720##Shu##0
+528820##Eisenwald: Blood of November##0
+533860##Multimirror##0
+553310##Lethal League Blaze##0
+555000##GOAT OF DUTY##0
+555610##Gunmetal Arcadia Zero##0
+507490##Ashes of the Singularity: Escalation##0
+204240##The Bridge##0
+269710##Tumblestone##0
+596970##Sunless Skies##0
+606280##Darksiders III##0
+640120##Youropa##0
+218620##PAYDAY 2##0
+704270##Generation Zero®##0
+714120##Little Misfortune##0
+231430##Company of Heroes 2##0
+765880##The Occupation##0
+368230##Kingdom: Classic##0
+792300##The Beast Inside##0
+797410##Headsnatchers##0
+838410##Tabletop Playground##0
+585450##Shadows: Awakening##0
+846870##Yooka-Laylee and the Impossible Lair##0
+864680##Rover Mechanic Simulator##0
+873940##Crying Suns##0
+809890##Shining Resonance Refrain##0
+898650##The Shapeshifting Detective##0
+899310##Iron Danger##0
+938380##Townsmen - A Kingdom Rebuilt##0
+939100##Darksburg##0
+492720##Tropico 6##0
+959520##Fantasy Blacksmith##0
+960690##One Step From Eden##0
+963000##The Haunted Island, a Frog Detective Game##0
+893180##Catherine Classic##0
+994140##Lightmatter##0
+995980##Fae Tactics##0
+1018850##Smile For Me##0
+1020470##Evoland Legendary Edition##0
+1035560##Struggling##0
+1047220##Frog Detective 2: The Case of the Invisible Wizard##0
+1057750##The Suicide of Rachel Foster##0
+1063490##Still There##0
+927380##Yakuza Kiwami 2##0
+859580##Imperator: Rome##0
+1096410##Vampire: The Masquerade - Coteries of New York##0
+1142500##Fun with Ragdolls: The Game##0
+1181400##Path of Giants##0
+594770##Legends of Aria##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+421170##Indivisible##0
+274520##Darkwood##0
+@@REVIEW
+331360##Recommended

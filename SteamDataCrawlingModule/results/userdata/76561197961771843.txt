@@ -1,0 +1,71 @@
+@@GAME
+268850##EVGA Precision X1##56280
+1085660##Destiny 2##32572
+550##Left 4 Dead 2##8806
+251570##7 Days to Die##4817
+41500##Torchlight##2868
+271590##Grand Theft Auto V##1479
+377160##Fallout 4##1462
+220##Half-Life 2##1260
+223850##3DMark##862
+240##Counter-Strike: Source##466
+420##Half-Life 2: Episode Two##448
+9900##Star Trek Online##344
+380##Half-Life 2: Episode One##213
+225540##Just Cause 3##155
+815370##Green Hell##142
+489520##Minion Masters##129
+20900##The Witcher: Enhanced Edition##106
+730##Counter-Strike: Global Offensive##91
+774241##Warhammer: Chaosbane##90
+782330##DOOM Eternal##85
+280##Half-Life: Source##82
+8500##EVE Online##75
+400##Portal##66
+704270##Generation Zero®##63
+201810##Wolfenstein: The New Order##52
+431960##Wallpaper Engine##52
+1172380##STAR WARS Jedi: Fallen Order™ ##51
+301640##Zombie Army Trilogy##46
+750920##Shadow of the Tomb Raider##42
+234650##Shadowrun Returns##33
+340##Half-Life 2: Lost Coast##21
+364470##The Elder Scrolls: Legends##16
+300##Day of Defeat: Source##15
+681660##Bless Online##15
+804320##Papers, Please - The Short Film##9
+214490##Alien: Isolation##8
+366530##Esenthel Engine##6
+617290##Remnant: From the Ashes##4
+24780##SimCity 4 Deluxe##1
+236390##War Thunder##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+8930##Sid Meier's Civilization V##0
+223750##DCS World Steam Edition##0
+381210##Dead by Daylight##0
+450390##The Lab##0
+484900##Aven Colony##0
+589290##Holdfast: Nations At War##0
+278910##Interplanetary##0
+650220##Interplanetary: Enhanced Edition##0
+677620##Splitgate: Arena Warfare##0
+686260##Forged Battalion##0
+712190##Genesis Alpha One Deluxe Edition##0
+945360##Among Us##0
+359320##Elite Dangerous##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW
+251570##Recommended
+1085660##Recommended
+271590##Recommended

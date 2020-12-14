@@ -1,0 +1,23 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+262410##World of Guns: Gun Disassembly##0
+271590##Grand Theft Auto V##0
+312280##Simply Chess##0
+730##Counter-Strike: Global Offensive##0
+365450##Hacknet##0
+391160##The Deletion##0
+434110##Premium Pool##0
+550650##Black Squad##0
+670290##Real Pool 3D - Poolians##0
+773920##scram##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+611500##Quake Champions##0
+@@REVIEW

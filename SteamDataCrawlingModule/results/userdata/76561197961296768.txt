@@ -1,0 +1,20 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+227300##Euro Truck Simulator 2##0
+234650##Shadowrun Returns##0
+282070##This War of Mine##0
+331220##Thief Town##0
+414660##Vampire Legends: The True Story of Kisilova##0
+491950##Orwell##0
+755790##Ring of Elysium##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+730##Counter-Strike: Global Offensive##0
+@@REVIEW

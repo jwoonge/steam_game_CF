@@ -1,0 +1,26 @@
+@@GAME
+359550##Tom Clancy's Rainbow Six Siege##7631
+730##Counter-Strike: Global Offensive##1536
+271590##Grand Theft Auto V##1063
+477160##Human: Fall Flat##535
+393420##Hurtworld##256
+105600##Terraria##170
+736190##Chinese Parents##114
+570##Dota 2##45
+755790##Ring of Elysium##42
+251570##7 Days to Die##10
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+4000##Garry's Mod##0
+445900##Hurtworld SDK##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+508900##Zup! X##0
+@@REVIEW
+359550##Recommended
+271590##Recommended

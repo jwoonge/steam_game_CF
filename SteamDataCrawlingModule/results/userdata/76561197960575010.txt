@@ -1,0 +1,167 @@
+@@GAME
+271590##Grand Theft Auto V##24598
+440##Team Fortress 2##4541
+480490##Prey##4516
+360430##Mafia III: Definitive Edition##3809
+517630##Just Cause 4##3716
+612880##Wolfenstein II: The New Colossus##3100
+397540##Borderlands 3##3097
+1190460##DEATH STRANDING##2900
+234140##Mad Max##2884
+239140##Dying Light##2884
+1151640##Horizon Zero Dawn##2870
+362890##Black Mesa##2706
+379720##DOOM##2480
+750920##Shadow of the Tomb Raider##2464
+403640##Dishonored 2##2385
+391220##Rise of the Tomb Raider##2254
+208650##Batman™: Arkham Knight##2085
+264710##Subnautica##1946
+311210##Call of Duty: Black Ops III##1916
+240##Counter-Strike: Source##1863
+704270##Generation Zero®##1835
+230410##Warframe##1723
+290930##Half-Life 2: Update##1643
+203160##Tomb Raider##1454
+292730##Call of Duty: Infinite Warfare##1452
+324800##Shadow Warrior 2##1195
+49520##Borderlands 2##1140
+233130##Shadow Warrior##1116
+9200##RAGE##1101
+438640##LEGO® STAR WARS™: The Force Awakens##1095
+287390##Metro: Last Light Redux##1073
+620##Portal 2##1028
+8870##BioShock Infinite##997
+209650##Call of Duty: Advanced Warfare##985
+393080##Call of Duty: Modern Warfare Remastered##985
+275850##No Man's Sky##979
+204100##Max Payne 3##973
+421020##DiRT 4##968
+226720##Lost Planet 3##956
+21100##F.E.A.R. 3##954
+223850##3DMark##944
+420##Half-Life 2: Episode Two##924
+1030830##Mafia II: Definitive Edition##914
+476600##Call of Duty: WWII##901
+209160##Call of Duty: Ghosts##853
+350080##Wolfenstein: The Old Blood ##820
+337000##Deus Ex: Mankind Divided™##809
+474960##Quantum Break##803
+287290##Resident Evil Revelations 2##782
+1030840##Mafia: Definitive Edition##763
+201810##Wolfenstein: The New Order##720
+223100##Homefront: The Revolution##704
+42670##Singularity##688
+2210##Quake 4##653
+614570##Dishonored®: Death of the Outsider™ ##621
+16450##F.E.A.R. 2: Project Origin##604
+402710##Osiris: New Dawn##567
+377160##Fallout 4##566
+57900##Duke Nukem Forever##548
+952060##Resident Evil 3##519
+380##Half-Life 2: Episode One##500
+286690##Metro 2033 Redux##496
+428660##Deliver Us The Moon##443
+400##Portal##386
+310560##DiRT Rally##373
+17410##Mirror's Edge##353
+320240##We Happy Few##340
+211400##Deadlight##301
+261640##Borderlands: The Pre-Sequel##297
+312670##Strange Brigade##293
+47780##Dead Space 2##289
+55100##Homefront##280
+848450##Subnautica: Below Zero##277
+238010##Deus Ex: Human Revolution - Director's Cut##265
+738520##Breathedge##259
+92000##Hydrophobia: Prophecy##255
+630##Alien Swarm##245
+32360##The Secret of Monkey Island: Special Edition##190
+278360##A Story About My Uncle##190
+10680##Aliens vs. Predator##187
+218620##PAYDAY 2##165
+304430##INSIDE##162
+307690##Sleeping Dogs: Definitive Edition##158
+355790##Styx: Shards of Darkness##158
+409720##BioShock 2 Remastered##140
+225540##Just Cause 3##139
+49540##Aliens: Colonial Marines##138
+208200##DOOM 3: BFG Edition##133
+47790##Medal of Honor(TM) Single Player##121
+201870##Assassin's Creed Revelations##116
+460810##Vanquish##100
+274130##Rambo The Video Game##93
+387290##Ori and the Blind Forest: Definitive Edition##88
+955050##Bright Memory##84
+669660##Debris##82
+1085660##Destiny 2##80
+730##Counter-Strike: Global Offensive##73
+255710##Cities: Skylines##70
+571740##Golf It!##67
+12210##Grand Theft Auto IV: The Complete Edition##64
+291480##Warface##62
+287340##Colin McRae Rally##49
+10130##TimeShift##48
+458770##WRC 6##41
+12750##GRID##37
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##35
+476620##Call of Duty: WWII - Multiplayer##32
+214490##Alien: Isolation##29
+530700##Argo##27
+209660##Call of Duty: Advanced Warfare - Multiplayer##21
+265930##Goat Simulator##19
+209170##Call of Duty: Ghosts - Multiplayer##18
+255220##GRID Autosport##14
+321040##DiRT 3 Complete Edition##10
+1249200##Ghostrunner Demo##10
+207610##The Walking Dead##9
+220##Half-Life 2##4
+255520##Viscera Cleanup Detail: Shadow Warrior##3
+299950##GET EVEN##2
+908420##We Happy Few - Soundtrack and Digital Goods Bundle##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+550##Left 4 Dead 2##0
+70100##Hacker Evolution##0
+50300##Spec Ops: The Line##0
+47830##Medal of Honor(TM) Multiplayer##0
+218510##Planets Under Attack##0
+272350##Tom Clancy's Ghost Recon Phantoms - EU##0
+44350##GRID 2##0
+248730##A Walk in the Dark##0
+217490##Borderlands 2 RU##0
+265590##The Red Solstice##0
+351030##Pixel Puzzles Ultimate##0
+355920##Pixel Puzzles 2: Space##0
+261570##Ori and the Blind Forest##0
+388270##Baseball Mogul 2015##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+405720##Perfect Universe##0
+8850##BioShock 2##0
+431220##Porradaria 2: Pagode of the Night##0
+50130##Mafia II (Classic)##0
+393100##Call of Duty: Modern Warfare Remastered - Multiplayer##0
+741820##Prey: Typhon Hunter##0
+952070##RESIDENT EVIL RESISTANCE##0
+@@REVIEW
+397540##Recommended
+360430##Recommended
+1030830##Recommended
+517630##Recommended
+952060##Recommended
+362890##Recommended
+292730##Recommended
+271590##Recommended

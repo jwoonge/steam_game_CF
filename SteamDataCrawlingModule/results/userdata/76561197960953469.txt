@@ -1,0 +1,125 @@
+@@GAME
+570##Dota 2##222685
+252490##Rust##210842
+730##Counter-Strike: Global Offensive##140525
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##30128
+629520##Soundpad##29255
+10##Counter-Strike##21470
+271590##Grand Theft Auto V##19875
+292030##The Witcher 3: Wild Hunt##18893
+295110##Just Survive##14851
+393420##Hurtworld##13111
+433850##Z1 Battle Royale##3791
+289070##Sid Meier's Civilization VI##2010
+552520##Far Cry 5##1714
+815370##Green Hell##1324
+242760##The Forest##1216
+216250##Dead Island Riptide##916
+1091500##Cyberpunk 2077##858
+222880##Insurgency##807
+361800##Tree of Life##517
+107410##Arma 3##344
+263280##Spintires®##264
+252950##Rocket League##134
+319630##Life is Strange™##117
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##84
+12120##Grand Theft Auto: San Andreas##66
+201810##Wolfenstein: The New Order##40
+346110##ARK: Survival Evolved##39
+24240##PAYDAY: The Heist##38
+235540##Warhammer: End Times - Vermintide##34
+413850##CS:GO Player Profiles##12
+413857##CS:GO Player Profiles: markeloff - Flipsid3##6
+413856##CS:GO Player Profiles: Edward - Na'Vi##5
+411180##Dota 2 Player Profiles##3
+411182##Dota 2 Player Profiles: Na'Vi - XBOCT##2
+70##Half-Life##1
+411194##Dota 2 Player Profiles: Virtus.Pro - FNG##1
+458270##CS:GO Player Profiles: Guardian - Na'Vi##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+12250##Grand Theft Auto: San Andreas##0
+104900##ORION: Prelude##0
+218620##PAYDAY 2##0
+292910##Deponia: The Complete Journey##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+367690##Spintires® - Editor##0
+304930##Unturned##0
+205790##Dota 2 Test##0
+332070##School of Dragons: How to Train Your Dragon##0
+305620##The Long Dark##0
+700580##Rust - Staging Branch##0
+407530##ARK: Survival Of The Fittest##0
+696260##Tree of Life - Experimental Server##0
+445900##Hurtworld SDK##0
+411181##Dota 2 Player Profiles: EG - Suma1L##0
+411183##Dota 2 Player Profiles: Invictus Gaming - Ferrari##0
+411184##Dota 2 Player Profiles: MVPHot6 - HEEN##0
+411185##Dota 2 Player Profiles: EHOME - ROTK##0
+411186##Dota 2 Player Profiles: Cloud9 - N0Tail##0
+411187##Dota 2 Player Profiles: Complexity - zfreek##0
+411188##Dota 2 Player Profiles: Empire - Alohadance##0
+411189##Dota 2 Player Profiles: Fnatic - Kecik-Imba##0
+411190##Dota 2 Player Profiles: LGD - Xiao8##0
+411191##Dota 2 Player Profiles: Newbee - Mu##0
+411192##Dota 2 Player Profiles: Team Secret - S4##0
+411193##Dota 2 Player Profiles: Vici - fy##0
+419910##Dota 2 Player Profiles: CDEC's Journey to The Majors##0
+420090##Dota 2 Player Profiles: EG Champions of TI5##0
+523480##Dota 2 Player Profiles: Vici Gaming Reborn - END##0
+523481##Dota 2 Player Profiles: OG - Fly##0
+523482##Dota 2 Player Profiles: EHOME - iceiceice##0
+523483##Dota 2 Player Profiles: Team Liquid - MATUMBAMAN##0
+523484##Dota 2 Player Profiles: LGD - Maybe##0
+523485##Dota 2 Player Profiles: MVP Phoenix - QO##0
+523486##Dota 2 Player Profiles: Not Playing Dota with Complexity##0
+523487##Dota 2 Player Profiles: Not Playing Dota with Dendi##0
+523488##Dota 2 Player Profiles: Not Playing Dota with END##0
+523489##Dota 2 Player Profiles: Not Playing Dota With MATUMBAMAN##0
+523490##Dota 2 Player Profiles: Not Playing Dota With QO##0
+702690##Dota 2 Player Profiles: OG - ANA##0
+702691##Dota 2 Player Profiles: Invictus Gaming -  BurNIng##0
+702692##Dota 2 Player Profiles: Team Liquid - Miracle-##0
+702693##Dota 2 Player Profiles: Virtus.Pro##0
+702694##Dota 2 Player Profiles: Not Playing Dota With ANA##0
+702695##Dota 2 Player Profiles: Not Playing Dota with Universe and Zai##0
+702696##Dota 2 Player Profiles: Not Playing Dota With Virtus.Pro##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+737800##F1 2018##0
+406970##The Uncertain: Last Quiet Day##0
+489520##Minion Masters##0
+@@REVIEW
+252490##Recommended
+730##Recommended

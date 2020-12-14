@@ -1,0 +1,218 @@
+@@GAME
+250820##SteamVR##71935
+730##Counter-Strike: Global Offensive##56107
+113400##APB Reloaded##25249
+252950##Rocket League##23545
+104700##Super Monday Night Combat##22256
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##18890
+271590##Grand Theft Auto V##14925
+295110##Just Survive##11296
+4000##Garry's Mod##7666
+25860##Sword of the Stars##6840
+746930##OrbusVR##6517
+496240##Onward##6297
+24960##Battlefield: Bad Company™ 2##5139
+359320##Elite Dangerous##5077
+244850##Space Engineers##4808
+594650##Hunt: Showdown##4753
+1250410##Microsoft Flight Simulator##4683
+433850##Z1 Battle Royale##4245
+264710##Subnautica##4153
+440##Team Fortress 2##3970
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##3935
+221100##DayZ##3906
+281990##Stellaris##3597
+304930##Unturned##3484
+570##Dota 2##3333
+1213210##Command & Conquer™ Remastered Collection##3031
+361420##ASTRONEER##3004
+204880##Sins of a Solar Empire: Rebellion##2881
+1097150##Fall Guys: Ultimate Knockout##2255
+550##Left 4 Dead 2##2196
+273350##Evolve Stage 2##2166
+895400##Deadside##2106
+500##Left 4 Dead##1940
+471710##Rec Room##1849
+275850##No Man's Sky##1848
+200110##Nosgoth##1784
+44320##DiRT 3##1609
+240##Counter-Strike: Source##1603
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##1534
+379720##DOOM##1228
+255710##Cities: Skylines##1169
+220##Half-Life 2##1143
+770720##Hunt: Showdown (Test Server)##1115
+620##Portal 2##1112
+394230##Battleborn##1102
+1510##Uplink##1095
+391220##Rise of the Tomb Raider##1028
+546560##Half-Life: Alyx##955
+381210##Dead by Daylight##927
+750920##Shadow of the Tomb Raider##912
+365450##Hacknet##910
+1057240##Crucible##834
+437220##The Culling##818
+7200##TrackMania United Forever##802
+42680##Call of Duty: Modern Warfare 3##772
+10180##Call of Duty: Modern Warfare 2##743
+999860##Enemy On Board##713
+1222730##STAR WARS™: Squadrons##703
+367450##Poly Bridge##624
+314160##Microsoft Flight Simulator X: Steam Edition##604
+436320##Raw Data##548
+823500##BONEWORKS##537
+243470##Watch_Dogs##525
+620980##Beat Saber##483
+220200##Kerbal Space Program##469
+386360##SMITE##463
+42990##Sword of the Stars II: Enhanced Edition##445
+232910##TrackMania² Stadium##441
+218620##PAYDAY 2##385
+105600##Terraria##361
+341800##Keep Talking and Nobody Explodes##355
+1250##Killing Floor##351
+320##Half-Life 2: Deathmatch##342
+1091500##Cyberpunk 2077##341
+863550##HITMAN™ 2##313
+327690##Gigantic##301
+400940##Budget Cuts##301
+630##Alien Swarm##290
+98200##Frozen Synapse##287
+290790##Grey Goo##271
+848450##Subnautica: Below Zero##267
+252490##Rust##262
+407060##AltspaceVR##261
+49520##Borderlands 2##259
+963930##Contractors VR##247
+274940##Depth##242
+611500##Quake Champions##218
+271290##HAWKEN##213
+200710##Torchlight II##211
+270130##The Gallery - Episode 1: Call of the Starseed##205
+427760##A Chair in a Room: Greenwater##180
+1092430##Budget Cuts 2: Mission Insolvency##174
+400##Portal##168
+342180##Arizona Sunshine##166
+467660##Paranormal Activity: The Lost Soul##147
+380670##Final Approach##143
+294160##Galcon 2##141
+380220##Hover Junkers##140
+425720##Cloudlands : VR Minigolf##137
+348250##Google Earth VR##132
+346110##ARK: Survival Evolved##130
+311210##Call of Duty: Black Ops III##125
+386690##Fantastic Contraption##120
+8930##Sid Meier's Civilization V##112
+450390##The Lab##111
+202090##Magicka: Wizard Wars##110
+282440##Quake Live##103
+200510##XCOM: Enemy Unknown##98
+322770##Vanishing Realms##98
+297810##Landmark##94
+209170##Call of Duty: Ghosts - Multiplayer##93
+531270##The Art of Fight##81
+566530##Mass Exodus Redux##79
+650000##DOOM VFR##78
+455440##Spell Fighter VR##75
+555160##Pavlov VR##73
+446750##Portal Stories: VR##68
+408250##Eagle Flight##63
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##60
+451840##Out of Ammo##56
+494810##VR: Vacate the Room##56
+689620##Alpha Mike Foxtrot##56
+12900##Audiosurf##55
+208200##DOOM 3: BFG Edition##51
+526140##The Gallery - Episode 2: Heart of the Emberstone##49
+520010##Climbey##48
+10##Counter-Strike##43
+223850##3DMark##43
+525640##Bullets And More VR - BAM VR##42
+699390##Knife Club VR##39
+823130##Totally Accurate Battlegrounds##39
+439700##H1Z1: Test Server##36
+484870##Battle Dome##31
+238960##Path of Exile##27
+38720##RUSH##26
+246700##Strike Vector##26
+408900##Unfortunate Spacemen##25
+15520##AaAaAA!!! - A Reckless Disregard for Gravity##24
+420##Half-Life 2: Episode Two##23
+433600##A Legend of Luca##19
+381940##Trials on Tatooine##18
+313630##The Solus Project##16
+1520##DEFCON##12
+252850##Streamline##9
+12210##Grand Theft Auto IV: The Complete Edition##6
+327140##Tilt Brush##6
+448280##Job Simulator##6
+222880##Insurgency##5
+40800##Super Meat Boy##4
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+1002##Rag Doll Kung Fu##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+2400##The Ship##0
+2430##The Ship Tutorial##0
+300##Day of Defeat: Source##0
+1530##Multiwinia##0
+25920##Sword of the Stars: Argos Naval Yard Expansion##0
+42890##Sword of the Stars Complete Collection##0
+33900##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+15500##The Wonderful End of the World##0
+15540##1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)##0
+18500##Defense Grid: The Awakening##0
+26500##Cogs##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+35460##The Ball##0
+38700##Toki Tori##0
+57300##Amnesia: The Dark Descent##0
+63700##BIT.TRIP BEAT##0
+44340##Operation Flashpoint: Red River##0
+321040##DiRT 3 Complete Edition##0
+205790##Dota 2 Test##0
+2420##The Ship Single Player##0
+201700##DiRT Showdown##0
+12830##Operation Flashpoint: Dragon Rising##0
+12810##Overlord II##0
+202970##Call of Duty: Black Ops II##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+2200##Quake III Arena##0
+2350##Quake III: Team Arena##0
+700580##Rust - Staging Branch##0
+209160##Call of Duty: Ghosts##0
+362300##Just Survive Test Server##0
+65930##The Bureau: XCOM Declassified##0
+310380##Fractured Space##0
+407530##ARK: Survival Of The Fittest##0
+339280##Strife##0
+481420##Final Approach: Pilot Edition##0
+858460##SMITE - Public Test##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+234630##Project CARS##0
+498990##Balloon Chair Death Match##0
+529840##Brawl of Ages##0
+236150##Starpoint Gemini 2##0
+657010##Lucky Night: Texas Hold'em VR##0
+1085660##Destiny 2##0
+@@REVIEW
+427760##Recommended
+400940##Recommended
+546560##Recommended
+782330##Not Recommended
+346110##Not Recommended
+271590##Recommended
+264710##Recommended
+391220##Recommended
+746930##Recommended
+594650##Recommended

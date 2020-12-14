@@ -1,0 +1,90 @@
+@@GAME
+238960##Path of Exile##108931
+730##Counter-Strike: Global Offensive##19820
+582010##Monster Hunter: World##14349
+236390##War Thunder##12071
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##11909
+227940##Heroes & Generals##11558
+230410##Warframe##9572
+281990##Stellaris##7709
+755790##Ring of Elysium##4706
+524220##NieR:Automata™##4459
+291480##Warface##3947
+49520##Borderlands 2##3822
+333930##Dirty Bomb##3701
+431960##Wallpaper Engine##2967
+10##Counter-Strike##2824
+241930##Middle-earth™: Shadow of Mordor™##2426
+413150##Stardew Valley##2314
+637650##FINAL FANTASY XV WINDOWS EDITION##2118
+102500##Kingdoms of Amalur: Reckoning™##2079
+213670##South Park™: The Stick of Truth™##1983
+30##Day of Defeat##1759
+268130##Heat Signature##1493
+606150##Moonlighter##1363
+211820##Starbound##1354
+599140##Graveyard Keeper##1247
+305620##The Long Dark##1189
+473690##Absolver##1161
+475150##Titan Quest Anniversary Edition##1152
+552700##WORLD OF FINAL FANTASY##995
+212680##FTL: Faster Than Light##828
+291410##Duelyst##768
+242640##Styx: Master of Shadows##713
+70##Half-Life##702
+327690##Gigantic##662
+210950##Rune Classic##651
+388410##Darksiders II Deathinitive Edition##641
+212070##Star Conflict##526
+504370##Battlerite##523
+629760##MORDHAU##472
+218230##PlanetSide 2##437
+40800##Super Meat Boy##431
+215080##WAKFU##416
+230190##War for the Overworld##405
+244850##Space Engineers##376
+224260##No More Room in Hell##355
+289130##Endless Legend™ - Emperor Edition##343
+440##Team Fortress 2##314
+272350##Tom Clancy's Ghost Recon Phantoms - EU##303
+293260##Card Hunter##291
+452060##Caveblazers##282
+41000##Serious Sam HD: The First Encounter##267
+568220##Lobotomy Corporation##204
+249050##Dungeon of the Endless™ - Crystal Edition##197
+130##Half-Life: Blue Shift##161
+262060##Darkest Dungeon®##113
+50##Half-Life: Opposing Force##105
+41010##Serious Sam HD: The Second Encounter##104
+869760##Stoneshard: Prologue##77
+107100##Bastion##71
+550##Left 4 Dead 2##65
+291550##Brawlhalla##58
+382490##Relic Hunters Zero##47
+302590##Of Guards And Thieves##39
+237930##Transistor##27
+634230##Project First Contact##25
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+41070##Serious Sam 3: BFE##0
+111600##Serious Sam Double D XXL##0
+201480##Serious Sam: The Random Encounter##0
+204340##Serious Sam 2##0
+227780##Serious Sam Classics: Revolution##0
+564310##Serious Sam Fusion 2017 (beta)##0
+113420##Fallen Earth##0
+1083500##PlanetSide 2 - Test##0
+367540##Starbound - Unstable##0
+282440##Quake Live##0
+261640##Borderlands: The Pre-Sequel##0
+342630##Witch's Pranks: Frog's Fortune Collector's Edition##0
+427460##Battlerite Public Test##0
+863550##HITMAN™ 2##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+@@REVIEW
+755790##Not Recommended
+238960##Recommended

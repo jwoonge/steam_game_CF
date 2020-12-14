@@ -1,0 +1,237 @@
+@@GAME
+730##Counter-Strike: Global Offensive##206643
+570##Dota 2##14083
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##13718
+10##Counter-Strike##12720
+238960##Path of Exile##7103
+444090##Paladins##2643
+240##Counter-Strike: Source##2257
+630100##SoulWorker##2059
+389300##TERA##1876
+4000##Garry's Mod##1605
+363970##Clicker Heroes##1237
+109600##Neverwinter##881
+219740##Don't Starve##625
+218620##PAYDAY 2##603
+431960##Wallpaper Engine##596
+813820##Realm Royale##542
+233250##Planetary Annihilation##530
+578310##BRAIN / OUT##454
+322330##Don't Starve Together##439
+24960##Battlefield: Bad Company™ 2##410
+273110##Counter-Strike Nexon: Studio##382
+275510##Z Steel Soldiers##364
+252490##Rust##362
+331470##Everlasting Summer##361
+274190##Broforce##331
+303390##Dead Bits##329
+339160##Tales of the Orient: The Rising Sun##316
+224220##Pressure##298
+105600##Terraria##274
+444200##World of Tanks Blitz##272
+405950##Lowglow##259
+346900##AdVenture Capitalist##246
+433210##Rhino's Rage##237
+204340##Serious Sam 2##229
+12320##Sacred Gold##220
+234390##Teleglitch: Die More Edition##218
+327410##A Bird Story##218
+253980##Enclave##209
+431240##Golf With Your Friends##206
+207380##eXceed 2nd - Vampire REX##201
+293180##Overcast - Walden and the Werewolf##201
+357900##Make it indie!##176
+209080##Guns of Icarus Online##173
+225260##Brütal Legend##173
+65930##The Bureau: XCOM Declassified##173
+253920##Gorky 17##173
+261110##Killer is Dead##173
+313140##Blackbay Asylum##173
+277950##Deadbreed®##173
+357780##Defend Your Life##173
+362610##High On Racing##173
+368420##Mirage: Arcane Warfare##173
+250400##How to Survive##166
+40800##Super Meat Boy##158
+282660##Easy eSports##157
+230410##Warframe##146
+236390##War Thunder##112
+204360##Castle Crashers##109
+550650##Black Squad##109
+840260##Endless World Idle RPG##104
+674940##Stick Fight: The Game##100
+340540##TDP4:Team Battle##98
+265630##Fistful of Frags##97
+315880##WTFast Gamers Private Network (GPN)##92
+607260##McOsu##91
+383080##Sakura Clicker##88
+70##Half-Life##77
+323370##TERA##74
+378100##Nyctophobia##72
+40##Deathmatch Classic##70
+6370##Bloodline Champions##70
+381990##Dragon Saga##58
+438100##VRChat##56
+869760##Stoneshard: Prologue##44
+218130##Dungeonland##41
+208090##Loadout##40
+459820##Crush Crush##37
+222900##Dead Island: Epidemic##34
+201210##Pox Nora##33
+280620##Fiesta Online##28
+506140##Shop Heroes##26
+349700##Aftermath##25
+844870##KurtzPel##24
+761890##Albion Online##21
+372000##Tree of Savior (English Ver.)##18
+381560##Epic Cards Battle(TCG)##12
+588430##Fallout Shelter##10
+944110##Pocket Waifu##9
+304930##Unturned##8
+393530##Insanity Clicker##8
+373700##Lineage II##5
+43110##Metro 2033##3
+291480##Warface##3
+38830##CrimeCraft GangWars##2
+51100##Tactical Intervention##2
+104700##Super Monday Night Combat##2
+219340##The Banner Saga: Factions##2
+238260##Pinball Arcade##2
+270570##Reversion - The Escape##2
+102700##A.V.A. Alliance of Valiant Arms™##1
+300040##Divine Souls##1
+215080##WAKFU##1
+396280##Anarchy Online##1
+433850##Z1 Battle Royale##1
+1191420##Fake Lay##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+11610##Dragon Nest##0
+13140##America's Army 3##0
+17080##Tribes: Ascend##0
+36620##Forsaken World ##0
+36630##Rusty Hearts##0
+47410##Stronghold Kingdoms##0
+55130##HOMEFRONT Demo##0
+99900##Spiral Knights##0
+99910##Puzzle Pirates##0
+105430##Age of Empires Online##0
+106010##Pandora Saga: Weapons of Balance##0
+107900##War Inc. Battlezone##0
+108210##Memoir '44 Online##0
+109400##MicroVolts Surge##0
+109410##Brawl Busters##0
+113400##APB Reloaded##0
+113420##Fallen Earth##0
+113900##World of Battles##0
+200210##Realm of the Mad God Exalt##0
+201190##Magic: The Gathering – Tactics##0
+201230##EverQuest II##0
+203290##America's Army: Proving Grounds##0
+205710##EverQuest Free-to-Play##0
+206210##Gotham City Impostors: Free To Play##0
+207230##Archeblade##0
+208030##Moon Breakers##0
+209710##War of the Immortals##0
+211500##RaceRoom Racing Experience ##0
+211880##Bullet Run##0
+212070##Star Conflict##0
+212160##Vindictus##0
+212200##Mabinogi##0
+212220##Dungeon Fighter Online##0
+212240##Atlantica Online##0
+212370##Arctic Combat##0
+212390##C9##0
+212500##The Lord of the Rings Online™##0
+212800##Super Crate Box##0
+213650##Dwarfs F2P##0
+215120##ROSE Online##0
+215870##Dungeon Party##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+219870##Football Superstars##0
+221080##District 187##0
+222520##Champions of Regnum##0
+224320##Uncharted Waters Online##0
+227240##Construct 2 Free##0
+231060##Ragnarok Online 2##0
+234310##March of War##0
+238070##Shadow Warrior Classic (1997)##0
+238110##Arcane Saga Online##0
+240320##Panzar##0
+243870##Tom Clancy's Ghost Recon Phantoms - NA##0
+258700##Dragon Nest Europe##0
+263500##Dragons and Titans##0
+272350##Tom Clancy's Ghost Recon Phantoms - EU##0
+286080##Thinking with Time Machine##0
+300970##Fiesta Online NA##0
+206480##Dungeons & Dragons Online®##0
+223710##Cry of Fear##0
+242720##GunZ 2: The Second Duel##0
+271290##HAWKEN##0
+239220##The Mighty Quest For Epic Loot##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+253710##theHunter Classic##0
+248710##Iesabel##0
+700580##Rust - Staging Branch##0
+254000##East India Company Gold##0
+259340##Chicken Shoot Gold##0
+259360##Chicken Shoot 2##0
+262410##World of Guns: Gun Disassembly##0
+264360##La Tale##0
+268850##EVGA Precision X1##0
+272060##Serena##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+293540##Guns and Robots##0
+295550##Royal Quest##0
+298260##Only If##0
+299700##Face of Mankind##0
+301520##Robocraft##0
+304270##Grand Chase##0
+304890##Quantum Rush Online##0
+305280##Cakewalk Loop Manager##0
+224600##Defiance##0
+302380##Floating Point##0
+307290##Velvet Sundown##0
+227700##Firefall##0
+9900##Star Trek Online##0
+244630##NEOTOKYO°##0
+312990##The Expendabros##0
+9880##Champions Online##0
+268420##Aura Kingdom##0
+227940##Heroes & Generals##0
+313730##Sunrider: Mask of Arcadius##0
+269910##Xam##0
+314280##The Forgotten Ones##0
+200110##Nosgoth##0
+226320##Marvel Heroes Omega##0
+48900##Saira##0
+293500##Amazing World##0
+258160##Rise of Incarnates##0
+318600##The Flame in the Flood##0
+205790##Dota 2 Test##0
+333930##Dirty Bomb##0
+338180##Batla##0
+339610##FreeStyle 2: Street Basketball##0
+355840##Survarium##0
+360130##Cloud Knights##0
+236110##Dungeon Defenders II##0
+596350##Paladins - Public Test##0
+533540##MONMUSU##0
+718330##Cubic##0
+790710##World of Warplanes##0
+878760##Realm Royale - Test Server##0
+439700##H1Z1: Test Server##0
+489520##Minion Masters##0
+1084630##Sacred Sword Princesses##0
+1177720##Yu Escape / Monday##0
+@@REVIEW
+218620##Recommended
+730##Recommended
+40800##Recommended

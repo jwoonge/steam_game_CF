@@ -1,0 +1,127 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+4230##Race: The WTCC Game##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+7940##Call of Duty 4: Modern Warfare##0
+12160##Midnight Club II##0
+15700##Oddworld: Abe's Oddysee##0
+15710##Oddworld: Abe's Exoddus##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+17300##Crysis##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+500##Left 4 Dead##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+22330##The Elder Scrolls IV: Oblivion ##0
+24860##Battlefield 2##0
+20900##The Witcher: Enhanced Edition##0
+550##Left 4 Dead 2##0
+24980##Mass Effect 2##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+11440##DiRT##0
+11500##ToCA Race Driver 3##0
+12750##GRID##0
+12800##FUEL##0
+12840##DiRT 2##0
+43110##Metro 2033##0
+39500##Gothic 3##0
+39510##Gothic II: Gold Edition##0
+950670##Gothic Playable Teaser##0
+50130##Mafia II (Classic)##0
+1030830##Mafia II: Definitive Edition##0
+31280##Poker Night at the Inventory##0
+2760##Neverwinter Nights 2: Platinum##0
+9930##Test Drive Unlimited 2##0
+620##Portal 2##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+24960##Battlefield: Bad Company™ 2##0
+70640##Worms##0
+110800##L.A. Noire##0
+205790##Dota 2 Test##0
+207610##The Walking Dead##0
+223470##POSTAL 2##0
+4290##RACE: Caterham Expansion##0
+8600##RACE 07##0
+8640##RACE On##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+8660##GTR Evolution##0
+8690##STCC: The Game##0
+8790##GTR 2 - FIA GT Racing Game##0
+44600##GTR - FIA GT Racing Game##0
+44620##STCC II##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+44650##GT Power Expansion##0
+44660##The Retro Expansion##0
+44670##The WTCC 2010 Pack##0
+44680##Race Injection##0
+44690##GT Legends##0
+227300##Euro Truck Simulator 2##0
+211500##RaceRoom Racing Experience ##0
+225260##Brütal Legend##0
+232010##Euro Truck Simulator##0
+35720##Trine 2##0
+244210##Assetto Corsa##0
+22320##The Elder Scrolls III: Morrowind##0
+72850##The Elder Scrolls V: Skyrim##0
+275530##Z##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+730##Counter-Strike: Global Offensive##0
+339790##rFactor##0
+359800##Copa Petrobras de Marcas##0
+362890##Black Mesa##0
+365960##rFactor 2##0
+322330##Don't Starve Together##0
+320300##Car Mechanic Simulator 2015##0
+406350##KartKraft##0
+415200##Motorsport Manager##0
+377160##Fallout 4##0
+292030##The Witcher 3: Wild Hunt##0
+306130##The Elder Scrolls Online##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409720##BioShock 2 Remastered##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+645630##Car Mechanic Simulator 2018##0
+218620##PAYDAY 2##0
+805550##Assetto Corsa Competizione##0
+611500##Quake Champions##0
+936720##Wrench##0
+945360##Among Us##0
+231430##Company of Heroes 2##0
+278360##A Story About My Uncle##0
+325180##AppGameKit Classic##0
+1172470##Apex Legends##0
+442070##Drawful 2##0
+1368440##Armor Of Heroes##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW

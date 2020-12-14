@@ -1,0 +1,96 @@
+@@GAME
+570##Dota 2##41826
+730##Counter-Strike: Global Offensive##30995
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##15558
+8930##Sid Meier's Civilization V##12326
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##7577
+240##Counter-Strike: Source##7032
+648800##Raft##3547
+300##Day of Defeat: Source##3465
+33350##Anno 1404: Venice##2988
+42710##Call of Duty: Black Ops - Multiplayer##2165
+10##Counter-Strike##1684
+34330##Total War: SHOGUN 2##1574
+56400##Warhammer 40,000: Dawn of War II - Retribution##1353
+271590##Grand Theft Auto V##1179
+42910##Magicka##1018
+858810##Dawn of Man##880
+221380##Age of Empires II (2013)##822
+550##Left 4 Dead 2##650
+48240##Anno 2070##594
+620##Portal 2##555
+9450##Warhammer 40,000: Dawn of War - Soulstorm##525
+632360##Risk of Rain 2##508
+440##Team Fortress 2##507
+630##Alien Swarm##479
+1016120##PGA TOUR 2K21##445
+238960##Path of Exile##422
+218230##PlanetSide 2##399
+10180##Call of Duty: Modern Warfare 2##371
+552500##Warhammer: Vermintide 2##368
+202970##Call of Duty: Black Ops II##355
+42700##Call of Duty: Black Ops##327
+219640##Chivalry: Medieval Warfare##279
+10500##Total War: EMPIRE - Definitive Edition##266
+235540##Warhammer: End Times - Vermintide##246
+220260##Farming Simulator 2013##243
+200170##Worms Revolution##217
+387990##Scrap Mechanic##201
+223390##Forge##192
+285190##Warhammer 40,000: Dawn of War III##184
+227300##Euro Truck Simulator 2##180
+245550##Free to Play##167
+645630##Car Mechanic Simulator 2018##167
+218620##PAYDAY 2##154
+202990##Call of Duty: Black Ops II - Multiplayer##119
+220##Half-Life 2##116
+287450##Rise of Nations: Extended Edition##106
+252950##Rocket League##95
+504370##Battlerite##93
+203160##Tomb Raider##91
+35450##Rising Storm/Red Orchestra 2 Multiplayer##87
+203140##Hitman: Absolution##81
+24240##PAYDAY: The Heist##72
+548430##Deep Rock Galactic##57
+11020##TrackMania Nations Forever##55
+255710##Cities: Skylines##55
+30##Day of Defeat##46
+400##Portal##41
+292030##The Witcher 3: Wild Hunt##35
+1085660##Destiny 2##29
+813780##Age of Empires II: Definitive Edition##20
+70##Half-Life##18
+40970##Stronghold Crusader HD##17
+9310##Warhammer 40,000: Dawn of War - Winter Assault##5
+80##Counter-Strike: Condition Zero##4
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+500##Left 4 Dead##0
+33250##Anno 1404##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+205790##Dota 2 Test##0
+203770##Crusader Kings II##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+15620##Warhammer 40,000: Dawn of War II##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+212910##Call of Duty: Black Ops II - Zombies##0
+1083500##PlanetSide 2 - Test##0
+343450##Free To Play (Streaming)##0
+16700##Stronghold Crusader Extreme HD##0
+6850##Hitman 2: Silent Assassin##0
+6860##Hitman: Blood Money##0
+6900##Hitman: Codename 47##0
+205930##Hitman: Sniper Challenge##0
+247430##Hitman: Contracts##0
+427460##Battlerite Public Test##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+1017900##Age of Empires: Definitive Edition##0
+226840##Age of Wonders III##0
+@@REVIEW

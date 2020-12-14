@@ -1,0 +1,153 @@
+@@GAME
+570##Dota 2##413893
+730##Counter-Strike: Global Offensive##90168
+252950##Rocket League##75850
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##23674
+359550##Tom Clancy's Rainbow Six Siege##16462
+240##Counter-Strike: Source##8245
+24960##Battlefield: Bad Company™ 2##3926
+286160##Tabletop Simulator##3225
+380600##Fishing Planet##3200
+1046930##Dota Underlords##3018
+218620##PAYDAY 2##2928
+4920##Natural Selection 2##2433
+236390##War Thunder##1855
+433850##Z1 Battle Royale##1769
+755790##Ring of Elysium##1670
+216150##MapleStory##1274
+440##Team Fortress 2##955
+8870##BioShock Infinite##693
+55100##Homefront##594
+477160##Human: Fall Flat##575
+550##Left 4 Dead 2##556
+295110##Just Survive##520
+648800##Raft##501
+33930##Arma 2: Operation Arrowhead##486
+1174180##Red Dead Redemption 2##421
+620##Portal 2##415
+44320##DiRT 3##414
+202170##Sleeping Dogs™##411
+400##Portal##410
+1097150##Fall Guys: Ultimate Knockout##373
+239140##Dying Light##370
+203160##Tomb Raider##361
+234630##Project CARS##333
+282800##100% Orange Juice##329
+302270##Dungeon Defenders Eternity##291
+221100##DayZ##286
+539730##True Sight##276
+72850##The Elder Scrolls V: Skyrim##232
+207610##The Walking Dead##218
+322330##Don't Starve Together##212
+323370##TERA##188
+260430##The Four Kings Casino and Slots##143
+311210##Call of Duty: Black Ops III##132
+504370##Battlerite##121
+321040##DiRT 3 Complete Edition##118
+542970##True Sight: Episode 1##115
+300##Day of Defeat: Source##110
+252490##Rust##100
+47830##Medal of Honor(TM) Multiplayer##91
+307780##Mortal Kombat X##90
+945360##Among Us##89
+207140##SpeedRunners##83
+1017170##True Sight: The International 2018 Finals##65
+258970##Gauntlet™ ##62
+386360##SMITE##52
+291550##Brawlhalla##51
+542975##True Sight: The International 2017##48
+678950##DRAGON BALL FighterZ##48
+1049590##Eternal Return: Black Survival##38
+542974##True Sight: The Kiev Major Grand Finals##37
+269210##Hero Siege##29
+17700##Insurgency: Modern Infantry Combat##28
+219150##Hotline Miami##25
+728880##Overcooked! 2##23
+630##Alien Swarm##21
+17410##Mirror's Edge##17
+285900##Gang Beasts##17
+200510##XCOM: Enemy Unknown##16
+38740##EDGE##15
+273350##Evolve Stage 2##14
+32800##The Lord of the Rings: War in the North##13
+24740##Burnout Paradise: The Ultimate Box##11
+33900##Arma 2##9
+95300##Capsized##8
+107100##Bastion##8
+542972##True Sight: Episode 3##8
+204340##Serious Sam 2##6
+204300##Awesomenauts##5
+544730##Catan Universe##5
+218680##Scribblenauts Unlimited##4
+214560##Mark of the Ninja##3
+220780##Thomas Was Alone##3
+322500##SUPERHOT##3
+268850##EVGA Precision X1##2
+214550##Eets Munchies##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+17470##Dead Space##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+21100##F.E.A.R. 3##0
+16450##F.E.A.R. 2: Project Origin##0
+203810##Dear Esther##0
+520720##Dear Esther: Landmark Edition##0
+205790##Dota 2 Test##0
+29180##Osmos##0
+91200##Anomaly Warzone Earth##0
+22000##World of Goo##0
+48000##LIMBO##0
+37400##Time Gentlemen, Please!##0
+37420##Ben There, Dan That!##0
+207650##A Virus Named TOM##0
+206690##iBomber Defense Pacific##0
+200260##Batman: Arkham City GOTY##0
+212680##FTL: Faster Than Light##0
+108800##Crysis 2 Maximum Edition##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+11450##Overlord##0
+215510##Rocketbirds: Hardboiled Chicken##0
+221260##Little Inferno##0
+43110##Metro 2033##0
+219680##Proteus##0
+35720##Trine 2##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+224760##FEZ##0
+47790##Medal of Honor(TM) Single Player##0
+269330##Chronology##0
+271860##Super Killer Hornet: Resurrection##0
+287120##Ionball 2 : Ionstorm##0
+293720##Dark Raid##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+336090##Sky Mercenaries##0
+347040##Keebles##0
+348650##The Asskickers##0
+355510##Crazy Belts##0
+357500##Rumble Fighter: Unleashed##0
+858460##SMITE - Public Test##0
+253030##Race The Sun##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+264240##CONSORTIUM##0
+492870##FIVE: Champions of Canaan##0
+514930##Super Hop 'N' Bop ULTRA##0
+542971##True Sight: Episode 2##0
+581200##Nash Racing##0
+219640##Chivalry: Medieval Warfare##0
+427460##Battlerite Public Test##0
+700580##Rust - Staging Branch##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+714010##Aim Lab##0
+1091500##Cyberpunk 2077##0
+@@REVIEW

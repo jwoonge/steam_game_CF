@@ -1,0 +1,139 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+25800##Europa Universalis III##0
+550##Left 4 Dead 2##0
+63110##Alter Ego##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+730##Counter-Strike: Global Offensive##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+263500##Dragons and Titans##0
+247120##Portal 2 Sixense Perceptual Pack##0
+252150##Grimm##0
+271590##Grand Theft Auto V##0
+272060##Serena##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+301860##Submerged##0
+203160##Tomb Raider##0
+320300##Car Mechanic Simulator 2015##0
+322170##Geometry Dash##0
+307690##Sleeping Dogs: Definitive Edition##0
+305620##The Long Dark##0
+346290##Penumbra: Necrologue##0
+255710##Cities: Skylines##0
+367450##Poly Bridge##0
+371570##Tap Heroes##0
+374570##Kung Fury##0
+385470##Railroad Lines##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+386480##Blood Code##0
+419500##Red Game Without A Great Name##0
+208650##Batman™: Arkham Knight##0
+368500##Assassin's Creed Syndicate##0
+429470##Space Pilgrim Episode I: Alpha Centauri##0
+431960##Wallpaper Engine##0
+391220##Rise of the Tomb Raider##0
+374320##DARK SOULS™ III##0
+448510##Overcooked##0
+493820##Rivais Em Batalha##0
+496320##Running Gods##0
+319630##Life is Strange™##0
+515220##F1 2017##0
+518790##theHunter: Call of the Wild™##0
+360430##Mafia III: Definitive Edition##0
+292030##The Witcher 3: Wild Hunt##0
+531070##The Tower - Fantogame##0
+549780##Rainbow Rage Squad##0
+493340##Planet Coaster##0
+447040##Watch_Dogs 2##0
+562220##Zup! 2##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+596630##Ricochet Kills: Noir##0
+606800##Startup Company##0
+644570##Material Girl##0
+645340##Relax Walk VR##0
+656060##SkiFy##0
+656910##Space Hit##0
+660390##RageBall##0
+666310##Space of Darkness##0
+668630##Tricolour Lovestory##0
+675220##SoulFrost##0
+685790##Ruthless Safari##0
+688380##Restoration##0
+693190##Survival driver 2: Heavy vehicles##0
+699760##Triple Otakus Puzzle##0
+700940##TangramsVR##0
+711930##Square Head Zombies##0
+715470##Rocks and Rockets##0
+719100##Space Way##0
+629520##Soundpad##0
+724090##Restaurant Manager##0
+736190##Chinese Parents##0
+741120##Solar System##0
+741770##Santa's vacation##0
+745340##Super Meat Shooter##0
+749670##Spinning Around##0
+749990##Trigonometry##0
+755230##Target speed##0
+755790##Ring of Elysium##0
+756560##Robot Warriors##0
+761130##Stellar Warrior##0
+761660##Stickman Destruction 2##0
+764490##Stickman Jetpack##0
+768800##Race##0
+769690##Reading Simulator##0
+777050##TOXIC PLUMBING##0
+778810##Soul for two##0
+782300##Unstoppable Hamster##0
+786750##Squares##0
+787450##KOEWOTAYORINI / 声之寄托##0
+794600##LET IT DIE##0
+795920##SALVATOR##0
+796440##Spaceguy##0
+798720##SUPER ROBO MOUSE##0
+806240##RollingBall##0
+809320##Silent Tweets##0
+815830##Space Escape##0
+823510##Precision Sniping: Competitive##0
+834420##RollingBall: Unlimited World##0
+203770##Crusader Kings II##0
+847600##Rapid##0
+863550##HITMAN™ 2##0
+841370##NBA 2K19##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+96000##The Tiny Bang Story##0
+491950##Orwell##0
+402390##Hyperdrive Massacre##0
+958260##DEAD OR ALIVE Xtreme Venus Vacation##0
+730310##DYNASTY WARRIORS 9##0
+43110##Metro 2033##0
+638070##Murderous Pursuits##0
+395170##DISTRAINT: Deluxe Edition##0
+231430##Company of Heroes 2##0
+489520##Minion Masters##0
+343710##KHOLAT##0
+1046930##Dota Underlords##0
+814380##Sekiro™: Shadows Die Twice##0
+226840##Age of Wonders III##0
+1089350##NBA 2K20##0
+1262560##Need for Speed™ Most Wanted##0
+@@REVIEW
+322170##Recommended
+736190##Recommended
+606800##Not Recommended
+841370##Not Recommended
+515220##Recommended
+271590##Recommended

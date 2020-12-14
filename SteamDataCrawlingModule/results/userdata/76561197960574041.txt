@@ -1,0 +1,208 @@
+@@GAME
+377160##Fallout 4##11145
+72850##The Elder Scrolls V: Skyrim##6527
+489830##The Elder Scrolls V: Skyrim Special Edition##5922
+17460##Mass Effect##5860
+200710##Torchlight II##5392
+65980##Sid Meier's Civilization: Beyond Earth##4253
+22380##Fallout: New Vegas##4154
+8930##Sid Meier's Civilization V##3321
+8190##Just Cause 2##3073
+24980##Mass Effect 2##3066
+28050##Deus Ex: Human Revolution##2581
+55230##Saints Row: The Third##2280
+41500##Torchlight##1866
+98800##Dungeons of Dredmor##1775
+359320##Elite Dangerous##1596
+105600##Terraria##1581
+1085660##Destiny 2##1424
+20500##Red Faction: Guerrilla Steam Edition##1223
+219990##Grim Dawn##1093
+109600##Neverwinter##1009
+20900##The Witcher: Enhanced Edition##1004
+22330##The Elder Scrolls IV: Oblivion ##967
+238010##Deus Ex: Human Revolution - Director's Cut##925
+475150##Titan Quest Anniversary Edition##897
+15620##Warhammer 40,000: Dawn of War II##716
+216390##Fallen Enchantress##713
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##698
+42650##Transformers: War for Cybertron##693
+49520##Borderlands 2##693
+50650##Darksiders II##668
+55150##Warhammer 40,000: Space Marine##611
+208140##Endless Space##579
+218230##PlanetSide 2##568
+289130##Endless Legend™ - Emperor Edition##439
+232450##SolForge##414
+362890##Black Mesa##413
+2100##Dark Messiah of Might & Magic Single Player##410
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##397
+293260##Card Hunter##393
+400##Portal##360
+18000##On the Rain-Slick Precipice of Darkness, Episode One##352
+723090##Meltys Quest##347
+8980##Borderlands GOTY##333
+230410##Warframe##310
+205100##Dishonored##287
+216890##Blood Bowl: Chaos Edition##284
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##255
+55110##Red Faction: Armageddon##253
+255420##Magic 2015##253
+206420##Saints Row IV##250
+39200##Dungeon Siege 2##242
+213030##Penny Arcade's On the Rain-Slick Precipice of Darkness 3##229
+1147510##Hentai Asmodeus##229
+47810##Dragon Age: Origins - Ultimate Edition##227
+667720##Red Faction Guerrilla Re-Mars-tered##224
+39140##FINAL FANTASY VII##217
+1003520##Hentai Crush##204
+15170##Heroes of Might & Magic V##202
+335000##Tormentum - Dark Sorrow##192
+22370##Fallout 3 - Game of the Year Edition##187
+213120##Transformers: Fall of Cybertron##187
+261640##Borderlands: The Pre-Sequel##181
+220##Half-Life 2##174
+570##Dota 2##168
+262280##Dungeons 2##152
+15370##Heroes of Might & Magic V: Tribes of the East##145
+321040##DiRT 3 Complete Edition##135
+316010##Magic Duels##133
+345180##Victor Vran##129
+1337590##Sexena: Arena Tales##125
+50620##Darksiders##121
+379720##DOOM##117
+108800##Crysis 2 Maximum Edition##115
+57690##Tropico 4##115
+644560##Mirror##106
+200510##XCOM: Enemy Unknown##105
+18020##On the Rain-Slick Precipice of Darkness, Episode Two##101
+13210##Unreal Tournament 3: Black Edition##99
+359310##Evoland 2##99
+236690##Blood Bowl 2##98
+440##Team Fortress 2##98
+743450##Monster Prom##96
+42910##Magicka##93
+204030##Fable - The Lost Chapters##91
+550##Left 4 Dead 2##83
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##79
+392110##Endless Space® 2 - Digital Deluxe Edition##79
+72200##Universe Sandbox Legacy##75
+102500##Kingdoms of Amalur: Reckoning™##74
+56400##Warhammer 40,000: Dawn of War II - Retribution##71
+247000##Talisman: Digital Edition##65
+17330##Crysis Warhead##61
+370020##Templar Battleforce##57
+375230##Warhammer 40,000: Eternal Crusade##56
+43110##Metro 2033##55
+226740##Monster Loves You!##53
+227700##Firefall##52
+7670##BioShock##51
+235620##Small World##51
+729040##Borderlands GOTY Enhanced##48
+618970##Outcast - Second Contact##46
+39190##Dungeon Siege##44
+1046030##ISLANDERS##44
+39160##Dungeon Siege III##42
+258200##Talisman: Prologue##41
+949060##Love Thyself - A Horatio Story##39
+208090##Loadout##38
+386070##Planetary Annihilation: TITANS##38
+251970##Sins of a Dark Age##37
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##34
+204300##Awesomenauts##34
+237930##Transistor##26
+242570##Space Hulk##24
+203630##Warlock - Master of the Arcane##23
+219640##Chivalry: Medieval Warfare##22
+200170##Worms Revolution##21
+286000##Tooth and Tail##21
+340##Half-Life 2: Lost Coast##20
+280040##A Wizard's Lizard##15
+438140##Star Realms##13
+3910##Sid Meier's Civilization III: Complete##11
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##10
+286160##Tabletop Simulator##8
+32380##STAR WARS™ Jedi Knight: Dark Forces II##7
+363680##Battlefleet Gothic: Armada##6
+17300##Crysis##5
+391730##Crashlands##4
+70##Half-Life##2
+50##Half-Life: Opposing Force##1
+2600##Vampire: The Masquerade - Bloodlines##1
+41700##S.T.A.L.K.E.R.: Call of Pripyat##1
+39120##RIFT##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+420##Half-Life 2: Episode Two##0
+409710##BioShock Remastered##0
+23310##The Last Remnant##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+15380##Heroes of Might & Magic V: Hammers of Fate##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+55100##Homefront##0
+8140##Tomb Raider: Underworld##0
+204880##Sins of a Solar Empire: Rebellion##0
+201700##DiRT Showdown##0
+12750##GRID##0
+17340##Crysis Wars##0
+209080##Guns of Icarus Online##0
+224920##Legacy of Kain: Soul Reaver##0
+224940##Legacy of Kain: Soul Reaver 2##0
+214510##LEGO® The Lord of the Rings™##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+1083500##PlanetSide 2 - Test##0
+238960##Path of Exile##0
+225260##Brütal Legend##0
+44350##GRID 2##0
+65930##The Bureau: XCOM Declassified##0
+238210##System Shock 2##0
+237570##Penny Arcade's On the Rain-Slick Precipice of Darkness 4##0
+234390##Teleglitch: Die More Edition##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+268870##Satellite Reign##0
+271290##HAWKEN##0
+285160##LEGO® The Hobbit™##0
+233290##MURDERED: SOUL SUSPECT™##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+35130##Lara Croft and the Guardian of Light##0
+265590##The Red Solstice##0
+205790##Dota 2 Test##0
+241930##Middle-earth™: Shadow of Mordor™##0
+230190##War for the Overworld##0
+345350##LIGHTNING RETURNS: FINAL FANTASY XIII##0
+1020470##Evoland Legendary Edition##0
+394360##Hearts of Iron IV##0
+421740##Goetia##0
+427820##Hitman GO: Definitive Edition##0
+236870##HITMAN™##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+602490##Blood Bowl: Death Zone##0
+484900##Aven Colony##0
+273350##Evolve Stage 2##0
+544330##Snake Pass##0
+337000##Deus Ex: Mankind Divided™##0
+507490##Ashes of the Singularity: Escalation##0
+209670##Cortex Command##0
+231430##Company of Heroes 2##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW

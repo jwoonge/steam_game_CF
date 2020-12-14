@@ -1,0 +1,49 @@
+@@GAME
+730##Counter-Strike: Global Offensive##288628
+10##Counter-Strike##7021
+240##Counter-Strike: Source##6823
+236390##War Thunder##4351
+100##Counter-Strike: Condition Zero Deleted Scenes##2382
+629760##MORDHAU##1866
+220##Half-Life 2##1587
+209650##Call of Duty: Advanced Warfare##1210
+223390##Forge##1109
+209660##Call of Duty: Advanced Warfare - Multiplayer##536
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##502
+440##Team Fortress 2##445
+389570##Mitos.is: The Game##168
+300##Day of Defeat: Source##167
+429180##Project CARS - Pagani Edition##153
+633230##NARUTO TO BORUTO: SHINOBI STRIKER##142
+200170##Worms Revolution##138
+17700##Insurgency: Modern Infantry Combat##54
+33230##Assassin's Creed II##46
+211500##RaceRoom Racing Experience ##31
+291480##Warface##27
+489940##BATTALION 1944##21
+218620##PAYDAY 2##5
+80##Counter-Strike: Condition Zero##4
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+8000##Tomb Raider: Anniversary##0
+224260##No More Room in Hell##0
+282660##Easy eSports##0
+241930##Middle-earth™: Shadow of Mordor™##0
+364470##The Elder Scrolls: Legends##0
+456750##The Room Three##0
+442080##Riders of Icarus##0
+319630##Life is Strange™##0
+444200##World of Tanks Blitz##0
+231430##Company of Heroes 2##0
+760620##Deiland##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW
+730##Recommended

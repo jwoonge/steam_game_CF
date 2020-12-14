@@ -1,0 +1,176 @@
+@@GAME
+1258080##Shop Titans##67741
+438040##Shakes and Fidget##25081
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##22702
+236850##Europa Universalis IV##21550
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##14631
+294100##RimWorld##14430
+394360##Hearts of Iron IV##12040
+42710##Call of Duty: Black Ops - Multiplayer##11248
+230410##Warframe##10642
+48700##Mount & Blade: Warband##9833
+377160##Fallout 4##8146
+203770##Crusader Kings II##7690
+281990##Stellaris##5500
+289070##Sid Meier's Civilization VI##5343
+365360##Battle Brothers##4813
+233860##Kenshi##4750
+72850##The Elder Scrolls V: Skyrim##4538
+261550##Mount & Blade II: Bannerlord##4350
+346110##ARK: Survival Evolved##4306
+838350##太吾绘卷 The Scroll Of Taiwu##4010
+49520##Borderlands 2##3461
+714020##Idle Adventure##3264
+1286830##STAR WARS™: The Old Republic™##3160
+365590##Tom Clancy's The Division##2831
+435150##Divinity: Original Sin 2##2451
+489830##The Elder Scrolls V: Skyrim Special Edition##2442
+271590##Grand Theft Auto V##2411
+552990##World of Warships##2037
+1158310##Crusader Kings III##1863
+588430##Fallout Shelter##1822
+292030##The Witcher 3: Wild Hunt##1786
+219990##Grim Dawn##1651
+459160##Allods Online##1518
+431960##Wallpaper Engine##1457
+552500##Warhammer: Vermintide 2##1361
+582160##Assassin's Creed Origins##1330
+236390##War Thunder##1216
+534500##Tiger Knight: Empire War##1192
+8930##Sid Meier's Civilization V##1174
+22380##Fallout: New Vegas##1141
+570##Dota 2##1108
+244450##Men of War: Assault Squad 2##967
+779340##Total War: THREE KINGDOMS##907
+10180##Call of Duty: Modern Warfare 2##761
+361280##Turmoil##748
+15620##Warhammer 40,000: Dawn of War II##710
+1094520## Sands of Salzaar##701
+518790##theHunter: Call of the Wild™##683
+323190##Frostpunk##673
+646570##Slay the Spire##665
+306130##The Elder Scrolls Online##605
+493340##Planet Coaster##565
+255710##Cities: Skylines##561
+42700##Call of Duty: Black Ops##527
+466860##上帝之城 I：监狱帝国 [City of God I - Prison Empire]##527
+703080##Planet Zoo##495
+262060##Darkest Dungeon®##491
+358130##Curious Expedition##451
+200710##Torchlight II##423
+213670##South Park™: The Stick of Truth™##422
+10090##Call of Duty: World at War##408
+476600##Call of Duty: WWII##396
+34330##Total War: SHOGUN 2##378
+475150##Titan Quest Anniversary Edition##376
+234140##Mad Max##369
+312660##Sniper Elite 4##359
+1147550##Not For Broadcast##352
+641990##The Escapists 2##349
+594570##Total War: WARHAMMER II##349
+1213210##Command & Conquer™ Remastered Collection##349
+364360##Total War: WARHAMMER##328
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##327
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##326
+543460##Dead Rising 4##318
+1172620##Sea of Thieves##301
+552620##ATOM RPG##299
+310060##Knights of Pen and Paper 2##292
+212500##The Lord of the Rings Online™##291
+512900##Streets of Rogue##291
+292990##Nobunaga's Ambition: Souzou##253
+730##Counter-Strike: Global Offensive##251
+418460##Rising Storm 2: Vietnam##249
+644560##Mirror##238
+773951##Freeman: Guerrilla Warfare##221
+356190##Middle-earth™: Shadow of War™##218
+1034700##GRAY##212
+957830##Crystal Maidens##210
+289650##Assassin's Creed Unity##209
+440##Team Fortress 2##199
+510660##Big Bang Empire##178
+1085660##Destiny 2##173
+535930##Two Point Hospital##166
+476620##Call of Duty: WWII - Multiplayer##162
+266510##Hand of Fate##131
+56400##Warhammer 40,000: Dawn of War II - Retribution##130
+368360##60 Seconds!##129
+221380##Age of Empires II (2013)##103
+653530##Return of the Obra Dinn##100
+503300##Super Star##99
+372800##RPG MO##98
+588950##Kingsway##90
+648350##Jurassic World Evolution##79
+379720##DOOM##70
+234270##Ken Follett's The Pillars of the Earth##70
+474750##Reigns##69
+378720##Thea: The Awakening##67
+859580##Imperator: Rome##66
+231430##Company of Heroes 2##61
+466300##Planescape: Torment: Enhanced Edition##60
+368230##Kingdom: Classic##60
+884660##CRSED##52
+544810##KARDS - The WWII Card Game##51
+40960##Stronghold 2##47
+227940##Heroes & Generals##40
+226840##Age of Wonders III##16
+884320##Love Vibe: Aria##15
+447020##Farming Simulator 17##14
+262410##World of Guns: Gun Disassembly##12
+927890##Hentai Girl Linda##10
+365450##Hacknet##9
+1394800##Rebirth:Mr Wang##8
+962380##HOT FIT! / フィットしちゃお！～年上女性と汗だくレッスン初体験～##7
+326360##Warspear Online##6
+1060670##Taboos: Cracks##5
+1061490##Breeding Village##4
+998930##Seek Girl##3
+80##Counter-Strike: Condition Zero##1
+3720##Evil Genius##1
+10##Counter-Strike##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+320##Half-Life 2: Deathmatch##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+22370##Fallout 3 - Game of the Year Edition##0
+42960##Victoria II##0
+1640##Disciples II: Gallean's Return##0
+620##Portal 2##0
+42680##Call of Duty: Modern Warfare 3##0
+226320##Marvel Heroes Omega##0
+205790##Dota 2 Test##0
+257350##Baldur's Gate II: Enhanced Edition##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+407530##ARK: Survival Of The Fittest##0
+1012880##60 Seconds! Reatomized##0
+524440##Tom Clancy's The Division PTS##0
+508190##Dragon Knight##0
+311730##Dead or Alive 5 Last Round##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+575550##Hell Girls##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+635730##Dragonia##0
+38400##Fallout##0
+844920##Fortissimo FA##0
+921590##DISSIDIA FINAL FANTASY NT Free Edition##0
+@@REVIEW

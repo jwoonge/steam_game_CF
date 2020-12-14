@@ -1,0 +1,80 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+91310##Dead Island##0
+105450##Age of Empires® III (2007)##0
+16700##Stronghold Crusader Extreme HD##0
+40950##Stronghold HD##0
+40960##Stronghold 2##0
+40970##Stronghold Crusader HD##0
+40980##Stronghold Legends##0
+730##Counter-Strike: Global Offensive##0
+47410##Stronghold Kingdoms##0
+212500##The Lord of the Rings Online™##0
+238960##Path of Exile##0
+217750##Age of Conan: Unchained##0
+224260##No More Room in Hell##0
+253710##theHunter Classic##0
+251570##7 Days to Die##0
+238430##Contagion##0
+39210##FINAL FANTASY XIV Online##0
+268850##EVGA Precision X1##0
+273110##Counter-Strike Nexon: Studio##0
+282660##Easy eSports##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+222900##Dead Island: Epidemic##0
+300080##Total War Battles: KINGDOM##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+291480##Warface##0
+314280##The Forgotten Ones##0
+318600##The Flame in the Flood##0
+221380##Age of Empires II (2013)##0
+232890##Stronghold Crusader 2##0
+326960##Killing Floor - Toy Master##0
+316390##Anomaly Zone##0
+239140##Dying Light##0
+349700##Aftermath##0
+351290##SURVIVAL: Postapocalypse Now##0
+329430##State of Decay: Year-One##0
+395570##We Are The Dwarves##0
+466560##Northgard##0
+475550##Beholder##0
+513710##SCUM##0
+312660##Sniper Elite 4##0
+292030##The Witcher 3: Wild Hunt##0
+530620##Resident Evil 7 Teaser: Beginning Hour##0
+555570##Infestation: The New Z##0
+418370##Resident Evil 7 Biohazard##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+588430##Fallout Shelter##0
+356190##Middle-earth™: Shadow of War™##0
+680360##Regions Of Ruin##0
+215280##Secret World Legends##0
+700030##Life is Feudal: MMO##0
+712100##Total War Saga: Thrones of Britannia##0
+733300##My Big Sister##0
+755790##Ring of Elysium##0
+779340##Total War: THREE KINGDOMS##0
+905370##Conqueror's Blade##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+961440##Resident Evil 2 "1-Shot Demo"##0
+717690##OVERKILL's The Walking Dead##0
+231430##Company of Heroes 2##0
+226840##Age of Wonders III##0
+1129580##Medieval Dynasty##0
+1180380##Stay Out##0
+@@REVIEW
+292030##Recommended

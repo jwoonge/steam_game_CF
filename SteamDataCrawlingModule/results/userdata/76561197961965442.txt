@@ -1,0 +1,27 @@
+@@GAME
+730##Counter-Strike: Global Offensive##195426
+10##Counter-Strike##50952
+570##Dota 2##41018
+440##Team Fortress 2##2640
+1128810##RISK: Global Domination##1112
+282660##Easy eSports##578
+227940##Heroes & Generals##467
+550650##Black Squad##235
+1085660##Destiny 2##122
+381210##Dead by Daylight##92
+555570##Infestation: The New Z##6
+601220##Zup! F##5
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+230410##Warframe##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+677620##Splitgate: Arena Warfare##0
+466240##Deceit##0
+@@REVIEW
+730##Not Recommended

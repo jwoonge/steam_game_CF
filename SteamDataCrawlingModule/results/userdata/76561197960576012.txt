@@ -1,0 +1,111 @@
+@@GAME
+730##Counter-Strike: Global Offensive##87570
+377160##Fallout 4##6517
+271590##Grand Theft Auto V##5635
+232090##Killing Floor 2##4827
+220240##Far Cry® 3##2082
+12210##Grand Theft Auto IV: The Complete Edition##1775
+241560##The Crew##1755
+203160##Tomb Raider##1700
+391220##Rise of the Tomb Raider##1667
+40350##Lost Horizon##1377
+50130##Mafia II (Classic)##1329
+99830##Crysis 2##1039
+552520##Far Cry 5##933
+17300##Crysis##877
+252950##Rocket League##868
+10##Counter-Strike##846
+220##Half-Life 2##820
+620##Portal 2##813
+262940##Broken Sword 5 - the Serpent's Curse##678
+243470##Watch_Dogs##581
+316160##Broken Sword 4 - the Angel of Death##556
+44320##DiRT 3##547
+255710##Cities: Skylines##431
+360430##Mafia III: Definitive Edition##407
+499520##The Turing Test##357
+1172380##STAR WARS Jedi: Fallen Order™ ##260
+380##Half-Life 2: Episode One##205
+45760##Ultra Street Fighter IV##203
+48240##Anno 2070##197
+1030840##Mafia: Definitive Edition##193
+209650##Call of Duty: Advanced Warfare##177
+314220##Bombing Bastards##158
+44350##GRID 2##142
+252310##Syder Arcade##130
+476600##Call of Duty: WWII##121
+750920##Shadow of the Tomb Raider##112
+22370##Fallout 3 - Game of the Year Edition##100
+288570##Wolfenstein: The New Order German Edition##99
+412740##Audioshield##71
+450390##The Lab##70
+71340##Sonic Generations##66
+457860##Apollo 11 VR##61
+250820##SteamVR##60
+105450##Age of Empires® III (2007)##58
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##55
+684410##Bridge Constructor Portal##54
+310950##Street Fighter V##53
+257510##The Talos Principle##37
+329190##Volo Airsport##36
+327140##Tilt Brush##36
+17330##Crysis Warhead##35
+380220##Hover Junkers##35
+292030##The Witcher 3: Wild Hunt##34
+420##Half-Life 2: Episode Two##26
+310560##DiRT Rally##24
+546560##Half-Life: Alyx##24
+313630##The Solus Project##21
+451520##theBlu##21
+317440##Quantum Rush Champions##19
+477270##Lightblade VR##19
+270130##The Gallery - Episode 1: Call of the Starseed##15
+330770##Radial-G : Racing Revolved##15
+357010##The Collider 2##14
+33610##Broken Sword 3 - the Sleeping Dragon##13
+202970##Call of Duty: Black Ops II##13
+298280##XenoRaptor##5
+517710##Redout: Enhanced Edition##5
+488350##The Karters##4
+240##Counter-Strike: Source##1
+404410##Endless Sky##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+400##Portal##0
+17340##Crysis Wars##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+33600##Broken Sword 2 - the Smoking Mirror: Remastered##0
+1030830##Mafia II: Definitive Edition##0
+57640##Broken Sword 1 - Shadow of the Templars: Director's Cut##0
+40990##Mafia##0
+321040##DiRT 3 Complete Edition##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+217200##Worms Armageddon##0
+209660##Call of Duty: Advanced Warfare - Multiplayer##0
+336520##Might & Magic Heroes Online##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+232150##Killing Floor 2 - SDK##0
+382110##Virtual Desktop##0
+386690##Fantastic Contraption##0
+448280##Job Simulator##0
+457550##Bigscreen Beta##0
+250460##Bridge Constructor##0
+476620##Call of Duty: WWII - Multiplayer##0
+1091500##Cyberpunk 2077##0
+@@REVIEW
+360430##Recommended
+330770##Recommended

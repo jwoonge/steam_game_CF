@@ -1,0 +1,244 @@
+@@GAME
+570##Dota 2##547925
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##32058
+440##Team Fortress 2##9318
+730##Counter-Strike: Global Offensive##5236
+39210##FINAL FANTASY XIV Online##4548
+1046930##Dota Underlords##4374
+286160##Tabletop Simulator##3446
+252950##Rocket League##2459
+548430##Deep Rock Galactic##2030
+620##Portal 2##2002
+477160##Human: Fall Flat##1857
+240##Counter-Strike: Source##1709
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##1546
+10##Counter-Strike##1323
+39120##RIFT##1219
+648800##Raft##1193
+397460##The Jackbox Party Pack 2##1176
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##1166
+300##Day of Defeat: Source##931
+107100##Bastion##887
+49520##Borderlands 2##877
+205100##Dishonored##869
+41300##Altitude##807
+583950##Artifact##800
+219640##Chivalry: Medieval Warfare##798
+242760##The Forest##771
+945360##Among Us##741
+203160##Tomb Raider##690
+434170##The Jackbox Party Pack 3##681
+42710##Call of Duty: Black Ops - Multiplayer##614
+550##Left 4 Dead 2##607
+221380##Age of Empires II (2013)##597
+207140##SpeedRunners##595
+214560##Mark of the Ninja##583
+327690##Gigantic##583
+249990##FORCED##578
+257510##The Talos Principle##547
+632360##Risk of Rain 2##544
+10180##Call of Duty: Modern Warfare 2##539
+285900##Gang Beasts##463
+291550##Brawlhalla##438
+42910##Magicka##418
+331670##The Jackbox Party Pack##406
+865360##We Were Here Together##369
+238460##BattleBlock Theater##368
+563560##Alien Swarm: Reactive Drop##353
+55100##Homefront##339
+21660##Street Fighter IV##337
+221100##DayZ##306
+386940##Ultimate Chicken Horse##304
+521350##Use Your Words##276
+99900##Spiral Knights##272
+629760##MORDHAU##263
+504370##Battlerite##255
+610180##The Jackbox Party Pack 4##247
+2450##Bloody Good Time##245
+2400##The Ship##214
+728880##Overcooked! 2##203
+431240##Golf With Your Friends##198
+1097150##Fall Guys: Ultimate Knockout##197
+1211630##The Jackbox Party Pack 7##195
+94400##Nidhogg##185
+433850##Z1 Battle Royale##179
+630##Alien Swarm##177
+400##Portal##173
+288160##The Room##170
+17410##Mirror's Edge##166
+225080##Brothers - A Tale of Two Sons##165
+1131720##Prop and Seek##164
+677160##We Were Here Too##155
+252490##Rust##152
+360830##Yooka-Laylee##151
+213850##Magic 2014 ##148
+248820##Risk of Rain##148
+1085660##Destiny 2##139
+42650##Transformers: War for Cybertron##132
+320##Half-Life 2: Deathmatch##131
+442070##Drawful 2##131
+880940##Pummel Party##131
+377160##Fallout 4##130
+274940##Depth##128
+41070##Serious Sam 3: BFE##125
+251470##TowerFall Ascension##124
+220##Half-Life 2##120
+3830##Psychonauts##120
+4920##Natural Selection 2##119
+444090##Paladins##118
+270450##Robot Roller-Derby Disco Dodgeball##117
+601510##Yu-Gi-Oh! Duel Links##115
+40800##Super Meat Boy##114
+500##Left 4 Dead##111
+253230##A Hat in Time##100
+250820##SteamVR##94
+17520##Synergy##86
+394510##HELLDIVERS™##84
+293780##Crawl##82
+678950##DRAGON BALL FighterZ##78
+1005300##The Jackbox Party Pack 6##74
+582500##We Were Here##70
+228440##Cubemen 2##66
+244850##Space Engineers##65
+205790##Dota 2 Test##61
+1341230##Super Buckyball Tournament Preseason##59
+41500##Torchlight##57
+813630##Supraland##55
+295110##Just Survive##52
+322330##Don't Starve Together##52
+311340##METAL GEAR SOLID V: GROUND ZEROES##52
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##43
+544920##Darwin Project##42
+274920##FaceRig##40
+237930##Transistor##37
+242640##Styx: Master of Shadows##36
+12900##Audiosurf##35
+1057240##Crucible##33
+813820##Realm Royale##32
+48190##Assassin's Creed Brotherhood##31
+755790##Ring of Elysium##31
+322780##Worlds Adrift##28
+29180##Osmos##24
+976730##Halo: The Master Chief Collection##22
+105600##Terraria##20
+10700##Speedball 2: Tournament##19
+44200##Galcon Fusion##14
+236430##DARK SOULS™ II##13
+24960##Battlefield: Bad Company™ 2##12
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##10
+219150##Hotline Miami##9
+268910##Cuphead##9
+49900##Plain Sight##8
+38740##EDGE##6
+999860##Enemy On Board##6
+30##Day of Defeat##3
+314410##Rampage Knights##3
+391540##Undertale##3
+425450##GoatPunks##3
+620980##Beat Saber##3
+60##Ricochet##2
+1269260##Artifact Beta 2.0##2
+63700##BIT.TRIP BEAT##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+2420##The Ship Single Player##0
+2430##The Ship Tutorial##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+37400##Time Gentlemen, Please!##0
+37420##Ben There, Dan That!##0
+6600##Bullet Candy##0
+27800##Space Giraffe##0
+27810##GridRunner Revolution##0
+44100##Super Laser Racer##0
+46000##Bob Came in Pieces##0
+8190##Just Cause 2##0
+22600##Worms Reloaded##0
+42700##Call of Duty: Black Ops##0
+35460##The Ball##0
+15100##Assassin's Creed##0
+33230##Assassin's Creed II##0
+564310##Serious Sam Fusion 2017 (beta)##0
+115100##Costume Quest##0
+115110##Stacking##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+211420##DARK SOULS™: Prepare To Die Edition##0
+209080##Guns of Icarus Online##0
+1510##Uplink##0
+92800##SpaceChem##0
+209690##Fieldrunners##0
+210170##Spirits##0
+22000##World of Goo##0
+91200##Anomaly Warzone Earth##0
+204300##Awesomenauts##0
+220780##Thomas Was Alone##0
+204360##Castle Crashers##0
+43110##Metro 2033##0
+57690##Tropico 4##0
+109600##Neverwinter##0
+230410##Warframe##0
+238960##Path of Exile##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+113020##Monaco##0
+368730##No Time To Explain Remastered##0
+700580##Rust - Staging Branch##0
+230070##The Age of Decadence##0
+273110##Counter-Strike Nexon: Studio##0
+279990##Bridge Constructor Playground##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+222900##Dead Island: Epidemic##0
+304930##Unturned##0
+9880##Champions Online##0
+323850##Move or Die##0
+241930##Middle-earth™: Shadow of Mordor™##0
+265000##FORCED SHOWDOWN##0
+339610##FreeStyle 2: Street Basketball##0
+342200##MechWarrior Online##0
+381210##Dead by Daylight##0
+253030##Race The Sun##0
+57300##Amnesia: The Dark Descent##0
+282440##Quake Live##0
+434570##Blood and Bacon##0
+437920##Tricky Towers##0
+596350##Paladins - Public Test##0
+448510##Overcooked##0
+319630##Life is Strange™##0
+402570##Atlas Reactor##0
+513560##Hunger Dungeon##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+252850##Streamline##0
+233720##Surgeon Simulator##0
+271920##Worlds Adrift Island Creator##0
+327890##I am Bread##0
+677620##Splitgate: Arena Warfare##0
+323580##Jotun: Valhalla Edition##0
+466240##Deceit##0
+427460##Battlerite Public Test##0
+766570##Russian Fishing 4##0
+774861##Project Winter##0
+791930##BombTag##0
+800270##Terraforming Mars##0
+878760##Realm Royale - Test Server##0
+611500##Quake Champions##0
+1172470##Apex Legends##0
+1225570##Unravel Two##0
+582660##Black Desert Online##0
+308600##Geneshift##0
+@@REVIEW
+570##Recommended

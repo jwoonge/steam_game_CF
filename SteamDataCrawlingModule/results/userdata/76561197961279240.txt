@@ -1,0 +1,120 @@
+@@GAME
+440##Team Fortress 2##28622
+252490##Rust##20480
+301520##Robocraft##19793
+304050##Trove##16825
+427520##Factorio##15286
+244850##Space Engineers##13447
+300##Day of Defeat: Source##12750
+4000##Garry's Mod##11077
+251570##7 Days to Die##10036
+268650##From The Depths##9979
+304930##Unturned##7159
+224540##Ace of Spades##5931
+730##Counter-Strike: Global Offensive##4412
+243870##Tom Clancy's Ghost Recon Phantoms - NA##3459
+230410##Warframe##3056
+438100##VRChat##2950
+386180##Crossout##2756
+393380##Squad##2250
+236390##War Thunder##2139
+227700##Firefall##2031
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1994
+382310##Eco##1522
+280790##Creativerse##1240
+218230##PlanetSide 2##1170
+105600##Terraria##1164
+412020##Metro Exodus##1150
+253250##Stonehearth##1088
+322330##Don't Starve Together##1009
+206500##AirMech Strike##947
+227860##Castle Story##915
+445220##Avorion##802
+291480##Warface##773
+359550##Tom Clancy's Rainbow Six Siege##714
+333930##Dirty Bomb##672
+104900##ORION: Prelude##548
+212070##Star Conflict##544
+224600##Defiance##499
+346010##Besiege##486
+386070##Planetary Annihilation: TITANS##485
+212680##FTL: Faster Than Light##483
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##455
+805850##Wrecked##455
+418030##Subsistence##447
+815370##Green Hell##444
+222880##Insurgency##429
+397100##MachineCraft##406
+550##Left 4 Dead 2##405
+10##Counter-Strike##402
+200710##Torchlight II##398
+227940##Heroes & Generals##391
+99900##Spiral Knights##371
+259080##Just Cause 2: Multiplayer Mod##356
+293540##Guns and Robots##344
+342200##MechWarrior Online##325
+505460##Foxhole##315
+320300##Car Mechanic Simulator 2015##288
+17410##Mirror's Edge##275
+528230##SYNTHETIK##263
+391460##WARMODE##261
+736220##Post Scriptum##242
+271290##HAWKEN##218
+299360##Block N Load##218
+359320##Elite Dangerous##216
+233270##Far Cry® 3 Blood Dragon##204
+433530##Heliborne - Enhanced Edition##204
+8190##Just Cause 2##201
+444090##Paladins##197
+226100##Nom Nom Galaxy##186
+253710##theHunter Classic##181
+17080##Tribes: Ascend##174
+446150##GUNS UP!##166
+265630##Fistful of Frags##165
+337950##The SKIES##139
+214420##Gear Up##136
+310380##Fractured Space##135
+427730##Who's Your Daddy?!##126
+239220##The Mighty Quest For Epic Loot##125
+442080##Riders of Icarus##118
+13140##America's Army 3##111
+1085660##Destiny 2##104
+387990##Scrap Mechanic##103
+413150##Stardew Valley##103
+700330##SCP: Secret Laboratory##99
+302670##Call to Arms##98
+443080##Elite Dangerous: Arena##95
+273350##Evolve Stage 2##92
+956680##M.A.S.S. Builder##90
+987020##DRONE The Game##82
+436520##Line of Sight##74
+332070##School of Dragons: How to Train Your Dragon##73
+319510##Five Nights at Freddy's##70
+223750##DCS World Steam Edition##65
+516510##Orake Classic##58
+290000##DubWars##55
+691020##Fog Of War - Free Edition##48
+231430##Company of Heroes 2##48
+407530##ARK: Survival Of The Fittest##47
+835860##Dreadnought##47
+8500##EVE Online##42
+20##Team Fortress Classic##36
+6060##Star Wars: Battlefront 2 (Classic, 2005)##30
+714010##Aim Lab##21
+755790##Ring of Elysium##19
+444560##Agent Origins: Escape##11
+677290##VRCAT##2
+700580##Rust - Staging Branch##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+1083500##PlanetSide 2 - Test##0
+774941##Squad - Public Testing##0
+596350##Paladins - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+346110##Recommended
+264710##Recommended

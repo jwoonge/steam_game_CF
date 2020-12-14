@@ -1,0 +1,117 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+3480##Peggle Deluxe##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+2200##Quake III Arena##0
+2310##Quake##0
+2320##Quake II##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+12900##Audiosurf##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+15100##Assassin's Creed##0
+500##Left 4 Dead##0
+22300##Fallout 3##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+550##Left 4 Dead 2##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+33230##Assassin's Creed II##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+40800##Super Meat Boy##0
+16450##F.E.A.R. 2: Project Origin##0
+21090##F.E.A.R.##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+620##Portal 2##0
+105600##Terraria##0
+48000##LIMBO##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+72850##The Elder Scrolls V: Skyrim##0
+22380##Fallout: New Vegas##0
+104900##ORION: Prelude##0
+205550##Foreign Legion: Multi Massacre##0
+204300##Awesomenauts##0
+730##Counter-Strike: Global Offensive##0
+49520##Borderlands 2##0
+204360##Castle Crashers##0
+219150##Hotline Miami##0
+205790##Dota 2 Test##0
+208090##Loadout##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+238960##Path of Exile##0
+265630##Fistful of Frags##0
+8870##BioShock Infinite##0
+219740##Don't Starve##0
+322330##Don't Starve Together##0
+220200##Kerbal Space Program##0
+242760##The Forest##0
+39140##FINAL FANTASY VII##0
+239250##Castlevania: Lords of Shadow 2##0
+239030##Papers, Please##0
+218620##PAYDAY 2##0
+252950##Rocket League##0
+39210##FINAL FANTASY XIV Online##0
+39150##FINAL FANTASY VIII##0
+268850##EVGA Precision X1##0
+268910##Cuphead##0
+274190##Broforce##0
+281990##Stellaris##0
+258180##Deus Ex: The Fall##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+245490##Trials Fusion##0
+238460##BattleBlock Theater##0
+310560##DiRT Rally##0
+227940##Heroes & Generals##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+24240##PAYDAY: The Heist##0
+333930##Dirty Bomb##0
+374320##DARK SOULS™ III##0
+377160##Fallout 4##0
+381210##Dead by Daylight##0
+214490##Alien: Isolation##0
+312660##Sniper Elite 4##0
+292030##The Witcher 3: Wild Hunt##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+240720##Getting Over It with Bennett Foddy##0
+466240##Deceit##0
+739630##Phasmophobia##0
+337000##Deus Ex: Mankind Divided™##0
+552520##Far Cry 5##0
+861650##Session##0
+884660##CRSED##0
+962730##Skater XL##0
+1085660##Destiny 2##0
+1174180##Red Dead Redemption 2##0
+@@REVIEW

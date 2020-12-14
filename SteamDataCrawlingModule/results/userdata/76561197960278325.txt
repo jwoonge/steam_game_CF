@@ -1,0 +1,115 @@
+@@GAME
+570##Dota 2##120871
+289070##Sid Meier's Civilization VI##14491
+238960##Path of Exile##9113
+294100##RimWorld##6631
+424370##Wolcen: Lords of Mayhem##6324
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##4907
+1089350##NBA 2K20##3597
+255710##Cities: Skylines##3427
+233450##Prison Architect##2389
+730##Counter-Strike: Global Offensive##2176
+415200##Motorsport Manager##2117
+203770##Crusader Kings II##2013
+703080##Planet Zoo##1941
+427520##Factorio##1564
+8930##Sid Meier's Civilization V##1384
+105600##Terraria##883
+227300##Euro Truck Simulator 2##850
+361420##ASTRONEER##800
+24780##SimCity 4 Deluxe##766
+24240##PAYDAY: The Heist##562
+737800##F1 2018##511
+598330##SimAirport##491
+550##Left 4 Dead 2##470
+242920##Banished##441
+457330##High Octane Drift##366
+262060##Darkest Dungeon®##364
+8980##Borderlands GOTY##355
+493340##Planet Coaster##351
+291860##Pit People##326
+200710##Torchlight II##310
+10##Counter-Strike##277
+364360##Total War: WARHAMMER##275
+281990##Stellaris##268
+211820##Starbound##248
+263280##Spintires®##235
+107410##Arma 3##221
+33350##Anno 1404: Venice##205
+365450##Hacknet##200
+378860##Project CARS 2##195
+239030##Papers, Please##163
+428690##Youtubers Life##162
+214510##LEGO® The Lord of the Rings™##161
+466560##Northgard##134
+228380##Wreckfest##133
+255420##Magic 2015##128
+222880##Insurgency##124
+310560##DiRT Rally##118
+113200##The Binding of Isaac##111
+250320##The Wolf Among Us##99
+40800##Super Meat Boy##80
+49520##Borderlands 2##79
+320300##Car Mechanic Simulator 2015##77
+220260##Farming Simulator 2013##62
+265930##Goat Simulator##60
+322330##Don't Starve Together##50
+212680##FTL: Faster Than Light##48
+475550##Beholder##47
+238460##BattleBlock Theater##35
+113020##Monaco##34
+503560##911 Operator##27
+214560##Mark of the Ninja##26
+219740##Don't Starve##26
+247020##Cook, Serve, Delicious!##25
+344850##Big Pharma##14
+48000##LIMBO##12
+219150##Hotline Miami##10
+232790##Broken Age##5
+11020##TrackMania Nations Forever##3
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+12750##GRID##0
+729040##Borderlands GOTY Enhanced##0
+33250##Anno 1404##0
+34330##Total War: SHOGUN 2##0
+57690##Tropico 4##0
+65800##Dungeon Defenders##0
+620##Portal 2##0
+207610##The Walking Dead##0
+205790##Dota 2 Test##0
+206440##To the Moon##0
+214340##Deponia##0
+8870##BioShock Infinite##0
+203160##Tomb Raider##0
+236850##Europa Universalis IV##0
+39140##FINAL FANTASY VII##0
+207140##SpeedRunners##0
+368730##No Time To Explain Remastered##0
+214770##Guacamelee! Gold Edition##0
+260230##Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™##0
+367690##Spintires® - Editor##0
+367540##Starbound - Unstable##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+285310##RollerCoaster Tycoon: Deluxe##0
+241930##Middle-earth™: Shadow of Mordor™##0
+282070##This War of Mine##0
+349220##The Black Watchmen##0
+245470##Democracy 3##0
+248610##Door Kickers##0
+24010##Train Simulator##0
+402430##Out of the Park Baseball 17##0
+457140##Oxygen Not Included##0
+397060##Faeria##0
+469820##Genital Jousting##0
+582660##Black Desert Online##0
+675010##MudRunner##0
+567730##Merry Snowballs##0
+@@REVIEW
+424370##Recommended

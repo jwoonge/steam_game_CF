@@ -1,0 +1,25 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+8600##RACE 07##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+19900##Far Cry 2##0
+211500##RaceRoom Racing Experience ##0
+242760##The Forest##0
+299740##Miscreated##0
+912290##Miscreated: Experimental Server##0
+730##Counter-Strike: Global Offensive##0
+298110##Far Cry 4##0
+482730##Football Manager 2017##0
+482750##Football Manager Touch 2017##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+552520##Far Cry 5##0
+@@REVIEW

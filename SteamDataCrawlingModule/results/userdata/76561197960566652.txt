@@ -1,0 +1,234 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##39524
+271590##Grand Theft Auto V##22042
+72850##The Elder Scrolls V: Skyrim##9960
+240##Counter-Strike: Source##9768
+377160##Fallout 4##9728
+211420##DARK SOULS™: Prepare To Die Edition##6974
+310950##Street Fighter V##6291
+22380##Fallout: New Vegas##5223
+12210##Grand Theft Auto IV: The Complete Edition##4658
+730##Counter-Strike: Global Offensive##4336
+28050##Deus Ex: Human Revolution##2701
+17460##Mass Effect##2495
+22370##Fallout 3 - Game of the Year Edition##2480
+55230##Saints Row: The Third##2338
+582010##Monster Hunter: World##2139
+385760##NBA 2K17##1951
+45760##Ultra Street Fighter IV##1891
+863550##HITMAN™ 2##1874
+236870##HITMAN™##1815
+208650##Batman™: Arkham Knight##1722
+570##Dota 2##1329
+202170##Sleeping Dogs™##1324
+41500##Torchlight##1170
+976310##Mortal Kombat 11##1001
+678950##DRAGON BALL FighterZ##951
+391220##Rise of the Tomb Raider##873
+17300##Crysis##717
+6860##Hitman: Blood Money##628
+49400##Magic: The Gathering - Duels of the Planeswalkers##601
+374320##DARK SOULS™ III##565
+367500##Dragon's Dogma: Dark Arisen##551
+200710##Torchlight II##490
+50300##Spec Ops: The Line##406
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##400
+4550##Titan Quest: Immortal Throne##383
+520440##GUILTY GEAR Xrd -REVELATOR-##367
+35140##Batman: Arkham Asylum GOTY Edition##280
+337000##Deus Ex: Mankind Divided™##277
+550##Left 4 Dead 2##269
+440##Team Fortress 2##262
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##255
+48000##LIMBO##237
+227320##You Need A Budget 4 (YNAB)##236
+201020##NBA 2K12##201
+4560##Company of Heroes - Legacy Edition##174
+241930##Middle-earth™: Shadow of Mordor™##159
+435150##Divinity: Original Sin 2##153
+291650##Pillars of Eternity##111
+630##Alien Swarm##109
+24240##PAYDAY: The Heist##104
+593880##Street Fighter V NEW CFN Beta##104
+750920##Shadow of the Tomb Raider##104
+218620##PAYDAY 2##100
+12120##Grand Theft Auto: San Andreas##82
+8190##Just Cause 2##81
+201280##Deus Ex: Human Revolution - The Missing Link##81
+221680##Rocksmith® 2014 Edition - Remastered##79
+22350##BRINK##77
+18110##Shattered Horizon##76
+219150##Hotline Miami##63
+55150##Warhammer 40,000: Space Marine##61
+17330##Crysis Warhead##60
+113020##Monaco##59
+1085660##Destiny 2##58
+23310##The Last Remnant##57
+219640##Chivalry: Medieval Warfare##44
+364360##Total War: WARHAMMER##39
+23490##Tropico 3 - Steam Special Edition##37
+404730##Wasteland 2: Director's Cut##37
+94000##Dinner Date##35
+400##Portal##33
+221040##Resident Evil 6##25
+265550##Dead Rising 3##24
+9340##Company of Heroes: Opposing Fronts##22
+12900##Audiosurf##21
+204360##Castle Crashers##19
+40800##Super Meat Boy##18
+319280##Yatagarasu Attack on Cataclysm##16
+15620##Warhammer 40,000: Dawn of War II##13
+213850##Magic 2014 ##13
+15930##Luxor 3##10
+32460##Monkey Island 2: Special Edition##5
+205790##Dota 2 Test##4
+4540##Titan Quest##2
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+6200##Ghost Master##0
+2600##Vampire: The Masquerade - Bloodlines##0
+475150##Titan Quest Anniversary Edition##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+12250##Grand Theft Auto: San Andreas##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+12360##FlatOut: Ultimate Carnage##0
+19900##Far Cry 2##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+1500##Darwinia##0
+1530##Multiwinia##0
+17340##Crysis Wars##0
+20900##The Witcher: Enhanced Edition##0
+17470##Dead Space##0
+2100##Dark Messiah of Might & Magic Single Player##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+13520##Far Cry##0
+15130##Beyond Good & Evil##0
+15320##IL-2 Sturmovik: 1946##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+33100##Alien Shooter##0
+33110##Alien Shooter: Revisited##0
+33120##Alien Shooter 2: Reloaded##0
+33130##Zombie Shooter##0
+3720##Evil Genius##0
+6010##Indiana Jones and the Fate of Atlantis##0
+6040##The Dig##0
+32310##Indiana Jones and the Last Crusade##0
+32340##Loom##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+31170##Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal##0
+31180##Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay ##0
+31190##Tales of Monkey Island: Chapter 3 - Lair of the Leviathan ##0
+31200##Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood ##0
+31210##Tales of Monkey Island: Chapter 5 - Rise of the Pirate God##0
+11440##DiRT##0
+11500##ToCA Race Driver 3##0
+12750##GRID##0
+12800##FUEL##0
+12840##DiRT 2##0
+43110##Metro 2033##0
+40930##The Misadventures of P.B. Winterbottom##0
+39500##Gothic 3##0
+39510##Gothic II: Gold Edition##0
+950670##Gothic Playable Teaser##0
+42640##Blur##0
+31270##Puzzle Agent##0
+3170##King's Bounty: Armored Princess##0
+25900##King's Bounty: The Legend##0
+63910##King's Bounty: Crossworlds##0
+32360##The Secret of Monkey Island: Special Edition##0
+33600##Broken Sword 2 - the Smoking Mirror: Remastered##0
+33610##Broken Sword 3 - the Sleeping Dragon##0
+57640##Broken Sword 1 - Shadow of the Templars: Director's Cut##0
+58540##Divinity II - The Dragon Knight Saga##0
+219780##Divinity II: Developer's Cut##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+24400##King Arthur - The Role-playing Wargame##0
+47780##Dead Space 2##0
+620##Portal 2##0
+105100##Lume##0
+97000##Solar 2##0
+19680##Alice: Madness Returns##0
+94590##Puzzle Agent 2##0
+22230##Rock of Ages##0
+94200##Jamestown##0
+35720##Trine 2##0
+203560##Containment: The Zombie Puzzler##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+9310##Warhammer 40,000: Dawn of War - Winter Assault##0
+9450##Warhammer 40,000: Dawn of War - Soulstorm##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+203140##Hitman: Absolution##0
+211400##Deadlight##0
+4920##Natural Selection 2##0
+225600##Blade Symphony##0
+8870##BioShock Infinite##0
+234650##Shadowrun Returns##0
+237110##Mortal Kombat Komplete Edition##0
+2800##X2: The Threat##0
+201420##Toki Tori 2+##0
+237530##Toki Tori 2+ Level Editor##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+247000##Talisman: Digital Edition##0
+259130##Wasteland 1 - The Original Classic##0
+266050##Into the Dark##0
+269490##Bardbarian##0
+8930##Sid Meier's Civilization V##0
+235460##METAL GEAR RISING: REVENGEANCE##0
+41900##The Bard's Tale##0
+240760##Wasteland 2##0
+289520##King's Bounty: Dark Side##0
+296530##Coldfire Keep##0
+238460##BattleBlock Theater##0
+300550##Shadowrun: Dragonfall - Director's Cut##0
+346940##Shadowrun: Hong Kong - Extended Edition##0
+21690##Resident Evil 5##0
+235540##Warhammer: End Times - Vermintide##0
+371140##Aegis Defenders##0
+380890##In Search of the Most Dangerous Town on the Internet##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+394970##DEADBOLT##0
+71340##Sonic Generations##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+38400##Fallout##0
+755790##Ring of Elysium##0
+763970##Leisure Suit Larry 1 - In the Land of the Lounge Lizards##0
+765840##Leisure Suit Larry 2 - Looking For Love (In Several Wrong Places)##0
+765850##Leisure Suit Larry 3 - Passionate Patti in Pursuit of the Pulsating Pectorals##0
+765860##Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work##0
+765890##Leisure Suit Larry 7 - Love for Sail##0
+765900##Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored##0
+765910##Leisure Suit Larry 6 - Shape Up Or Slip Out##0
+1056640##Phantasy Star Online 2##0
+555000##GOAT OF DUTY##0
+760620##Deiland##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+282800##100% Orange Juice##0
+835950##Transpose##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW
+236870##Recommended

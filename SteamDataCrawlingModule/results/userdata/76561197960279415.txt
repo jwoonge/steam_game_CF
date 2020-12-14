@@ -1,0 +1,98 @@
+@@GAME
+730##Counter-Strike: Global Offensive##191008
+10##Counter-Strike##152248
+582660##Black Desert Online##130763
+282660##Easy eSports##3829
+105600##Terraria##2987
+252490##Rust##2127
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2060
+252950##Rocket League##1654
+433850##Z1 Battle Royale##1105
+207140##SpeedRunners##555
+203140##Hitman: Absolution##307
+238010##Deus Ex: Human Revolution - Director's Cut##296
+346110##ARK: Survival Evolved##258
+234140##Mad Max##243
+207080##Indie Game: The Movie##240
+113200##The Binding of Isaac##234
+202170##Sleeping Dogs™##199
+26800##Braid##198
+271590##Grand Theft Auto V##156
+304390##For Honor##155
+292030##The Witcher 3: Wild Hunt##144
+203160##Tomb Raider##143
+239160##Thief##143
+233290##MURDERED: SOUL SUSPECT™##143
+40800##Super Meat Boy##138
+211820##Starbound##132
+42910##Magicka##115
+274170##Hotline Miami 2: Wrong Number##83
+210970##The Witness##78
+211420##DARK SOULS™: Prepare To Die Edition##75
+7670##BioShock##59
+261180##Lethal League##43
+620##Portal 2##35
+223850##3DMark##27
+224760##FEZ##21
+368730##No Time To Explain Remastered##6
+8870##BioShock Infinite##6
+409710##BioShock Remastered##6
+409720##BioShock 2 Remastered##6
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+1700##Arx Fatalis##0
+9180##Commander Keen Complete Pack##0
+2270##Wolfenstein 3D##0
+2200##Quake III Arena##0
+2310##Quake##0
+2320##Quake II##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+2360##HeXen: Beyond Heretic##0
+2370##HeXen: Deathkings of the Dark Citadel##0
+2390##Heretic: Shadow of the Serpent Riders##0
+9060##HeXen II##0
+15100##Assassin's Creed##0
+22300##Fallout 3##0
+22330##The Elder Scrolls IV: Oblivion ##0
+22320##The Elder Scrolls III: Morrowind##0
+22340##Call of Cthulhu: Dark Corners of the Earth##0
+40100##Supreme Commander 2##0
+33230##Assassin's Creed II##0
+35130##Lara Croft and the Guardian of Light##0
+22380##Fallout: New Vegas##0
+9010##Return to Castle Wolfenstein##0
+48190##Assassin's Creed Brotherhood##0
+22350##BRINK##0
+22450##Hunted: The Demon's Forge##0
+9200##RAGE##0
+205100##Dishonored##0
+208200##DOOM 3: BFG Edition##0
+700580##Rust - Staging Branch##0
+243040##Startopia##0
+367540##Starbound - Unstable##0
+201810##Wolfenstein: The New Order##0
+38400##Fallout##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+8080##Kane & Lynch: Dead Men##0
+28000##Kane & Lynch 2: Dog Days##0
+268050##The Evil Within##0
+407530##ARK: Survival Of The Fittest##0
+350080##Wolfenstein: The Old Blood ##0
+8850##BioShock 2##0
+371450##Awe##0
+439700##H1Z1: Test Server##0
+446030##Corroded##0
+654310##For Honor - Public Test##0
+552520##Far Cry 5##0
+@@REVIEW
+10##Recommended

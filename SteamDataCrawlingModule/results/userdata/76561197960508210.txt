@@ -1,0 +1,17 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+730##Counter-Strike: Global Offensive##0
+205790##Dota 2 Test##0
+535930##Two Point Hospital##0
+435150##Divinity: Original Sin 2##0
+813780##Age of Empires II: Definitive Edition##0
+966610##FPS Monitor##0
+921570##OCTOPATH TRAVELER##0
+@@REVIEW

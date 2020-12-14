@@ -1,0 +1,20 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+239030##Papers, Please##0
+271590##Grand Theft Auto V##0
+394360##Hearts of Iron IV##0
+571740##Golf It!##0
+648800##Raft##0
+874390##The Battle of Polytopia##0
+730##Counter-Strike: Global Offensive##0
+945360##Among Us##0
+1097150##Fall Guys: Ultimate Knockout##0
+@@REVIEW
+1097150##Not Recommended

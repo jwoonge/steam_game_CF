@@ -1,0 +1,38 @@
+@@GAME
+730##Counter-Strike: Global Offensive##113444
+10##Counter-Strike##64143
+250820##SteamVR##8191
+585420##Trailmakers##1156
+546560##Half-Life: Alyx##926
+1068820##OVR Toolkit##429
+286160##Tabletop Simulator##368
+555160##Pavlov VR##328
+823500##BONEWORKS##316
+976730##Halo: The Master Chief Collection##199
+457550##Bigscreen Beta##192
+341800##Keep Talking and Nobody Explodes##184
+450540##Hot Dogs, Horseshoes & Hand Grenades##184
+843380##Super Animal Royale##177
+264710##Subnautica##123
+253430##CastleMiner Z##103
+275850##No Man's Sky##87
+348250##Google Earth VR##68
+708580##The Exorcist: Legion VR - Chapter 1: First Rites##63
+382110##Virtual Desktop##51
+648890##DMT##51
+246900##Viscera Cleanup Detail##41
+438100##VRChat##32
+629730##Blade & Sorcery##19
+1222700##A Way Out##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+265210##Viscera Cleanup Detail: Santa's Rampage##0
+239140##Dying Light##0
+848450##Subnautica: Below Zero##0
+@@REVIEW

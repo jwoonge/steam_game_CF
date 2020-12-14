@@ -1,0 +1,108 @@
+@@GAME
+730##Counter-Strike: Global Offensive##66154
+440##Team Fortress 2##26258
+292030##The Witcher 3: Wild Hunt##11394
+72850##The Elder Scrolls V: Skyrim##9945
+238960##Path of Exile##7674
+203140##Hitman: Absolution##6612
+220200##Kerbal Space Program##6073
+489830##The Elder Scrolls V: Skyrim Special Edition##5087
+203160##Tomb Raider##5075
+49520##Borderlands 2##3999
+782330##DOOM Eternal##3476
+356190##Middle-earth™: Shadow of War™##3456
+241930##Middle-earth™: Shadow of Mordor™##3338
+391220##Rise of the Tomb Raider##3200
+298110##Far Cry 4##3119
+1250410##Microsoft Flight Simulator##3039
+240##Counter-Strike: Source##2949
+548430##Deep Rock Galactic##2873
+269950##X-Plane 11##2814
+1172380##STAR WARS Jedi: Fallen Order™ ##2469
+8930##Sid Meier's Civilization V##2165
+379720##DOOM##2021
+20900##The Witcher: Enhanced Edition##1820
+200260##Batman: Arkham City GOTY##1712
+32370##STAR WARS™: Knights of the Old Republic™##1545
+552520##Far Cry 5##1409
+213670##South Park™: The Stick of Truth™##1401
+289070##Sid Meier's Civilization VI##1308
+620##Portal 2##1259
+8870##BioShock Infinite##1164
+632360##Risk of Rain 2##1058
+262060##Darkest Dungeon®##1029
+342640##Pixel Privateers##893
+211600##Thief Gold##878
+388210##Day of the Tentacle Remastered##835
+377160##Fallout 4##663
+373420##Divinity: Original Sin Enhanced Edition##607
+274190##Broforce##463
+550##Left 4 Dead 2##450
+6010##Indiana Jones and the Fate of Atlantis##431
+219150##Hotline Miami##395
+65800##Dungeon Defenders##393
+228360##Full Throttle Remastered##349
+205930##Hitman: Sniper Challenge##343
+714010##Aim Lab##333
+12210##Grand Theft Auto IV: The Complete Edition##282
+200210##Realm of the Mad God Exalt##270
+205100##Dishonored##230
+223850##3DMark##204
+750920##Shadow of the Tomb Raider##196
+1222730##STAR WARS™: Squadrons##184
+239030##Papers, Please##156
+420290##Blackwake##153
+945360##Among Us##147
+236870##HITMAN™##137
+212630##Tom Clancy's Ghost Recon Future Soldier##132
+201790##Orcs Must Die! 2##129
+238090##Sniper Elite 3##119
+220##Half-Life 2##110
+381210##Dead by Daylight##110
+15100##Assassin's Creed##88
+221380##Age of Empires II (2013)##88
+371660##Far Cry Primal##85
+402560##Tabletopia##83
+235600##Tom Clancy's Splinter Cell Blacklist##72
+206420##Saints Row IV##49
+354430##STAR WARS™: X-Wing Special Edition##45
+380##Half-Life 2: Episode One##37
+374320##DARK SOULS™ III##27
+63660##Myst: Masterpiece Edition##13
+10100##King's Quest Collection##11
+274170##Hotline Miami 2: Wrong Number##7
+211740##Thief 2##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+420##Half-Life 2: Episode Two##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+22380##Fallout: New Vegas##0
+6980##Thief: Deadly Shadows##0
+212680##FTL: Faster Than Light##0
+218620##PAYDAY 2##0
+209000##Batman™: Arkham Origins##0
+355250##STAR WARS™: TIE Fighter Special Edition##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+230230##Divinity: Original Sin (Classic)##0
+208650##Batman™: Arkham Knight##0
+488790##South Park The Fractured But Whole##0
+812140##Assassin's Creed Odyssey##0
+@@REVIEW
+782330##Recommended
+1172380##Not Recommended
+292030##Recommended
+203140##Recommended
+213670##Recommended
+262060##Recommended
+241930##Recommended
+239030##Recommended

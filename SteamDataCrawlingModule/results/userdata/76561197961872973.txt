@@ -1,0 +1,23 @@
+@@GAME
+730##Counter-Strike: Global Offensive##22730
+10##Counter-Strike##17362
+40##Deathmatch Classic##13481
+50##Half-Life: Opposing Force##13085
+130##Half-Life: Blue Shift##13085
+20##Team Fortress Classic##4234
+70##Half-Life##4062
+440##Team Fortress 2##567
+433850##Z1 Battle Royale##17
+714010##Aim Lab##6
+30##Day of Defeat##0
+60##Ricochet##0
+677620##Splitgate: Arena Warfare##0
+755790##Ring of Elysium##0
+439700##H1Z1: Test Server##0
+760620##Deiland##0
+442070##Drawful 2##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW
+10##Recommended
+730##Recommended

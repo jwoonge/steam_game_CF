@@ -1,0 +1,104 @@
+@@GAME
+730##Counter-Strike: Global Offensive##153921
+238960##Path of Exile##85804
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##30899
+1283970##YoloMouse##15478
+240##Counter-Strike: Source##14680
+292030##The Witcher 3: Wild Hunt##10936
+570##Dota 2##7720
+219990##Grim Dawn##6403
+365590##Tom Clancy's The Division##5353
+251570##7 Days to Die##5303
+232090##Killing Floor 2##5249
+294100##RimWorld##4734
+271590##Grand Theft Auto V##4664
+427520##Factorio##4544
+227300##Euro Truck Simulator 2##4213
+552500##Warhammer: Vermintide 2##3851
+644930##They Are Billions##3488
+393380##Squad##3300
+435150##Divinity: Original Sin 2##2602
+239140##Dying Light##2494
+356190##Middle-earth™: Shadow of War™##2182
+703080##Planet Zoo##2167
+48700##Mount & Blade: Warband##2040
+246620##Plague Inc: Evolved##1510
+359550##Tom Clancy's Rainbow Six Siege##1496
+504370##Battlerite##1156
+1091500##Cyberpunk 2077##944
+207610##The Walking Dead##928
+468920##Ultimate Fishing Simulator##815
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##795
+518790##theHunter: Call of the Wild™##702
+223850##3DMark##599
+50130##Mafia II (Classic)##538
+379720##DOOM##489
+264710##Subnautica##429
+261030##The Walking Dead: Season Two##370
+355840##Survarium##321
+107100##Bastion##319
+295110##Just Survive##298
+10##Counter-Strike##293
+221040##Resident Evil 6##248
+108600##Project Zomboid##237
+238320##Outlast##162
+438740##Friday the 13th: The Game##144
+238090##Sniper Elite 3##136
+208650##Batman™: Arkham Knight##107
+40800##Super Meat Boy##104
+489940##BATTALION 1944##78
+322330##Don't Starve Together##71
+287290##Resident Evil Revelations 2##40
+961440##Resident Evil 2 "1-Shot Demo"##33
+105600##Terraria##29
+440##Team Fortress 2##29
+20900##The Witcher: Enhanced Edition##25
+17080##Tribes: Ascend##9
+230410##Warframe##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1030830##Mafia II: Definitive Edition##0
+47870##Need for Speed: Hot Pursuit##0
+208090##Loadout##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+218620##PAYDAY 2##0
+278970##DiggerOnline##0
+307340##Platypus##0
+200110##Nosgoth##0
+205790##Dota 2 Test##0
+16700##Stronghold Crusader Extreme HD##0
+40970##Stronghold Crusader HD##0
+232890##Stronghold Crusader 2##0
+305620##The Long Dark##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+232150##Killing Floor 2 - SDK##0
+232010##Euro Truck Simulator##0
+258760##Scania Truck Driving Simulator##0
+302060##Trucks & Trailers##0
+302080##Bus Driver##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+774941##Squad - Public Testing##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+391220##Rise of the Tomb Raider##0
+524440##Tom Clancy's The Division PTS##0
+319630##Life is Strange™##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+427460##Battlerite Public Test##0
+714010##Aim Lab##0
+1085660##Destiny 2##0
+231430##Company of Heroes 2##0
+@@REVIEW
+578080##Not Recommended
+271590##Recommended

@@ -1,0 +1,279 @@
+@@GAME
+105600##Terraria##31556
+1102190##Monster Train##16341
+646570##Slay the Spire##14079
+289070##Sid Meier's Civilization VI##13606
+427520##Factorio##8527
+296490##GemCraft - Chasing Shadows##4626
+3590##Plants vs. Zombies: Game of the Year##4140
+413150##Stardew Valley##3592
+211820##Starbound##3405
+201790##Orcs Must Die! 2##3246
+211420##DARK SOULS™: Prepare To Die Edition##2677
+8930##Sid Meier's Civilization V##2232
+698540##Dungeon Warfare 2##2199
+355980##Dungeon Warfare##2129
+238960##Path of Exile##2120
+268750##Magicite##2117
+1127400##Mindustry##2069
+218410##Defender's Quest: Valley of the Forgotten##1984
+960090##Bloons TD 6##1594
+200710##Torchlight II##1498
+226960##Ironclad Tactics##1394
+41500##Torchlight##1211
+115120##Iron Brigade##1205
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##1142
+113200##The Binding of Isaac##1085
+246420##Kingdom Rush##1052
+235250##Super Sanctum TD##969
+15620##Warhammer 40,000: Dawn of War II##938
+70400##Recettear: An Item Shop's Tale##932
+65800##Dungeon Defenders##811
+541230##Alien Shooter TD##802
+816340##Kingdom Rush Origins##752
+590380##Into the Breach##733
+677120##Heroes of Hammerwatch##718
+239070##Hammerwatch##691
+270790##Etherlords II##653
+213030##Penny Arcade's On the Rain-Slick Precipice of Darkness 3##625
+458710##Kingdom Rush Frontiers##621
+211580##Wanderlust: Rebirth##607
+364420##Roguelands##576
+204530##Infested Planet##571
+406850##Crush Your Enemies##541
+249050##Dungeon of the Endless™ - Crystal Edition##512
+780290##Gloomhaven##488
+751780##Forager##468
+107200##Space Pirates and Zombies##458
+306020##Bloons TD5##418
+269210##Hero Siege##408
+241600##Rogue Legacy##398
+230230##Divinity: Original Sin (Classic)##397
+291650##Pillars of Eternity##378
+248390##Craft The World##372
+328080##Rise to Ruins##356
+289130##Endless Legend™ - Emperor Edition##353
+438140##Star Realms##353
+269770##Secrets of Grindea##338
+269490##Bardbarian##336
+378260##Fortify##320
+861540##Dicey Dungeons##319
+356570##Party Hard##310
+232450##SolForge##300
+322330##Don't Starve Together##300
+208140##Endless Space##297
+216090##Go Home Dinosaurs!##296
+270550##Yet Another Zombie Defense##294
+475150##Titan Quest Anniversary Edition##284
+834740##Circle Empires##282
+226620##Desktop Dungeons##281
+251150##The Legend of Heroes: Trails in the Sky##236
+310510##Deathtrap##231
+252950##Rocket League##230
+248820##Risk of Rain##223
+219150##Hotline Miami##209
+440##Team Fortress 2##208
+237570##Penny Arcade's On the Rain-Slick Precipice of Darkness 4##203
+326410##Windward##203
+262060##Darkest Dungeon®##199
+739630##Phasmophobia##197
+932850##Simmiland##196
+320040##Moon Hunters##195
+371200##Halcyon 6: Starbase Commander (CLASSIC)##177
+259680##Tales of Maj'Eyal##176
+290340##Armello##172
+212680##FTL: Faster Than Light##165
+1046030##ISLANDERS##161
+226100##Nom Nom Galaxy##155
+61700##Might & Magic: Clash of Heroes##152
+368230##Kingdom: Classic##150
+399640##Flamebreak##139
+93200##Revenge of the Titans##128
+219740##Don't Starve##121
+599460##Weapon Shop Fantasy##120
+268500##XCOM 2##119
+427250##8-Bit Armies##118
+548430##Deep Rock Galactic##116
+65980##Sid Meier's Civilization: Beyond Earth##112
+422900##Particle Fleet: Emergence##102
+568370##Castle Battles##99
+281990##Stellaris##96
+113020##Monaco##89
+209270##Hero Academy##85
+243970##Invisible, Inc.##82
+265890##Hexcells##80
+562500##Warstone TD##79
+630##Alien Swarm##78
+651660##Halcyon 6: Lightspeed Edition##76
+249330##Unholy Heights##70
+234650##Shadowrun Returns##67
+25900##King's Bounty: The Legend##65
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##65
+348490##Beyond Sol##64
+269310##Infectonator : Survivors##63
+287980##Mini Metro##63
+318230##Convoy##61
+233450##Prison Architect##60
+1194840##Frog Fractions: Game of the Decade Edition##60
+42910##Magicka##59
+239030##Papers, Please##53
+252410##SteamWorld Dig##50
+569480##Kingdoms and Castles##50
+572430##Party Hard 2 ##50
+40950##Stronghold HD##48
+336300##Hearthlands##48
+353640##Train Valley##48
+343100##Overture##46
+70300##VVVVVV##43
+253030##Race The Sun##42
+656350##UnderMine##42
+306700##Iron Fisticle##40
+443420##Artificial Defense##40
+251630##The Impossible Game##39
+367520##Hollow Knight##37
+452970##Asemblance##37
+243780##PixelJunk™ Monsters Ultimate##34
+391540##Undertale##34
+698640##Deep Sky Derelicts##34
+804320##Papers, Please - The Short Film##34
+286160##Tabletop Simulator##33
+242680##Nuclear Throne##32
+280220##Creeper World 3: Arc Eternal##31
+473560##Cosmic Dust & Rust##29
+637090##BATTLETECH##28
+219990##Grim Dawn##26
+748930##Brink of Extinction##26
+221640##Super Hexagon##25
+233150##LUFTRAUSERS##25
+268870##Satellite Reign##24
+323220##Vagante##24
+334230##Town of Salem##24
+347940##Forsaken Isle##23
+680360##Regions Of Ruin##21
+671440##Rise of Industry##19
+207170##Legend of Grimrock##18
+244070##Sid Meier's Ace Patrol##18
+496300##Kingdom: New Lands##18
+98800##Dungeons of Dredmor##16
+266210##One Way Heroics##16
+298360##Immortal Defense##16
+206190##Gunpoint##15
+264140##Pixel Piracy##15
+360740##Downwell##15
+253630##Steam Marines##14
+92100##DETOUR##13
+329130##Reassembly##13
+571310##SteamWorld Dig 2##12
+307230##I, Zombie##11
+248860##NEO Scavenger##10
+299720##Terrorhedron##9
+422970##Devil Daggers##6
+105450##Age of Empires® III (2007)##4
+236110##Dungeon Defenders II##4
+92800##SpaceChem##2
+270770##Etherlords##2
+107300##Breath of Death VII ##1
+373420##Divinity: Original Sin Enhanced Edition##1
+302690##Metal Dead##1
+311690##Enter the Gungeon##1
+232430##Gone Home##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+3830##Psychonauts##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+200060##Sacred 2: Fallen Angel (EU)##0
+550##Left 4 Dead 2##0
+45000##Sol Survivor##0
+57300##Amnesia: The Dark Descent##0
+4560##Company of Heroes - Legacy Edition##0
+228200##Company of Heroes ##0
+90500##Guardians of Graxia##0
+107310##Cthulhu Saves the World ##0
+111400##Bunch Of Heroes##0
+205790##Dota 2 Test##0
+102600##Orcs Must Die!##0
+206440##To the Moon##0
+730##Counter-Strike: Global Offensive##0
+204300##Awesomenauts##0
+228280##Baldur's Gate: Enhanced Edition##0
+231200##Kentucky Route Zero##0
+204240##The Bridge##0
+225420##Cities in Motion 2##0
+236730##Anomaly 2##0
+238210##System Shock 2##0
+239820##Game Dev Tycoon##0
+251530##Anomaly Korea##0
+257350##Baldur's Gate II: Enhanced Edition##0
+221380##Age of Empires II (2013)##0
+16700##Stronghold Crusader Extreme HD##0
+40970##Stronghold Crusader HD##0
+263980##Out There Somewhere##0
+265610##Epic Battle Fantasy 4##0
+266840##Age of Mythology: Extended Edition##0
+367540##Starbound - Unstable##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+268130##Heat Signature##0
+237990##The Banner Saga##0
+274190##Broforce##0
+48700##Mount & Blade: Warband##0
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##0
+294860##Valkyria Chronicles™##0
+297020##The Culling Of The Cows##0
+351030##Pixel Puzzles Ultimate##0
+237930##Transistor##0
+300570##Infinifactory##0
+244160##Homeworld Remastered Collection##0
+548680##Iron Crypticle##0
+311720##Sproggiwood##0
+265750##Secret Ponchos##0
+287450##Rise of Nations: Extended Edition##0
+232890##Stronghold Crusader 2##0
+328760##SanctuaryRPG: Black Edition##0
+246090##Spacebase DF-9##0
+274940##Depth##0
+282070##This War of Mine##0
+230190##War for the Overworld##0
+383840##Nimbatus - The Space Drone Constructor##0
+391730##Crashlands##0
+394310##Punch Club##0
+15700##Oddworld: Abe's Oddysee##0
+420520##Lost Technology##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+445980##Wizard of Legend##0
+460970##Soulcaster: Part I & II##0
+271240##Offworld Trading Company##0
+274500##Brigador: Up-Armored Edition##0
+512900##Streets of Rogue##0
+362960##Tyranny##0
+588650##Dead Cells##0
+593280##Cat Quest##0
+597150##Hyper Knights##0
+623940##HIVESWAP: ACT 1##0
+628770##Tangledeep##0
+631980##Immortal Planet##0
+683320##GRIS##0
+613830##CHRONO TRIGGER##0
+809440##Protolife##0
+814370##Monster Sanctuary##0
+880580##YORG.io##0
+764790##The Messenger##0
+947300##Grim Nights##0
+686600##Rapture Rejects##0
+1145360##Hades##0
+@@REVIEW

@@ -1,0 +1,48 @@
+@@GAME
+730##Counter-Strike: Global Offensive##30967
+271590##Grand Theft Auto V##2605
+239140##Dying Light##1536
+1172470##Apex Legends##861
+252490##Rust##744
+552990##World of Warships##631
+504370##Battlerite##367
+527230##For The King##358
+304930##Unturned##261
+1085660##Destiny 2##85
+570##Dota 2##77
+204880##Sins of a Solar Empire: Rebellion##28
+707010##Will To Live Online##16
+227940##Heroes & Generals##15
+644570##Material Girl##5
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+205790##Dota 2 Test##0
+346180##David.##0
+368710##Power of Love##0
+405720##Perfect Universe##0
+421060##Age of Steel: Recharge##0
+423700##Apocalypse Hotel - The Post-Apocalyptic Hotel Simulator!##0
+447820##Day of Infamy##0
+474870##Ping Ping##0
+496590##Crystal Cosmos##0
+510330##Shotgun Raiders##0
+525190##The Construct##0
+538590##Sleeping Valley##0
+546340##Dynamic##0
+546400##Cavern Escape##0
+560960##Magic Tavern##0
+562640##Introvert Quest##0
+580420##Tourists Kidnapped a Little Bear##0
+498320##Trolley Gold##0
+712840##King Exit##0
+427460##Battlerite Public Test##0
+700580##Rust - Staging Branch##0
+@@REVIEW

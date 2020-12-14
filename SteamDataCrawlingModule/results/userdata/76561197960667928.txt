@@ -1,0 +1,136 @@
+@@GAME
+570##Dota 2##147411
+70##Half-Life##104696
+440##Team Fortress 2##102203
+10##Counter-Strike##101228
+221410##Steam for Linux##101198
+211##Source SDK##95438
+730##Counter-Strike: Global Offensive##87230
+479130##ESEA##82397
+282660##Easy eSports##81923
+268850##EVGA Precision X1##80626
+214850##GameMaker: Studio##79772
+526740##hack_me##71048
+282440##Quake Live##55391
+202990##Call of Duty: Black Ops II - Multiplayer##24882
+212910##Call of Duty: Black Ops II - Zombies##24124
+202970##Call of Duty: Black Ops II##23991
+236390##War Thunder##18969
+240##Counter-Strike: Source##18075
+227300##Euro Truck Simulator 2##17631
+115320##PROTOTYPE 2##9633
+444090##Paladins##414
+399130##Massive Cleavage vs Zombies: Awesome Edition##315
+218620##PAYDAY 2##263
+12120##Grand Theft Auto: San Andreas##261
+230410##Warframe##248
+409420##Knight Adventure##218
+317250##Airscape: The Fall of Gravity##215
+377290##Biodrone Battle##213
+416080##God Game : The Odyssey##203
+364470##The Elder Scrolls: Legends##197
+72400##Clones##188
+353550##House of Caravan##188
+391260##Labyronia RPG##188
+397500##Labyronia RPG 2##188
+407230##Legend of Mysteria##188
+440760##Cube Destroyer##188
+8190##Just Cause 2##179
+399790##Destiny Warriors##165
+4000##Garry's Mod##158
+263980##Out There Somewhere##147
+433850##Z1 Battle Royale##130
+394540##Spaceport Hope##123
+396160##Secret Of Magia##123
+461640##Sins Of The Demon RPG##123
+341500##Camera Obscura##122
+346630##Plazma Being##122
+357070##UBERMOSH##122
+448780##Sixtieth Kilometer##122
+485950##Rise of the Ancients##122
+217980##Dishonored RHCP##101
+550##Left 4 Dead 2##52
+259080##Just Cause 2: Multiplayer Mod##51
+12110##Grand Theft Auto: Vice City##50
+550650##Black Squad##42
+252950##Rocket League##41
+12210##Grand Theft Auto IV: The Complete Edition##38
+41000##Serious Sam HD: The First Encounter##37
+530700##Argo##35
+273110##Counter-Strike Nexon: Studio##24
+20##Team Fortress Classic##20
+593880##Street Fighter V NEW CFN Beta##7
+322170##Geometry Dash##6
+30##Day of Defeat##1
+50##Half-Life: Opposing Force##1
+60##Ricochet##1
+413850##CS:GO Player Profiles##1
+417860##Emily is Away##1
+40##Deathmatch Classic##0
+130##Half-Life: Blue Shift##0
+400##Portal##0
+564310##Serious Sam Fusion 2017 (beta)##0
+41010##Serious Sam HD: The Second Encounter##0
+620##Portal 2##0
+207610##The Walking Dead##0
+222980##Dead Pixels##0
+3910##Sid Meier's Civilization III: Complete##0
+12100##Grand Theft Auto III##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+252150##Grimm##0
+307070##Memories of a Vagabond##0
+311870##Super Trench Attack!##0
+205790##Dota 2 Test##0
+321150##Melissa K. and the Heart of Gold Collector's Edition##0
+354500##PAYDAY: The Web Series##0
+354510##PAYDAY: The Web Series: The Vault##0
+354520##PAYDAY: The Web Series: Hector##0
+354530##PAYDAY: The Web Series: The Elephant##0
+354540##PAYDAY: The Web Series: Greta: The Assassin##0
+354550##PAYDAY: The Web Series: Vlad & Gage##0
+494710##PAYDAY: The Web Series: First World Bank##0
+360640##12 Labours of Hercules II: The Cretan Bull##0
+263060##Blockstorm##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+444940##UBERMOSH:BLACK##0
+600420##Mob Rule Classic##0
+368420##Mirage: Arcane Warfare##0
+113020##Monaco##0
+845070##The Awesome Adventures of Captain Spirit##0
+884660##CRSED##0
+232770##POSTAL##0
+266310##GameGuru##0
+209630##Magrunner: Dark Pulse##0
+729660##Blackout Z: Slaughterhouse Edition##0
+@@REVIEW
+730##Not Recommended
+550##Recommended
+218620##Recommended
+10##Recommended

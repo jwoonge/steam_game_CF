@@ -1,0 +1,102 @@
+@@GAME
+72850##The Elder Scrolls V: Skyrim##15557
+240##Counter-Strike: Source##14223
+306130##The Elder Scrolls Online##6193
+372000##Tree of Savior (English Ver.)##4912
+346110##ARK: Survival Evolved##3249
+500##Left 4 Dead##3223
+550##Left 4 Dead 2##2528
+962130##Grounded##2221
+322330##Don't Starve Together##2076
+212200##Mabinogi##1956
+814480##Mini World: Block Art##1908
+108600##Project Zomboid##1894
+413150##Stardew Valley##1768
+620##Portal 2##1705
+205100##Dishonored##1630
+361800##Tree of Life##1625
+57300##Amnesia: The Dark Descent##1595
+593600##PixARK##1595
+391220##Rise of the Tomb Raider##1461
+304050##Trove##1383
+22370##Fallout 3 - Game of the Year Edition##1344
+405710##Staxel##1274
+1286830##STAR WARS™: The Old Republic™##1170
+8870##BioShock Infinite##1139
+552520##Far Cry 5##1139
+207610##The Walking Dead##863
+239140##Dying Light##863
+332310##LEGO® Worlds##849
+220440##DmC Devil May Cry##789
+47810##Dragon Age: Origins - Ultimate Edition##776
+108800##Crysis 2 Maximum Edition##760
+203140##Hitman: Absolution##744
+526870##Satisfactory##727
+211820##Starbound##704
+428180##Islet Online##698
+280790##Creativerse##689
+261030##The Walking Dead: Season Two##662
+536220##The Walking Dead: A New Frontier##624
+815370##Green Hell##614
+454910##Twin Saga##607
+254460##Obscure##563
+376570##WildStar##487
+374040##Portal Knights##450
+1258080##Shop Titans##420
+537180##Digimon Masters Online##400
+239200##Amnesia: A Machine for Pigs##347
+1185560##Astellia##324
+201230##EverQuest II##244
+648800##Raft##243
+429790##AdventureQuest 3D##232
+1172620##Sea of Thieves##197
+667890##Dead Maze##191
+440##Team Fortress 2##180
+618850##Pumpkin Days##170
+439350##Kritika:REBOOT##151
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##143
+400##Portal##135
+594330##Visage##129
+215830##Closers##121
+39120##RIFT##111
+304930##Unturned##109
+319730##Granado Espada##102
+630100##SoulWorker##100
+105600##Terraria##99
+387990##Scrap Mechanic##91
+640150##Tale of Toast##70
+238960##Path of Exile##66
+550470##NosTale##57
+666860##Bit Heroes##49
+99900##Spiral Knights##23
+883860##Cadria Item Shop##14
+301520##Robocraft##5
+50##Half-Life: Opposing Force##1
+80##Counter-Strike: Condition Zero##1
+360##Half-Life Deathmatch: Source##1
+323370##TERA##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+205930##Hitman: Sniper Challenge##0
+212500##The Lord of the Rings Online™##0
+367540##Starbound - Unstable##0
+407530##ARK: Survival Of The Fittest##0
+696260##Tree of Life - Experimental Server##0
+365720##Skyrim Script Extender (SKSE)##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+663090##Granado Espada##0
+730##Counter-Strike: Global Offensive##0
+@@REVIEW

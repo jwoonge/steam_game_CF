@@ -1,0 +1,161 @@
+@@GAME
+730##Counter-Strike: Global Offensive##258093
+240##Counter-Strike: Source##214728
+1085660##Destiny 2##11282
+365590##Tom Clancy's The Division##10556
+444090##Paladins##10544
+238960##Path of Exile##9815
+65800##Dungeon Defenders##9335
+219990##Grim Dawn##6388
+427270##Orcs Must Die! Unchained##6064
+435150##Divinity: Original Sin 2##5727
+333930##Dirty Bomb##5494
+677120##Heroes of Hammerwatch##4800
+424370##Wolcen: Lords of Mayhem##4193
+570##Dota 2##4017
+997070##Marvel's Avengers##3947
+271590##Grand Theft Auto V##3938
+236110##Dungeon Defenders II##3835
+49520##Borderlands 2##3800
+215530##The Incredible Adventures of Van Helsing##3493
+230410##Warframe##2960
+232090##Killing Floor 2##2653
+200710##Torchlight II##2517
+386360##SMITE##2484
+960090##Bloons TD 6##2371
+630##Alien Swarm##2117
+552500##Warhammer: Vermintide 2##1973
+1057240##Crucible##1942
+204300##Awesomenauts##1853
+632360##Risk of Rain 2##1714
+105600##Terraria##1671
+460930##Tom Clancy's Ghost Recon® Wildlands##1577
+42910##Magicka##1570
+611500##Quake Champions##1539
+302270##Dungeon Defenders Eternity##1490
+423620##Hero Defense##1478
+210770##Sanctum 2##1475
+440##Team Fortress 2##1467
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##1446
+282440##Quake Live##1367
+1250##Killing Floor##1329
+10##Counter-Strike##1299
+258970##Gauntlet™ ##1244
+261640##Borderlands: The Pre-Sequel##1233
+433850##Z1 Battle Royale##1180
+504370##Battlerite##1175
+208090##Loadout##1173
+24240##PAYDAY: The Heist##1166
+342200##MechWarrior Online##937
+1286830##STAR WARS™: The Old Republic™##936
+555440##Deathgarden: BLOODHARVEST##881
+41070##Serious Sam 3: BFE##868
+17020##Global Agenda##858
+1217060##Gunfire Reborn##845
+292730##Call of Duty: Infinite Warfare##835
+617290##Remnant: From the Ashes##813
+328070##Reflex Arena##746
+714010##Aim Lab##734
+12750##GRID##693
+226320##Marvel Heroes Omega##679
+4920##Natural Selection 2##666
+56400##Warhammer 40,000: Dawn of War II - Retribution##654
+104900##ORION: Prelude##627
+550##Left 4 Dead 2##612
+201790##Orcs Must Die! 2##609
+236390##War Thunder##476
+233630##Ascend: Hand of Kul##456
+35700##Trine##446
+11200##Shadowgrounds: Survivor##429
+48700##Mount & Blade: Warband##427
+206480##Dungeons & Dragons Online®##366
+273350##Evolve Stage 2##339
+204360##Castle Crashers##322
+39160##Dungeon Siege III##310
+219640##Chivalry: Medieval Warfare##301
+526870##Satisfactory##300
+3800##Advent Rising##283
+323370##TERA##271
+35450##Rising Storm/Red Orchestra 2 Multiplayer##249
+50##Half-Life: Opposing Force##247
+107100##Bastion##247
+200510##XCOM: Enemy Unknown##243
+2320##Quake II##242
+70000##Dino D-Day##235
+214190##Minimum##235
+221380##Age of Empires II (2013)##218
+7940##Call of Duty 4: Modern Warfare##211
+880940##Pummel Party##209
+222880##Insurgency##199
+218620##PAYDAY 2##194
+220##Half-Life 2##192
+113020##Monaco##189
+2500##Shadowgrounds##188
+205100##Dishonored##188
+217140##Rise of the Triad##174
+231160##The Swapper##164
+493520##GTFO##164
+299360##Block N Load##163
+324800##Shadow Warrior 2##161
+251170##Damned##153
+130##Half-Life: Blue Shift##133
+984110##SYNTHETIK: Arena##130
+793350##Swarmlake##110
+269210##Hero Siege##99
+229870##ShootMania Storm##94
+39800##Nation Red##89
+320##Half-Life 2: Deathmatch##79
+408330##Warhammer 40,000: Dark Nexus Arena##74
+241620##Inquisitor##68
+22600##Worms Reloaded##64
+1049590##Eternal Return: Black Survival##64
+338170##Ratz Instagib 2.0##61
+632730##Base Defense##61
+327690##Gigantic##59
+17730##Smashball##56
+13250##Unreal Gold##54
+431930##Kabounce##51
+474750##Reigns##41
+304930##Unturned##38
+434730##Half dead##38
+2340##Quake II: Ground Zero##33
+324810##TOXIKK##26
+489520##Minion Masters##25
+595280##Throne of Lies®: Medieval Politics##21
+40##Deathmatch Classic##20
+262280##Dungeons 2##14
+234650##Shadowrun Returns##12
+9040##Quake Mission Pack 1: Scourge of Armagon##7
+30##Day of Defeat##4
+312990##The Expendabros##3
+2310##Quake##1
+2330##Quake II: The Reckoning##1
+376570##WildStar##1
+20##Team Fortress Classic##0
+60##Ricochet##0
+70##Half-Life##0
+340##Half-Life 2: Lost Coast##0
+2200##Quake III Arena##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+205790##Dota 2 Test##0
+564310##Serious Sam Fusion 2017 (beta)##0
+225840##Sven Co-op##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+317250##Airscape: The Fall of Gravity##0
+238320##Outlast##0
+232150##Killing Floor 2 - SDK##0
+524440##Tom Clancy's The Division PTS##0
+858460##SMITE - Public Test##0
+439700##H1Z1: Test Server##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+596350##Paladins - Public Test##0
+314010##Boid##0
+427460##Battlerite Public Test##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+1233550##Rocket Arena##0
+802200##Hellbound: Survival Mode##0
+@@REVIEW

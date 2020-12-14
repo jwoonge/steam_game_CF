@@ -1,0 +1,33 @@
+@@GAME
+55150##Warhammer 40,000: Space Marine##1
+730##Counter-Strike: Global Offensive##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+67370##The Darkness II##0
+234650##Shadowrun Returns##0
+226840##Age of Wonders III##0
+268870##Satellite Reign##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+278360##A Story About My Uncle##0
+292910##Deponia: The Complete Journey##0
+318600##The Flame in the Flood##0
+321040##DiRT 3 Complete Edition##0
+328600##Frozen Synapse Prime##0
+351920##Crazy Machines 3##0
+371520##Bounty Train##0
+391720##Layers of Fear##0
+400110##Else Heart.Break()##0
+403970##The Dwarves##0
+410110##12 is Better Than 6##0
+507490##Ashes of the Singularity: Escalation##0
+244030##Take On Mars##0
+595140##Immortal Redneck##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+@@REVIEW

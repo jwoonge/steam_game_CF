@@ -1,0 +1,181 @@
+@@GAME
+295110##Just Survive##27950
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##27378
+437220##The Culling##10112
+433850##Z1 Battle Royale##8963
+730##Counter-Strike: Global Offensive##7497
+377160##Fallout 4##6269
+72850##The Elder Scrolls V: Skyrim##6158
+292030##The Witcher 3: Wild Hunt##4686
+411300##ELEX##3306
+211420##DARK SOULS™: Prepare To Die Edition##2327
+249230##Risen 3 - Titan Lords##2221
+40390##Risen 2 - Dark Waters##2111
+40300##Risen##2044
+8980##Borderlands GOTY##1858
+431240##Golf With Your Friends##1672
+637670##Secret of Mana##1659
+1086940##Baldur's Gate 3##1551
+813820##Realm Royale##1537
+252950##Rocket League##1514
+391220##Rise of the Tomb Raider##1498
+377840##FINAL FANTASY IX##1193
+750920##Shadow of the Tomb Raider##1163
+215630##Demonicon##1025
+444090##Paladins##915
+49520##Borderlands 2##911
+620##Portal 2##635
+20900##The Witcher: Enhanced Edition##598
+203160##Tomb Raider##479
+613830##CHRONO TRIGGER##426
+489830##The Elder Scrolls V: Skyrim Special Edition##407
+10##Counter-Strike##401
+65610##ArcaniA: Fall of Setarrif##325
+400##Portal##210
+319630##Life is Strange™##196
+238960##Path of Exile##127
+57300##Amnesia: The Dark Descent##98
+440##Team Fortress 2##85
+3590##Plants vs. Zombies: Game of the Year##82
+91310##Dead Island##77
+400170##The Incredible Adventures of Van Helsing: Final Cut##76
+265300##Lords Of The Fallen##63
+39510##Gothic II: Gold Edition##50
+12100##Grand Theft Auto III##42
+22380##Fallout: New Vegas##39
+43110##Metro 2033##37
+47810##Dragon Age: Origins - Ultimate Edition##31
+7670##BioShock##30
+218620##PAYDAY 2##20
+39140##FINAL FANTASY VII##12
+39150##FINAL FANTASY VIII##11
+113200##The Binding of Isaac##8
+108710##Alan Wake##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+4000##Garry's Mod##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+21680##Bionic Commando Rearmed##0
+950670##Gothic Playable Teaser##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+17410##Mirror's Edge##0
+729040##Borderlands GOTY Enhanced##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+21100##F.E.A.R. 3##0
+73010##Cities in Motion##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+21090##F.E.A.R.##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+16450##F.E.A.R. 2: Project Origin##0
+19680##Alice: Madness Returns##0
+32800##The Lord of the Rings: War in the North##0
+28050##Deus Ex: Human Revolution##0
+201280##Deus Ex: Human Revolution - The Missing Link##0
+39500##Gothic 3##0
+39690##ArcaniA##0
+65540##Gothic##0
+65600##Gothic 3 Forsaken Gods Enhanced Edition##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+48000##LIMBO##0
+207650##A Virus Named TOM##0
+102600##Orcs Must Die!##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+206270##GTA SA German Mac##0
+200710##Torchlight II##0
+205350##Mortal Kombat Kollection##0
+200260##Batman: Arkham City GOTY##0
+212680##FTL: Faster Than Light##0
+108800##Crysis 2 Maximum Edition##0
+107100##Bastion##0
+204100##Max Payne 3##0
+202750##Alan Wake's American Nightmare##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+215510##Rocketbirds: Hardboiled Chicken##0
+214560##Mark of the Ninja##0
+91600##Sanctum##0
+205100##Dishonored##0
+218680##Scribblenauts Unlimited##0
+4920##Natural Selection 2##0
+202170##Sleeping Dogs™##0
+201790##Orcs Must Die! 2##0
+220440##DmC Devil May Cry##0
+35720##Trine 2##0
+225260##Brütal Legend##0
+21690##Resident Evil 5##0
+225420##Cities in Motion 2##0
+233450##Prison Architect##0
+210770##Sanctum 2##0
+222480##Resident Evil Revelations##0
+224760##FEZ##0
+228300##Remember Me##0
+9480##Saints Row 2##0
+55230##Saints Row: The Third##0
+225640##Sacred 2 Gold##0
+207930##Sacred Citadel##0
+225080##Brothers - A Tale of Two Sons##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+226720##Lost Planet 3##0
+214550##Eets Munchies##0
+111900##Guardians of Middle-earth##0
+23490##Tropico 3 - Steam Special Edition##0
+91100##SkyDrift##0
+207040##Sine Mora##0
+217690##Anna - Extended Edition##0
+606730##Sine Mora EX##0
+57690##Tropico 4##0
+57740##Jagged Alliance - Back in Action##0
+9350##Supreme Commander##0
+9420##Supreme Commander: Forged Alliance##0
+39650##The Guild II##0
+55110##Red Faction: Armageddon##0
+50650##Darksiders II##0
+65530##SpellForce 2 - Faith in Destiny##0
+214870##Painkiller Hell & Damnation##0
+42910##Magicka##0
+260750##Neighbours from Hell##0
+260770##Neighbours from Hell 2##0
+1283190##Neighbours back From Hell##0
+550##Left 4 Dead 2##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+235210##Strider##0
+254700##Resident Evil 4##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+203830##The Dark Eye: Chains of Satinav##0
+243200##Memoria##0
+249650##Blackguards##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+220240##Far Cry® 3##0
+233270##Far Cry® 3 Blood Dragon##0
+241930##Middle-earth™: Shadow of Mordor™##0
+329380##Stealth Inc 2##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+287290##Resident Evil Revelations 2##0
+366220##Wurm Unlimited##0
+230230##Divinity: Original Sin (Classic)##0
+373420##Divinity: Original Sin Enhanced Edition##0
+50620##Darksiders##0
+388410##Darksiders II Deathinitive Edition##0
+462780##Darksiders Warmastered Edition##0
+596350##Paladins - Public Test##0
+809960##Radical Heights##0
+878760##Realm Royale - Test Server##0
+582660##Black Desert Online##0
+@@REVIEW

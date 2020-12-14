@@ -1,0 +1,72 @@
+@@GAME
+730##Counter-Strike: Global Offensive##127183
+107410##Arma 3##120212
+252490##Rust##50209
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##49393
+457140##Oxygen Not Included##7214
+346110##ARK: Survival Evolved##5221
+295110##Just Survive##4694
+244850##Space Engineers##3607
+251570##7 Days to Die##3426
+761890##Albion Online##3002
+10##Counter-Strike##2578
+221100##DayZ##2232
+304030##ArcheAge##2127
+382310##Eco##1854
+440900##Conan Exiles##1684
+218620##PAYDAY 2##1505
+393420##Hurtworld##1398
+424370##Wolcen: Lords of Mayhem##1336
+433850##Z1 Battle Royale##1107
+505040##FORTIFY##966
+48240##Anno 2070##928
+755790##Ring of Elysium##853
+241540##State of Decay##779
+209660##Call of Duty: Advanced Warfare - Multiplayer##706
+286160##Tabletop Simulator##641
+657200##Hand Simulator##439
+209650##Call of Duty: Advanced Warfare##403
+239140##Dying Light##378
+848450##Subnautica: Below Zero##334
+264710##Subnautica##312
+238430##Contagion##291
+582010##Monster Hunter: World##279
+8930##Sid Meier's Civilization V##220
+496460##Life is Feudal: Forest Village##211
+33930##Arma 2: Operation Arrowhead##208
+704850##Thief Simulator##183
+4920##Natural Selection 2##171
+570##Dota 2##164
+232090##Killing Floor 2##112
+80##Counter-Strike: Condition Zero##87
+281990##Stellaris##76
+33350##Anno 1404: Venice##70
+625340##XERA: Survival##64
+720250##Welcome to the Game II##48
+326460##ShellShock Live##36
+240##Counter-Strike: Source##26
+33910##Arma 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+33250##Anno 1404##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+238960##Path of Exile##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+407530##ARK: Survival Of The Fittest##0
+232150##Killing Floor 2 - SDK##0
+445900##Hurtworld SDK##0
+931180##Conan Exiles - Testlive Client##0
+@@REVIEW

@@ -1,0 +1,135 @@
+@@GAME
+72850##The Elder Scrolls V: Skyrim##17267
+105600##Terraria##13915
+730##Counter-Strike: Global Offensive##13869
+367520##Hollow Knight##13196
+729040##Borderlands GOTY Enhanced##11426
+211420##DARK SOULS™: Prepare To Die Edition##7973
+24980##Mass Effect 2##5016
+1213210##Command & Conquer™ Remastered Collection##4952
+500##Left 4 Dead##4705
+39190##Dungeon Siege##4251
+620##Portal 2##3253
+204360##Castle Crashers##3181
+423230##Furi##2810
+17460##Mass Effect##2018
+550##Left 4 Dead 2##2014
+440##Team Fortress 2##1800
+433850##Z1 Battle Royale##1616
+322500##SUPERHOT##1320
+35700##Trine##1002
+493200##RiME##881
+252950##Rocket League##492
+400##Portal##318
+384190##ABZÛ##218
+240##Counter-Strike: Source##176
+220##Half-Life 2##164
+250820##SteamVR##155
+292030##The Witcher 3: Wild Hunt##119
+202170##Sleeping Dogs™##100
+373420##Divinity: Original Sin Enhanced Edition##99
+10##Counter-Strike##85
+236090##Dust: An Elysian Tail##84
+7670##BioShock##81
+50620##Darksiders##70
+32370##STAR WARS™: Knights of the Old Republic™##50
+41000##Serious Sam HD: The First Encounter##49
+244160##Homeworld Remastered Collection##31
+8980##Borderlands GOTY##28
+200510##XCOM: Enemy Unknown##22
+41070##Serious Sam 3: BFE##16
+214560##Mark of the Ninja##7
+22300##Fallout 3##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+4760##Rome: Total War##0
+4770##Rome: Total War - Alexander##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+23310##The Last Remnant##0
+22320##The Elder Scrolls III: Morrowind##0
+564310##Serious Sam Fusion 2017 (beta)##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+24780##SimCity 4 Deluxe##0
+462780##Darksiders Warmastered Edition##0
+8930##Sid Meier's Civilization V##0
+22380##Fallout: New Vegas##0
+65800##Dungeon Defenders##0
+102500##Kingdoms of Amalur: Reckoning™##0
+108710##Alan Wake##0
+207610##The Walking Dead##0
+212680##FTL: Faster Than Light##0
+8850##BioShock 2##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+201790##Orcs Must Die! 2##0
+200260##Batman: Arkham City GOTY##0
+49520##Borderlands 2##0
+219150##Hotline Miami##0
+223810##Ys I##0
+223870##Ys II##0
+8870##BioShock Infinite##0
+39200##Dungeon Siege 2##0
+238210##System Shock 2##0
+206190##Gunpoint##0
+225080##Brothers - A Tale of Two Sons##0
+219990##Grim Dawn##0
+264200##One Finger Death Punch##0
+275570##Summoner##0
+213670##South Park™: The Stick of Truth™##0
+283640##Salt and Sanctuary##0
+292120##FINAL FANTASY XIII##0
+304430##INSIDE##0
+38400##Fallout##0
+38410##Fallout 2##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+241930##Middle-earth™: Shadow of Mordor™##0
+250900##The Binding of Isaac: Rebirth##0
+236430##DARK SOULS™ II##0
+368340##CrossCode##0
+219740##Don't Starve##0
+322330##Don't Starve Together##0
+230230##Divinity: Original Sin (Classic)##0
+374320##DARK SOULS™ III##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+391540##Undertale##0
+413150##Stardew Valley##0
+439700##H1Z1: Test Server##0
+275850##No Man's Sky##0
+460790##Bayonetta##0
+377160##Fallout 4##0
+379720##DOOM##0
+480490##Prey##0
+504230##Celeste##0
+514900##Observer##0
+562860##Ion Fury##0
+587100##Ys SEVEN##0
+589510##Shovel Knight: Specter of Torment##0
+524220##NieR:Automata™##0
+609320##FAR: Lone Sails##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+692850##Bloodstained: Ritual of the Night##0
+435150##Divinity: Original Sin 2##0
+291650##Pillars of Eternity##0
+798460##Ni no Kuni Wrath of the White Witch™ Remastered##0
+637650##FINAL FANTASY XV WINDOWS EDITION##0
+837470##Untitled Goose Game##0
+582010##Monster Hunter: World##0
+814380##Sekiro™: Shadows Die Twice##0
+738540##Tales of Vesperia: Definitive Edition##0
+752590##A Plague Tale: Innocence##0
+1041720##Kingdoms of Amalur: Re-Reckoning##0
+601150##Devil May Cry 5##0
+@@REVIEW

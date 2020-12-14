@@ -1,0 +1,166 @@
+@@GAME
+730##Counter-Strike: Global Offensive##962403
+10##Counter-Strike##19748
+440##Team Fortress 2##7389
+570##Dota 2##7389
+230410##Warframe##7360
+227940##Heroes & Generals##7360
+444090##Paladins##7360
+433850##Z1 Battle Royale##7360
+611500##Quake Champions##7360
+755790##Ring of Elysium##7359
+813820##Realm Royale##7359
+40##Deathmatch Classic##1871
+30##Day of Defeat##1870
+70##Half-Life##1870
+863550##HITMAN™ 2##553
+269710##Tumblestone##514
+224900##Iron Sky Invasion##424
+215930##Jagged Alliance 2 - Wildfire ##423
+1900##Earth 2160##422
+1930##Two Worlds: Epic Edition##396
+615090##Royal Offense##395
+284950##Pixel Puzzles: Japan##371
+532030##Dream Dealer##368
+226840##Age of Wonders III##362
+420970##RoBoRumble##361
+7510##X-Blades##359
+253920##Gorky 17##342
+253880##Earth 2150 Trilogy##338
+343710##KHOLAT##333
+7530##Two Worlds II Castle Defense##332
+215790##Dream Pinball 3D##311
+253940##Septerra Core##311
+389700##My Bones##309
+254060##KnightShift##307
+259340##Chicken Shoot Gold##305
+218510##Planets Under Attack##302
+253900##Knights and Merchants##296
+44350##GRID 2##290
+271640##Humanity Asset##287
+254080##World War III: Black Gold##279
+285800##Braveland##279
+539720##Razortron 2000##277
+279720##The I of the Dragon##275
+231430##Company of Heroes 2##275
+893030##Music Racer##274
+253960##Jack Orlando Director's Cut##273
+252150##Grimm##273
+351940##The Descendant##273
+259320##Heli Heroes##272
+455710##Project RPG Remastered##272
+521980##Autumn Dream##271
+232770##POSTAL##271
+254100##World War II: Panzer Claws##269
+555920##Dark Egypt##267
+206610##3SwitcheD##265
+453670##The Lost Souls##259
+331790##Data Hacker: Reboot##255
+253860##Earth 2140 HD##254
+343360##Particula##254
+562360##Planes, Bullets and Vodka##247
+253980##Enclave##242
+914690##Hentai Shooter 3D##242
+370910##Kathy Rain##242
+391260##Labyronia RPG##217
+407230##Legend of Mysteria##217
+341310##Greyfox##216
+396160##Secret Of Magia##216
+399790##Destiny Warriors##216
+438480##Rock 'N' Roll Defense##216
+636150##Cyberhunt##216
+469890##Space Codex##216
+668630##Tricolour Lovestory##216
+397500##Labyronia RPG 2##186
+406210##Over the Dream##186
+351030##Pixel Puzzles Ultimate##74
+50##Half-Life: Opposing Force##3
+20##Team Fortress Classic##1
+240##Counter-Strike: Source##1
+272060##Serena##1
+283880##Heroine's Quest: The Herald of Ragnarok##1
+302380##Floating Point##1
+312150##Wild Warfare##1
+339120##Fork Parker's Holiday Profit Hike##1
+596350##Paladins - Public Test##1
+319830##AX:EL##1
+878760##Realm Royale - Test Server##1
+845070##The Awesome Adventures of Captain Spirit##1
+252130##Divide by Sheep##1
+275390##Guacamelee! Super Turbo Championship Edition##1
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+259280##Earth 2150: The Moon Project##0
+259300##Earth 2150: Lost Souls##0
+247120##Portal 2 Sixense Perceptual Pack##0
+346290##Penumbra: Necrologue##0
+298180##The Desolate Hope##0
+397720##Romance of the Three Kingdoms Maker##0
+520090##Behind The Schemes##0
+520180##Behind The Schemes: Mother Russia Bleeds (Le Cartel Studio)##0
+624770##Behind The Schemes: Shadow Warrior 2 (Flying Wild Hog)##0
+624771##Behind The Schemes: Reigns (Nerial)##0
+624773##Behind The Schemes: Ruiner (Reikon)##0
+724610##Behind The Schemes: Serious Sam (Croteam)##0
+807100##Behind The Schemes: Crossing Souls (Fourattic)##0
+855910##Behind The Schemes: Swords of Ditto (onebitbeyond)##0
+968260##Behind The Schemes: The Messenger (Sabotage)##0
+999820##Behind The Schemes: Gris (Nomada Studio)##0
+1416840##Behind The Schemes: Fall Guys (Mediatonic)##0
+444560##Agent Origins: Escape##0
+534110##Agent Origins##0
+537420##Agent Origins: Pursuit##0
+537421##Agent Origins: Conspiracies##0
+537422##Agent Origins: Ashes##0
+8500##EVE Online##0
+582890##Estranged: The Departure##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+608990##The Archotek Project##0
+439700##H1Z1: Test Server##0
+802240##SOS: Classic##0
+266310##GameGuru##0
+282100##Fearless Fantasy##0
+325180##AppGameKit Classic##0
+780800##Ball laB##0
+1048540##Kao the Kangaroo: Round 2##0
+684680##Polygoneer##0
+431930##Kabounce##0
+489520##Minion Masters##0
+310560##DiRT Rally##0
+490860##DashBored##0
+567730##Merry Snowballs##0
+251870##Go! Go! Nippon! ~My First Trip to Japan~##0
+287630##The Council##0
+406970##The Uncertain: Last Quiet Day##0
+797410##Headsnatchers##0
+760620##Deiland##0
+442070##Drawful 2##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+588210##HELLION##0
+814200##Simple Story - Alex##0
+628950##Nephise Begins##0
+702150##Project Mercury##0
+335190##200% Mixed Juice!##0
+282800##100% Orange Juice##0
+420740##The Deed##0
+618140##Barro##0
+350300##Gang of Four##0
+600430##Ticket to Ride: First Journey##0
+699240##Keyboard Killers##0
+442120##Pinball FX3##0
+835950##Transpose##0
+1078000##Gamecraft##0
+727020##Arcade Moonlander##0
+368180##Polyball##0
+308600##Geneshift##0
+34330##Total War: SHOGUN 2##0
+1076280##Showdown Bandit##0
+435790##10 Second Ninja X##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+1368440##Armor Of Heroes##0
+1368450##Endless Zone##0
+@@REVIEW

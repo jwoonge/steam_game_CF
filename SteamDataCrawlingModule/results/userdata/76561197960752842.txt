@@ -1,0 +1,37 @@
+@@GAME
+730##Counter-Strike: Global Offensive##62513
+8500##EVE Online##2485
+70##Half-Life##1258
+346110##ARK: Survival Evolved##1063
+225540##Just Cause 3##499
+10##Counter-Strike##468
+379430##Kingdom Come: Deliverance##441
+403640##Dishonored 2##225
+377160##Fallout 4##198
+42680##Call of Duty: Modern Warfare 3##190
+227300##Euro Truck Simulator 2##116
+434110##Premium Pool##47
+961440##Resident Evil 2 "1-Shot Demo"##18
+766570##Russian Fishing 4##12
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##7
+236390##War Thunder##7
+863550##HITMAN™ 2##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+230410##Warframe##0
+238960##Path of Exile##0
+407530##ARK: Survival Of The Fittest##0
+391220##Rise of the Tomb Raider##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+444200##World of Tanks Blitz##0
+905370##Conqueror's Blade##0
+226840##Age of Wonders III##0
+1085660##Destiny 2##0
+203770##Crusader Kings II##0
+@@REVIEW
+1091500##Not Recommended

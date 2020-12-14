@@ -1,0 +1,47 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+11900##Lumines##0
+11920##Lumines: Advanced Pack##0
+550##Left 4 Dead 2##0
+40100##Supreme Commander 2##0
+8190##Just Cause 2##0
+205790##Dota 2 Test##0
+63200##Monday Night Combat##0
+620##Portal 2##0
+9420##Supreme Commander: Forged Alliance##0
+105450##Age of Empires® III (2007)##0
+730##Counter-Strike: Global Offensive##0
+242920##Banished##0
+233250##Planetary Annihilation##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+287980##Mini Metro##0
+282440##Quake Live##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+583950##Artifact##0
+1046930##Dota Underlords##0
+1172470##Apex Legends##0
+1237970##Titanfall® 2##0
+1454890##Titanfall™##0
+@@REVIEW

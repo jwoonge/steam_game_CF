@@ -1,0 +1,76 @@
+@@GAME
+730##Counter-Strike: Global Offensive##343799
+10##Counter-Strike##6810
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##6807
+252490##Rust##6617
+295110##Just Survive##5869
+218620##PAYDAY 2##5003
+433850##Z1 Battle Royale##2938
+226700##Infestation: Survivor Stories 2020##2620
+271590##Grand Theft Auto V##2358
+238960##Path of Exile##1411
+17480##Command and Conquer: Red Alert 3##1136
+252950##Rocket League##992
+221100##DayZ##720
+231430##Company of Heroes 2##644
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##579
+24790##Command and Conquer 3: Tiberium Wars##529
+365590##Tom Clancy's The Division##474
+359550##Tom Clancy's Rainbow Six Siege##473
+1085660##Destiny 2##367
+320300##Car Mechanic Simulator 2015##317
+323370##TERA##268
+209080##Guns of Icarus Online##208
+226320##Marvel Heroes Omega##203
+222880##Insurgency##169
+240##Counter-Strike: Source##126
+12120##Grand Theft Auto: San Andreas##124
+230230##Divinity: Original Sin (Classic)##121
+80##Counter-Strike: Condition Zero##89
+555570##Infestation: The New Z##76
+236390##War Thunder##54
+339610##FreeStyle 2: Street Basketball##48
+274940##Depth##47
+550##Left 4 Dead 2##44
+230410##Warframe##41
+223630##AirBuccaneers##33
+210770##Sanctum 2##28
+4000##Garry's Mod##20
+7940##Call of Duty 4: Modern Warfare##20
+550650##Black Squad##13
+24240##PAYDAY: The Heist##12
+253980##Enclave##11
+35450##Rising Storm/Red Orchestra 2 Multiplayer##7
+30##Day of Defeat##2
+444090##Paladins##2
+479130##ESEA##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+206480##Dungeons & Dragons Online®##0
+700580##Rust - Staging Branch##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+373420##Divinity: Original Sin Enhanced Edition##0
+282440##Quake Live##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+291480##Warface##0
+200110##Nosgoth##0
+332070##School of Dragons: How to Train Your Dragon##0
+12250##Grand Theft Auto: San Andreas##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+596350##Paladins - Public Test##0
+524440##Tom Clancy's The Division PTS##0
+466240##Deceit##0
+755790##Ring of Elysium##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+@@REVIEW
+730##Recommended

@@ -1,0 +1,128 @@
+@@GAME
+505460##Foxhole##9678
+427520##Factorio##6672
+10500##Total War: EMPIRE - Definitive Edition##5972
+248390##Craft The World##4199
+105600##Terraria##3622
+233450##Prison Architect##2700
+238960##Path of Exile##2222
+304930##Unturned##2056
+252490##Rust##1828
+289070##Sid Meier's Civilization VI##1579
+222730##Reus##1522
+24720##Spore: Galactic Adventures##1467
+322330##Don't Starve Together##1323
+730##Counter-Strike: Global Offensive##1297
+960090##Bloons TD 6##1281
+570##Dota 2##1236
+359550##Tom Clancy's Rainbow Six Siege##1214
+428690##Youtubers Life##1178
+1085660##Destiny 2##1177
+218230##PlanetSide 2##725
+17390##Spore##724
+205190##Rocksmith##666
+679900##Swords & Souls: Neverseen##614
+315460##Dig or Die##606
+301520##Robocraft##598
+219830##King Arthur's Gold##583
+304050##Trove##560
+700030##Life is Feudal: MMO##538
+413150##Stardew Valley##493
+261550##Mount & Blade II: Bannerlord##490
+30##Day of Defeat##402
+8930##Sid Meier's Civilization V##382
+227940##Heroes & Generals##376
+108600##Project Zomboid##371
+648350##Jurassic World Evolution##365
+905370##Conqueror's Blade##354
+320040##Moon Hunters##312
+1100260##Circle Empires Rivals##293
+945360##Among Us##289
+346110##ARK: Survival Evolved##288
+751780##Forager##288
+581320##Insurgency: Sandstorm##266
+285920##TerraTech##264
+508440##Totally Accurate Battle Simulator##264
+317470##Cubic Castles##243
+632360##Risk of Rain 2##242
+10##Counter-Strike##219
+440##Team Fortress 2##198
+214420##Gear Up##192
+550650##Black Squad##184
+206480##Dungeons & Dragons Online®##179
+700330##SCP: Secret Laboratory##175
+761890##Albion Online##161
+47400##Stronghold 3##126
+240##Counter-Strike: Source##117
+8500##EVE Online##113
+593600##PixARK##111
+363970##Clicker Heroes##110
+444640##Bloons TD Battles##97
+200210##Realm of the Mad God Exalt##92
+251570##7 Days to Die##83
+987350##PlanetSide Arena##76
+560380##MapleStory 2##71
+1286530##Black Skylands: Origins##66
+449140##Istrolid##62
+47410##Stronghold Kingdoms##61
+707010##Will To Live Online##58
+667890##Dead Maze##57
+444200##World of Tanks Blitz##47
+1104640##New Frontier##45
+444090##Paladins##44
+755790##Ring of Elysium##42
+715220##Ironsight##38
+627690##Idle Champions of the Forgotten Realms##27
+236110##Dungeon Defenders II##26
+1258080##Shop Titans##26
+415860##Tactical Craft Online##24
+1180380##Stay Out##23
+280790##Creativerse##21
+373720##Ryzom##16
+1281930##tModLoader##14
+326460##ShellShock Live##12
+433850##Z1 Battle Royale##12
+302830##BLOCKADE 3D##11
+610080##Realm Grinder##11
+442710##Fantasy Tales Online##10
+492150##RPG World - Action RPG Maker##10
+1046930##Dota Underlords##9
+346900##AdVenture Capitalist##8
+354640##The Settlers Online##7
+212680##FTL: Faster Than Light##6
+1371630##Incremental Adventures##3
+461750##Ghoul Kid##2
+500710##Wild Terra Online##2
+291480##Warface##1
+1056640##Phantasy Star Online 2##1
+1343400##RuneScape##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+17440##Spore: Creepy & Cute Parts Pack##0
+40950##Stronghold HD##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+263540##Villagers and Heroes##0
+278970##DiggerOnline##0
+407530##ARK: Survival Of The Fittest##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+596350##Paladins - Public Test##0
+552990##World of Warships##0
+386180##Crossout##0
+700580##Rust - Staging Branch##0
+439700##H1Z1: Test Server##0
+438040##Shakes and Fidget##0
+231430##Company of Heroes 2##0
+@@REVIEW
+505460##Recommended

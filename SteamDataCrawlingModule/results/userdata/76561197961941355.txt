@@ -1,0 +1,54 @@
+@@GAME
+252950##Rocket League##148400
+730##Counter-Strike: Global Offensive##25379
+624090##Football Manager 2018##21983
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##16845
+872790##Football Manager 2019##13366
+107410##Arma 3##11914
+10##Counter-Strike##11582
+1100600##Football Manager 2020##6644
+33930##Arma 2: Operation Arrowhead##5100
+221100##DayZ##3172
+295110##Just Survive##2295
+1250410##Microsoft Flight Simulator##1766
+431240##Golf With Your Friends##928
+268850##EVGA Precision X1##892
+207890##Football Manager 2013##812
+255710##Cities: Skylines##457
+257420##Serious Sam 4##419
+200710##Torchlight II##395
+686810##Hell Let Loose##321
+433850##Z1 Battle Royale##283
+9420##Supreme Commander: Forged Alliance##269
+252490##Rust##177
+552990##World of Warships##144
+440##Team Fortress 2##98
+236110##Dungeon Defenders II##74
+218230##PlanetSide 2##46
+1097150##Fall Guys: Ultimate Knockout##42
+611500##Quake Champions##39
+263280##Spintires®##26
+1213210##Command & Conquer™ Remastered Collection##16
+33910##Arma 2##2
+624120##Football Manager Touch 2018##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+10540##Football Manager 2009##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+41500##Torchlight##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+700580##Rust - Staging Branch##0
+367690##Spintires® - Editor##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+493340##Planet Coaster##0
+444200##World of Tanks Blitz##0
+872820##Football Manager 2019 Touch##0
+1100620##Football Manager 2020 Touch##0
+@@REVIEW

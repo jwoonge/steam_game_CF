@@ -1,0 +1,30 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+12200##Bully: Scholarship Edition##0
+22370##Fallout 3 - Game of the Year Edition##0
+265630##Fistful of Frags##0
+251570##7 Days to Die##0
+264710##Subnautica##0
+730##Counter-Strike: Global Offensive##0
+365720##Skyrim Script Extender (SKSE)##0
+367520##Hollow Knight##0
+234140##Mad Max##0
+438100##VRChat##0
+377160##Fallout 4##0
+707030##POSTAL 4: No Regerts##0
+739630##Phasmophobia##0
+368230##Kingdom: Classic##0
+1139900##Ghostrunner##0
+1172470##Apex Legends##0
+@@REVIEW
+739630##Recommended
+1172470##Recommended
+440##Recommended
+22370##Not Recommended

@@ -1,0 +1,66 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##50784
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##25213
+221100##DayZ##9945
+581320##Insurgency: Sandstorm##7423
+271590##Grand Theft Auto V##4037
+815370##Green Hell##2160
+239140##Dying Light##1649
+10##Counter-Strike##1532
+107410##Arma 3##1427
+2450##Bloody Good Time##1362
+23490##Tropico 3 - Steam Special Edition##1224
+41070##Serious Sam 3: BFE##819
+8190##Just Cause 2##812
+1172620##Sea of Thieves##714
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##628
+379720##DOOM##611
+393420##Hurtworld##547
+295110##Just Survive##543
+33930##Arma 2: Operation Arrowhead##468
+32360##The Secret of Monkey Island: Special Edition##409
+730##Counter-Strike: Global Offensive##387
+18040##DeathSpank##330
+1213210##Command & Conquer™ Remastered Collection##277
+674940##Stick Fight: The Game##254
+49520##Borderlands 2##235
+383870##Firewatch##222
+570##Dota 2##185
+4000##Garry's Mod##176
+400##Portal##130
+1078920##Main Assembly##126
+24860##Battlefield 2##119
+208090##Loadout##117
+550##Left 4 Dead 2##87
+240##Counter-Strike: Source##67
+204100##Max Payne 3##66
+388210##Day of the Tentacle Remastered##50
+268850##EVGA Precision X1##39
+33910##Arma 2##37
+209000##Batman™: Arkham Origins##22
+440##Team Fortress 2##22
+222880##Insurgency##19
+304930##Unturned##17
+630##Alien Swarm##16
+223750##DCS World Steam Edition##9
+259080##Just Cause 2: Multiplayer Mod##9
+282440##Quake Live##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+10180##Call of Duty: Modern Warfare 2##0
+564310##Serious Sam Fusion 2017 (beta)##0
+4920##Natural Selection 2##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+255070##Abyss Odyssey##0
+218620##PAYDAY 2##0
+445900##Hurtworld SDK##0
+782330##DOOM Eternal##0
+1085660##Destiny 2##0
+@@REVIEW

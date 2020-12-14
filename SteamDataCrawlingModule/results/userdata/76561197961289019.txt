@@ -1,0 +1,112 @@
+@@GAME
+221380##Age of Empires II (2013)##161809
+107410##Arma 3##89900
+813780##Age of Empires II: Definitive Edition##66861
+962730##Skater XL##50049
+238960##Path of Exile##22738
+815780##PIPE##18113
+253710##theHunter Classic##18086
+464350##Screeps##17790
+244210##Assetto Corsa##16970
+230410##Warframe##12409
+250820##SteamVR##12309
+221100##DayZ##6982
+552500##Warhammer: Vermintide 2##6035
+39120##RIFT##4679
+1190460##DEATH STRANDING##4607
+33930##Arma 2: Operation Arrowhead##3561
+275850##No Man's Sky##3190
+805550##Assetto Corsa Competizione##2978
+239140##Dying Light##2693
+271590##Grand Theft Auto V##2578
+240##Counter-Strike: Source##2429
+255220##GRID Autosport##1996
+435150##Divinity: Original Sin 2##1975
+550##Left 4 Dead 2##1746
+641080##Trials Rising##1701
+551730##Toukiden 2##1542
+20900##The Witcher: Enhanced Edition##1500
+774241##Warhammer: Chaosbane##1425
+690790##DiRT Rally 2.0##1408
+298110##Far Cry 4##1341
+251570##7 Days to Die##1292
+287290##Resident Evil Revelations 2##1247
+221040##Resident Evil 6##1231
+678950##DRAGON BALL FighterZ##1211
+247910##Sniper Elite: Nazi Zombie Army 2##1198
+228380##Wreckfest##1184
+261640##Borderlands: The Pre-Sequel##1029
+252030##Valdis Story: Abyssal City##1020
+438640##LEGO® STAR WARS™: The Force Awakens##1010
+782330##DOOM Eternal##978
+245490##Trials Fusion##944
+524220##NieR:Automata™##891
+730##Counter-Strike: Global Offensive##868
+393420##Hurtworld##739
+884660##CRSED##725
+1097150##Fall Guys: Ultimate Knockout##716
+215530##The Incredible Adventures of Van Helsing##705
+356310##METAL SLUG DEFENSE##680
+284160##BeamNG.drive##675
+750920##Shadow of the Tomb Raider##656
+237110##Mortal Kombat Komplete Edition##636
+209660##Call of Duty: Advanced Warfare - Multiplayer##629
+10##Counter-Strike##628
+722180##SURV1V3##566
+236090##Dust: An Elysian Tail##531
+209650##Call of Duty: Advanced Warfare##530
+259390##Ballpoint Universe: Infinite##509
+244930##SNOW##506
+379720##DOOM##440
+258970##Gauntlet™ ##436
+263440##The Stomping Land##384
+222880##Insurgency##329
+233190##Final Exam##311
+927250##Bladed Fury##294
+861650##Session##284
+303840##Point Perfect##248
+563840##Lost Ember##224
+378860##Project CARS 2##159
+626610##TT Isle of Man##145
+384110##Pathologic Classic HD##134
+334540##Vox Machinae##123
+684380##Mermaid VR##118
+905370##Conqueror's Blade##113
+560380##MapleStory 2##92
+200210##Realm of the Mad God Exalt##81
+250900##The Binding of Isaac: Rebirth##80
+217140##Rise of the Triad##66
+471710##Rec Room##57
+400##Portal##46
+530620##Resident Evil 7 Teaser: Beginning Hour##43
+304930##Unturned##40
+555160##Pavlov VR##40
+1172470##Apex Legends##38
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##30
+770090##La Camila : A VR Experience##24
+611500##Quake Champions##22
+640150##Tale of Toast##10
+215080##WAKFU##9
+672640##War Robots VR: The Skirmish##8
+220##Half-Life 2##2
+70##Half-Life##1
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+33910##Arma 2##0
+49520##Borderlands 2##0
+346290##Penumbra: Necrologue##0
+445900##Hurtworld SDK##0
+716260##Guns'n'Stories: Preface VR##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+@@REVIEW
+563840##Recommended
+962730##Recommended
+805550##Not Recommended
+221380##Recommended

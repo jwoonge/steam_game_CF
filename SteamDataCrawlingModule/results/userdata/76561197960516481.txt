@@ -1,0 +1,53 @@
+@@GAME
+440##Team Fortress 2##24573
+381210##Dead by Daylight##16849
+359550##Tom Clancy's Rainbow Six Siege##14438
+227940##Heroes & Generals##5190
+730##Counter-Strike: Global Offensive##5006
+10##Counter-Strike##4996
+304930##Unturned##2564
+506540##Last Man Standing##815
+444090##Paladins##715
+444640##Bloons TD Battles##454
+298240##War Trigger 3##366
+271290##HAWKEN##288
+318100##AXYOS##278
+513650##Zula Europe##157
+544920##Darwin Project##120
+489520##Minion Masters##108
+218620##PAYDAY 2##96
+291550##Brawlhalla##74
+38830##CrimeCraft GangWars##72
+224260##No More Room in Hell##50
+99900##Spiral Knights##32
+273110##Counter-Strike Nexon: Studio##26
+550650##Black Squad##25
+623990##Tom Clancy's Rainbow Six Siege - Test Server##24
+386180##Crossout##15
+102700##A.V.A. Alliance of Valiant Arms™##14
+310380##Fractured Space##3
+70##Half-Life##2
+291480##Warface##2
+466270##Half-Life: A Place in the West##2
+402570##Atlas Reactor##2
+20##Team Fortress Classic##1
+30##Day of Defeat##1
+50##Half-Life: Opposing Force##1
+104700##Super Monday Night Combat##1
+230410##Warframe##1
+268850##EVGA Precision X1##1
+457330##High Octane Drift##1
+521340##True or False##1
+40##Deathmatch Classic##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+236390##War Thunder##0
+265590##The Red Solstice##0
+596350##Paladins - Public Test##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+863550##HITMAN™ 2##0
+@@REVIEW
+227940##Not Recommended
+298240##Recommended
+440##Recommended

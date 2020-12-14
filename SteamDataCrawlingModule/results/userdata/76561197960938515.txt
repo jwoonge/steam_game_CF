@@ -1,0 +1,17 @@
+@@GAME
+10##Counter-Strike##20238
+730##Counter-Strike: Global Offensive##16175
+20##Team Fortress Classic##12994
+30##Day of Defeat##12994
+40##Deathmatch Classic##12994
+50##Half-Life: Opposing Force##12994
+60##Ricochet##12994
+70##Half-Life##12994
+130##Half-Life: Blue Shift##12994
+212500##The Lord of the Rings Online™##12994
+200210##Realm of the Mad God Exalt##3139
+429790##AdventureQuest 3D##152
+1172470##Apex Legends##138
+570##Dota 2##106
+@@REVIEW
+1172470##Recommended

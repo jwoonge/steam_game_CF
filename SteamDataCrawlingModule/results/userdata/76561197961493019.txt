@@ -1,0 +1,69 @@
+@@GAME
+730##Counter-Strike: Global Offensive##533735
+10##Counter-Strike##20915
+240##Counter-Strike: Source##14705
+30##Day of Defeat##6204
+40##Deathmatch Classic##6204
+70##Half-Life##6204
+440##Team Fortress 2##6202
+570##Dota 2##6202
+230410##Warframe##6183
+227940##Heroes & Generals##6178
+433850##Z1 Battle Royale##6178
+444090##Paladins##6177
+755790##Ring of Elysium##6177
+611500##Quake Champions##6177
+813820##Realm Royale##6176
+863550##HITMAN™ 2##546
+231430##Company of Heroes 2##310
+44350##GRID 2##273
+351940##The Descendant##272
+370910##Kathy Rain##271
+252150##Grimm##243
+232770##POSTAL##48
+302380##Floating Point##4
+298180##The Desolate Hope##4
+20##Team Fortress Classic##1
+50##Half-Life: Opposing Force##1
+60##Ricochet##1
+80##Counter-Strike: Condition Zero##1
+247120##Portal 2 Sixense Perceptual Pack##1
+272060##Serena##1
+283880##Heroine's Quest: The Herald of Ragnarok##1
+312150##Wild Warfare##1
+339120##Fork Parker's Holiday Profit Hike##1
+397720##Romance of the Three Kingdoms Maker##1
+596350##Paladins - Public Test##1
+8500##EVE Online##1
+608990##The Archotek Project##1
+319830##AX:EL##1
+439700##H1Z1: Test Server##1
+845070##The Awesome Adventures of Captain Spirit##1
+802240##SOS: Classic##1
+252130##Divide by Sheep##1
+275390##Guacamelee! Super Turbo Championship Edition##1
+780800##Ball laB##1
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+2600##Vampire: The Masquerade - Bloodlines##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+346290##Penumbra: Necrologue##0
+444560##Agent Origins: Escape##0
+534110##Agent Origins##0
+537420##Agent Origins: Pursuit##0
+537421##Agent Origins: Conspiracies##0
+537422##Agent Origins: Ashes##0
+582890##Estranged: The Departure##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+878760##Realm Royale - Test Server##0
+266310##GameGuru##0
+282100##Fearless Fantasy##0
+325180##AppGameKit Classic##0
+1048540##Kao the Kangaroo: Round 2##0
+684680##Polygoneer##0
+431930##Kabounce##0
+489520##Minion Masters##0
+310560##DiRT Rally##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW

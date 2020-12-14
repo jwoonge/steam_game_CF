@@ -1,0 +1,134 @@
+@@GAME
+275850##No Man's Sky##16778
+377160##Fallout 4##8812
+250820##SteamVR##7708
+513710##SCUM##3269
+359320##Elite Dangerous##3065
+230410##Warframe##3036
+1086940##Baldur's Gate 3##2710
+379720##DOOM##2607
+242760##The Forest##2116
+594650##Hunt: Showdown##1843
+211820##Starbound##1475
+22380##Fallout: New Vegas##1182
+65800##Dungeon Defenders##1106
+252490##Rust##1048
+218230##PlanetSide 2##1025
+418370##Resident Evil 7 Biohazard##990
+220##Half-Life 2##882
+570##Dota 2##836
+238960##Path of Exile##819
+70##Half-Life##657
+244160##Homeworld Remastered Collection##597
+240##Counter-Strike: Source##555
+107410##Arma 3##348
+295110##Just Survive##324
+582660##Black Desert Online##320
+225540##Just Cause 3##282
+620##Portal 2##235
+517710##Redout: Enhanced Edition##231
+236110##Dungeon Defenders II##218
+225840##Sven Co-op##216
+589200##Dreadhalls##180
+33930##Arma 2: Operation Arrowhead##174
+440##Team Fortress 2##166
+249380##Carmageddon: Reincarnation##165
+387290##Ori and the Blind Forest: Definitive Edition##162
+201790##Orcs Must Die! 2##126
+1085660##Destiny 2##113
+324810##TOXIKK##107
+282440##Quake Live##106
+730##Counter-Strike: Global Offensive##90
+268850##EVGA Precision X1##87
+346010##Besiege##68
+107100##Bastion##59
+227700##Firefall##58
+450390##The Lab##56
+280##Half-Life: Source##55
+227600##Castle of Illusion##53
+233720##Surgeon Simulator##43
+8190##Just Cause 2##40
+323370##TERA##40
+431960##Wallpaper Engine##34
+13250##Unreal Gold##31
+230230##Divinity: Original Sin (Classic)##29
+19900##Far Cry 2##28
+406860##Blind##17
+436320##Raw Data##17
+105600##Terraria##16
+337000##Deus Ex: Mankind Divided™##16
+300##Day of Defeat: Source##10
+274920##FaceRig##10
+274900##Murder Miners##10
+239160##Thief##9
+380##Half-Life 2: Episode One##8
+296470##Mount Your Friends##8
+493520##GTFO##8
+6910##Deus Ex: Game of the Year Edition##6
+304930##Unturned##6
+4000##Garry's Mod##5
+331650##Carmageddon TDR 2000##5
+369580##NotTheNameWeWanted##5
+34270##SEGA Mega Drive & Genesis Classics##3
+261570##Ori and the Blind Forest##3
+24740##Burnout Paradise: The Ultimate Box##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+6920##Deus Ex: Invisible War##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+550##Left 4 Dead 2##0
+33910##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+9200##RAGE##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+243200##Memoria##0
+700580##Rust - Staging Branch##0
+367540##Starbound - Unstable##0
+373420##Divinity: Original Sin Enhanced Edition##0
+25890##Hearts of Iron III##0
+505170##Carmageddon: Max Damage##0
+258180##Deus Ex: The Fall##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+282010##Carmageddon Max Pack##0
+282030##Carmageddon 2: Carpocalypse Now##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+324800##Shadow Warrior 2##0
+344230##Pixel Puzzles 2: Birds##0
+351030##Pixel Puzzles Ultimate##0
+352890##Caravan##0
+365450##Hacknet##0
+234140##Mad Max##0
+391220##Rise of the Tomb Raider##0
+435440##Galaxy Control: 3D Strategy##0
+467360##Off-Peak##0
+273350##Evolve Stage 2##0
+319630##Life is Strange™##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+588430##Fallout Shelter##0
+770720##Hunt: Showdown (Test Server)##0
+615010##Runic Rampage##0
+611500##Quake Champions##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+200260##Batman: Arkham City GOTY##0
+208650##Batman™: Arkham Knight##0
+@@REVIEW
+379720##Recommended

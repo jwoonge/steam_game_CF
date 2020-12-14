@@ -1,0 +1,219 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+4000##Garry's Mod##0
+3480##Peggle Deluxe##0
+7940##Call of Duty 4: Modern Warfare##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+40800##Super Meat Boy##0
+44340##Operation Flashpoint: Red River##0
+620##Portal 2##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+3830##Psychonauts##0
+110800##L.A. Noire##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+204340##Serious Sam 2##0
+48000##LIMBO##0
+204100##Max Payne 3##0
+218510##Planets Under Attack##0
+219640##Chivalry: Medieval Warfare##0
+202970##Call of Duty: Black Ops II##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+1900##Earth 2160##0
+215930##Jagged Alliance 2 - Wildfire ##0
+224900##Iron Sky Invasion##0
+242720##GunZ 2: The Second Duel##0
+233550##Another World##0
+32110##Luxor Mahjong##0
+32160##Zombie Bowl-O-Rama##0
+210770##Sanctum 2##0
+222730##Reus##0
+206190##Gunpoint##0
+2310##Quake##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+207140##SpeedRunners##0
+368730##No Time To Explain Remastered##0
+244730##Divekick##0
+248710##Iesabel##0
+218620##PAYDAY 2##0
+249590##Teslagrad##0
+250180##METAL SLUG 3##0
+250760##Shovel Knight: Treasure Trove##0
+251430##The Inner World##0
+251710##Chainsaw Warrior##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+252950##Rocket League##0
+253650##Sparkle 2 Evo##0
+208610##Skullgirls ∞Endless Beta∞##0
+245170##Skullgirls##0
+253860##Earth 2140 HD##0
+253900##Knights and Merchants##0
+253920##Gorky 17##0
+253960##Jack Orlando Director's Cut##0
+253980##Enclave##0
+205100##Dishonored##0
+49520##Borderlands 2##0
+209160##Call of Duty: Ghosts##0
+209170##Call of Duty: Ghosts - Multiplayer##0
+259340##Chicken Shoot Gold##0
+259360##Chicken Shoot 2##0
+94400##Nidhogg##0
+263060##Blockstorm##0
+269330##Chronology##0
+271590##Grand Theft Auto V##0
+274190##Broforce##0
+277700##On Rusty Trails##0
+282660##Easy eSports##0
+290770##The Fall##0
+294230##Millie##0
+296870##Dreaming Sarah##0
+296910##8BitBoy##0
+297020##The Culling Of The Cows##0
+351030##Pixel Puzzles Ultimate##0
+237930##Transistor##0
+203730##Q.U.B.E.##0
+239430##Q.U.B.E: Director's Cut##0
+301190##Frederic: Resurrection of Music##0
+301200##Frederic: Evil Strikes Back##0
+304430##INSIDE##0
+238090##Sniper Elite 3##0
+308040##Back to Bed##0
+311690##Enter the Gungeon##0
+312610##METAL SLUG X##0
+315330##All Guns On Deck##0
+320340##Cosmonautica##0
+325090##Deep Dungeons of Doom##0
+326520##Chime Sharp##0
+331190##Master Spy##0
+730##Counter-Strike: Global Offensive##0
+337960##ClusterPuck 99##0
+242680##Nuclear Throne##0
+340000##Headlander##0
+340300##Teddy Floppy Ear - Mountain Adventure##0
+340310##Teddy Floppy Ear - Kayaking##0
+340320##Sinless##0
+344230##Pixel Puzzles 2: Birds##0
+345090##Ancient Planet##0
+353640##Train Valley##0
+350810##Pixel Puzzles 2: Anime##0
+355920##Pixel Puzzles 2: Space##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+357780##Defend Your Life##0
+21690##Resident Evil 5##0
+361190##Sparkle 3 Genesis##0
+364640##FreeCell Quest##0
+366250##METAL SLUG##0
+366260##METAL SLUG 2##0
+367520##Hollow Knight##0
+368420##Mirage: Arcane Warfare##0
+370130##Lion Quest##0
+371420##Teddy Floppy Ear - The Race##0
+375460##16bit Trader##0
+381320##Bezier##0
+384550##Painters Guild##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+392410##ToyOdyssey##0
+398710##Timberman##0
+400510##FINAL TAKE##0
+405650##Zero Reflex##0
+282440##Quake Live##0
+418060##Battle Riders##0
+418360##Gurgamoth##0
+420360##Spectrum##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+310950##Street Fighter V##0
+431240##Golf With Your Friends##0
+431960##Wallpaper Engine##0
+432260##Tiltagon##0
+432620##Mimic Arena##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+438080##Surfingers##0
+439910##Risky Rescue##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+447780##LostWinds##0
+447890##Cat on a Diet##0
+448000##Sparkle ZERO##0
+453100##Frederic: Resurrection of Music Director's Cut##0
+458680##Auto Age: Standoff##0
+461010##Roll'd##0
+463930##The Dweller##0
+465760##Scrap Garden##0
+467950##Survive in Space##0
+379720##DOOM##0
+473670##The Dolls##0
+474910##The Mahjong Huntress##0
+475190##Scanner Sombre##0
+487220##Freebie##0
+489940##BATTALION 1944##0
+403640##Dishonored 2##0
+490820##Fly O'Clock##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+504460##Team Racing League##0
+505210##Neon Space 2##0
+508170##BlackSmith HIT##0
+508180##Fly and Destroy##0
+518030##Aim Hero##0
+360430##Mafia III: Definitive Edition##0
+526540##8infinity##0
+528660##Spin Rush##0
+533330##Shut Eye##0
+397950##Clustertruck##0
+550650##Black Squad##0
+249050##Dungeon of the Endless™ - Crystal Edition##0
+564750##Dimension Jump##0
+567290##Slash It##0
+575640##Zup! 3##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+590560##Filthy, Stinking, Orcs!##0
+603800##ReThink##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+622170##Offensive Combat: Redux!##0
+627620##Intelligent Design: An Evolutionary Sandbox##0
+635200##Distrust##0
+655700##F.E.X (Forced Evolution Experiment)##0
+656680##Bomb Defense##0
+670080##SuperLuminauts##0
+674940##Stick Fight: The Game##0
+268910##Cuphead##0
+709820##Wasted Pizza##0
+731490##Crash Bandicoot™ N. Sane Trilogy##0
+755790##Ring of Elysium##0
+757240##Aimtastic##0
+809960##Radical Heights##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+824270##KovaaK 2.0##0
+611500##Quake Champions##0
+714010##Aim Lab##0
+945360##Among Us##0
+@@REVIEW
+730##Recommended

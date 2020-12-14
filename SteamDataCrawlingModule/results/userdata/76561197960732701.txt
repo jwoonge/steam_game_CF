@@ -1,0 +1,72 @@
+@@GAME
+730##Counter-Strike: Global Offensive##54007
+10##Counter-Strike##6873
+240##Counter-Strike: Source##2896
+252490##Rust##2604
+291550##Brawlhalla##2098
+444090##Paladins##590
+4000##Garry's Mod##393
+236850##Europa Universalis IV##334
+12120##Grand Theft Auto: San Andreas##295
+11020##TrackMania Nations Forever##169
+570##Dota 2##151
+950100##PRO EVOLUTION SOCCER 2019 LITE##131
+221100##DayZ##108
+300##Day of Defeat: Source##107
+295110##Just Survive##98
+239030##Papers, Please##90
+578310##BRAIN / OUT##60
+304240##Resident Evil##57
+232090##Killing Floor 2##41
+655080##Crazy Ball Adventures##38
+12100##Grand Theft Auto III##21
+48000##LIMBO##20
+245550##Free to Play##16
+433850##Z1 Battle Royale##13
+400##Portal##6
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+2620##Call of Duty##0
+2630##Call of Duty 2##0
+420##Half-Life 2: Episode Two##0
+7940##Call of Duty 4: Modern Warfare##0
+500##Left 4 Dead##0
+12200##Bully: Scholarship Edition##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+70300##VVVVVV##0
+620##Portal 2##0
+104600##Portal 2 - The Final Hours##0
+12110##Grand Theft Auto: Vice City##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+343450##Free To Play (Streaming)##0
+242760##The Forest##0
+700580##Rust - Staging Branch##0
+550##Left 4 Dead 2##0
+282440##Quake Live##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+205790##Dota 2 Test##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+231430##Company of Heroes 2##0
+232150##Killing Floor 2 - SDK##0
+596350##Paladins - Public Test##0
+319630##Life is Strange™##0
+@@REVIEW

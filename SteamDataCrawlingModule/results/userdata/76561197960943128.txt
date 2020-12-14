@@ -1,0 +1,40 @@
+@@GAME
+730##Counter-Strike: Global Offensive##30537
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##17505
+10##Counter-Strike##12735
+251570##7 Days to Die##6684
+238960##Path of Exile##4498
+200710##Torchlight II##3339
+570##Dota 2##1102
+24960##Battlefield: Bad Company™ 2##914
+65800##Dungeon Defenders##835
+813820##Realm Royale##746
+1046930##Dota Underlords##392
+550##Left 4 Dead 2##378
+218620##PAYDAY 2##176
+372000##Tree of Savior (English Ver.)##140
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##116
+282440##Quake Live##101
+264200##One Finger Death Punch##21
+230410##Warframe##20
+20##Team Fortress Classic##7
+291550##Brawlhalla##7
+34270##SEGA Mega Drive & Genesis Classics##3
+70##Half-Life##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+99300##Renegade Ops##0
+400##Portal##0
+41500##Torchlight##0
+17710##Nuclear Dawn##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+204300##Awesomenauts##0
+878760##Realm Royale - Test Server##0
+884660##CRSED##0
+1172470##Apex Legends##0
+@@REVIEW

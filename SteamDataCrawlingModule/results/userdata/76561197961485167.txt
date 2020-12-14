@@ -1,0 +1,55 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+8190##Just Cause 2##0
+236390##War Thunder##0
+205790##Dota 2 Test##0
+244210##Assetto Corsa##0
+227300##Euro Truck Simulator 2##0
+255710##Cities: Skylines##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+495570##ConflictCraft##0
+522210##Serial Cleaner##0
+730##Counter-Strike: Global Offensive##0
+644560##Mirror##0
+704850##Thief Simulator##0
+239140##Dying Light##0
+714010##Aim Lab##0
+958260##DEAD OR ALIVE Xtreme Venus Vacation##0
+382560##Hot Lava##0
+1085660##Destiny 2##0
+582890##Estranged: The Departure##0
+555000##GOAT OF DUTY##0
+797410##Headsnatchers##0
+760620##Deiland##0
+442070##Drawful 2##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+588210##HELLION##0
+814200##Simple Story - Alex##0
+628950##Nephise Begins##0
+702150##Project Mercury##0
+335190##200% Mixed Juice!##0
+390710##Acceleration of SUGURI 2##0
+282800##100% Orange Juice##0
+420740##The Deed##0
+618140##Barro##0
+566190##The Search##0
+600430##Ticket to Ride: First Journey##0
+699240##Keyboard Killers##0
+348510##Autobahn Police Simulator##0
+640890##Will Glow the Wisp##0
+1284410##GWENT: The Witcher Card Game##0
+835950##Transpose##0
+1078000##Gamecraft##0
+368180##Polyball##0
+34330##Total War: SHOGUN 2##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+@@REVIEW

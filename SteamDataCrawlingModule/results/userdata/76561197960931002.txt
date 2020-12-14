@@ -1,0 +1,71 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+240##Counter-Strike: Source##0
+4000##Garry's Mod##0
+223710##Cry of Fear##0
+224260##No More Room in Hell##0
+251570##7 Days to Die##0
+107410##Arma 3##0
+49520##Borderlands 2##0
+268910##Cuphead##0
+271590##Grand Theft Auto V##0
+282660##Easy eSports##0
+310560##DiRT Rally##0
+730##Counter-Strike: Global Offensive##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+366220##Wurm Unlimited##0
+383870##Firewatch##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+393380##Squad##0
+774941##Squad - Public Testing##0
+225540##Just Cause 3##0
+427520##Factorio##0
+431960##Wallpaper Engine##0
+438100##VRChat##0
+457330##High Octane Drift##0
+479130##ESEA##0
+221680##Rocksmith® 2014 Edition - Remastered##0
+582500##We Were Here##0
+386180##Crossout##0
+667530##Drunken Wrestlers 2##0
+674940##Stick Fight: The Game##0
+677160##We Were Here Too##0
+677620##Splitgate: Arena Warfare##0
+736220##Post Scriptum##0
+739630##Phasmophobia##0
+774861##Project Winter##0
+298900##Space Hulk: Deathwing##0
+816090##Space Hulk: Deathwing - Enhanced Edition##0
+824270##KovaaK 2.0##0
+865360##We Were Here Together##0
+905370##Conqueror's Blade##0
+622650##Bendy and the Ink Machine##0
+945360##Among Us##0
+967050##Pacify##0
+581320##Insurgency: Sandstorm##0
+1058650##Beyond The Wire##0
+1097150##Fall Guys: Ultimate Knockout##0
+382560##Hot Lava##0
+1085660##Destiny 2##0
+1172470##Apex Legends##0
+1218280##Bad Guys at School##0
+1233570##Mirror's Edge™ Catalyst##0
+1236990##Boris and the Dark Survival##0
+1222670##The Sims™ 4##0
+408900##Unfortunate Spacemen##0
+1088150##Scribble It!##0
+@@REVIEW
+739630##Recommended
+1179680##Recommended
+730##Recommended

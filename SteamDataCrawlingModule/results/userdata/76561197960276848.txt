@@ -1,0 +1,58 @@
+@@GAME
+570##Dota 2##591239
+834910##ATLAS##359014
+903950##Last Oasis##58379
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##35626
+24960##Battlefield: Bad Company™ 2##29166
+433850##Z1 Battle Royale##24631
+10##Counter-Strike##13443
+581320##Insurgency: Sandstorm##12903
+393380##Squad##2675
+674020##World War 3##1755
+222880##Insurgency##1671
+730##Counter-Strike: Global Offensive##1279
+4920##Natural Selection 2##1219
+271590##Grand Theft Auto V##1215
+552500##Warhammer: Vermintide 2##1023
+255710##Cities: Skylines##1015
+221100##DayZ##596
+737010##Warhammer: Vermintide 2 Closed Test##507
+513710##SCUM##469
+400##Portal##292
+630##Alien Swarm##225
+364470##The Elder Scrolls: Legends##219
+107410##Arma 3##193
+70##Half-Life##151
+30##Day of Defeat##122
+252490##Rust##83
+813820##Realm Royale##82
+17700##Insurgency: Modern Infantry Combat##49
+240##Counter-Strike: Source##39
+823130##Totally Accurate Battlegrounds##28
+530700##Argo##20
+438100##VRChat##17
+755790##Ring of Elysium##17
+714010##Aim Lab##17
+506540##Last Man Standing##10
+205790##Dota 2 Test##1
+444090##Paladins##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+34190##Sonic and SEGA All Stars Racing##0
+3830##Psychonauts##0
+25000##Overgrowth##0
+234190##Receiver##0
+700580##Rust - Staging Branch##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+774941##Squad - Public Testing##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+878760##Realm Royale - Test Server##0
+@@REVIEW
+581320##Recommended
+834910##Recommended
+570##Recommended

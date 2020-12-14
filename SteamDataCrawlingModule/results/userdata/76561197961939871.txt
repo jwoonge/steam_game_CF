@@ -1,0 +1,83 @@
+@@GAME
+219740##Don't Starve##4983
+8930##Sid Meier's Civilization V##2602
+49520##Borderlands 2##2488
+323190##Frostpunk##2352
+23310##The Last Remnant##1964
+322330##Don't Starve Together##1660
+294860##Valkyria Chronicles™##1614
+203160##Tomb Raider##1463
+319630##Life is Strange™##1162
+550##Left 4 Dead 2##1079
+462770##Pyre##1042
+257850##Hyper Light Drifter##1040
+107100##Bastion##767
+391220##Rise of the Tomb Raider##704
+204880##Sins of a Solar Empire: Rebellion##682
+237930##Transistor##672
+200510##XCOM: Enemy Unknown##645
+440##Team Fortress 2##445
+13210##Unreal Tournament 3: Black Edition##397
+8980##Borderlands GOTY##379
+72850##The Elder Scrolls V: Skyrim##372
+219150##Hotline Miami##371
+383870##Firewatch##351
+282440##Quake Live##337
+57300##Amnesia: The Dark Descent##219
+40800##Super Meat Boy##216
+224760##FEZ##191
+620##Portal 2##185
+35700##Trine##155
+304460##Qora##155
+48000##LIMBO##74
+444560##Agent Origins: Escape##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+13200##Unreal II: The Awakening##0
+13230##Unreal Tournament 2004##0
+13240##Unreal Tournament: Game of the Year Edition##0
+13250##Unreal Gold##0
+17460##Mass Effect##0
+43110##Metro 2033##0
+729040##Borderlands GOTY Enhanced##0
+3830##Psychonauts##0
+204060##Superbrothers: Sword & Sworcery EP##0
+26800##Braid##0
+209830##Lone Survivor: The Director's Cut##0
+12750##GRID##0
+214510##LEGO® The Lord of the Rings™##0
+225260##Brütal Legend##0
+8870##BioShock Infinite##0
+210770##Sanctum 2##0
+234650##Shadowrun Returns##0
+222730##Reus##0
+35720##Trine 2##0
+256290##Child of Light##0
+318600##The Flame in the Flood##0
+24240##PAYDAY: The Heist##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+440430##Life Is Strange™ - Directors' Commentary - 1.Two directors##0
+440431##Life Is Strange™ - Directors' Commentary - 2. Let's play Life is Strange##0
+440432##Life Is Strange™ - Directors' Commentary - 3. Intentions##0
+440433##Life Is Strange™ - Directors' Commentary - 4. A matter of choice##0
+440434##Life Is Strange™ - Directors' Commentary - 5. A lively world##0
+440435##Life Is Strange™ - Directors' Commentary - 6. Capturing the moment##0
+440436##Life Is Strange™ - Directors' Commentary - 7. Social issues##0
+440437##Life Is Strange™ - Directors' Commentary - 8. Getting things right##0
+440438##Life Is Strange™ - Directors' Commentary - 9. Voices of Arcadia Bay##0
+310380##Fractured Space##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+22350##BRINK##0
+611500##Quake Champions##0
+231430##Company of Heroes 2##0
+582660##Black Desert Online##0
+406970##The Uncertain: Last Quiet Day##0
+@@REVIEW
+299240##Recommended

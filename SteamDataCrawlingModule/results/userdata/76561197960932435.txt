@@ -1,0 +1,123 @@
+@@GAME
+10##Counter-Strike##236137
+240##Counter-Strike: Source##70458
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##64686
+70##Half-Life##13020
+770720##Hunt: Showdown (Test Server)##11499
+20##Team Fortress Classic##7077
+30##Day of Defeat##7077
+40##Deathmatch Classic##7077
+50##Half-Life: Opposing Force##7077
+130##Half-Life: Blue Shift##7077
+613580##The DRG Initiative##6014
+479130##ESEA##5943
+274920##FaceRig##2269
+379430##Kingdom Come: Deliverance##1813
+393380##Squad##607
+594650##Hunt: Showdown##269
+431240##Golf With Your Friends##117
+562860##Ion Fury##62
+813820##Realm Royale##58
+619080##SOS##34
+671510##Desolate##23
+377590##IRFaceRig##1
+60##Ricochet##0
+1930##Two Worlds: Epic Edition##0
+224220##Pressure##0
+242760##The Forest##0
+248530##Depth Hunter 2: Deep Dive##0
+254040##Pirates of Black Cove Gold##0
+254100##World War II: Panzer Claws##0
+279640##The Troma Project##0
+282660##Easy eSports##0
+283430##Litil Divil##0
+345220##Agent Awesome##0
+347560##Terra Incognita ~ Chapter One: The Descendant##0
+348950##Ame no Marginal -Rain Marginal-##0
+350810##Pixel Puzzles 2: Anime##0
+351030##Pixel Puzzles Ultimate##0
+360130##Cloud Knights##0
+363490##Escape Machines##0
+375510##New kind of adventure##0
+377310##The Tower Of Elements##0
+383330##Star Chronicles: Delta Quadrant##0
+383580##Flesh Eaters##0
+388160##Project Druid - 2D Labyrinth Explorer-##0
+391070##Stellar 2D##0
+393150##The Dreamatorium of Dr. Magnus 2##0
+399430##Tinboy##0
+774941##Squad - Public Testing##0
+403510##Fairy Tale Mysteries 2: The Beanstalk##0
+403560##Eaten Alive##0
+403900##Clergy Splode##0
+410210##Ampersand##0
+412600##Lup##0
+418070##Turbo Pug##0
+428950##Kivi, Toilet and Shotgun##0
+438040##Shakes and Fidget##0
+438180##Super Mustache##0
+449200##Calcu-Late##0
+451880##Catch a Falling Star##0
+454200##Neon Hardcorps##0
+458480##Mythic Wonders: The Philosopher's Stone##0
+462220##Mahjong Deluxe 3##0
+466840##Super Space Pug##0
+468320##Mini Golf Mundo##0
+469730##Super Mega Neo Pug##0
+473560##Cosmic Dust & Rust##0
+478010##ABC Coloring Town##0
+485330##Star Drifter##0
+487220##Freebie##0
+487580##Ludo Supremo##0
+487590##Pepe Porcupine##0
+487600##Puzzles Under The Hill##0
+489890##Puzzles At Mystery Manor##0
+489900##Bayla Bunny##0
+491580##Mahjong Destiny##0
+493650##Deep Space Dash##0
+493700##Monster Puzzle##0
+493710##Laraan##0
+495110##Enigmatis 3: The Shadow of Karkhala##0
+497050##ShapeShifter##0
+497260##Fabulous Food Truck##0
+498030##Barnyard Mahjong 3##0
+498040##The Hidden Dragon##0
+498050##Mystery Of Rivenhallows##0
+499420##Star Fields##0
+500570##Mahjong Deluxe 2: Astral Planes##0
+500580##Kitty Cat: Jigsaw Puzzles##0
+500590##Puppy Dog: Jigsaw Puzzles##0
+502140##Drayt Empire##0
+508290##$1 Ride##0
+509110##Spikit##0
+512640##Final Quest##0
+513740##Joana's Life##0
+513780##Turbo Pug DX##0
+514470##Fantastic 4 In A Row 2##0
+514480##Fantastic Checkers 2##0
+514490##Ultimate Word Search 2: Letter Boxed##0
+514970##Drive Megapolis##0
+515470##Hyper color ball##0
+515690##Warriors of Vilvatikta##0
+521230##Stone Age Wars##0
+526880##Chess Knight 2##0
+528510##Turbo Pug 3D##0
+531860##Where's My What?##0
+532600##Sweet Candy Mahjong##0
+540020##Final Quest II##0
+542690##Mahsung Deluxe##0
+542710##Dessert Storm##0
+542720##Bubble Blowout##0
+542730##Block Blowout##0
+542740##Balloon Blowout##0
+544140##Murder Mystery Adventure##0
+545700##The Land of Dasthir##0
+546980##Midnight Carnival##0
+546990##Town of Night##0
+557680##Germ Wars##0
+586620##OR##0
+802240##SOS: Classic##0
+694550##Audio Forager##0
+878760##Realm Royale - Test Server##0
+@@REVIEW
+730##Not Recommended

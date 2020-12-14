@@ -1,0 +1,129 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+10500##Total War: EMPIRE - Definitive Edition##0
+50300##Spec Ops: The Line##0
+42910##Magicka##0
+620##Portal 2##0
+55150##Warhammer 40,000: Space Marine##0
+201290##Sins of a Solar Empire: Trinity##0
+205790##Dota 2 Test##0
+67370##The Darkness II##0
+204880##Sins of a Solar Empire: Rebellion##0
+203770##Crusader Kings II##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+63380##Sniper Elite V2##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+208140##Endless Space##0
+212680##FTL: Faster Than Light##0
+49520##Borderlands 2##0
+3700##Sniper Elite##0
+214510##LEGO® The Lord of the Rings™##0
+102700##A.V.A. Alliance of Valiant Arms™##0
+201210##Pox Nora##0
+238960##Path of Exile##0
+265630##Fistful of Frags##0
+44350##GRID 2##0
+222480##Resident Evil Revelations##0
+113020##Monaco##0
+234650##Shadowrun Returns##0
+72850##The Elder Scrolls V: Skyrim##0
+35720##Trine 2##0
+242760##The Forest##0
+251570##7 Days to Die##0
+262060##Darkest Dungeon®##0
+226840##Age of Wonders III##0
+65780##Arma: Gold Edition##0
+274190##Broforce##0
+285160##LEGO® The Hobbit™##0
+292910##Deponia: The Complete Journey##0
+286160##Tabletop Simulator##0
+312990##The Expendabros##0
+265590##The Red Solstice##0
+214490##Alien: Isolation##0
+238320##Outlast##0
+261640##Borderlands: The Pre-Sequel##0
+305620##The Long Dark##0
+255710##Cities: Skylines##0
+360940##The Mean Greens - Plastic Warfare##0
+362890##Black Mesa##0
+367520##Hollow Knight##0
+369990##Gremlins, Inc.##0
+371140##Aegis Defenders##0
+359320##Elite Dangerous##0
+236870##HITMAN™##0
+252950##Rocket League##0
+403970##The Dwarves##0
+98400##Hard Reset##0
+407810##Hard Reset Redux##0
+414870##Super Mega Baseball 2##0
+270880##American Truck Simulator##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+239140##Dying Light##0
+424280##Iron Snout##0
+435400##Hidden Folks##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+383150##Dead Island Definitive Edition##0
+480490##Prey##0
+491950##Orwell##0
+273350##Evolve Stage 2##0
+548430##Deep Rock Galactic##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+550650##Black Squad##0
+552990##World of Warships##0
+507490##Ashes of the Singularity: Escalation##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+581270##Old Man's Journey##0
+601510##Yu-Gi-Oh! Duel Links##0
+493900##Dungeons 3##0
+677160##We Were Here Too##0
+321400##Supraball##0
+594570##Total War: WARHAMMER II##0
+231430##Company of Heroes 2##0
+797410##Headsnatchers##0
+813780##Age of Empires II: Definitive Edition##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+298900##Space Hulk: Deathwing##0
+816090##Space Hulk: Deathwing - Enhanced Edition##0
+823130##Totally Accurate Battlegrounds##0
+863550##HITMAN™ 2##0
+334210##Fortified##0
+880940##Pummel Party##0
+391720##Layers of Fear##0
+392110##Endless Space® 2 - Digital Deluxe Edition##0
+737800##F1 2018##0
+897330##Coloring Pixels##0
+730##Counter-Strike: Global Offensive##0
+945360##Among Us##0
+308600##Geneshift##0
+1046930##Dota Underlords##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+1085660##Destiny 2##0
+1172470##Apex Legends##0
+1241700##There is no game: Jam Edition 2015##0
+1248990##Mýrdalssandur, Iceland##0
+287630##The Council##0
+618140##Barro##0
+350300##Gang of Four##0
+699240##Keyboard Killers##0
+348510##Autobahn Police Simulator##0
+442120##Pinball FX3##0
+680360##Regions Of Ruin##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+252950##Recommended

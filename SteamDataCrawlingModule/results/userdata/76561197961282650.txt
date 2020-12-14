@@ -1,0 +1,67 @@
+@@GAME
+730##Counter-Strike: Global Offensive##112358
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##37675
+218620##PAYDAY 2##35647
+570##Dota 2##34849
+550##Left 4 Dead 2##34800
+1085660##Destiny 2##34430
+346110##ARK: Survival Evolved##33040
+230410##Warframe##32987
+440##Team Fortress 2##31694
+292030##The Witcher 3: Wild Hunt##29542
+10##Counter-Strike##27103
+335300##DARK SOULS™ II: Scholar of the First Sin##23439
+812140##Assassin's Creed Odyssey##23188
+374320##DARK SOULS™ III##23003
+582160##Assassin's Creed Origins##22315
+552500##Warhammer: Vermintide 2##19498
+289650##Assassin's Creed Unity##15198
+298110##Far Cry 4##14964
+359550##Tom Clancy's Rainbow Six Siege##13564
+291480##Warface##12958
+431960##Wallpaper Engine##7342
+407530##ARK: Survival Of The Fittest##7251
+232770##POSTAL##6524
+585830##Ninja Stealth 2##5639
+844870##KurtzPel##5637
+763740##NARK THE DRAGON##5636
+860530##Babycar Driver##5303
+618140##Barro##5294
+761630##akda##5294
+575950##Blood Feed##5181
+261820##Estranged: Act I##4393
+259080##Just Cause 2: Multiplayer Mod##4393
+17550##Eternal Silence##4391
+92500##PC Gamer##4388
+533300##Zup!##4030
+508900##Zup! X##4026
+242050##Assassin's Creed IV Black Flag##3333
+576130##State of Anarchy Complete: Master of Mayhem##3255
+630##Alien Swarm##3159
+525300##Starship Annihilator##2487
+858840##The Epic Bang Theory##2481
+1840##Source Filmmaker##1240
+479130##ESEA##3
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+370660##Opaline##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+596870##Drop Hunt##0
+825310##Dude Simulator 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+@@REVIEW
+292030##Recommended
+812140##Recommended
+582160##Recommended
+218620##Recommended
+289650##Not Recommended
+578080##Not Recommended
+374320##Recommended
+335300##Recommended
+298110##Recommended
+730##Recommended

@@ -1,0 +1,32 @@
+@@GAME
+730##Counter-Strike: Global Offensive##89638
+252490##Rust##65620
+271590##Grand Theft Auto V##5143
+552520##Far Cry 5##3979
+10##Counter-Strike##3758
+1174180##Red Dead Redemption 2##3389
+460930##Tom Clancy's Ghost Recon® Wildlands##2563
+1091500##Cyberpunk 2077##775
+613100##House Flipper##662
+976730##Halo: The Master Chief Collection##181
+359550##Tom Clancy's Rainbow Six Siege##63
+581320##Insurgency: Sandstorm##48
+240##Counter-Strike: Source##15
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+489940##BATTALION 1944##0
+700580##Rust - Staging Branch##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+252490##Recommended
+730##Recommended

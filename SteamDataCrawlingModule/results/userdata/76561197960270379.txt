@@ -1,0 +1,148 @@
+@@GAME
+440##Team Fortress 2##28278
+4920##Natural Selection 2##28085
+252490##Rust##7815
+261550##Mount & Blade II: Bannerlord##5652
+271590##Grand Theft Auto V##4357
+72850##The Elder Scrolls V: Skyrim##4146
+218230##PlanetSide 2##3777
+22380##Fallout: New Vegas##3711
+292030##The Witcher 3: Wild Hunt##3657
+264710##Subnautica##2978
+492720##Tropico 6##2665
+22350##BRINK##2261
+20##Team Fortress Classic##2011
+582160##Assassin's Creed Origins##2009
+391220##Rise of the Tomb Raider##1999
+49520##Borderlands 2##1947
+4000##Garry's Mod##1915
+55230##Saints Row: The Third##1685
+48190##Assassin's Creed Brotherhood##1610
+70##Half-Life##1566
+379720##DOOM##1502
+242920##Banished##1457
+233450##Prison Architect##1433
+206420##Saints Row IV##1275
+239140##Dying Light##1200
+570##Dota 2##1162
+620##Portal 2##1153
+12210##Grand Theft Auto IV: The Complete Edition##1002
+362890##Black Mesa##972
+750920##Shadow of the Tomb Raider##963
+782330##DOOM Eternal##942
+13210##Unreal Tournament 3: Black Edition##934
+200710##Torchlight II##911
+42910##Magicka##906
+386070##Planetary Annihilation: TITANS##869
+57400##Batman: Arkham City™##769
+203160##Tomb Raider##737
+240##Counter-Strike: Source##725
+323190##Frostpunk##707
+630##Alien Swarm##692
+346110##ARK: Survival Evolved##668
+238960##Path of Exile##650
+24960##Battlefield: Bad Company™ 2##557
+55100##Homefront##552
+201810##Wolfenstein: The New Order##539
+205100##Dishonored##475
+204100##Max Payne 3##460
+8930##Sid Meier's Civilization V##458
+848450##Subnautica: Below Zero##451
+500##Left 4 Dead##443
+9200##RAGE##403
+884660##CRSED##391
+300##Day of Defeat: Source##381
+48720##Mount & Blade: With Fire and Sword##326
+397540##Borderlands 3##326
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##312
+204450##Call of Juarez Gunslinger##280
+428660##Deliver Us The Moon##272
+1091500##Cyberpunk 2077##267
+42710##Call of Duty: Black Ops - Multiplayer##255
+387290##Ori and the Blind Forest: Definitive Edition##243
+813780##Age of Empires II: Definitive Edition##237
+224760##FEZ##235
+755790##Ring of Elysium##233
+40100##Supreme Commander 2##224
+403640##Dishonored 2##213
+242640##Styx: Master of Shadows##202
+17520##Synergy##197
+42700##Call of Duty: Black Ops##193
+28050##Deus Ex: Human Revolution##156
+237110##Mortal Kombat Komplete Edition##146
+313120##Stranded Deep##139
+98400##Hard Reset##133
+41500##Torchlight##133
+611500##Quake Champions##100
+667720##Red Faction Guerrilla Re-Mars-tered##96
+400##Portal##92
+730##Counter-Strike: Global Offensive##84
+227100##Sniper Elite: Nazi Zombie Army##76
+43110##Metro 2033##73
+239430##Q.U.B.E: Director's Cut##68
+301910##Saints Row: Gat out of Hell##56
+21090##F.E.A.R.##47
+7670##BioShock##47
+233720##Surgeon Simulator##46
+10##Counter-Strike##40
+220##Half-Life 2##37
+17730##Smashball##36
+1148590##DOOM 64##35
+227260##DisplayFusion##33
+1083500##PlanetSide 2 - Test##32
+507490##Ashes of the Singularity: Escalation##31
+13230##Unreal Tournament 2004##29
+13250##Unreal Gold##28
+304930##Unturned##28
+320##Half-Life 2: Deathmatch##23
+17510##Age of Chivalry##23
+8190##Just Cause 2##21
+17530##D.I.P.R.I.P. Warm Up##21
+8870##BioShock Infinite##20
+234140##Mad Max##19
+253530##Fortress Forever##17
+550##Left 4 Dead 2##11
+533200##Deformers Open Beta##10
+737010##Warhammer: Vermintide 2 Closed Test##10
+219640##Chivalry: Medieval Warfare##6
+6880##Just Cause##5
+407530##ARK: Survival Of The Fittest##5
+324810##TOXIKK##4
+239350##Spelunky##2
+268850##EVGA Precision X1##2
+21110##F.E.A.R.: Extraction Point##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+3200##Painkiller: Gold Edition##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+13200##Unreal II: The Awakening##0
+13240##Unreal Tournament: Game of the Year Edition##0
+16450##F.E.A.R. 2: Project Origin##0
+21120##F.E.A.R.: Perseus Mandate##0
+200260##Batman: Arkham City GOTY##0
+205790##Dota 2 Test##0
+200010##Quantum Conundrum##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+201280##Deus Ex: Human Revolution - The Missing Link##0
+700580##Rust - Staging Branch##0
+8850##BioShock 2##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+237930##Transistor##0
+203730##Q.U.B.E.##0
+261570##Ori and the Blind Forest##0
+20500##Red Faction: Guerrilla Steam Edition##0
+1172470##Apex Legends##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+403640##Not Recommended

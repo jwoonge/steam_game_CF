@@ -1,0 +1,113 @@
+@@GAME
+107410##Arma 3##129929
+221100##DayZ##107873
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##77905
+240##Counter-Strike: Source##14323
+233450##Prison Architect##8718
+394360##Hearts of Iron IV##6843
+227940##Heroes & Generals##5862
+365590##Tom Clancy's The Division##4667
+644930##They Are Billions##4145
+686810##Hell Let Loose##3589
+305620##The Long Dark##3462
+730##Counter-Strike: Global Offensive##2337
+535930##Two Point Hospital##1625
+648800##Raft##1222
+221380##Age of Empires II (2013)##1213
+282070##This War of Mine##1147
+214490##Alien: Isolation##1138
+238960##Path of Exile##1074
+255710##Cities: Skylines##929
+252950##Rocket League##904
+242760##The Forest##896
+241540##State of Decay##853
+414340##Hellblade: Senua's Sacrifice##850
+440##Team Fortress 2##774
+739630##Phasmophobia##773
+323190##Frostpunk##772
+362890##Black Mesa##721
+242920##Banished##685
+57690##Tropico 4##597
+231430##Company of Heroes 2##521
+418370##Resident Evil 7 Biohazard##506
+413150##Stardew Valley##467
+43110##Metro 2033##448
+1091500##Cyberpunk 2077##391
+431960##Wallpaper Engine##352
+295110##Just Survive##303
+200110##Nosgoth##270
+1213210##Command & Conquer™ Remastered Collection##269
+33930##Arma 2: Operation Arrowhead##222
+374320##DARK SOULS™ III##201
+443810##This Is the Police##197
+228380##Wreckfest##168
+493340##Planet Coaster##149
+433850##Z1 Battle Royale##133
+282440##Quake Live##122
+570##Dota 2##101
+208650##Batman™: Arkham Knight##99
+1222730##STAR WARS™: Squadrons##99
+262060##Darkest Dungeon®##96
+200510##XCOM: Enemy Unknown##87
+268850##EVGA Precision X1##41
+236390##War Thunder##40
+851850##DRAGON BALL Z: KAKAROT##35
+1097150##Fall Guys: Ultimate Knockout##31
+304930##Unturned##25
+70##Half-Life##21
+57300##Amnesia: The Dark Descent##21
+2320##Quake II##17
+23420##Europa Universalis: Rome - Gold Edition##16
+291410##Duelyst##9
+238320##Outlast##9
+299740##Miscreated##8
+212680##FTL: Faster Than Light##7
+361420##ASTRONEER##6
+33910##Arma 2##5
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##3
+224580##Arma 2: DayZ Mod##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+46550##Post Mortem##0
+91100##SkyDrift##0
+205790##Dota 2 Test##0
+23440##Europa Universalis: Rome - Vae Victis##0
+223750##DCS World Steam Edition##0
+243120##Betrayer##0
+263400##War of the Human Tanks##0
+226840##Age of Wonders III##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+294770##Haegemonia: Legions of Iron##0
+294790##Haegemonia: The Solon Heritage##0
+912290##Miscreated: Experimental Server##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+524440##Tom Clancy's The Division PTS##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+200260##Batman: Arkham City GOTY##0
+209000##Batman™: Arkham Origins##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+383870##Firewatch##0
+3910##Sid Meier's Civilization III: Complete##0
+3920##Sid Meier's Pirates!##0
+244070##Sid Meier's Ace Patrol##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+356190##Middle-earth™: Shadow of War™##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+466240##Deceit##0
+203770##Crusader Kings II##0
+1017900##Age of Empires: Definitive Edition##0
+203160##Tomb Raider##0
+@@REVIEW

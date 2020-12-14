@@ -1,0 +1,96 @@
+@@GAME
+730##Counter-Strike: Global Offensive##53939
+359320##Elite Dangerous##19462
+295110##Just Survive##12319
+252490##Rust##11446
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##6696
+787860##Farming Simulator 19##6036
+240##Counter-Strike: Source##4780
+244210##Assetto Corsa##4178
+377160##Fallout 4##3300
+1250410##Microsoft Flight Simulator##2628
+250900##The Binding of Isaac: Rebirth##2627
+234140##Mad Max##2589
+227300##Euro Truck Simulator 2##2173
+269950##X-Plane 11##1896
+805550##Assetto Corsa Competizione##1772
+675010##MudRunner##1295
+263280##Spintires®##1131
+271590##Grand Theft Auto V##1112
+252950##Rocket League##1105
+8600##RACE 07##916
+213670##South Park™: The Stick of Truth™##901
+220240##Far Cry® 3##696
+447020##Farming Simulator 17##585
+250820##SteamVR##456
+234630##Project CARS##415
+4000##Garry's Mod##378
+617700##Weed Shop 2##312
+11040##Sherlock Holmes: Nemesis##302
+207140##SpeedRunners##294
+312660##Sniper Elite 4##293
+282660##Easy eSports##274
+433850##Z1 Battle Royale##212
+228380##Wreckfest##203
+35720##Trine 2##175
+11180##Sherlock Holmes: The Mystery of The Persian Carpet##148
+431240##Golf With Your Friends##123
+233840##Worms Clan Wars##69
+11140##Sherlock Holmes: The Awakened - Remastered##59
+379720##DOOM##55
+550##Left 4 Dead 2##30
+218620##PAYDAY 2##25
+382110##Virtual Desktop##24
+840690##Setup Developer Tool 2018##16
+10##Counter-Strike##13
+8660##GTR Evolution##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+400##Portal##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+8690##STCC: The Game##0
+8640##RACE On##0
+500##Left 4 Dead##0
+620##Portal 2##0
+96000##The Tiny Bang Story##0
+44620##STCC II##0
+44650##GT Power Expansion##0
+44660##The Retro Expansion##0
+44670##The WTCC 2010 Pack##0
+44680##Race Injection##0
+203160##Tomb Raider##0
+368730##No Time To Explain Remastered##0
+209000##Batman™: Arkham Origins##0
+700580##Rust - Staging Branch##0
+367690##Spintires® - Editor##0
+270880##American Truck Simulator##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+233270##Far Cry® 3 Blood Dragon##0
+310560##DiRT Rally##0
+342180##Arizona Sunshine##0
+232010##Euro Truck Simulator##0
+258760##Scania Truck Driving Simulator##0
+302060##Trucks & Trailers##0
+302080##Bus Driver##0
+375950##Viridi##0
+11150##Sherlock Holmes: The Secret of the Silver Earring##0
+11190##Sherlock Holmes versus Jack the Ripper##0
+205650##The Testament of Sherlock Holmes##0
+513710##SCUM##0
+688480##EVE: Valkyrie - Warzone##0
+895400##Deadside##0
+1220160##Virtual Race Car Engineer 2020##0
+@@REVIEW
+207140##Recommended

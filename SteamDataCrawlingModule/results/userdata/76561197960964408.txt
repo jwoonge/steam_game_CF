@@ -1,0 +1,41 @@
+@@GAME
+440##Team Fortress 2##65405
+730##Counter-Strike: Global Offensive##62041
+10##Counter-Strike##41705
+594650##Hunt: Showdown##33363
+227940##Heroes & Generals##16574
+460930##Tom Clancy's Ghost Recon® Wildlands##14125
+379430##Kingdom Come: Deliverance##5273
+72850##The Elder Scrolls V: Skyrim##3903
+203630##Warlock - Master of the Arcane##1667
+311290##SpellForce 3##1654
+380600##Fishing Planet##1262
+758990##Ancient Warfare 3##1174
+373930##Sudden Strike 4##1160
+438040##Shakes and Fidget##667
+219990##Grim Dawn##501
+1091500##Cyberpunk 2077##475
+814380##Sekiro™: Shadows Die Twice##400
+32800##The Lord of the Rings: War in the North##376
+323190##Frostpunk##361
+42910##Magicka##278
+238960##Path of Exile##174
+374320##DARK SOULS™ III##93
+7940##Call of Duty 4: Modern Warfare##75
+961440##Resident Evil 2 "1-Shot Demo"##35
+20##Team Fortress Classic##1
+635240##Making of Furi: Episode 1 - Conception##1
+635241##Making of Furi: Episode 2 - Game Play##1
+635242##Making of Furi: Episode 3 - Art and Animation##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+273110##Counter-Strike Nexon: Studio##0
+444200##World of Tanks Blitz##0
+770720##Hunt: Showdown (Test Server)##0
+1416260##SpellForce 3: Versus Edition##0
+@@REVIEW
+323190##Not Recommended

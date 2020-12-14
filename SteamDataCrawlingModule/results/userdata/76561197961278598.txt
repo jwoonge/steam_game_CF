@@ -1,0 +1,203 @@
+@@GAME
+48220##Might & Magic: Heroes VI##5650
+291650##Pillars of Eternity##3068
+239140##Dying Light##2229
+105600##Terraria##1979
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1889
+20900##The Witcher: Enhanced Edition##1771
+250320##The Wolf Among Us##968
+410340##Liftoff##850
+362890##Black Mesa##848
+323190##Frostpunk##798
+8930##Sid Meier's Civilization V##705
+264710##Subnautica##703
+8870##BioShock Infinite##695
+289070##Sid Meier's Civilization VI##686
+730##Counter-Strike: Global Offensive##633
+427520##Factorio##623
+203160##Tomb Raider##577
+275850##No Man's Sky##559
+282070##This War of Mine##335
+72850##The Elder Scrolls V: Skyrim##278
+374320##DARK SOULS™ III##228
+243200##Memoria##134
+295790##Never Alone (Kisima Ingitchuna)##96
+42910##Magicka##87
+224760##FEZ##85
+232910##TrackMania² Stadium##84
+200710##Torchlight II##78
+220##Half-Life 2##51
+207040##Sine Mora##50
+220200##Kerbal Space Program##36
+223850##3DMark##28
+35720##Trine 2##27
+241930##Middle-earth™: Shadow of Mordor™##26
+239350##Spelunky##25
+214770##Guacamelee! Gold Edition##21
+274920##FaceRig##21
+340##Half-Life 2: Lost Coast##20
+360940##The Mean Greens - Plastic Warfare##17
+113020##Monaco##16
+12900##Audiosurf##15
+493340##Planet Coaster##10
+225420##Cities in Motion 2##8
+426790##Grow Up##5
+297000##Heroes of Might & Magic III - HD Edition##4
+41500##Torchlight##3
+10##Counter-Strike##2
+26800##Braid##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+2100##Dark Messiah of Might & Magic Single Player##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+4000##Garry's Mod##0
+8400##Geometry Wars: Retro Evolved##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+35700##Trine##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+22370##Fallout 3 - Game of the Year Edition##0
+17410##Mirror's Edge##0
+21100##F.E.A.R. 3##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+94200##Jamestown##0
+21090##F.E.A.R.##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+16450##F.E.A.R. 2: Project Origin##0
+32800##The Lord of the Rings: War in the North##0
+61700##Might & Magic: Clash of Heroes##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+204880##Sins of a Solar Empire: Rebellion##0
+22380##Fallout: New Vegas##0
+203830##The Dark Eye: Chains of Satinav##0
+102600##Orcs Must Die!##0
+22600##Worms Reloaded##0
+205350##Mortal Kombat Kollection##0
+200260##Batman: Arkham City GOTY##0
+108800##Crysis 2 Maximum Edition##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+207650##A Virus Named TOM##0
+214150##Galactic Civilizations I: Ultimate Edition##0
+214340##Deponia##0
+72000##Closure##0
+219910##Edna & Harvey: Harvey's New Eyes##0
+91600##Sanctum##0
+218680##Scribblenauts Unlimited##0
+223220##Giana Sisters: Twisted Dreams##0
+4920##Natural Selection 2##0
+606730##Sine Mora EX##0
+105000##A New Beginning - Final Cut##0
+227000##Primordia##0
+201790##Orcs Must Die! 2##0
+220440##DmC Devil May Cry##0
+65800##Dungeon Defenders##0
+212480##Sonic & All-Stars Racing Transformed Collection##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+221810##The Cave##0
+219890##Antichamber##0
+204240##The Bridge##0
+44350##GRID 2##0
+210770##Sanctum 2##0
+236090##Dust: An Elysian Tail##0
+231040##Beatbuddy: Tale of the Guardians##0
+233840##Worms Clan Wars##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+111900##Guardians of Middle-earth##0
+255300##Journey of a Roach##0
+259600##Finding Teddy##0
+221910##The Stanley Parable##0
+18500##Defense Grid: The Awakening##0
+221380##Age of Empires II (2013)##0
+16700##Stronghold Crusader Extreme HD##0
+40970##Stronghold Crusader HD##0
+40950##Stronghold HD##0
+262940##Broken Sword 5 - the Serpent's Curse##0
+279480##Abalone##0
+246620##Plague Inc: Evolved##0
+286570##F1 2015##0
+297060##Freaking Meatbags##0
+300060##ADR1FT##0
+261530##Lifeless Planet##0
+73060##Defenders of Ardania##0
+202090##Magicka: Wizard Wars##0
+236850##Europa Universalis IV##0
+310560##DiRT Rally##0
+91200##Anomaly Warzone Earth##0
+236730##Anomaly 2##0
+251530##Anomaly Korea##0
+252170##Anomaly Warzone Earth Mobile Campaign##0
+294750##Anomaly Defenders##0
+316790##Grim Fandango Remastered##0
+318600##The Flame in the Flood##0
+321040##DiRT 3 Complete Edition##0
+258520##The Vanishing of Ethan Carter##0
+400430##The Vanishing of Ethan Carter Redux##0
+323320##Grow Home##0
+214490##Alien: Isolation##0
+340000##Headlander##0
+351510##Quiplash##0
+255710##Cities: Skylines##0
+356040##Sheltered##0
+359960##Choice Chamber##0
+368370##Her Story##0
+18400##Crazy Machines 2##0
+18420##Crazy Machines##0
+18430##Crazy Machines 1.5##0
+18450##Crazy Machines 1.5 New from the Lab##0
+18460##Crazy Machines 1.5 Inventors Training Camp##0
+206410##Crazy Machines Elements##0
+242630##Crazy Machines 2: Invaders From Space, 2nd Wave DLC##0
+265240##Crazy Machines: Golden Gears##0
+381780##80 Days##0
+385560##Shadow Complex Remastered##0
+388210##Day of the Tentacle Remastered##0
+405500##Dangerous Golf##0
+418240##Shadow Tactics: Blades of the Shogun##0
+3170##King's Bounty: Armored Princess##0
+25900##King's Bounty: The Legend##0
+63910##King's Bounty: Crossworlds##0
+203350##King's Bounty: Warriors of the North##0
+289520##King's Bounty: Dark Side##0
+349040##NARUTO SHIPPUDEN: Ultimate Ninja STORM 4##0
+421020##DiRT 4##0
+425760##Ego Protocol##0
+437530##A Blind Legend##0
+437570##GoNNER##0
+442070##Drawful 2##0
+271240##Offworld Trading Company##0
+464170##VRMark##0
+515220##F1 2017##0
+520720##Dear Esther: Landmark Edition##0
+524390##PCMark 10##0
+362960##Tyranny##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+507490##Ashes of the Singularity: Escalation##0
+234270##Ken Follett's The Pillars of the Earth##0
+261640##Borderlands: The Pre-Sequel##0
+218620##PAYDAY 2##0
+695970##Treadnauts##0
+226860##Galactic Civilizations III##0
+222880##Insurgency##0
+43110##Metro 2033##0
+690790##DiRT Rally 2.0##0
+1088790##Rebel Inc: Escalation##0
+1199030##Tainted Grail##0
+@@REVIEW

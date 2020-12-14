@@ -1,0 +1,85 @@
+@@GAME
+730##Counter-Strike: Global Offensive##167061
+440##Team Fortress 2##163296
+570##Dota 2##124801
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##48660
+271590##Grand Theft Auto V##41092
+307780##Mortal Kombat X##13653
+476620##Call of Duty: WWII - Multiplayer##13189
+225540##Just Cause 3##8398
+433850##Z1 Battle Royale##8333
+311210##Call of Duty: Black Ops III##7356
+8870##BioShock Infinite##6650
+550##Left 4 Dead 2##6479
+476600##Call of Duty: WWII##5902
+346110##ARK: Survival Evolved##5761
+12120##Grand Theft Auto: San Andreas##5742
+282440##Quake Live##5379
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##5036
+414340##Hellblade: Senua's Sacrifice##4500
+361300##Mother Russia Bleeds##3910
+10##Counter-Strike##3179
+274940##Depth##2622
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##1440
+70##Half-Life##1196
+268850##EVGA Precision X1##9
+223850##3DMark##7
+238090##Sniper Elite 3##5
+12130##Manhunt##4
+31280##Poker Night at the Inventory##1
+102700##A.V.A. Alliance of Valiant Arms™##1
+225260##Brütal Legend##1
+234710##Poker Night 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+55100##Homefront##0
+46500##Syberia##0
+46510##Syberia 2##0
+42680##Call of Duty: Modern Warfare 3##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+8260##Sam & Max 201: Ice Station Santa##0
+8270##Sam & Max 202: Moai Better Blues##0
+8280##Sam & Max 203: Night of the Raving Dead##0
+8290##Sam & Max 204: Chariots of the Dogs##0
+8300##Sam & Max 205: What's New Beelzebub?##0
+34870##Sniper Ghost Warrior 2##0
+268870##Satellite Reign##0
+293780##Crawl##0
+7670##BioShock##0
+8850##BioShock 2##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+316790##Grim Fandango Remastered##0
+321040##DiRT 3 Complete Edition##0
+301970##Screencheat##0
+324740##The Warlock of Firetop Mountain##0
+314660##Oddworld: New 'n' Tasty##0
+344230##Pixel Puzzles 2: Birds##0
+351030##Pixel Puzzles Ultimate##0
+407530##ARK: Survival Of The Fittest##0
+266510##Hand of Fate##0
+365450##Hacknet##0
+393420##Hurtworld##0
+445900##Hurtworld SDK##0
+398850##Epistory - Typing Chronicles##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+439700##H1Z1: Test Server##0
+290790##Grey Goo##0
+443880##Loot Rascals##0
+457890##TumbleSeed##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+@@REVIEW
+271590##Recommended
+307780##Recommended
+578080##Recommended
+730##Recommended

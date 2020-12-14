@@ -1,0 +1,31 @@
+@@GAME
+570##Dota 2##24196
+1100600##Football Manager 2020##1840
+307690##Sleeping Dogs: Definitive Edition##1534
+1046930##Dota Underlords##1511
+945360##Among Us##1117
+1085660##Destiny 2##1096
+271590##Grand Theft Auto V##195
+1172470##Apex Legends##195
+730##Counter-Strike: Global Offensive##181
+252950##Rocket League##115
+863550##HITMAN™ 2##98
+601510##Yu-Gi-Oh! Duel Links##25
+835570##Conqueror's Blade##25
+215100##Ragnarok##7
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+230410##Warframe##0
+223750##DCS World Steam Edition##0
+477160##Human: Fall Flat##0
+1100620##Football Manager 2020 Touch##0
+@@REVIEW
+945360##Recommended
+1172470##Recommended
+570##Recommended

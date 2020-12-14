@@ -1,0 +1,129 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+2270##Wolfenstein 3D##0
+9000##Wolfenstein 3D: Spear of Destiny##0
+9050##DOOM 3##0
+9070##DOOM 3: Resurrection of Evil##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+12100##Grand Theft Auto III##0
+12230##Grand Theft Auto III##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+500##Left 4 Dead##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+3590##Plants vs. Zombies: Game of the Year##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+550##Left 4 Dead 2##0
+3730##Aliens versus Predator Classic 2000##0
+6800##Commandos: Behind Enemy Lines##0
+6810##Commandos: Beyond the Call of Duty##0
+6830##Commandos 2: Men of Courage##0
+6840##Commandos 3: Destination Berlin##0
+57300##Amnesia: The Dark Descent##0
+42700##Call of Duty: Black Ops##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+9010##Return to Castle Wolfenstein##0
+620##Portal 2##0
+57900##Duke Nukem Forever##0
+21100##F.E.A.R. 3##0
+48000##LIMBO##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+22600##Worms Reloaded##0
+207610##The Walking Dead##0
+205930##Hitman: Sniper Challenge##0
+203140##Hitman: Absolution##0
+211400##Deadlight##0
+204100##Max Payne 3##0
+2280##The Ultimate DOOM##0
+2290##Final DOOM##0
+2300##DOOM II: Hell on Earth##0
+9160##Master Levels for DOOM II##0
+12110##Grand Theft Auto: Vice City##0
+12240##Grand Theft Auto: Vice City##0
+224260##No More Room in Hell##0
+243120##Betrayer##0
+231430##Company of Heroes 2##0
+261030##The Walking Dead: Season Two##0
+271590##Grand Theft Auto V##0
+272060##Serena##0
+282140##SOMA##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+201810##Wolfenstein: The New Order##0
+299740##Miscreated##0
+912290##Miscreated: Experimental Server##0
+304430##INSIDE##0
+221380##Age of Empires II (2013)##0
+238320##Outlast##0
+730##Counter-Strike: Global Offensive##0
+298110##Far Cry 4##0
+339230##ZOMBI##0
+304240##Resident Evil##0
+307780##Mortal Kombat X##0
+329430##State of Decay: Year-One##0
+362890##Black Mesa##0
+268050##The Evil Within##0
+365300##Transmissions: Element 120##0
+391270##Fingerbones##0
+391720##Layers of Fear##0
+395160##Toby: The Secret Mine##0
+234140##Mad Max##0
+424840##Little Nightmares##0
+339340##Resident Evil 0##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+434050##Duke Nukem 3D: 20th Anniversary World Tour##0
+402260##Dead Secret##0
+466800##The Dope Game##0
+379720##DOOM##0
+223100##Homefront: The Revolution##0
+495890##Montaro##0
+501300##What Remains of Edith Finch##0
+533330##Shut Eye##0
+537340##Guts and Glory##0
+546700##The Butterfly Sign##0
+555260##The Butterfly Sign: Human Error##0
+577670##Demolish & Build 2018##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+236870##HITMAN™##0
+588430##Fallout Shelter##0
+460930##Tom Clancy's Ghost Recon® Wildlands##0
+646170##Half-Life - The Freeman Chronicles: Episode 1##0
+646171##Half-Life - The Freeman Chronicles: Episode 2 Part 1##0
+678350##Half-Life - The Freeman Chronicles: BTS##0
+645630##Car Mechanic Simulator 2018##0
+704270##Generation Zero®##0
+714070##Entropy : Zero##0
+813780##Age of Empires II: Definitive Edition##0
+552520##Far Cry 5##0
+863550##HITMAN™ 2##0
+1017900##Age of Empires: Definitive Edition##0
+@@REVIEW
+362890##Recommended
+220##Recommended

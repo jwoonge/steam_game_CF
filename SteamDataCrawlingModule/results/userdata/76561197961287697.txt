@@ -1,0 +1,50 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+6910##Deus Ex: Game of the Year Edition##0
+39500##Gothic 3##0
+950670##Gothic Playable Teaser##0
+39510##Gothic II: Gold Edition##0
+33250##Anno 1404##0
+33350##Anno 1404: Venice##0
+72850##The Elder Scrolls V: Skyrim##0
+80310##Gemini Rue##0
+4920##Natural Selection 2##0
+236090##Dust: An Elysian Tail##0
+251430##The Inner World##0
+269650##Dex##0
+243470##Watch_Dogs##0
+38410##Fallout 2##0
+39520##The Guild Gold Edition##0
+39650##The Guild II##0
+39660##The Guild II - Pirates of the European Seas##0
+39680##The Guild II: Renaissance##0
+730##Counter-Strike: Global Offensive##0
+365720##Skyrim Script Extender (SKSE)##0
+367500##Dragon's Dogma: Dark Arisen##0
+368340##CrossCode##0
+249230##Risen 3 - Titan Lords##0
+384300##CPUCores :: Maximize Your FPS##0
+397550##Deus Ex: Revision##0
+411300##ELEX##0
+413150##Stardew Valley##0
+437630##State of Mind##0
+255710##Cities: Skylines##0
+491950##Orwell##0
+292030##The Witcher 3: Wild Hunt##0
+553640##ICEY##0
+@@REVIEW
+269650##Recommended
+437630##Recommended
+413150##Recommended
+553640##Not Recommended
+372360##Not Recommended
+4920##Recommended
+368340##Recommended

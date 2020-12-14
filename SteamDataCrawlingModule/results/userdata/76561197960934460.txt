@@ -1,0 +1,204 @@
+@@GAME
+905370##Conqueror's Blade##138851
+346110##ARK: Survival Evolved##75482
+834910##ATLAS##66445
+903950##Last Oasis##53116
+681660##Bless Online##46674
+39210##FINAL FANTASY XIV Online##31707
+440900##Conan Exiles##26970
+560380##MapleStory 2##25556
+529180##Dark and Light##22515
+460930##Tom Clancy's Ghost Recon® Wildlands##10476
+250820##SteamVR##9867
+435150##Divinity: Original Sin 2##8935
+271590##Grand Theft Auto V##7240
+567630##Blood of Steel##6790
+594770##Legends of Aria##4534
+252950##Rocket League##4001
+379430##Kingdom Come: Deliverance##3600
+252490##Rust##3500
+745920##Temtem##3357
+487120##Citadel: Forged With Fire##3267
+829590##CryoFall##3128
+794260##Outward##2665
+251570##7 Days to Die##2548
+292030##The Witcher 3: Wild Hunt##2346
+761890##Albion Online##2191
+386360##SMITE##2162
+1097150##Fall Guys: Ultimate Knockout##2072
+629760##MORDHAU##1641
+109600##Neverwinter##1533
+105400##Fable III##1388
+393380##Squad##1264
+945360##Among Us##1258
+261640##Borderlands: The Pre-Sequel##1240
+879160##Battlerite Royale##1225
+275850##No Man's Sky##1210
+28050##Deus Ex: Human Revolution##1194
+718850##Age of Wonders: Planetfall##1154
+17470##Dead Space##1146
+755790##Ring of Elysium##1141
+524220##NieR:Automata™##1140
+620##Portal 2##1112
+880940##Pummel Party##1098
+273350##Evolve Stage 2##1089
+213670##South Park™: The Stick of Truth™##1058
+962130##Grounded##983
+261550##Mount & Blade II: Bannerlord##955
+546560##Half-Life: Alyx##904
+286160##Tabletop Simulator##833
+620980##Beat Saber##833
+764050##Maelstrom##789
+1286830##STAR WARS™: The Old Republic™##708
+504370##Battlerite##704
+4920##Natural Selection 2##679
+47780##Dead Space 2##652
+895400##Deadside##643
+813820##Realm Royale##578
+969680##Steel Circus##570
+632360##Risk of Rain 2##512
+444090##Paladins##497
+1222730##STAR WARS™: Squadrons##490
+420290##Blackwake##488
+250320##The Wolf Among Us##478
+550##Left 4 Dead 2##459
+55230##Saints Row: The Third##373
+365590##Tom Clancy's The Division##373
+218680##Scribblenauts Unlimited##361
+555440##Deathgarden: BLOODHARVEST##351
+337000##Deus Ex: Mankind Divided™##349
+35720##Trine 2##340
+545270##NBA Playgrounds##340
+214560##Mark of the Ninja##325
+107100##Bastion##324
+408900##Unfortunate Spacemen##313
+218230##PlanetSide 2##293
+15170##Heroes of Might & Magic V##280
+48000##LIMBO##266
+730##Counter-Strike: Global Offensive##265
+445220##Avorion##250
+418370##Resident Evil 7 Biohazard##244
+739630##Phasmophobia##239
+987350##PlanetSide Arena##236
+291550##Brawlhalla##235
+230410##Warframe##232
+72850##The Elder Scrolls V: Skyrim##230
+322330##Don't Starve Together##205
+1091500##Cyberpunk 2077##197
+219740##Don't Starve##196
+433850##Z1 Battle Royale##184
+10##Counter-Strike##155
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##155
+17460##Mass Effect##151
+700330##SCP: Secret Laboratory##151
+240##Counter-Strike: Source##142
+224760##FEZ##135
+641960##BOXVR##129
+431960##Wallpaper Engine##117
+688130##Pogostuck: Rage With Your Friends##104
+587430##I Expect You To Die##103
+916840##The Walking Dead: Saints & Sinners##100
+49520##Borderlands 2##98
+496240##Onward##97
+1085660##Destiny 2##94
+218620##PAYDAY 2##92
+282070##This War of Mine##92
+1167630##Teardown##91
+35140##Batman: Arkham Asylum GOTY Edition##90
+583950##Artifact##90
+1057240##Crucible##88
+236090##Dust: An Elysian Tail##67
+226700##Infestation: Survivor Stories 2020##66
+200260##Batman: Arkham City GOTY##65
+40800##Super Meat Boy##62
+617830##SUPERHOT VR##62
+619080##SOS##59
+225080##Brothers - A Tale of Two Sons##58
+323850##Move or Die##57
+24980##Mass Effect 2##54
+494150##The Thrill of the Fight##49
+434730##Half dead##45
+238960##Path of Exile##42
+212160##Vindictus##39
+227700##Firefall##38
+219890##Antichamber##37
+17410##Mirror's Edge##33
+598780##Boreal Blade##33
+753650##Due Process##32
+570##Dota 2##25
+629730##Blade & Sorcery##19
+359550##Tom Clancy's Rainbow Six Siege##16
+304030##ArcheAge##14
+544920##Darwin Project##14
+39120##RIFT##11
+348250##Google Earth VR##10
+450390##The Lab##9
+844510##Oats Studios - Volume 1: OATS STUDIOS: VOLUME 1 - FEATURE##9
+70##Half-Life##1
+333930##Dirty Bomb##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+24740##Burnout Paradise: The Ultimate Box##0
+2100##Dark Messiah of Might & Magic Single Player##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+15370##Heroes of Might & Magic V: Tribes of the East##0
+15380##Heroes of Might & Magic V: Hammers of Fate##0
+4540##Titan Quest##0
+475150##Titan Quest Anniversary Edition##0
+212680##FTL: Faster Than Light##0
+108800##Crysis 2 Maximum Edition##0
+204030##Fable - The Lost Chapters##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+43110##Metro 2033##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+1083500##PlanetSide 2 - Test##0
+225260##Brütal Legend##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+214550##Eets Munchies##0
+700580##Rust - Staging Branch##0
+407530##ARK: Survival Of The Fittest##0
+362180##Mortal Kombat: Legacy II: Reunited in Macau##0
+362190##Mortal Kombat: Legacy II: The Fall of Liu Kang##0
+362200##Mortal Kombat: Legacy II: Kenshi's Origin##0
+362210##Mortal Kombat: Legacy II: Kenshi Encounters Ermac##0
+362220##Mortal Kombat: Legacy II: Kitana and Mileena##0
+362230##Mortal Kombat: Legacy II: Johnny Cage##0
+362240##Mortal Kombat: Legacy II: Scorpion and Sub-Zero (Part 1)##0
+362250##Mortal Kombat: Legacy II: Scorpion and Sub-Zero (Part 2)##0
+362260##Mortal Kombat: Legacy II: Liu Kang##0
+362270##Mortal Kombat: Legacy II: Liu Kang and Kung Lao##0
+362280##Mortal Kombat: Legacy II##0
+495470##Mortal Kombat: Legacy II: Prelude##0
+362890##Black Mesa##0
+524440##Tom Clancy's The Division PTS##0
+858460##SMITE - Public Test##0
+774941##Squad - Public Testing##0
+439700##H1Z1: Test Server##0
+931180##Conan Exiles - Testlive Client##0
+596350##Paladins - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+427460##Battlerite Public Test##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+802240##SOS: Classic##0
+878760##Realm Royale - Test Server##0
+1063730##New World##0
+203160##Tomb Raider##0
+@@REVIEW
+905370##Not Recommended
+880940##Recommended

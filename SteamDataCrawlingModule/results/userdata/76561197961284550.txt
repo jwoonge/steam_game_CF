@@ -1,0 +1,211 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+240##Counter-Strike: Source##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+24740##Burnout Paradise: The Ultimate Box##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+22370##Fallout 3 - Game of the Year Edition##0
+8190##Just Cause 2##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+17410##Mirror's Edge##0
+40420##Tidalis##0
+620##Portal 2##0
+200110##Nosgoth##0
+72850##The Elder Scrolls V: Skyrim##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+22380##Fallout: New Vegas##0
+37400##Time Gentlemen, Please!##0
+37420##Ben There, Dan That!##0
+41500##Torchlight##0
+200710##Torchlight II##0
+215670##Home##0
+204300##Awesomenauts##0
+730##Counter-Strike: Global Offensive##0
+50650##Darksiders II##0
+208200##DOOM 3: BFG Edition##0
+200260##Batman: Arkham City GOTY##0
+204360##Castle Crashers##0
+219150##Hotline Miami##0
+16730##Legendary##0
+219640##Chivalry: Medieval Warfare##0
+223470##POSTAL 2##0
+57690##Tropico 4##0
+43110##Metro 2033##0
+220440##DmC Devil May Cry##0
+236390##War Thunder##0
+233450##Prison Architect##0
+234370##Shattered Haven##0
+8870##BioShock Infinite##0
+91310##Dead Island##0
+216250##Dead Island Riptide##0
+204450##Call of Juarez Gunslinger##0
+206190##Gunpoint##0
+243120##Betrayer##0
+241600##Rogue Legacy##0
+244850##Space Engineers##0
+218820##Mercenary Kings##0
+246700##Strike Vector##0
+246740##Huntsman - The Orphanage Halloween Edition##0
+247020##Cook, Serve, Delicious!##0
+239030##Papers, Please##0
+209000##Batman™: Arkham Origins##0
+239350##Spelunky##0
+252670##Nihilumbra##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+205100##Dishonored##0
+49520##Borderlands 2##0
+45500##Clickr##0
+94400##Nidhogg##0
+261180##Lethal League##0
+261880##Corporate Lifestyle Simulator##0
+39210##FINAL FANTASY XIV Online##0
+264200##One Finger Death Punch##0
+233150##LUFTRAUSERS##0
+211820##Starbound##0
+367540##Starbound - Unstable##0
+96200##Steel Storm: Burning Retribution##0
+274190##Broforce##0
+222880##Insurgency##0
+275850##No Man's Sky##0
+278100##RIVE##0
+213670##South Park™: The Stick of Truth™##0
+250180##METAL SLUG 3##0
+291390##Three Dead Zed##0
+201810##Wolfenstein: The New Order##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+222900##Dead Island: Epidemic##0
+238460##BattleBlock Theater##0
+300220##Victim of Xen##0
+304500##Rooms: The Main Building##0
+63380##Sniper Elite V2##0
+311690##Enter the Gungeon##0
+312610##METAL SLUG X##0
+314160##Microsoft Flight Simulator X: Steam Edition##0
+317280##Solstice##0
+316810##Shadowcrypt##0
+320140##Absolute Drift##0
+321040##DiRT 3 Complete Edition##0
+322110##20XX##0
+323580##Jotun: Valhalla Edition##0
+324800##Shadow Warrior 2##0
+326630##Club Manager 2015##0
+326650##The Legend of Candlewind##0
+329490##Phantom Breaker: Battle Grounds##0
+331790##Data Hacker: Reboot##0
+298110##Far Cry 4##0
+332200##Axiom Verge##0
+222420##THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION##0
+341150##Age of Fear 2: The Chaos Lord GOLD##0
+222440##THE KING OF FIGHTERS 2002 UNLIMITED MATCH##0
+241930##Middle-earth™: Shadow of Mordor™##0
+354180##Bunker - The Underground Game##0
+255710##Cities: Skylines##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+297130##Titan Souls##0
+359580##Uncanny Valley##0
+363940##Solar Shifter EX##0
+365720##Skyrim Script Extender (SKSE)##0
+366250##METAL SLUG##0
+367450##Poly Bridge##0
+367500##Dragon's Dogma: Dark Arisen##0
+370240##NBA 2K16##0
+236870##HITMAN™##0
+385710##INK##0
+386140##After The End: The Harvest##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+391170##Void Invaders##0
+394310##Punch Club##0
+396750##EVERSPACE™##0
+331600##ONE PIECE PIRATE WARRIORS 3##0
+413150##Stardew Valley##0
+415880##Disc Jam##0
+418070##Turbo Pug##0
+422250##ShipLord##0
+422810##River City Ransom: Underground##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+239140##Dying Light##0
+431410##Mazement##0
+364360##Total War: WARHAMMER##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+444220##Asteroid Bounty Hunter##0
+445980##Wizard of Legend##0
+456210##A Land Fit For Heroes##0
+456540##STAR WARS™: Rebel Assault I + II##0
+240440##Quadrilateral Cowboy##0
+460950##Katana ZERO##0
+379720##DOOM##0
+487220##Freebie##0
+355800##Space Run Galaxy##0
+34190##Sonic and SEGA All Stars Racing##0
+202530##SONIC THE HEDGEHOG 4 Episode I##0
+213610##Sonic Adventure™ 2 ##0
+71250##Sonic Adventure DX##0
+200940##Sonic CD##0
+71340##Sonic Generations##0
+203650##SONIC THE HEDGEHOG 4 Episode II##0
+212480##Sonic & All-Stars Racing Transformed Collection##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+329440##Sonic Lost World##0
+403640##Dishonored 2##0
+492170##Planet Driller##0
+494360##Barrow Hill: Curse of the Ancient Circle##0
+494720##Morphblade##0
+273350##Evolve Stage 2##0
+508790##Flat Heroes##0
+361300##Mother Russia Bleeds##0
+518790##theHunter: Call of the Wild™##0
+292030##The Witcher 3: Wild Hunt##0
+527230##For The King##0
+115800##Owlboy##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+493340##Planet Coaster##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+285190##Warhammer 40,000: Dawn of War III##0
+588650##Dead Cells##0
+356190##Middle-earth™: Shadow of War™##0
+632360##Risk of Rain 2##0
+554510##The Golf Club 2™##0
+638490##Soldat##0
+552520##Far Cry 5##0
+427290##Vampyr##0
+218620##PAYDAY 2##0
+236690##Blood Bowl 2##0
+602490##Blood Bowl: Death Zone##0
+473690##Absolver##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+841370##NBA 2K19##0
+883710##Resident Evil 2##0
+939850##The Dark Pictures Anthology: Man of Medan##0
+975510##Panzer Paladin##0
+1097150##Fall Guys: Ultimate Knockout##0
+851850##DRAGON BALL Z: KAKAROT##0
+1085660##Destiny 2##0
+1063730##New World##0
+@@REVIEW

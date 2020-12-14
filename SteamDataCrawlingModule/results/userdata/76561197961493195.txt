@@ -1,0 +1,91 @@
+@@GAME
+730##Counter-Strike: Global Offensive##166581
+10##Counter-Strike##25062
+433850##Z1 Battle Royale##24561
+252950##Rocket League##15683
+444090##Paladins##12007
+44350##GRID 2##10640
+252490##Rust##10386
+304930##Unturned##9376
+107410##Arma 3##5442
+227300##Euro Truck Simulator 2##4720
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##3165
+397900##Business Tour - Online Multiplayer Board Game##2228
+359550##Tom Clancy's Rainbow Six Siege##2180
+291480##Warface##1355
+386180##Crossout##1215
+550##Left 4 Dead 2##1163
+552990##World of Warships##850
+295110##Just Survive##642
+273350##Evolve Stage 2##601
+263280##Spintires®##504
+813820##Realm Royale##402
+224260##No More Room in Hell##379
+570##Dota 2##379
+620##Portal 2##212
+945360##Among Us##197
+63380##Sniper Elite V2##178
+321040##DiRT 3 Complete Edition##134
+244210##Assetto Corsa##132
+218620##PAYDAY 2##120
+470220##UNO##105
+282660##Easy eSports##102
+11390##Crash Time II##94
+555570##Infestation: The New Z##80
+70##Half-Life##79
+11020##TrackMania Nations Forever##77
+253980##Enclave##72
+92800##SpaceChem##70
+35450##Rising Storm/Red Orchestra 2 Multiplayer##70
+285840##Enemy Mind##70
+657200##Hand Simulator##70
+113400##APB Reloaded##66
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##35
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##30
+272350##Tom Clancy's Ghost Recon Phantoms - EU##28
+355840##Survarium##24
+8600##RACE 07##23
+301520##Robocraft##22
+20##Team Fortress Classic##21
+209080##Guns of Icarus Online##21
+233130##Shadow Warrior##21
+238320##Outlast##21
+323580##Jotun: Valhalla Edition##21
+268850##EVGA Precision X1##19
+439700##H1Z1: Test Server##19
+568810##FreeStyleFootball##18
+13140##America's Army 3##17
+211440##Adventures of Shuggy##16
+273110##Counter-Strike Nexon: Studio##13
+291550##Brawlhalla##4
+400##Portal##2
+217920##Alien Rage - Unlimited##1
+8660##GTR Evolution##1
+444200##World of Tanks Blitz##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+700580##Rust - Staging Branch##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+367690##Spintires® - Editor##0
+10270##Disciples III: Reincarnation##0
+362300##Just Survive Test Server##0
+211500##RaceRoom Racing Experience ##0
+337950##The SKIES##0
+316390##Anomaly Zone##0
+357280##Alter World##0
+373330##All Is Dust##0
+596350##Paladins - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+550650##Black Squad##0
+506540##Last Man Standing##0
+878760##Realm Royale - Test Server##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+43110##Metro 2033##0
+1262560##Need for Speed™ Most Wanted##0
+203160##Tomb Raider##0
+@@REVIEW

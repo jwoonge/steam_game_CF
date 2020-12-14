@@ -1,0 +1,45 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+247120##Portal 2 Sixense Perceptual Pack##0
+252150##Grimm##0
+39140##FINAL FANTASY VII##0
+39150##FINAL FANTASY VIII##0
+272060##Serena##0
+304030##ArcheAge##0
+331470##Everlasting Summer##0
+730##Counter-Strike: Global Offensive##0
+346290##Penumbra: Necrologue##0
+339280##Strife##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+413150##Stardew Valley##0
+280790##Creativerse##0
+397720##Romance of the Three Kingdoms Maker##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+474210##BUTCHER##0
+485510##Nioh: Complete Edition##0
+479130##ESEA##0
+480490##Prey##0
+429660##Tales of Berseria##0
+351940##The Descendant##0
+524220##NieR:Automata™##0
+630100##SoulWorker##0
+670290##Real Pool 3D - Poolians##0
+215830##Closers##0
+844870##KurtzPel##0
+582010##Monster Hunter: World##0
+678960##CODE VEIN##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+976730##Halo: The Master Chief Collection##0
+1085660##Destiny 2##0
+@@REVIEW
+730##Not Recommended

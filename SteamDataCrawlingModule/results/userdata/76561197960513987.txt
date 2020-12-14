@@ -1,0 +1,159 @@
+@@GAME
+730##Counter-Strike: Global Offensive##75210
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##47063
+289070##Sid Meier's Civilization VI##15317
+380600##Fishing Planet##6678
+262060##Darkest Dungeon®##6666
+812140##Assassin's Creed Odyssey##5019
+221100##DayZ##4605
+212680##FTL: Faster Than Light##4198
+200510##XCOM: Enemy Unknown##3908
+1145360##Hades##3864
+322330##Don't Starve Together##3324
+219740##Don't Starve##3212
+1174180##Red Dead Redemption 2##2694
+241540##State of Decay##2036
+268500##XCOM 2##2033
+33930##Arma 2: Operation Arrowhead##1932
+413150##Stardew Valley##1809
+646570##Slay the Spire##1748
+535930##Two Point Hospital##1523
+1091500##Cyberpunk 2077##1516
+582160##Assassin's Creed Origins##1269
+47890##The Sims(TM) 3##1224
+431240##Golf With Your Friends##1200
+261030##The Walking Dead: Season Two##1084
+527230##For The King##1059
+8930##Sid Meier's Civilization V##1051
+385760##NBA 2K17##1021
+644930##They Are Billions##929
+252950##Rocket League##927
+1172380##STAR WARS Jedi: Fallen Order™ ##919
+207610##The Walking Dead##877
+240760##Wasteland 2##849
+319630##Life is Strange™##794
+275850##No Man's Sky##751
+570##Dota 2##727
+207140##SpeedRunners##685
+1263850##Football Manager 2021##663
+370240##NBA 2K16##581
+203160##Tomb Raider##576
+105450##Age of Empires® III (2007)##532
+213670##South Park™: The Stick of Truth™##517
+282070##This War of Mine##469
+323190##Frostpunk##462
+261640##Borderlands: The Pre-Sequel##433
+291650##Pillars of Eternity##421
+250320##The Wolf Among Us##397
+648350##Jurassic World Evolution##390
+762830##Telling Lies##363
+391220##Rise of the Tomb Raider##345
+223830##Xenonauts##332
+239030##Papers, Please##328
+234650##Shadowrun Returns##317
+24780##SimCity 4 Deluxe##312
+264710##Subnautica##311
+239820##Game Dev Tycoon##310
+326460##ShellShock Live##309
+201790##Orcs Must Die! 2##290
+221380##Age of Empires II (2013)##288
+203770##Crusader Kings II##282
+271590##Grand Theft Auto V##263
+365590##Tom Clancy's The Division##248
+203140##Hitman: Absolution##247
+383870##Firewatch##243
+10##Counter-Strike##242
+590380##Into the Breach##205
+1097150##Fall Guys: Ultimate Knockout##204
+377160##Fallout 4##175
+222880##Insurgency##172
+787480##Phoenix Wright: Ace Attorney Trilogy##170
+391540##Undertale##166
+298630##The Escapists##162
+341800##Keep Talking and Nobody Explodes##157
+435150##Divinity: Original Sin 2##154
+237990##The Banner Saga##153
+504230##Celeste##153
+703080##Planet Zoo##150
+322500##SUPERHOT##127
+113020##Monaco##121
+447040##Watch_Dogs 2##119
+872790##Football Manager 2019##119
+49520##Borderlands 2##116
+22370##Fallout 3 - Game of the Year Edition##112
+217200##Worms Armageddon##106
+255710##Cities: Skylines##105
+813820##Realm Royale##105
+305620##The Long Dark##102
+880940##Pummel Party##91
+28050##Deus Ex: Human Revolution##87
+220160##Trials Evolution Gold Edition##86
+363930##Dead Age##83
+620##Portal 2##81
+544730##Catan Universe##71
+8870##BioShock Infinite##61
+356570##Party Hard##56
+431960##Wallpaper Engine##54
+368370##Her Story##52
+387290##Ori and the Blind Forest: Definitive Edition##44
+493340##Planet Coaster##43
+211420##DARK SOULS™: Prepare To Die Edition##40
+674940##Stick Fight: The Game##40
+233450##Prison Architect##35
+304650##Sunless Sea##30
+94400##Nidhogg##28
+10500##Total War: EMPIRE - Definitive Edition##22
+297130##Titan Souls##20
+797410##Headsnatchers##18
+214560##Mark of the Ninja##17
+440##Team Fortress 2##10
+214340##Deponia##7
+33910##Arma 2##4
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+43110##Metro 2033##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+400##Portal##0
+22380##Fallout: New Vegas##0
+206440##To the Moon##0
+214250##I Am Alive##0
+219150##Hotline Miami##0
+202170##Sleeping Dogs™##0
+220740##Chaos on Deponia##0
+205930##Hitman: Sniper Challenge##0
+102600##Orcs Must Die!##0
+228300##Remember Me##0
+41900##The Bard's Tale##0
+259130##Wasteland 1 - The Original Classic##0
+404730##Wasteland 2: Director's Cut##0
+268910##Cuphead##0
+281640##The Banner Saga 2##0
+287390##Metro: Last Light Redux##0
+315430##Polarity##0
+321040##DiRT 3 Complete Edition##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+261570##Ori and the Blind Forest##0
+524440##Tom Clancy's The Division PTS##0
+485460##The Banner Saga 3##0
+292030##The Witcher 3: Wild Hunt##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+878760##Realm Royale - Test Server##0
+750920##Shadow of the Tomb Raider##0
+911400##Assassin's Creed III Remastered##0
+945360##Among Us##0
+872820##Football Manager 2019 Touch##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+200260##Batman: Arkham City GOTY##0
+208650##Batman™: Arkham Knight##0
+752590##A Plague Tale: Innocence##0
+329430##State of Decay: Year-One##0
+1263860##Football Manager 2021 Touch##0
+@@REVIEW
+262060##Recommended
+212680##Recommended

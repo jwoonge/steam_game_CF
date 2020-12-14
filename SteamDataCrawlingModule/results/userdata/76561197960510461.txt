@@ -1,0 +1,69 @@
+@@GAME
+730##Counter-Strike: Global Offensive##282375
+113400##APB Reloaded##28275
+433850##Z1 Battle Royale##9418
+10##Counter-Strike##7221
+479130##ESEA##3688
+286940##S.K.I.L.L. - Special Force 2##2873
+1172470##Apex Legends##2457
+359550##Tom Clancy's Rainbow Six Siege##1824
+945360##Among Us##1673
+232090##Killing Floor 2##1238
+739630##Phasmophobia##1224
+250820##SteamVR##930
+242760##The Forest##602
+252490##Rust##575
+489940##BATTALION 1944##541
+365590##Tom Clancy's The Division##489
+562810##Monopoly Plus##242
+238320##Outlast##238
+436520##Line of Sight##236
+666220##CS2D##195
+617830##SUPERHOT VR##156
+438100##VRChat##99
+774861##Project Winter##86
+1097150##Fall Guys: Ultimate Knockout##83
+813820##Realm Royale##79
+755790##Ring of Elysium##77
+877200##Zero Caliber VR##44
+1250##Killing Floor##27
+714010##Aim Lab##26
+431960##Wallpaper Engine##23
+824270##KovaaK 2.0##23
+24960##Battlefield: Bad Company™ 2##17
+391460##WARMODE##13
+791930##BombTag##13
+809960##Radical Heights##7
+222880##Insurgency##6
+773920##scram##4
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+500##Left 4 Dead##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+550##Left 4 Dead 2##0
+700580##Rust - Staging Branch##0
+232150##Killing Floor 2 - SDK##0
+439700##H1Z1: Test Server##0
+436320##Raw Data##0
+524440##Tom Clancy's The Division PTS##0
+553880##Archangel™: Hellfire##0
+578210##A-Tech Cybernetic VR##0
+587430##I Expect You To Die##0
+690810##Killing Floor: Incursion##0
+804490##Creed: Rise to Glory™##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+878760##Realm Royale - Test Server##0
+960090##Bloons TD 6##0
+916840##The Walking Dead: Saints & Sinners##0
+@@REVIEW
+739630##Recommended
+489940##Recommended
+391460##Not Recommended
+479130##Recommended
+730##Recommended

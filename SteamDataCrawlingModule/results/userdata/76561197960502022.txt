@@ -1,0 +1,31 @@
+@@GAME
+35450##Rising Storm/Red Orchestra 2 Multiplayer##3654
+359550##Tom Clancy's Rainbow Six Siege##3400
+107410##Arma 3##2428
+730##Counter-Strike: Global Offensive##1631
+438100##VRChat##408
+700330##SCP: Secret Laboratory##241
+657200##Hand Simulator##185
+281990##Stellaris##87
+4920##Natural Selection 2##85
+203770##Crusader Kings II##50
+227940##Heroes & Generals##39
+538100##Feel The Snow##31
+662320##Metro Conflict: The Origin##30
+236390##War Thunder##27
+15120##Tom Clancy's Rainbow Six: Vegas 2##16
+265630##Fistful of Frags##9
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+230410##Warframe##0
+274560##Revolution Ace##0
+236110##Dungeon Defenders II##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+408900##Unfortunate Spacemen##0
+@@REVIEW

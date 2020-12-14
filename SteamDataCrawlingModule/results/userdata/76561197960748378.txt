@@ -1,0 +1,48 @@
+@@GAME
+730##Counter-Strike: Global Offensive##162247
+252490##Rust##71649
+457140##Oxygen Not Included##49730
+10##Counter-Strike##42399
+433850##Z1 Battle Royale##14393
+255710##Cities: Skylines##7014
+202990##Call of Duty: Black Ops II - Multiplayer##3038
+252950##Rocket League##1949
+314160##Microsoft Flight Simulator X: Steam Edition##1906
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1797
+240##Counter-Strike: Source##1181
+271590##Grand Theft Auto V##1070
+12210##Grand Theft Auto IV: The Complete Edition##706
+107410##Arma 3##550
+703080##Planet Zoo##496
+562810##Monopoly Plus##398
+320300##Car Mechanic Simulator 2015##302
+1088790##Rebel Inc: Escalation##186
+570##Dota 2##117
+439700##H1Z1: Test Server##112
+505040##FORTIFY##97
+326460##ShellShock Live##54
+223850##3DMark##48
+403120##THE GAME OF LIFE ##47
+320##Half-Life 2: Deathmatch##27
+3200##Painkiller: Gold Edition##23
+300##Day of Defeat: Source##20
+272350##Tom Clancy's Ghost Recon Phantoms - EU##20
+431960##Wallpaper Engine##12
+70##Half-Life##11
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+202970##Call of Duty: Black Ops II##0
+212910##Call of Duty: Black Ops II - Zombies##0
+39120##RIFT##0
+700580##Rust - Staging Branch##0
+253980##Enclave##0
+254000##East India Company Gold##0
+254020##Commander: Conquest of the Americas Gold##0
+513710##SCUM##0
+611500##Quake Champions##0
+@@REVIEW

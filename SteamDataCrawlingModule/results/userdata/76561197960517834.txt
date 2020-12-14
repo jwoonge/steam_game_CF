@@ -1,0 +1,310 @@
+@@GAME
+251570##7 Days to Die##280064
+8930##Sid Meier's Civilization V##257144
+289070##Sid Meier's Civilization VI##61790
+271590##Grand Theft Auto V##39042
+427520##Factorio##38305
+236390##War Thunder##28101
+24780##SimCity 4 Deluxe##19015
+240##Counter-Strike: Source##13129
+228200##Company of Heroes ##11144
+264710##Subnautica##8118
+815370##Green Hell##6693
+65980##Sid Meier's Civilization: Beyond Earth##5738
+231430##Company of Heroes 2##4759
+226840##Age of Wonders III##4600
+282070##This War of Mine##4458
+42700##Call of Duty: Black Ops##4363
+220##Half-Life 2##3836
+476600##Call of Duty: WWII##3664
+730##Counter-Strike: Global Offensive##2912
+10090##Call of Duty: World at War##1990
+9420##Supreme Commander: Forged Alliance##1880
+282210##Sid Meier's Starships##1855
+202970##Call of Duty: Black Ops II##1782
+4560##Company of Heroes - Legacy Edition##1745
+476620##Call of Duty: WWII - Multiplayer##974
+40950##Stronghold HD##926
+333420##Cossacks 3##783
+108800##Crysis 2 Maximum Edition##761
+323190##Frostpunk##744
+255710##Cities: Skylines##727
+346110##ARK: Survival Evolved##594
+377160##Fallout 4##391
+637090##BATTLETECH##377
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##359
+97120##Kohan: Ahriman's Gift##332
+588430##Fallout Shelter##314
+43110##Metro 2033##306
+287450##Rise of Nations: Extended Edition##268
+204100##Max Payne 3##261
+466560##Northgard##261
+503940##Railway Empire##246
+410900##Forts##236
+72400##Clones##221
+239140##Dying Light##210
+105450##Age of Empires® III (2007)##192
+22370##Fallout 3 - Game of the Year Edition##190
+9050##DOOM 3##153
+208480##Assassin's Creed® III##152
+40100##Supreme Commander 2##143
+9350##Supreme Commander##104
+418460##Rising Storm 2: Vietnam##91
+394360##Hearts of Iron IV##76
+3900##Sid Meier's Civilization IV##68
+105430##Age of Empires Online##68
+63940##Men of War: Vietnam##63
+721720##Company of Heroes: Battle of Crete##61
+550##Left 4 Dead 2##59
+547180##Company of Heroes: Far East War##59
+97130##Kohan II: Kings of War##57
+402710##Osiris: New Dawn##55
+594650##Hunt: Showdown##47
+557340##My Friend Pedro##43
+9340##Company of Heroes: Opposing Fronts##40
+22380##Fallout: New Vegas##38
+317600##Company of Heroes: Eastern Front##13
+212910##Call of Duty: Black Ops II - Zombies##12
+222750##Wargame: AirLand Battle##8
+20540##Company of Heroes: Tales of Valor##4
+220240##Far Cry® 3##2
+12210##Grand Theft Auto IV: The Complete Edition##1
+342370##Company of Heroes: Europe at War##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+6900##Hitman: Codename 47##0
+6850##Hitman 2: Silent Assassin##0
+6860##Hitman: Blood Money##0
+6870##Battlestations: Midway##0
+6880##Just Cause##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+6980##Thief: Deadly Shadows##0
+7000##Tomb Raider: Legend##0
+8000##Tomb Raider: Anniversary##0
+420##Half-Life 2: Episode Two##0
+8080##Kane & Lynch: Dead Men##0
+15100##Assassin's Creed##0
+8140##Tomb Raider: Underworld##0
+17480##Command and Conquer: Red Alert 3##0
+8170##Battlestations: Pacific##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+6000##STAR WARS™ Republic Commando##0
+32350##STAR WARS™ Starfighter™##0
+25890##Hearts of Iron III##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+32400##STAR WARS™: Dark Forces##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+32420##STAR WARS™: The Clone Wars - Republic Heroes™##0
+32440##LEGO® Star Wars™: The Complete Saga##0
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##0
+33230##Assassin's Creed II##0
+8190##Just Cause 2##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+33900##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+61500##Age of Wonders##0
+61510##Age of Wonders 2: The Wizard's Throne##0
+61520##Age of Wonders: Shadow Magic##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+35130##Lara Croft and the Guardian of Light##0
+48190##Assassin's Creed Brotherhood##0
+32510##LEGO® Star Wars™ III: The Clone Wars™##0
+97110##Kohan: Immortal Sovereigns##0
+201870##Assassin's Creed Revelations##0
+48240##Anno 2070##0
+211600##Thief Gold##0
+211740##Thief 2##0
+204180##Waveform##0
+17300##Crysis##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+224300##Legacy of Kain: Defiance##0
+224920##Legacy of Kain: Soul Reaver##0
+224940##Legacy of Kain: Soul Reaver 2##0
+224960##Tomb Raider I##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+224980##Tomb Raider: The Last Revelation##0
+225000##Tomb Raider: Chronicles##0
+225020##Tomb Raider (VI): The Angel of Darkness##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+9480##Saints Row 2##0
+15620##Warhammer 40,000: Dawn of War II##0
+20530##Red Faction##0
+20550##Red Faction II##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+50620##Darksiders##0
+50650##Darksiders II##0
+55100##Homefront##0
+55110##Red Faction: Armageddon##0
+55140##MX vs. ATV Reflex##0
+55150##Warhammer 40,000: Space Marine##0
+55230##Saints Row: The Third##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+96800##Nexuiz##0
+216370##Nexuiz Beta##0
+225760##Nexuiz STUPID Mode##0
+462780##Darksiders Warmastered Edition##0
+475150##Titan Quest Anniversary Edition##0
+221040##Resident Evil 6##0
+203160##Tomb Raider##0
+22600##Worms Reloaded##0
+70600##Worms Ultimate Mayhem##0
+70620##Worms Crazy Golf##0
+70640##Worms##0
+70650##Worms Blast##0
+70660##Worms Pinball##0
+200170##Worms Revolution##0
+217200##Worms Armageddon##0
+222480##Resident Evil Revelations##0
+2200##Quake III Arena##0
+2210##Quake 4##0
+2270##Wolfenstein 3D##0
+2280##The Ultimate DOOM##0
+2290##Final DOOM##0
+2300##DOOM II: Hell on Earth##0
+2310##Quake##0
+2320##Quake II##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+2360##HeXen: Beyond Heretic##0
+2370##HeXen: Deathkings of the Dark Citadel##0
+2390##Heretic: Shadow of the Serpent Riders##0
+9000##Wolfenstein 3D: Spear of Destiny##0
+9010##Return to Castle Wolfenstein##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+9060##HeXen II##0
+9070##DOOM 3: Resurrection of Evil##0
+9160##Master Levels for DOOM II##0
+9180##Commander Keen Complete Pack##0
+9200##RAGE##0
+22310##Rogue Warrior##0
+22320##The Elder Scrolls III: Morrowind##0
+22330##The Elder Scrolls IV: Oblivion ##0
+22340##Call of Cthulhu: Dark Corners of the Earth##0
+72850##The Elder Scrolls V: Skyrim##0
+205100##Dishonored##0
+208200##DOOM 3: BFG Edition##0
+242960##Blood Omen 2: Legacy of Kain##0
+247430##Hitman: Contracts##0
+268400##Panzer Corps##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+235460##METAL GEAR RISING: REVENGEANCE##0
+274520##Darkwood##0
+274560##Revolution Ace##0
+239160##Thief##0
+281920##Splatter - Zombiecalypse Now##0
+254700##Resident Evil 4##0
+258180##Deus Ex: The Fall##0
+295690##PARTICLE MACE##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+58610##Wargame: European Escalation##0
+251060##Wargame: Red Dragon##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+233270##Far Cry® 3 Blood Dragon##0
+314020##Morphopolis##0
+313830##See No Evil##0
+314450##Saviors##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+21690##Resident Evil 5##0
+289690##Lara Croft and the Temple of Osiris##0
+298110##Far Cry 4##0
+340070##Battle Ranch##0
+341310##Greyfox##0
+342200##MechWarrior Online##0
+407530##ARK: Survival Of The Fittest##0
+346630##Plazma Being##0
+287290##Resident Evil Revelations 2##0
+351150##DRAGON: A Game About a Dragon##0
+351490##Intergalactic Bubbles##0
+353550##House of Caravan##0
+354430##STAR WARS™: X-Wing Special Edition##0
+355250##STAR WARS™: TIE Fighter Special Edition##0
+356500##STAR WARS™ Galactic Battlegrounds Saga##0
+361670##STAR WARS™: X-Wing Alliance™##0
+361690##STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™##0
+28000##Kane & Lynch 2: Dog Days##0
+371670##Rolling Sun##0
+373930##Sudden Strike 4##0
+380020##Three Heroes##0
+391260##Labyronia RPG##0
+396160##Secret Of Magia##0
+396360##LocoSoccer##0
+397500##Labyronia RPG 2##0
+405610##Flight of the Paladin##0
+407230##Legend of Mysteria##0
+416080##God Game : The Odyssey##0
+429700##Squirbs##0
+434420##The Chosen RPG##0
+441550##STAR WARS™ Rebellion##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+455910##STAR WARS™: Rogue Squadron 3D##0
+456540##STAR WARS™: Rebel Assault I + II##0
+461640##Sins Of The Demon RPG##0
+463350##Storm of Spears##0
+526870##Satisfactory##0
+527990##Gladiator Trainer##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+569970##Chosen 2##0
+460930##Tom Clancy's Ghost Recon® Wildlands##0
+770720##Hunt: Showdown (Test Server)##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+464920##Surviving Mars##0
+808910##STAR WARS™ Episode I Racer##0
+809140##Cliff Empire##0
+813780##Age of Empires II: Definitive Edition##0
+552520##Far Cry 5##0
+848450##Subnautica: Below Zero##0
+933110##Age of Empires III: Definitive Edition##0
+1017900##Age of Empires: Definitive Edition##0
+1058020##STAR WARS™ Battlefront (Classic, 2004)##0
+1174180##Red Dead Redemption 2##0
+1238810##Battlefield™ V##0
+1238840##Battlefield 1 ™##0
+1238860##Battlefield 4™ ##0
+1237970##Titanfall® 2##0
+@@REVIEW

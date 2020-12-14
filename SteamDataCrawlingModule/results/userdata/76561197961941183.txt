@@ -1,0 +1,258 @@
+@@GAME
+8930##Sid Meier's Civilization V##4805
+440##Team Fortress 2##4344
+730##Counter-Strike: Global Offensive##3113
+500##Left 4 Dead##2861
+240##Counter-Strike: Source##2806
+298110##Far Cry 4##2770
+525480##.hack//G.U. Last Recode##2440
+57400##Batman: Arkham City™##2389
+24960##Battlefield: Bad Company™ 2##2116
+245620##Tropico 5##2012
+33230##Assassin's Creed II##1793
+550##Left 4 Dead 2##1696
+92800##SpaceChem##1690
+620##Portal 2##1632
+35140##Batman: Arkham Asylum GOTY Edition##1197
+257510##The Talos Principle##1138
+3990##Sid Meier's Civilization IV: Warlords##1018
+976730##Halo: The Master Chief Collection##1014
+57690##Tropico 4##962
+108800##Crysis 2 Maximum Edition##909
+49520##Borderlands 2##882
+209000##Batman™: Arkham Origins##861
+8870##BioShock Infinite##859
+23490##Tropico 3 - Steam Special Edition##782
+48190##Assassin's Creed Brotherhood##776
+17460##Mass Effect##754
+203140##Hitman: Absolution##612
+204100##Max Payne 3##604
+107100##Bastion##578
+28050##Deus Ex: Human Revolution##523
+16450##F.E.A.R. 2: Project Origin##510
+221380##Age of Empires II (2013)##458
+57600##Tropico 3: Absolute Power##450
+8500##EVE Online##443
+400##Portal##441
+12840##DiRT 2##429
+203160##Tomb Raider##361
+8800##Sid Meier's Civilization IV: Beyond the Sword##328
+21120##F.E.A.R.: Perseus Mandate##327
+72850##The Elder Scrolls V: Skyrim##319
+280##Half-Life: Source##305
+57300##Amnesia: The Dark Descent##289
+4000##Garry's Mod##286
+24780##SimCity 4 Deluxe##243
+225080##Brothers - A Tale of Two Sons##230
+44350##GRID 2##224
+99900##Spiral Knights##210
+200510##XCOM: Enemy Unknown##163
+105450##Age of Empires® III (2007)##143
+41070##Serious Sam 3: BFE##123
+220200##Kerbal Space Program##119
+95500##Your Doodles Are Bugged!##118
+70##Half-Life##113
+300##Day of Defeat: Source##104
+552520##Far Cry 5##104
+36630##Rusty Hearts##98
+238320##Outlast##96
+492720##Tropico 6##93
+379720##DOOM##81
+570##Dota 2##77
+677620##Splitgate: Arena Warfare##74
+21100##F.E.A.R. 3##68
+33460##From Dust##60
+13510##Tom Clancy's Ghost Recon: Advanced Warfighter 2##56
+220240##Far Cry® 3##54
+204880##Sins of a Solar Empire: Rebellion##43
+19900##Far Cry 2##34
+360##Half-Life Deathmatch: Source##33
+261180##Lethal League##26
+320##Half-Life 2: Deathmatch##23
+247080##Crypt of the NecroDancer##20
+21090##F.E.A.R.##13
+97100##Section 8: Prejudice##8
+252950##Rocket League##2
+17710##Nuclear Dawn##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+380##Half-Life 2: Episode One##0
+1520##DEFCON##0
+3910##Sid Meier's Civilization III: Complete##0
+34450##Sid Meier's Civilization IV: Warlords##0
+420##Half-Life 2: Episode Two##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+13200##Unreal II: The Awakening##0
+13210##Unreal Tournament 3: Black Edition##0
+13230##Unreal Tournament 2004##0
+13240##Unreal Tournament: Game of the Year Edition##0
+13250##Unreal Gold##0
+13560##Tom Clancy's Splinter Cell##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+12750##GRID##0
+15320##IL-2 Sturmovik: 1946##0
+15300##Tom Clancy's Ghost Recon##0
+13640##Tom Clancy's Ghost Recon: Advanced Warfighter##0
+12360##FlatOut: Ultimate Carnage##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+17300##Crysis##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+19980##Prince of Persia##0
+17470##Dead Space##0
+17410##Mirror's Edge##0
+24740##Burnout Paradise: The Ultimate Box##0
+21760##World in Conflict##0
+21910##World in Conflict: Soviet Assault##0
+21900##Tom Clancy's H.A.W.X.##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+13570##Tom Clancy's Splinter Cell: Chaos Theory##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+8980##Borderlands GOTY##0
+729040##Borderlands GOTY Enhanced##0
+24860##Battlefield 2##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+17450##Dragon Age: Origins##0
+22370##Fallout 3 - Game of the Year Edition##0
+38210##Roogoo##0
+24980##Mass Effect 2##0
+13520##Far Cry##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+43110##Metro 2033##0
+8190##Just Cause 2##0
+33220##Tom Clancy's Splinter Cell: Conviction##0
+3900##Sid Meier's Civilization IV##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+21110##F.E.A.R.: Extraction Point##0
+41000##Serious Sam HD: The First Encounter##0
+41010##Serious Sam HD: The Second Encounter##0
+564310##Serious Sam Fusion 2017 (beta)##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+32360##The Secret of Monkey Island: Special Edition##0
+32460##Monkey Island 2: Special Edition##0
+40800##Super Meat Boy##0
+47780##Dead Space 2##0
+99810##Bulletstorm##0
+15100##Assassin's Creed##0
+15120##Tom Clancy's Rainbow Six: Vegas 2##0
+21980##Call of Juarez: Bound in Blood##0
+34330##Total War: SHOGUN 2##0
+95300##Capsized##0
+105600##Terraria##0
+44320##DiRT 3##0
+321040##DiRT 3 Complete Edition##0
+22650##Alien Breed 2: Assault##0
+2210##Quake 4##0
+24240##PAYDAY: The Heist##0
+201870##Assassin's Creed Revelations##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+55230##Saints Row: The Third##0
+48240##Anno 2070##0
+200260##Batman: Arkham City GOTY##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+91200##Anomaly Warzone Earth##0
+80200##Fate of the World##0
+205790##Dota 2 Test##0
+201700##DiRT Showdown##0
+96800##Nexuiz##0
+216370##Nexuiz Beta##0
+225760##Nexuiz STUPID Mode##0
+207610##The Walking Dead##0
+104900##ORION: Prelude##0
+50300##Spec Ops: The Line##0
+91310##Dead Island##0
+212630##Tom Clancy's Ghost Recon Future Soldier##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+63700##BIT.TRIP BEAT##0
+63710##BIT.TRIP RUNNER##0
+115320##PROTOTYPE 2##0
+209080##Guns of Icarus Online##0
+202170##Sleeping Dogs™##0
+205100##Dishonored##0
+214560##Mark of the Ninja##0
+211400##Deadlight##0
+215470##Primal Carnage##0
+4920##Natural Selection 2##0
+208480##Assassin's Creed® III##0
+205930##Hitman: Sniper Challenge##0
+220440##DmC Devil May Cry##0
+219890##Antichamber##0
+243870##Tom Clancy's Ghost Recon Phantoms - NA##0
+233720##Surgeon Simulator##0
+234710##Poker Night 2##0
+233270##Far Cry® 3 Blood Dragon##0
+204450##Call of Juarez Gunslinger##0
+238210##System Shock 2##0
+43160##Metro: Last Light##0
+210770##Sanctum 2##0
+231160##The Swapper##0
+35700##Trine##0
+35720##Trine 2##0
+242920##Banished##0
+214770##Guacamelee! Gold Edition##0
+239030##Papers, Please##0
+242550##Rayman Legends##0
+218620##PAYDAY 2##0
+236850##Europa Universalis IV##0
+235600##Tom Clancy's Splinter Cell Blacklist##0
+206420##Saints Row IV##0
+242050##Assassin's Creed IV Black Flag##0
+221910##The Stanley Parable##0
+246580##The Typing of The Dead: Overkill##0
+222880##Insurgency##0
+239160##Thief##0
+213670##South Park™: The Stick of Truth™##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+201810##Wolfenstein: The New Order##0
+237930##Transistor##0
+292120##FINAL FANTASY XIII##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+314160##Microsoft Flight Simulator X: Steam Edition##0
+65980##Sid Meier's Civilization: Beyond Earth##0
+331670##The Jackbox Party Pack##0
+339800##HuniePop##0
+384180##Prominence Poker##0
+397460##The Jackbox Party Pack 2##0
+225540##Just Cause 3##0
+391220##Rise of the Tomb Raider##0
+434170##The Jackbox Party Pack 3##0
+371660##Far Cry Primal##0
+289070##Sid Meier's Civilization VI##0
+613470##The Inner World: The Last Wind Monk##0
+739630##Phasmophobia##0
+782330##DOOM Eternal##0
+874240##MU Legend##0
+1085660##Destiny 2##0
+@@REVIEW
+257510##Recommended

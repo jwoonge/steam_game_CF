@@ -1,0 +1,22 @@
+@@GAME
+730##Counter-Strike: Global Offensive##62039
+252490##Rust##576
+227300##Euro Truck Simulator 2##463
+479130##ESEA##214
+225540##Just Cause 3##167
+292030##The Witcher 3: Wild Hunt##100
+312660##Sniper Elite 4##92
+397900##Business Tour - Online Multiplayer Board Game##42
+619910##Just Cause™ 3: Multiplayer Mod##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+273110##Counter-Strike Nexon: Studio##0
+420290##Blackwake##0
+700580##Rust - Staging Branch##0
+@@REVIEW

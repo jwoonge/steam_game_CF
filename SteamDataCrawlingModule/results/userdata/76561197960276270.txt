@@ -1,0 +1,141 @@
+@@GAME
+730##Counter-Strike: Global Offensive##139273
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##24068
+10##Counter-Strike##11901
+268850##EVGA Precision X1##8384
+240##Counter-Strike: Source##5006
+489940##BATTALION 1944##3314
+282660##Easy eSports##2616
+1151640##Horizon Zero Dawn##1639
+213670##South Park™: The Stick of Truth™##1070
+33930##Arma 2: Operation Arrowhead##1062
+588160##Pizza Connection 3##1023
+379720##DOOM##975
+1172380##STAR WARS Jedi: Fallen Order™ ##927
+201810##Wolfenstein: The New Order##642
+488790##South Park The Fractured But Whole##617
+648350##Jurassic World Evolution##564
+35450##Rising Storm/Red Orchestra 2 Multiplayer##501
+412020##Metro Exodus##495
+359550##Tom Clancy's Rainbow Six Siege##414
+225540##Just Cause 3##375
+49520##Borderlands 2##372
+305620##The Long Dark##354
+212910##Call of Duty: Black Ops II - Zombies##329
+234140##Mad Max##309
+440##Team Fortress 2##308
+755790##Ring of Elysium##294
+813820##Realm Royale##293
+282440##Quake Live##291
+612880##Wolfenstein II: The New Colossus##290
+323190##Frostpunk##270
+286690##Metro 2033 Redux##269
+480490##Prey##267
+271590##Grand Theft Auto V##229
+201700##DiRT Showdown##226
+552520##Far Cry 5##207
+418370##Resident Evil 7 Biohazard##200
+813780##Age of Empires II: Definitive Edition##197
+205100##Dishonored##179
+255220##GRID Autosport##159
+883710##Resident Evil 2##156
+10150##Prototype##143
+377160##Fallout 4##132
+611500##Quake Champions##123
+1091500##Cyberpunk 2077##120
+30##Day of Defeat##100
+287290##Resident Evil Revelations 2##97
+245620##Tropico 5##86
+238960##Path of Exile##85
+237630##DuckTales Remastered##81
+433850##Z1 Battle Royale##79
+462780##Darksiders Warmastered Edition##64
+236390##War Thunder##55
+431240##Golf With Your Friends##55
+12120##Grand Theft Auto: San Andreas##53
+493520##GTFO##53
+355790##Styx: Shards of Darkness##50
+374320##DARK SOULS™ III##44
+273110##Counter-Strike Nexon: Studio##42
+961440##Resident Evil 2 "1-Shot Demo"##39
+13210##Unreal Tournament 3: Black Edition##38
+203160##Tomb Raider##36
+512470##The Pirate: Caribbean Hunt##30
+224580##Arma 2: DayZ Mod##29
+550650##Black Squad##29
+360430##Mafia III: Definitive Edition##26
+44350##GRID 2##25
+301640##Zombie Army Trilogy##24
+50130##Mafia II (Classic)##22
+552990##World of Warships##20
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##19
+503940##Railway Empire##19
+304390##For Honor##19
+570##Dota 2##18
+320##Half-Life 2: Deathmatch##17
+285310##RollerCoaster Tycoon: Deluxe##15
+513650##Zula Europe##13
+265630##Fistful of Frags##12
+519190##Next Day: Survival##11
+525040##The Disney Afternoon Collection##11
+1249200##Ghostrunner Demo##7
+39640##AquaNox 2: Revelation##6
+40##Deathmatch Classic##5
+479130##ESEA##5
+102700##A.V.A. Alliance of Valiant Arms™##4
+60##Ricochet##3
+33910##Arma 2##3
+67370##The Darkness II##3
+70##Half-Life##1
+202970##Call of Duty: Black Ops II##1
+11020##TrackMania Nations Forever##1
+444560##Agent Origins: Escape##1
+20##Team Fortress Classic##0
+50##Half-Life: Opposing Force##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+20900##The Witcher: Enhanced Edition##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+17460##Mass Effect##0
+24980##Mass Effect 2##0
+251670##Battle Nations##0
+254700##Resident Evil 4##0
+287390##Metro: Last Light Redux##0
+288570##Wolfenstein: The New Order German Edition##0
+115320##PROTOTYPE 2##0
+261640##Borderlands: The Pre-Sequel##0
+292030##The Witcher 3: Wild Hunt##0
+50620##Darksiders##0
+388410##Darksiders II Deathinitive Edition##0
+208650##Batman™: Arkham Knight##0
+439700##H1Z1: Test Server##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+1030830##Mafia II: Definitive Edition##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+550040##Steep Open Beta##0
+436520##Line of Sight##0
+386180##Crossout##0
+650500##Wolfenstein II: The New Colossus German Edition##0
+40990##Mafia##0
+878760##Realm Royale - Test Server##0
+714010##Aim Lab##0
+654310##For Honor - Public Test##0
+1085660##Destiny 2##0
+231430##Company of Heroes 2##0
+@@REVIEW
+1172380##Recommended
+578080##Not Recommended

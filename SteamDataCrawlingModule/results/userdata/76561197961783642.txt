@@ -1,0 +1,23 @@
+@@GAME
+730##Counter-Strike: Global Offensive##18905
+10##Counter-Strike##8633
+570##Dota 2##2753
+349040##NARUTO SHIPPUDEN: Ultimate Ninja STORM 4##233
+286160##Tabletop Simulator##105
+438100##VRChat##16
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+1172470##Apex Legends##0
+@@REVIEW
+349040##Recommended
+570##Not Recommended
+10##Recommended
+286160##Recommended
+730##Recommended

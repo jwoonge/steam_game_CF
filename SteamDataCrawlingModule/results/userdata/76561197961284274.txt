@@ -1,0 +1,33 @@
+@@GAME
+570##Dota 2##166470
+10##Counter-Strike##82876
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##45031
+730##Counter-Strike: Global Offensive##777
+329110##Gems of War##420
+236390##War Thunder##113
+332070##School of Dragons: How to Train Your Dragon##77
+381990##Dragon Saga##63
+504370##Battlerite##21
+386360##SMITE##16
+355840##Survarium##9
+30##Day of Defeat##2
+40##Deathmatch Classic##2
+20##Team Fortress Classic##1
+70##Half-Life##1
+536930##MOBIUS FINAL FANTASY##1
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+200110##Nosgoth##0
+230410##Warframe##0
+238210##System Shock 2##0
+205790##Dota 2 Test##0
+316390##Anomaly Zone##0
+858460##SMITE - Public Test##0
+444200##World of Tanks Blitz##0
+691020##Fog Of War - Free Edition##0
+427460##Battlerite Public Test##0
+766570##Russian Fishing 4##0
+@@REVIEW
+730##Recommended
+570##Recommended

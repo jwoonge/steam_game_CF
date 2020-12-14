@@ -1,0 +1,175 @@
+@@GAME
+238960##Path of Exile##43171
+730##Counter-Strike: Global Offensive##35961
+252490##Rust##31432
+629910##Clicker Heroes 2##25993
+570##Dota 2##20199
+378120##Football Manager 2016##19406
+363970##Clicker Heroes##18319
+252950##Rocket League##16734
+466170##Idling to Rule the Gods##11621
+646570##Slay the Spire##11162
+761890##Albion Online##11025
+275850##No Man's Sky##9720
+627690##Idle Champions of the Forgotten Realms##9496
+1046930##Dota Underlords##8911
+610080##Realm Grinder##7124
+346900##AdVenture Capitalist##6846
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##5540
+527230##For The King##4604
+49520##Borderlands 2##4228
+728730##Holyday City: Reloaded##4178
+640820##Pathfinder: Kingmaker##3919
+946050##Soda Dungeon 2##3721
+8930##Sid Meier's Civilization V##3595
+435150##Divinity: Original Sin 2##3534
+219990##Grim Dawn##3263
+787860##Farming Simulator 19##3115
+397900##Business Tour - Online Multiplayer Board Game##3072
+766570##Russian Fishing 4##2936
+364470##The Elder Scrolls: Legends##2891
+547680##Guild Quest##2821
+250900##The Binding of Isaac: Rebirth##2739
+518790##theHunter: Call of the Wild™##2659
+1094780##Fisher Online##2612
+10##Counter-Strike##2600
+504370##Battlerite##2519
+369990##Gremlins, Inc.##2422
+719040##Wasteland 3##2416
+251570##7 Days to Die##2301
+289070##Sid Meier's Civilization VI##2299
+107410##Arma 3##2136
+57690##Tropico 4##2132
+1217060##Gunfire Reborn##2007
+220200##Kerbal Space Program##1987
+327030##Worms W.M.D##1949
+322330##Don't Starve Together##1842
+841770##Siralim 3##1834
+208140##Endless Space##1832
+489520##Minion Masters##1707
+440900##Conan Exiles##1598
+997070##Marvel's Avengers##1588
+438040##Shakes and Fidget##1496
+798420##Professional Fishing##1430
+380360##Tap Tap Infinity##1408
+200710##Torchlight II##1372
+385770##Time Clickers##1360
+424370##Wolcen: Lords of Mayhem##1322
+289130##Endless Legend™ - Emperor Edition##1265
+291550##Brawlhalla##1162
+705220##Tactical Monsters Rumble Arena##1040
+12250##Grand Theft Auto: San Andreas##982
+815370##Green Hell##929
+402840##Crusaders of the Lost Idols##916
+310950##Street Fighter V##883
+228380##Wreckfest##840
+599140##Graveyard Keeper##817
+245620##Tropico 5##804
+249050##Dungeon of the Endless™ - Crystal Edition##793
+861540##Dicey Dungeons##766
+346110##ARK: Survival Evolved##756
+293260##Card Hunter##747
+468920##Ultimate Fishing Simulator##719
+1127400##Mindustry##700
+234650##Shadowrun Returns##664
+236390##War Thunder##630
+281990##Stellaris##586
+257730##Infinity Wars - Animated Trading Card Game##578
+728880##Overcooked! 2##564
+212680##FTL: Faster Than Light##548
+557400##Midas Gold Plus##532
+666140##My Time At Portia##532
+33930##Arma 2: Operation Arrowhead##530
+241600##Rogue Legacy##524
+203770##Crusader Kings II##496
+386360##SMITE##474
+477160##Human: Fall Flat##470
+363600##Holy Potatoes! A Weapon Shop?!##462
+227300##Euro Truck Simulator 2##396
+225280##Full Mojo Rampage##371
+571740##Golf It!##341
+393530##Insanity Clicker##337
+304930##Unturned##331
+105600##Terraria##319
+438680##One Troll Army##249
+305050##Outland##243
+550##Left 4 Dead 2##182
+440##Team Fortress 2##144
+218620##PAYDAY 2##131
+11020##TrackMania Nations Forever##130
+65800##Dungeon Defenders##124
+215080##WAKFU##123
+289930##TransOcean: The Shipping Company##122
+795100##Friday the 13th: Killer Puzzle##91
+231430##Company of Heroes 2##80
+365450##Hacknet##78
+80##Counter-Strike: Condition Zero##62
+238370##Magicka 2##50
+945360##Among Us##42
+339200##Oceanhorn: Monster of Uncharted Seas##27
+626010##Office Space: Idle Profits##27
+380600##Fishing Planet##23
+236110##Dungeon Defenders II##19
+1151080##Legend of Keepers: Prologue##19
+404410##Endless Sky##17
+466910##Worm.is: The Game##10
+842150##Wild West Saga##10
+588180##Totemori##9
+804320##Papers, Please - The Short Film##9
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##4
+700580##Rust - Staging Branch##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+12120##Grand Theft Auto: San Andreas##0
+33910##Arma 2##0
+205790##Dota 2 Test##0
+214510##LEGO® The Lord of the Rings™##0
+251450##Heroes of Havoc##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+278360##A Story About My Uncle##0
+285160##LEGO® The Hobbit™##0
+286570##F1 2015##0
+290930##Half-Life 2: Update##0
+300550##Shadowrun: Dragonfall - Director's Cut##0
+65790##Arma: Cold War Assault##0
+303390##Dead Bits##0
+63380##Sniper Elite V2##0
+237850##Dreamfall Chapters##0
+253510##Warmachine Tactics##0
+326130##Alcatraz Builder##0
+261640##Borderlands: The Pre-Sequel##0
+407530##ARK: Survival Of The Fittest##0
+353550##House of Caravan##0
+397080##Magicka 2: Spell Balance Beta##0
+371140##Aegis Defenders##0
+267750##Shadowrun Chronicles - Boston Lockdown##0
+858460##SMITE - Public Test##0
+280790##Creativerse##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+931180##Conan Exiles - Testlive Client##0
+319630##Life is Strange™##0
+697610##Idle Bouncer##0
+209670##Cortex Command##0
+236870##HITMAN™##0
+544920##Darwin Project##0
+884660##CRSED##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+491950##Orwell##0
+252130##Divide by Sheep##0
+282100##Fearless Fantasy##0
+582660##Black Desert Online##0
+406970##The Uncertain: Last Quiet Day##0
+@@REVIEW
+252950##Not Recommended
+629910##Recommended
+787860##Not Recommended

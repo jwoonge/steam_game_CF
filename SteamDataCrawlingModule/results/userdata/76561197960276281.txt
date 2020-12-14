@@ -1,0 +1,196 @@
+@@GAME
+550##Left 4 Dead 2##16478
+238960##Path of Exile##15801
+201790##Orcs Must Die! 2##8263
+72850##The Elder Scrolls V: Skyrim##7388
+219990##Grim Dawn##7272
+730##Counter-Strike: Global Offensive##5756
+500##Left 4 Dead##4266
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##4182
+440##Team Fortress 2##3386
+41210##Eufloria##2508
+620##Portal 2##2480
+41500##Torchlight##2224
+233450##Prison Architect##1746
+238090##Sniper Elite 3##1612
+240##Counter-Strike: Source##1464
+221540##Defense Grid 2##1421
+18500##Defense Grid: The Awakening##1417
+431240##Golf With Your Friends##1131
+1097150##Fall Guys: Ultimate Knockout##1083
+201810##Wolfenstein: The New Order##995
+274190##Broforce##955
+205100##Dishonored##909
+20##Team Fortress Classic##838
+221380##Age of Empires II (2013)##826
+49540##Aliens: Colonial Marines##818
+70##Half-Life##804
+3590##Plants vs. Zombies: Game of the Year##715
+312660##Sniper Elite 4##715
+648800##Raft##701
+945360##Among Us##697
+843380##Super Animal Royale##625
+3530##Amazing Adventures Around the World##592
+63380##Sniper Elite V2##584
+258970##Gauntlet™ ##542
+21970##R.U.S.E##509
+8980##Borderlands GOTY##500
+345180##Victor Vran##318
+300##Day of Defeat: Source##316
+3310##Chuzzle Deluxe##316
+755790##Ring of Elysium##231
+214490##Alien: Isolation##217
+1057240##Crucible##216
+301640##Zombie Army Trilogy##195
+380##Half-Life 2: Episode One##184
+271240##Offworld Trading Company##175
+42910##Magicka##167
+317400##Portal Stories: Mel##158
+3570##Mystery P.I.: The New York Fortune##155
+402560##Tabletopia##155
+241930##Middle-earth™: Shadow of Mordor™##147
+1250##Killing Floor##142
+72200##Universe Sandbox Legacy##140
+265630##Fistful of Frags##139
+200710##Torchlight II##134
+554510##The Golf Club 2™##131
+206690##iBomber Defense Pacific##130
+41800##Gratuitous Space Battles##117
+334210##Fortified##114
+105450##Age of Empires® III (2007)##112
+65800##Dungeon Defenders##102
+434570##Blood and Bacon##97
+207610##The Walking Dead##92
+1128810##RISK: Global Domination##84
+563560##Alien Swarm: Reactive Drop##80
+225840##Sven Co-op##77
+27940##Dead Horde##70
+214360##Tower Wars##56
+104900##ORION: Prelude##50
+280##Half-Life: Source##45
+3480##Peggle Deluxe##40
+8850##BioShock 2##39
+108710##Alan Wake##37
+224260##No More Room in Hell##37
+3300##Bejeweled 2 Deluxe##34
+241410##CastleStorm##34
+40400##AI War: Fleet Command##30
+247910##Sniper Elite: Nazi Zombie Army 2##29
+209080##Guns of Icarus Online##27
+630##Alien Swarm##25
+91310##Dead Island##24
+211##Source SDK##18
+583950##Artifact##17
+238320##Outlast##16
+223710##Cry of Fear##15
+884660##CRSED##13
+212680##FTL: Faster Than Light##10
+24240##PAYDAY: The Heist##9
+227380##Dragon's Lair##9
+1046930##Dota Underlords##7
+105600##Terraria##7
+230860##Cannon Brawl##6
+290930##Half-Life 2: Update##4
+273110##Counter-Strike Nexon: Studio##3
+252730##YOU DON'T KNOW JACK Vol. 1 XL##2
+230410##Warframe##1
+10##Counter-Strike##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+205790##Dota 2 Test##0
+546560##Half-Life: Alyx##0
+1200##Red Orchestra: Ostfront 41-45##0
+1230##Mare Nostrum##0
+1280##Darkest Hour: Europe '44-'45##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+3370##BookWorm Deluxe##0
+3380##Dynomite! Deluxe##0
+3970##Prey##0
+7650##X-COM: Terror from the Deep##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+3500##Mystery P.I.: The Lottery Ticket##0
+7940##Call of Duty 4: Modern Warfare##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+12110##Grand Theft Auto: Vice City##0
+12240##Grand Theft Auto: Vice City##0
+3520##Mystery PI: The Vegas Heist##0
+19900##Far Cry 2##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+221180##Eufloria HD##0
+409720##BioShock 2 Remastered##0
+57300##Amnesia: The Dark Descent##0
+729040##Borderlands GOTY Enhanced##0
+24960##Battlefield: Bad Company™ 2##0
+102600##Orcs Must Die!##0
+104000##iBomber Defense##0
+202750##Alan Wake's American Nightmare##0
+200260##Batman: Arkham City GOTY##0
+234740##Tower Wars Editor##0
+57690##Tropico 4##0
+236390##War Thunder##0
+203160##Tomb Raider##0
+8870##BioShock Infinite##0
+234710##Poker Night 2##0
+216250##Dead Island Riptide##0
+221910##The Stanley Parable##0
+238430##Contagion##0
+259940##YOU DON'T KNOW JACK Vol. 2##0
+259960##YOU DON'T KNOW JACK Vol. 3##0
+259980##YOU DON'T KNOW JACK Vol. 4 The Ride##0
+260000##YOU DON'T KNOW JACK MOVIES##0
+260020##YOU DON'T KNOW JACK SPORTS##0
+260040##YOU DON'T KNOW JACK TELEVISION##0
+260060##YOU DON'T KNOW JACK HEADRUSH##0
+265930##Goat Simulator##0
+222880##Insurgency##0
+227100##Sniper Elite: Nazi Zombie Army##0
+273350##Evolve Stage 2##0
+319630##Life is Strange™##0
+341800##Keep Talking and Nobody Explodes##0
+356500##STAR WARS™ Galactic Battlegrounds Saga##0
+361660##Accidental Runner##0
+443580##Antenna##0
+612880##Wolfenstein II: The New Colossus##0
+1233550##Rocket Arena##0
+611500##Quake Champions##0
+391720##Layers of Fear##0
+44350##GRID 2##0
+1085660##Destiny 2##0
+310560##DiRT Rally##0
+567730##Merry Snowballs##0
+582660##Black Desert Online##0
+406970##The Uncertain: Last Quiet Day##0
+760620##Deiland##0
+289690##Lara Croft and the Temple of Osiris##0
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##0
+34330##Total War: SHOGUN 2##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW
+431240##Recommended
+238090##Recommended
+201790##Recommended
+72850##Recommended

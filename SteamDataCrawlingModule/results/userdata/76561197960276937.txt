@@ -1,0 +1,198 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##28512
+582010##Monster Hunter: World##28002
+250820##SteamVR##15451
+72850##The Elder Scrolls V: Skyrim##14777
+271590##Grand Theft Auto V##14186
+227300##Euro Truck Simulator 2##10966
+240##Counter-Strike: Source##6636
+12210##Grand Theft Auto IV: The Complete Edition##5692
+450540##Hot Dogs, Horseshoes & Hand Grenades##4897
+730##Counter-Strike: Global Offensive##4228
+1174180##Red Dead Redemption 2##3849
+621060##PC Building Simulator##3589
+377160##Fallout 4##2525
+9930##Test Drive Unlimited 2##2315
+1042550##Digimon Story Cyber Sleuth: Complete Edition##2238
+24960##Battlefield: Bad Company™ 2##1954
+218620##PAYDAY 2##1769
+787860##Farming Simulator 19##1769
+477770##Ride 2##1761
+221100##DayZ##1749
+295110##Just Survive##1588
+1190460##DEATH STRANDING##1422
+759740##RIDE 3##1370
+220240##Far Cry® 3##1341
+444090##Paladins##1322
+513710##SCUM##1272
+581320##Insurgency: Sandstorm##1235
+1259980##RIDE 4##1098
+22380##Fallout: New Vegas##1095
+1091500##Cyberpunk 2077##995
+201810##Wolfenstein: The New Order##897
+413150##Stardew Valley##854
+613100##House Flipper##804
+270880##American Truck Simulator##759
+550##Left 4 Dead 2##739
+108800##Crysis 2 Maximum Edition##724
+1286350##BPM: BULLETS PER MINUTE##703
+20510##S.T.A.L.K.E.R.: Clear Sky##674
+238090##Sniper Elite 3##630
+238430##Contagion##598
+1030840##Mafia: Definitive Edition##590
+22370##Fallout 3 - Game of the Year Edition##574
+221040##Resident Evil 6##566
+611500##Quake Champions##566
+778700##Amorous##546
+43110##Metro 2033##532
+203140##Hitman: Absolution##503
+365590##Tom Clancy's The Division##502
+250900##The Binding of Isaac: Rebirth##449
+704270##Generation Zero®##442
+883710##Resident Evil 2##437
+306130##The Elder Scrolls Online##432
+246900##Viscera Cleanup Detail##429
+8870##BioShock Infinite##409
+239030##Papers, Please##404
+996580##Spyro™ Reignited Trilogy##404
+17300##Crysis##382
+91310##Dead Island##379
+755790##Ring of Elysium##361
+690790##DiRT Rally 2.0##343
+384180##Prominence Poker##341
+287290##Resident Evil Revelations 2##329
+255220##GRID Autosport##327
+203160##Tomb Raider##313
+378860##Project CARS 2##289
+620##Portal 2##288
+500##Left 4 Dead##284
+219150##Hotline Miami##262
+240600##MotoGP™13##258
+204100##Max Payne 3##253
+914800##Coffee Talk##237
+221910##The Stanley Parable##220
+496240##Onward##216
+233720##Surgeon Simulator##208
+232430##Gone Home##203
+21730##CSI: Hard Evidence##186
+17330##Crysis Warhead##184
+1085660##Destiny 2##182
+12120##Grand Theft Auto: San Andreas##170
+346110##ARK: Survival Evolved##161
+359550##Tom Clancy's Rainbow Six Siege##156
+493490##City Car Driving##140
+113200##The Binding of Isaac##136
+1167630##Teardown##121
+110800##L.A. Noire##118
+645630##Car Mechanic Simulator 2018##118
+265550##Dead Rising 3##116
+368360##60 Seconds!##114
+244210##Assetto Corsa##102
+327890##I am Bread##102
+1003890##Blacksad##100
+12750##GRID##93
+530700##Argo##88
+304240##Resident Evil##75
+292030##The Witcher 3: Wild Hunt##74
+44320##DiRT 3##71
+431960##Wallpaper Engine##71
+211420##DARK SOULS™: Prepare To Die Edition##69
+10220##Postal 3##62
+8850##BioShock 2##61
+291480##Warface##60
+219890##Antichamber##58
+262410##World of Guns: Gun Disassembly##57
+304930##Unturned##57
+239160##Thief##49
+956680##M.A.S.S. Builder##49
+285160##LEGO® The Hobbit™##46
+582500##We Were Here##44
+201700##DiRT Showdown##43
+570840##Nekojishi##43
+222480##Resident Evil Revelations##41
+961440##Resident Evil 2 "1-Shot Demo"##41
+220050##The Walking Dead™: Survival Instinct##28
+253770##Bus-Simulator 2012##28
+893680##Project Warlock##28
+1292910##Accident: The Pilot##28
+223850##3DMark##26
+238280##Legend of Dungeon##26
+267530##The LEGO® Movie - Videogame##26
+274170##Hotline Miami 2: Wrong Number##24
+457550##Bigscreen Beta##24
+489830##The Elder Scrolls V: Skyrim Special Edition##23
+255520##Viscera Cleanup Detail: Shadow Warrior##22
+202170##Sleeping Dogs™##20
+958260##DEAD OR ALIVE Xtreme Venus Vacation##20
+200710##Torchlight II##18
+24010##Train Simulator##18
+265210##Viscera Cleanup Detail: Santa's Rampage##17
+537180##Digimon Masters Online##17
+219800##Pro Cycling Manager 2013##16
+248610##Door Kickers##16
+241540##State of Decay##10
+250340##Blockland##9
+571880##Angels with Scaly Wings##7
+768100##GizmoVR Video Player##7
+12170##Grand Theft Auto##5
+17470##Dead Space##5
+270850##Car Mechanic Simulator 2014##5
+298260##Only If##4
+310370##The Way of Life Free Edition##4
+320##Half-Life 2: Deathmatch##3
+47780##Dead Space 2##2
+321040##DiRT 3 Complete Edition##1
+341190##Hotline Miami 2: Wrong Number Digital Comic##1
+365720##Skyrim Script Extender (SKSE)##1
+236110##Dungeon Defenders II##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+400##Portal##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12180##Grand Theft Auto 2##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+21130##LEGO® Harry Potter: Years 1-4##0
+204120##LEGO® Harry Potter: Years 5-7##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+17340##Crysis Wars##0
+205930##Hitman: Sniper Challenge##0
+17460##Mass Effect##0
+24980##Mass Effect 2##0
+214510##LEGO® The Lord of the Rings™##0
+253710##theHunter Classic##0
+44350##GRID 2##0
+12840##DiRT 2##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+289650##Assassin's Creed Unity##0
+407530##ARK: Survival Of The Fittest##0
+1012880##60 Seconds! Reatomized##0
+596350##Paladins - Public Test##0
+524440##Tom Clancy's The Division PTS##0
+531770##On bike Nurburgring Experience##0
+686200##Door Kickers: Action Squad##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+325180##AppGameKit Classic##0
+1289310##Helltaker##0
+@@REVIEW
+1259980##Recommended
+1030840##Recommended
+1012790##Not Recommended
+1190460##Recommended
+738530##Not Recommended
+582010##Recommended
+956680##Recommended

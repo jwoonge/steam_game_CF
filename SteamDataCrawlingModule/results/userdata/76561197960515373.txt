@@ -1,0 +1,152 @@
+@@GAME
+18500##Defense Grid: The Awakening##18176
+9420##Supreme Commander: Forged Alliance##12398
+15620##Warhammer 40,000: Dawn of War II##12391
+403190##Planetbase##10485
+220260##Farming Simulator 2013##8311
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##8257
+221540##Defense Grid 2##7868
+464920##Surviving Mars##7648
+4000##Garry's Mod##6950
+212680##FTL: Faster Than Light##6072
+250820##SteamVR##5686
+10500##Total War: EMPIRE - Definitive Edition##5172
+500##Left 4 Dead##5112
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##5019
+787860##Farming Simulator 19##4696
+644930##They Are Billions##4087
+227300##Euro Truck Simulator 2##3610
+264710##Subnautica##2936
+56400##Warhammer 40,000: Dawn of War II - Retribution##2820
+263280##Spintires®##2666
+816090##Space Hulk: Deathwing - Enhanced Edition##2337
+223750##DCS World Steam Edition##2311
+40100##Supreme Commander 2##2281
+220200##Kerbal Space Program##2130
+637090##BATTLETECH##2112
+44310##F1 2010™##1989
+33930##Arma 2: Operation Arrowhead##1661
+6420##Nexus: The Jupiter Incident##1547
+364360##Total War: WARHAMMER##1547
+281610##Homeworld: Deserts of Kharak##1406
+15200##Silent Hunter: Wolves of the Pacific##1325
+440##Team Fortress 2##1247
+10180##Call of Duty: Modern Warfare 2##1234
+8600##RACE 07##1167
+307960##IL-2 Sturmovik: Battle of Stalingrad##1107
+550##Left 4 Dead 2##1077
+546560##Half-Life: Alyx##1059
+9350##Supreme Commander##1039
+533780##Zombie Defense##1024
+251570##7 Days to Die##949
+34330##Total War: SHOGUN 2##946
+234630##Project CARS##908
+512470##The Pirate: Caribbean Hunt##855
+275850##No Man's Sky##832
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##823
+228200##Company of Heroes ##788
+12840##DiRT 2##769
+302670##Call to Arms##730
+201760##Cities XL 2012##707
+208600##Lunar Flight##695
+12830##Operation Flashpoint: Dragon Rising##670
+393380##Squad##669
+331500##Executive Assault##659
+9450##Warhammer 40,000: Dawn of War - Soulstorm##650
+12750##GRID##602
+620##Portal 2##567
+40950##Stronghold HD##548
+240##Counter-Strike: Source##520
+98300##Toy Soldiers##483
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##458
+33910##Arma 2##389
+9340##Company of Heroes: Opposing Fronts##359
+378860##Project CARS 2##352
+220##Half-Life 2##333
+285190##Warhammer 40,000: Dawn of War III##314
+630##Alien Swarm##260
+41800##Gratuitous Space Battles##249
+244160##Homeworld Remastered Collection##246
+9460##Frontlines: Fuel of War##242
+232890##Stronghold Crusader 2##218
+252950##Rocket League##197
+400##Portal##176
+43110##Metro 2033##154
+20540##Company of Heroes: Tales of Valor##150
+254840##Ground Control II##141
+386070##Planetary Annihilation: TITANS##129
+214950##Total War: ROME II - Emperor Edition##125
+527100##Star Trek: Bridge Crew##121
+344840##Gratuitous Space Battles 2##108
+20500##Red Faction: Guerrilla Steam Edition##99
+420##Half-Life 2: Episode Two##94
+220240##Far Cry® 3##88
+11440##DiRT##87
+4560##Company of Heroes - Legacy Edition##84
+380##Half-Life 2: Episode One##78
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##70
+233450##Prison Architect##67
+7670##BioShock##66
+10##Counter-Strike##65
+340##Half-Life 2: Lost Coast##59
+12800##FUEL##58
+1500##Darwinia##56
+98200##Frozen Synapse##47
+9480##Saints Row 2##42
+280##Half-Life: Source##40
+312860##Defense Grid 2: A Matter of Endurance##31
+271290##HAWKEN##30
+100##Counter-Strike: Condition Zero Deleted Scenes##29
+3483##Peggle Extreme##26
+80##Counter-Strike: Condition Zero##22
+208500##F1 2012##22
+6870##Battlestations: Midway##20
+20##Team Fortress Classic##16
+11500##ToCA Race Driver 3##15
+218620##PAYDAY 2##13
+360950##Descent: Underground##12
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##4
+9310##Warhammer 40,000: Dawn of War - Winter Assault##3
+1530##Multiwinia##3
+65700##Arma 2: British Armed Forces##2
+254820##Ground Control Anthology##2
+130##Half-Life: Blue Shift##1
+225200##Farming Simulator 2013 - Modding Tutorials##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+3230##Genesis Rising##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+4520##Full Spectrum Warrior##0
+4530##Full Spectrum Warrior: Ten Hammers##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+9400##Juiced 2: Hot Import Nights##0
+20530##Red Faction##0
+20550##Red Faction II##0
+43100##World of Zoo##0
+475150##Titan Quest Anniversary Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+1510##Uplink##0
+1520##DEFCON##0
+24400##King Arthur - The Role-playing Wargame##0
+107800##Rochard##0
+367690##Spintires® - Editor##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+273110##Counter-Strike Nexon: Studio##0
+65720##Arma 2: Private Military Company##0
+224580##Arma 2: DayZ Mod##0
+310510##Deathtrap##0
+17580##Dystopia##0
+774941##Squad - Public Testing##0
+208140##Endless Space##0
+298900##Space Hulk: Deathwing##0
+@@REVIEW
+9420##Recommended

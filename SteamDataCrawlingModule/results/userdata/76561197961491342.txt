@@ -1,0 +1,47 @@
+@@GAME
+730##Counter-Strike: Global Offensive##177150
+10##Counter-Strike##79945
+433850##Z1 Battle Royale##29425
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##11133
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##7879
+996470##eFootball PES 2020##6904
+271590##Grand Theft Auto V##4553
+252490##Rust##3554
+227300##Euro Truck Simulator 2##2140
+346110##ARK: Survival Evolved##1941
+8500##EVE Online##1874
+295110##Just Survive##1840
+392160##X4: Foundations##1781
+1066780##Transport Fever 2##1763
+261550##Mount & Blade II: Bannerlord##1749
+380600##Fishing Planet##1613
+230410##Warframe##1597
+221100##DayZ##1541
+945360##Among Us##1401
+1250410##Microsoft Flight Simulator##1052
+442080##Riders of Icarus##1030
+300##Day of Defeat: Source##986
+223750##DCS World Steam Edition##547
+1072500##AO Tennis 2##523
+1091500##Cyberpunk 2077##462
+1129580##Medieval Dynasty##445
+489940##BATTALION 1944##305
+440##Team Fortress 2##141
+570##Dota 2##128
+238260##Pinball Arcade##117
+439700##H1Z1: Test Server##68
+17510##Age of Chivalry##60
+10180##Call of Duty: Modern Warfare 2##24
+466910##Worm.is: The Game##5
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+407530##ARK: Survival Of The Fittest##0
+@@REVIEW

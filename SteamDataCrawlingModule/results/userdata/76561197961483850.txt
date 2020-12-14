@@ -1,0 +1,42 @@
+@@GAME
+730##Counter-Strike: Global Offensive##59120
+681660##Bless Online##55622
+903950##Last Oasis##28355
+10##Counter-Strike##26941
+252950##Rocket League##15637
+238960##Path of Exile##12127
+433850##Z1 Battle Royale##7439
+582660##Black Desert Online##3434
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2245
+291550##Brawlhalla##1096
+418370##Resident Evil 7 Biohazard##765
+444090##Paladins##534
+440##Team Fortress 2##429
+30##Day of Defeat##386
+489830##The Elder Scrolls V: Skyrim Special Edition##268
+346110##ARK: Survival Evolved##153
+500##Left 4 Dead##126
+268850##EVGA Precision X1##78
+611500##Quake Champions##20
+550650##Black Squad##18
+570##Dota 2##8
+60##Ricochet##3
+824270##KovaaK 2.0##3
+20##Team Fortress Classic##2
+439700##H1Z1: Test Server##1
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+407530##ARK: Survival Of The Fittest##0
+326460##ShellShock Live##0
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##0
+431240##Golf With Your Friends##0
+596350##Paladins - Public Test##0
+743650##Quake Champions PTS##0
+1091500##Cyberpunk 2077##0
+1284410##GWENT: The Witcher Card Game##0
+@@REVIEW

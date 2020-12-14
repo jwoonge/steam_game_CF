@@ -1,0 +1,50 @@
+@@GAME
+730##Counter-Strike: Global Offensive##185572
+570##Dota 2##140915
+240##Counter-Strike: Source##137133
+10##Counter-Strike##135464
+220##Half-Life 2##44951
+70##Half-Life##44034
+300##Day of Defeat: Source##32326
+265630##Fistful of Frags##32281
+420##Half-Life 2: Episode Two##32280
+317250##Airscape: The Fall of Gravity##32262
+380##Half-Life 2: Episode One##32224
+440760##Cube Destroyer##32174
+349500##Cubicle Quest##32166
+80##Counter-Strike: Condition Zero##32154
+100##Counter-Strike: Condition Zero Deleted Scenes##32146
+416080##God Game : The Odyssey##32110
+30##Day of Defeat##32106
+40##Deathmatch Classic##32090
+340##Half-Life 2: Lost Coast##32006
+320##Half-Life 2: Deathmatch##32002
+360##Half-Life Deathmatch: Source##31970
+130##Half-Life: Blue Shift##31962
+50##Half-Life: Opposing Force##31954
+620##Portal 2##13308
+550##Left 4 Dead 2##12710
+500##Left 4 Dead##10435
+400##Portal##9628
+433850##Z1 Battle Royale##1495
+282440##Quake Live##638
+218620##PAYDAY 2##312
+526740##hack_me##311
+588430##Fallout Shelter##255
+268540##The Whispered World Special Edition##205
+219640##Chivalry: Medieval Warfare##181
+602890##hack_me 2##165
+444090##Paladins##117
+360380##Tiny Bridge: Ratventure##75
+380020##Three Heroes##75
+406210##Over the Dream##75
+429700##Squirbs##75
+357290##Red Lake##52
+509220##Save Jesus##52
+20##Team Fortress Classic##0
+60##Ricochet##0
+280##Half-Life: Source##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+@@REVIEW
+730##Recommended

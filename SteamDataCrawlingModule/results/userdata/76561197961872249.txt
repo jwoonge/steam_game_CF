@@ -1,0 +1,39 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+3920##Sid Meier's Pirates!##0
+34270##SEGA Mega Drive & Genesis Classics##0
+50300##Spec Ops: The Line##0
+67370##The Darkness II##0
+308060##Black The Fall##0
+730##Counter-Strike: Global Offensive##0
+382630##Austin High##0
+406850##Crush Your Enemies##0
+421740##Goetia##0
+434660##Octahedron: Transfixed Edition##0
+436290##Children of Zodiarcs##0
+458920##Carnival Games® VR##0
+489940##BATTALION 1944##0
+499520##The Turing Test##0
+508900##Zup! X##0
+512250##Oh...Sir! The Insult Simulator##0
+522740##Oh My Godheads##0
+542050##Forgotton Anne##0
+546900##Fear Effect Sedna##0
+614090##Deadbeat Heroes##0
+627690##Idle Champions of the Forgotten Realms##0
+687260##Tokyo Dark##0
+690080##Deadly Traps##0
+813780##Age of Empires II: Definitive Edition##0
+840930##Bing Bong XL##0
+324510##Boundless##0
+622720##Weedcraft Inc##0
+1222670##The Sims™ 4##0
+@@REVIEW
+627690##Recommended

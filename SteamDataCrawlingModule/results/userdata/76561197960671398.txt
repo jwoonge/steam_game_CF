@@ -1,0 +1,159 @@
+@@GAME
+238960##Path of Exile##51481
+365590##Tom Clancy's The Division##37625
+224600##Defiance##7355
+306130##The Elder Scrolls Online##7352
+262060##Darkest Dungeon®##5082
+377160##Fallout 4##4261
+243870##Tom Clancy's Ghost Recon Phantoms - NA##3655
+431960##Wallpaper Engine##3165
+292030##The Witcher 3: Wild Hunt##2850
+252490##Rust##2512
+730##Counter-Strike: Global Offensive##1872
+305620##The Long Dark##1655
+218230##PlanetSide 2##1623
+8930##Sid Meier's Civilization V##1515
+550##Left 4 Dead 2##1419
+440##Team Fortress 2##1379
+205100##Dishonored##1048
+444090##Paladins##988
+206420##Saints Row IV##931
+524440##Tom Clancy's The Division PTS##863
+200710##Torchlight II##857
+8870##BioShock Infinite##750
+226320##Marvel Heroes Omega##741
+287450##Rise of Nations: Extended Edition##693
+606150##Moonlighter##634
+109600##Neverwinter##624
+49520##Borderlands 2##612
+760060##Mutant Year Zero: Road to Eden##609
+230410##Warframe##588
+570##Dota 2##498
+268500##XCOM 2##496
+929010##Swag and Sorcery##489
+383870##Firewatch##384
+588430##Fallout Shelter##313
+261640##Borderlands: The Pre-Sequel##282
+208090##Loadout##276
+22380##Fallout: New Vegas##270
+794260##Outward##215
+102500##Kingdoms of Amalur: Reckoning™##190
+105600##Terraria##180
+322330##Don't Starve Together##178
+220240##Far Cry® 3##173
+221100##DayZ##169
+620##Portal 2##152
+212680##FTL: Faster Than Light##152
+204100##Max Payne 3##124
+388410##Darksiders II Deathinitive Edition##122
+373420##Divinity: Original Sin Enhanced Edition##116
+526160##The Wild Eight##114
+241540##State of Decay##107
+606140##Survived By##107
+277430##Halo: Spartan Assault##99
+245280##ENSLAVED™: Odyssey to the West™ Premium Edition##95
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##81
+221380##Age of Empires II (2013)##79
+286690##Metro 2033 Redux##75
+8190##Just Cause 2##71
+235540##Warhammer: End Times - Vermintide##54
+319630##Life is Strange™##46
+466560##Northgard##44
+250400##How to Survive##43
+244160##Homeworld Remastered Collection##42
+560130##Pillars of Eternity II: Deadfire##39
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##37
+239140##Dying Light##35
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##34
+218620##PAYDAY 2##32
+346110##ARK: Survival Evolved##29
+251570##7 Days to Die##28
+240##Counter-Strike: Source##27
+301520##Robocraft##27
+6880##Just Cause##24
+745920##Temtem##21
+282210##Sid Meier's Starships##20
+234650##Shadowrun Returns##19
+242920##Banished##17
+108600##Project Zomboid##16
+227700##Firefall##15
+590380##Into the Breach##15
+304930##Unturned##14
+38410##Fallout 2##12
+462780##Darksiders Warmastered Edition##10
+627690##Idle Champions of the Forgotten Realms##8
+1151340##Fallout 76##8
+239350##Spelunky##7
+400430##The Vanishing of Ethan Carter Redux##7
+65980##Sid Meier's Civilization: Beyond Earth##7
+272470##The Incredible Adventures of Van Helsing II##3
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+207610##The Walking Dead##0
+200260##Batman: Arkham City GOTY##0
+1083500##PlanetSide 2 - Test##0
+225080##Brothers - A Tale of Two Sons##0
+700580##Rust - Staging Branch##0
+260230##Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™##0
+261030##The Walking Dead: Season Two##0
+238430##Contagion##0
+105450##Age of Empires® III (2007)##0
+213670##South Park™: The Stick of Truth™##0
+290930##Half-Life 2: Update##0
+256290##Child of Light##0
+287390##Metro: Last Light Redux##0
+316790##Grim Fandango Remastered##0
+258520##The Vanishing of Ethan Carter##0
+241930##Middle-earth™: Shadow of Mordor™##0
+324570##Halo: Spartan Strike##0
+282070##This War of Mine##0
+407530##ARK: Survival Of The Fittest##0
+6000##STAR WARS™ Republic Commando##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+32350##STAR WARS™ Starfighter™##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+32420##STAR WARS™: The Clone Wars - Republic Heroes™##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+230230##Divinity: Original Sin (Classic)##0
+374570##Kung Fury##0
+50620##Darksiders##0
+596350##Paladins - Public Test##0
+882100##XCOM: Chimera Squad##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+231430##Company of Heroes 2##0
+226840##Age of Wonders III##0
+38400##Fallout##0
+38420##Fallout Tactics##0
+34330##Total War: SHOGUN 2##0
+@@REVIEW
+238960##Recommended
+305620##Recommended
+365590##Not Recommended
+22380##Not Recommended
+295110##Not Recommended

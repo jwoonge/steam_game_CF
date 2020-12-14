@@ -1,0 +1,169 @@
+@@GAME
+4000##Garry's Mod##143432
+730##Counter-Strike: Global Offensive##82026
+359550##Tom Clancy's Rainbow Six Siege##22877
+10##Counter-Strike##11352
+304930##Unturned##9199
+433850##Z1 Battle Royale##7695
+250820##SteamVR##6366
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##5218
+640150##Tale of Toast##4765
+218620##PAYDAY 2##3610
+570##Dota 2##3124
+304030##ArcheAge##2849
+440##Team Fortress 2##2712
+403120##THE GAME OF LIFE ##2364
+221100##DayZ##2277
+72850##The Elder Scrolls V: Skyrim##2268
+264710##Subnautica##2083
+221380##Age of Empires II (2013)##1971
+755790##Ring of Elysium##1773
+8930##Sid Meier's Civilization V##1560
+304390##For Honor##1357
+105600##Terraria##1350
+295110##Just Survive##1311
+289650##Assassin's Creed Unity##1280
+212680##FTL: Faster Than Light##1182
+252490##Rust##1156
+22380##Fallout: New Vegas##1145
+812140##Assassin's Creed Odyssey##1031
+9900##Star Trek Online##973
+218230##PlanetSide 2##914
+489830##The Elder Scrolls V: Skyrim Special Edition##865
+268850##EVGA Precision X1##850
+105450##Age of Empires® III (2007)##832
+70##Half-Life##812
+220440##DmC Devil May Cry##779
+444090##Paladins##770
+546560##Half-Life: Alyx##753
+313120##Stranded Deep##743
+49520##Borderlands 2##651
+1151340##Fallout 76##543
+555160##Pavlov VR##539
+391220##Rise of the Tomb Raider##524
+365670##Blender##513
+42700##Call of Duty: Black Ops##481
+243870##Tom Clancy's Ghost Recon Phantoms - NA##468
+203160##Tomb Raider##468
+750920##Shadow of the Tomb Raider##463
+17570##Pirates, Vikings, & Knights II##454
+6060##Star Wars: Battlefront 2 (Classic, 2005)##452
+945360##Among Us##429
+240##Counter-Strike: Source##373
+813820##Realm Royale##365
+109600##Neverwinter##345
+230410##Warframe##345
+253710##theHunter Classic##322
+714010##Aim Lab##286
+1172380##STAR WARS Jedi: Fallen Order™ ##280
+550##Left 4 Dead 2##249
+291550##Brawlhalla##232
+434570##Blood and Bacon##224
+1091500##Cyberpunk 2077##209
+883710##Resident Evil 2##206
+544920##Darwin Project##198
+247730##Nether##197
+304050##Trove##197
+223470##POSTAL 2##194
+582660##Black Desert Online##194
+223710##Cry of Fear##186
+130##Half-Life: Blue Shift##184
+431240##Golf With Your Friends##180
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##153
+248570##Toribash##132
+306130##The Elder Scrolls Online##109
+413680##Statues##107
+700330##SCP: Secret Laboratory##105
+50##Half-Life: Opposing Force##101
+30##Day of Defeat##95
+506540##Last Man Standing##85
+244770##StarMade##79
+292030##The Witcher 3: Wild Hunt##75
+224260##No More Room in Hell##72
+227940##Heroes & Generals##72
+667530##Drunken Wrestlers 2##69
+20900##The Witcher: Enhanced Edition##64
+552990##World of Warships##64
+630##Alien Swarm##62
+738060##Freddy Fazbear's Pizzeria Simulator##61
+379720##DOOM##57
+698780##Doki Doki Literature Club##45
+201230##EverQuest II##43
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##40
+833090##Swords of Gurrah##40
+501760##Francisca##39
+799960##Wizard101##38
+220##Half-Life 2##36
+589870##Learn to Fly 3##36
+212500##The Lord of the Rings Online™##32
+286160##Tabletop Simulator##29
+310560##DiRT Rally##27
+390670##Steel Ocean##27
+363970##Clicker Heroes##25
+42710##Call of Duty: Black Ops - Multiplayer##24
+291480##Warface##24
+227240##Construct 2 Free##23
+1128810##RISK: Global Domination##21
+38830##CrimeCraft GangWars##19
+60##Ricochet##18
+285160##LEGO® The Hobbit™##16
+355840##Survarium##16
+316010##Magic Duels##13
+439700##H1Z1: Test Server##12
+337950##The SKIES##10
+317360##Double Action: Boogaloo##9
+416590##Emily Wants To Play##9
+55150##Warhammer 40,000: Space Marine##8
+236110##Dungeon Defenders II##8
+588430##Fallout Shelter##8
+225840##Sven Co-op##7
+474010##The NADI Project##6
+40##Deathmatch Classic##2
+22370##Fallout 3 - Game of the Year Edition##2
+404790##Godot Engine##2
+20##Team Fortress Classic##1
+47410##Stronghold Kingdoms##1
+202090##Magicka: Wizard Wars##1
+301520##Robocraft##1
+39120##RIFT##1
+365720##Skyrim Script Extender (SKSE)##1
+366530##Esenthel Engine##1
+407530##ARK: Survival Of The Fittest##1
+340##Half-Life 2: Lost Coast##0
+112100##Avadon: The Black Fortress##0
+7510##X-Blades##0
+57690##Tropico 4##0
+1930##Two Worlds: Epic Edition##0
+113400##APB Reloaded##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+226840##Age of Wonders III##0
+268400##Panzer Corps##0
+268870##Satellite Reign##0
+286200##ReignMaker##0
+362300##Just Survive Test Server##0
+224600##Defiance##0
+205790##Dota 2 Test##0
+319730##Granado Espada##0
+327310##The Marvellous Miss Take##0
+261640##Borderlands: The Pre-Sequel##0
+333930##Dirty Bomb##0
+338540##Navy Field 2 : Conqueror of the Ocean##0
+316390##Anomaly Zone##0
+371140##Aegis Defenders##0
+400510##FINAL TAKE##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+435790##10 Second Ninja X##0
+596350##Paladins - Public Test##0
+457210##SEUM: Speedrunners from Hell##0
+550650##Black Squad##0
+208140##Endless Space##0
+673070##The Ranger: Lost Tribe##0
+215280##Secret World Legends##0
+700580##Rust - Staging Branch##0
+878760##Realm Royale - Test Server##0
+654310##For Honor - Public Test##0
+1085660##Destiny 2##0
+@@REVIEW
+304930##Recommended
+730##Recommended

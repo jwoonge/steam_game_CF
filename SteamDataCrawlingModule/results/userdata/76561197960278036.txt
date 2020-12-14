@@ -1,0 +1,68 @@
+@@GAME
+730##Counter-Strike: Global Offensive##66061
+240##Counter-Strike: Source##49256
+570##Dota 2##7003
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##1265
+41000##Serious Sam HD: The First Encounter##578
+10##Counter-Strike##489
+24960##Battlefield: Bad Company™ 2##353
+10180##Call of Duty: Modern Warfare 2##314
+440##Team Fortress 2##274
+28050##Deus Ex: Human Revolution##226
+218620##PAYDAY 2##119
+47790##Medal of Honor(TM) Single Player##114
+50510##Burn Zombie Burn##73
+302830##BLOCKADE 3D##71
+4000##Garry's Mod##63
+47830##Medal of Honor(TM) Multiplayer##33
+22350##BRINK##33
+80##Counter-Strike: Condition Zero##29
+70300##VVVVVV##4
+298240##War Trigger 3##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+12120##Grand Theft Auto: San Andreas##0
+12250##Grand Theft Auto: San Andreas##0
+564310##Serious Sam Fusion 2017 (beta)##0
+43110##Metro 2033##0
+42120##Lead and Gold - Gangs of the Wild West##0
+45740##Dead Rising 2##0
+26800##Braid##0
+29180##Osmos##0
+40700##Machinarium##0
+93200##Revenge of the Titans##0
+400##Portal##0
+92000##Hydrophobia: Prophecy##0
+22650##Alien Breed 2: Assault##0
+18700##And Yet It Moves##0
+26500##Cogs##0
+26900##Crayon Physics Deluxe##0
+41100##Hammerfight##0
+55040##Atom Zombie Smasher ##0
+96200##Steel Storm: Burning Retribution##0
+205790##Dota 2 Test##0
+99900##Spiral Knights##0
+200210##Realm of the Mad God Exalt##0
+254060##KnightShift##0
+266210##One Way Heroics##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+347560##Terra Incognita ~ Chapter One: The Descendant##0
+383330##Star Chronicles: Delta Quadrant##0
+718330##Cubic##0
+@@REVIEW
+47790##Recommended
+24960##Not Recommended
+10180##Recommended
+240##Recommended
+730##Recommended
+570##Recommended

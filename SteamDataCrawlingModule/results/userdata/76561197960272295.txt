@@ -1,0 +1,328 @@
+@@GAME
+211##Source SDK##18258
+397730##Rescue Love Revenge##9830
+550##Left 4 Dead 2##9613
+255710##Cities: Skylines##9611
+240##Counter-Strike: Source##7015
+730##Counter-Strike: Global Offensive##5569
+4000##Garry's Mod##2090
+253530##Fortress Forever##1762
+620##Portal 2##1621
+271590##Grand Theft Auto V##1274
+250820##SteamVR##1171
+500##Left 4 Dead##1094
+4920##Natural Selection 2##1014
+446620##Zombie Training Simulator##1014
+264710##Subnautica##860
+214560##Mark of the Ninja##789
+233450##Prison Architect##654
+440##Team Fortress 2##597
+327140##Tilt Brush##566
+346010##Besiege##447
+453170##Destinations##434
+219890##Antichamber##401
+8980##Borderlands GOTY##345
+63200##Monday Night Combat##334
+4560##Company of Heroes - Legacy Edition##333
+24960##Battlefield: Bad Company™ 2##299
+431960##Wallpaper Engine##296
+12210##Grand Theft Auto IV: The Complete Edition##285
+348250##Google Earth VR##267
+218620##PAYDAY 2##235
+322500##SUPERHOT##221
+518790##theHunter: Call of the Wild™##202
+24240##PAYDAY: The Heist##201
+503580##Duck Season##181
+213670##South Park™: The Stick of Truth™##166
+207080##Indie Game: The Movie##147
+12900##Audiosurf##144
+271920##Worlds Adrift Island Creator##137
+1840##Source Filmmaker##135
+303210##The Beginner's Guide##129
+219150##Hotline Miami##128
+203140##Hitman: Absolution##124
+35700##Trine##118
+427520##Factorio##109
+205730##Insanely Twisted Shadow Planet##104
+546560##Half-Life: Alyx##103
+72200##Universe Sandbox Legacy##99
+203810##Dear Esther##91
+294100##RimWorld##91
+35460##The Ball##89
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##81
+242920##Banished##79
+630##Alien Swarm##78
+230050##DLC Quest##71
+24740##Burnout Paradise: The Ultimate Box##69
+40930##The Misadventures of P.B. Winterbottom##68
+554140##Desert Ride Coaster##68
+7940##Call of Duty 4: Modern Warfare##66
+15500##The Wonderful End of the World##66
+72850##The Elder Scrolls V: Skyrim##65
+231200##Kentucky Route Zero##60
+233720##Surgeon Simulator##58
+252490##Rust##55
+38720##RUSH##51
+446750##Portal Stories: VR##50
+548340##Abode##49
+204100##Max Payne 3##47
+1174180##Red Dead Redemption 2##46
+57300##Amnesia: The Dark Descent##44
+211400##Deadlight##43
+220200##Kerbal Space Program##43
+2500##Shadowgrounds##42
+221100##DayZ##42
+243470##Watch_Dogs##40
+460930##Tom Clancy's Ghost Recon® Wildlands##40
+223850##3DMark##40
+420##Half-Life 2: Episode Two##39
+524390##PCMark 10##38
+570##Dota 2##38
+10##Counter-Strike##37
+559010##Cosmic Sugar VR##37
+231160##The Swapper##35
+535270##Constricting Cubes##35
+38700##Toki Tori##33
+107100##Bastion##32
+221910##The Stanley Parable##31
+340##Half-Life 2: Lost Coast##30
+220##Half-Life 2##29
+18110##Shattered Horizon##29
+17710##Nuclear Dawn##29
+222880##Insurgency##29
+359550##Tom Clancy's Rainbow Six Siege##26
+28000##Kane & Lynch 2: Dog Days##21
+17300##Crysis##18
+63700##BIT.TRIP BEAT##18
+566150##Bowling at the Lake##18
+40800##Super Meat Boy##16
+26800##Braid##14
+312530##Duck Game##14
+1250##Killing Floor##11
+404790##Godot Engine##11
+550520##B. Braun Future Operating Room##10
+15540##1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)##8
+21640##FLOCK!##6
+32360##The Secret of Monkey Island: Special Edition##6
+15520##AaAaAA!!! - A Reckless Disregard for Gravity##6
+365670##Blender##6
+361300##Mother Russia Bleeds##6
+320##Half-Life 2: Deathmatch##4
+568690##Smash Party VR##4
+572000##President Erect VR##4
+48000##LIMBO##3
+8870##BioShock Infinite##3
+300##Day of Defeat: Source##2
+285900##Gang Beasts##2
+13210##Unreal Tournament 3: Black Edition##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+205790##Dota 2 Test##0
+583950##Artifact##0
+1046930##Dota Underlords##0
+1002##Rag Doll Kung Fu##0
+1500##Darwinia##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+1510##Uplink##0
+1520##DEFCON##0
+3830##Psychonauts##0
+4900##Zen of Sudoku##0
+3970##Prey##0
+3200##Painkiller: Gold Edition##0
+6300##Dreamfall: The Longest Journey##0
+6310##The Longest Journey##0
+7800##Stubbs the Zombie in Rebel Without a Pulse##0
+7900##The Movies##0
+7910##The Movies: Stunts and Effects##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+8080##Kane & Lynch: Dead Men##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12170##Grand Theft Auto##0
+12180##Grand Theft Auto 2##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+13200##Unreal II: The Awakening##0
+13230##Unreal Tournament 2004##0
+13240##Unreal Tournament: Game of the Year Edition##0
+13250##Unreal Gold##0
+15130##Beyond Good & Evil##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+18700##And Yet It Moves##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+3590##Plants vs. Zombies: Game of the Year##0
+29180##Osmos##0
+12830##Operation Flashpoint: Dragon Rising##0
+41500##Torchlight##0
+729040##Borderlands GOTY Enhanced##0
+18100##Shattered Horizon: Arconauts##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+43110##Metro 2033##0
+8190##Just Cause 2##0
+33900##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+42120##Lead and Gold - Gangs of the Wild West##0
+42500##DogFighter##0
+47870##Need for Speed: Hot Pursuit##0
+42910##Magicka##0
+55100##Homefront##0
+39120##RIFT##0
+18500##Defense Grid: The Awakening##0
+26500##Cogs##0
+13560##Tom Clancy's Splinter Cell##0
+13570##Tom Clancy's Splinter Cell: Chaos Theory##0
+13580##Tom Clancy's Splinter Cell: Double Agent##0
+33220##Tom Clancy's Splinter Cell: Conviction##0
+105600##Terraria##0
+40400##AI War: Fleet Command##0
+17470##Dead Space##0
+47780##Dead Space 2##0
+111800##Blocks That Matter##0
+8930##Sid Meier's Civilization V##0
+113200##The Binding of Isaac##0
+9200##RAGE##0
+110800##L.A. Noire##0
+520720##Dear Esther: Landmark Edition##0
+207610##The Walking Dead##0
+108800##Crysis 2 Maximum Edition##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+28050##Deus Ex: Human Revolution##0
+201280##Deus Ex: Human Revolution - The Missing Link##0
+91310##Dead Island##0
+21170##Gotham City Impostors##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+57400##Batman: Arkham City™##0
+200260##Batman: Arkham City GOTY##0
+206210##Gotham City Impostors: Free To Play##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+212680##FTL: Faster Than Light##0
+49520##Borderlands 2##0
+220860##McPixel##0
+220240##Far Cry® 3##0
+205930##Hitman: Sniper Challenge##0
+265630##Fistful of Frags##0
+253710##theHunter Classic##0
+113020##Monaco##0
+65930##The Bureau: XCOM Declassified##0
+35720##Trine 2##0
+237110##Mortal Kombat Komplete Edition##0
+246720##Wayward Manor##0
+239070##Hammerwatch##0
+248650##Draw a Stickman: EPIC##0
+248820##Risk of Rain##0
+238320##Outlast##0
+250110##Assault Android Cactus##0
+250620##Among the Sleep##0
+700580##Rust - Staging Branch##0
+236510##Takedown: Red Sabre##0
+274170##Hotline Miami 2: Wrong Number##0
+274190##Broforce##0
+280930##Battlepillars Gold Edition##0
+293780##Crawl##0
+238460##BattleBlock Theater##0
+301520##Robocraft##0
+304930##Unturned##0
+247080##Crypt of the NecroDancer##0
+314970##Age of Conquest IV##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+307690##Sleeping Dogs: Definitive Edition##0
+105450##Age of Empires® III (2007)##0
+221380##Age of Empires II (2013)##0
+266840##Age of Mythology: Extended Edition##0
+287450##Rise of Nations: Extended Edition##0
+333930##Dirty Bomb##0
+338810##Demise of Nations##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+346900##AdVenture Capitalist##0
+349480##Modular Combat##0
+265930##Goat Simulator##0
+290790##Grey Goo##0
+291550##Brawlhalla##0
+252950##Rocket League##0
+403180##Draw a Stickman: EPIC 2##0
+412740##Audioshield##0
+415530##Fly, Glowfly!##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+436340##Kiya##0
+436820##Waltz of the Wizard##0
+444860##Split##0
+444930##Zaccaria Pinball##0
+396030##InCell VR##0
+450390##The Lab##0
+450540##Hot Dogs, Horseshoes & Hand Grenades##0
+367450##Poly Bridge##0
+451980##The Body VR: Journey Inside a Cell##0
+456920##Gary the Gull##0
+457960##Holopoint##0
+464170##VRMark##0
+379720##DOOM##0
+471710##Rec Room##0
+478000##Qantas VR##0
+485610##Ball 3D: Soccer Online##0
+490230##SWARMRIDERS##0
+494150##The Thrill of the Fight##0
+503010##Azulgar: Star Commanders##0
+513820##LUXIS##0
+518580##Accounting##0
+529420##Crazy Sapper 3D##0
+531240##Max Stern##0
+541200##Get To The Orange Door##0
+547750##Endless Night - Alpha##0
+547960##Space Beret##0
+549920##VRchaeology: Prologue##0
+550040##Steep Open Beta##0
+550180##Fiber Twig: Midnight Puzzle##0
+270130##The Gallery - Episode 1: Call of the Starseed##0
+552770##Speech Trainer##0
+553590##Hot Squat##0
+555160##Pavlov VR##0
+556750##SourVR Video Player##0
+559920##Broken Blue##0
+560970##Fireworks Desert Blast##0
+561080##The Price of Freedom##0
+563560##Alien Swarm: Reactive Drop##0
+565030##Blueshift##0
+567090##8-Bit Bayonetta##0
+571890##ShapeLab##0
+620980##Beat Saber##0
+38400##Fallout##0
+739780##LVL99: AxeRage##0
+771310##Welcome to Light Fields##0
+537140##Nemesis Perspective##0
+797470##METAL GEAR SURVIVE BETA##0
+823500##BONEWORKS##0
+203770##Crusader Kings II##0
+844500##Draw a Stickman: EPIC 3##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+874040##Ministry of Broadcast##0
+231430##Company of Heroes 2##0
+@@REVIEW
+303210##Recommended
+730##Recommended

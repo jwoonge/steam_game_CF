@@ -1,0 +1,208 @@
+@@GAME
+359550##Tom Clancy's Rainbow Six Siege##82000
+252950##Rocket League##13370
+730##Counter-Strike: Global Offensive##12438
+271590##Grand Theft Auto V##11352
+4000##Garry's Mod##10711
+105600##Terraria##10594
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##8834
+223750##DCS World Steam Edition##6972
+252490##Rust##6650
+427520##Factorio##5586
+240##Counter-Strike: Source##5317
+8930##Sid Meier's Civilization V##5253
+629760##MORDHAU##4239
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##4142
+294100##RimWorld##4066
+220200##Kerbal Space Program##3949
+244850##Space Engineers##3558
+281990##Stellaris##3474
+1158310##Crusader Kings III##3080
+440##Team Fortress 2##3059
+220240##Far Cry® 3##2460
+739630##Phasmophobia##2438
+255710##Cities: Skylines##2417
+359320##Elite Dangerous##2413
+377160##Fallout 4##2228
+261550##Mount & Blade II: Bannerlord##2091
+413150##Stardew Valley##1968
+516750##My Summer Car##1905
+233450##Prison Architect##1823
+17520##Synergy##1657
+379430##Kingdom Come: Deliverance##1609
+264710##Subnautica##1562
+787860##Farming Simulator 19##1533
+212680##FTL: Faster Than Light##1370
+214490##Alien: Isolation##1340
+322330##Don't Starve Together##1301
+394360##Hearts of Iron IV##1295
+457140##Oxygen Not Included##1283
+72850##The Elder Scrolls V: Skyrim##1280
+57690##Tropico 4##1225
+225540##Just Cause 3##1194
+221380##Age of Empires II (2013)##986
+239160##Thief##962
+976730##Halo: The Master Chief Collection##888
+275850##No Man's Sky##860
+366090##Colony Survival##786
+386940##Ultimate Chicken Horse##779
+219740##Don't Starve##729
+2900##688(I) Hunter/Killer##716
+1091500##Cyberpunk 2077##712
+292030##The Witcher 3: Wild Hunt##680
+245470##Democracy 3##672
+400##Portal##596
+43160##Metro: Last Light##560
+220##Half-Life 2##552
+228380##Wreckfest##548
+8870##BioShock Infinite##545
+1097150##Fall Guys: Ultimate Knockout##427
+287450##Rise of Nations: Extended Edition##408
+22000##World of Goo##404
+252870##PULSAR: Lost Colony##361
+108800##Crysis 2 Maximum Edition##353
+346010##Besiege##352
+232910##TrackMania² Stadium##338
+1167630##Teardown##334
+327890##I am Bread##322
+67000##The Polynomial##305
+107410##Arma 3##282
+233720##Surgeon Simulator##282
+284160##BeamNG.drive##268
+304930##Unturned##267
+435150##Divinity: Original Sin 2##263
+201810##Wolfenstein: The New Order##247
+334230##Town of Salem##238
+657200##Hand Simulator##219
+362890##Black Mesa##202
+265930##Goat Simulator##198
+221910##The Stanley Parable##195
+218680##Scribblenauts Unlimited##184
+244210##Assetto Corsa##184
+738520##Breathedge##182
+945360##Among Us##178
+200170##Worms Revolution##177
+230270##N++##173
+236450##PAC-MAN Championship Edition DX+##168
+241600##Rogue Legacy##165
+251570##7 Days to Die##164
+240720##Getting Over It with Bennett Foddy##152
+420##Half-Life 2: Episode Two##148
+268130##Heat Signature##147
+341800##Keep Talking and Nobody Explodes##146
+880940##Pummel Party##144
+219890##Antichamber##142
+17300##Crysis##139
+881100##Noita##137
+380##Half-Life 2: Episode One##132
+24740##Burnout Paradise: The Ultimate Box##132
+311340##METAL GEAR SOLID V: GROUND ZEROES##130
+233840##Worms Clan Wars##116
+477160##Human: Fall Flat##115
+684580##Shoppe Keep 2##107
+43110##Metro 2033##104
+113020##Monaco##103
+233150##LUFTRAUSERS##98
+209080##Guns of Icarus Online##96
+584400##Sonic Mania##96
+690040##SUPERHOT: MIND CONTROL DELETE##94
+211##Source SDK##94
+322500##SUPERHOT##87
+340##Half-Life 2: Lost Coast##84
+526870##Satisfactory##79
+333640##Caves of Qud##73
+239070##Hammerwatch##70
+241410##CastleStorm##68
+8190##Just Cause 2##63
+274190##Broforce##59
+248820##Risk of Rain##55
+239350##Spelunky##55
+50##Half-Life: Opposing Force##54
+273350##Evolve Stage 2##53
+6060##Star Wars: Battlefront 2 (Classic, 2005)##50
+219150##Hotline Miami##50
+305620##The Long Dark##48
+360740##Downwell##42
+381210##Dead by Daylight##41
+12900##Audiosurf##38
+234190##Receiver##31
+409160##Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist##24
+17410##Mirror's Edge##21
+204300##Awesomenauts##20
+379720##DOOM##19
+47870##Need for Speed: Hot Pursuit##17
+113200##The Binding of Isaac##15
+274170##Hotline Miami 2: Wrong Number##15
+20##Team Fortress Classic##14
+250500##Super Amazing Wagon Adventure##12
+12120##Grand Theft Auto: San Andreas##10
+286160##Tabletop Simulator##9
+24800##Command and Conquer: Red Alert 3 - Uprising##8
+10##Counter-Strike##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+17390##Spore##0
+17470##Dead Space##0
+23490##Tropico 3 - Steam Special Edition##0
+70300##VVVVVV##0
+34270##SEGA Mega Drive & Genesis Classics##0
+40800##Super Meat Boy##0
+28050##Deus Ex: Human Revolution##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+219640##Chivalry: Medieval Warfare##0
+205790##Dota 2 Test##0
+221640##Super Hexagon##0
+218060##BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien##0
+206190##Gunpoint##0
+231160##The Swapper##0
+247020##Cook, Serve, Delicious!##0
+237630##DuckTales Remastered##0
+236850##Europa Universalis IV##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+700580##Rust - Staging Branch##0
+263460##Girls Like Robots##0
+25000##Overgrowth##0
+550##Left 4 Dead 2##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+224480##Octodad: Dadliest Catch##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+246620##Plague Inc: Evolved##0
+284240##Maize##0
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##0
+287980##Mini Metro##0
+289760##ROCKETSROCKETSROCKETS##0
+286690##Metro 2033 Redux##0
+287390##Metro: Last Light Redux##0
+314160##Microsoft Flight Simulator X: Steam Edition##0
+343710##KHOLAT##0
+12250##Grand Theft Auto: San Andreas##0
+253390##Hot Tin Roof: The Cat That Wore A Fedora##0
+270810##Jones On Fire##0
+365720##Skyrim Script Extender (SKSE)##0
+243970##Invisible, Inc.##0
+375820##Human Resource Machine##0
+388210##Day of the Tentacle Remastered##0
+397340##SimplePlanes##0
+210970##The Witness##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+446020##Jalopy##0
+465650##Out of the Park Baseball 18##0
+381120##Shoppe Keep##0
+48000##LIMBO##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+392110##Endless Space® 2 - Digital Deluxe Edition##0
+218620##PAYDAY 2##0
+38400##Fallout##0
+@@REVIEW
+244850##Recommended
+214490##Recommended
+228380##Recommended

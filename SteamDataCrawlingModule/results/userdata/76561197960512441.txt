@@ -1,0 +1,63 @@
+@@GAME
+730##Counter-Strike: Global Offensive##50277
+1080110##F1 2020##6066
+252950##Rocket League##3509
+928600##F1 2019##2328
+1097150##Fall Guys: Ultimate Knockout##1999
+391220##Rise of the Tomb Raider##822
+945360##Among Us##805
+1085660##Destiny 2##535
+444090##Paladins##431
+544920##Darwin Project##430
+310560##DiRT Rally##342
+227300##Euro Truck Simulator 2##320
+397900##Business Tour - Online Multiplayer Board Game##231
+331480##Pinstripe##142
+291550##Brawlhalla##106
+1128810##RISK: Global Domination##95
+246900##Viscera Cleanup Detail##92
+714210##Zula Online##78
+222880##Insurgency##77
+291480##Warface##75
+508900##Zup! X##58
+477160##Human: Fall Flat##56
+570##Dota 2##40
+969680##Steel Circus##28
+440##Team Fortress 2##27
+1046930##Dota Underlords##23
+438740##Friday the 13th: The Game##7
+20##Team Fortress Classic##3
+44360##F1 2011##2
+30##Day of Defeat##1
+40##Deathmatch Classic##1
+60##Ricochet##1
+550##Left 4 Dead 2##1
+491950##Orwell##1
+278360##A Story About My Uncle##1
+10##Counter-Strike##0
+50##Half-Life: Opposing Force##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+400##Portal##0
+620##Portal 2##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+265210##Viscera Cleanup Detail: Santa's Rampage##0
+596350##Paladins - Public Test##0
+208140##Endless Space##0
+615610##Orbt XL##0
+638000##When Ski Lifts Go Wrong ##0
+863550##HITMAN™ 2##0
+737800##F1 2018##0
+638070##Murderous Pursuits##0
+1172470##Apex Legends##0
+231430##Company of Heroes 2##0
+203160##Tomb Raider##0
+@@REVIEW
+945360##Recommended
+1097150##Recommended
+1080110##Recommended
+928600##Recommended
+252950##Recommended
+969680##Recommended
+477160##Recommended
+730##Recommended

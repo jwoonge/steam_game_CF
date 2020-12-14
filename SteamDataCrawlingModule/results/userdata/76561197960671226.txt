@@ -1,0 +1,23 @@
+@@GAME
+570##Dota 2##256153
+10##Counter-Strike##7888
+730##Counter-Strike: Global Offensive##4188
+30##Day of Defeat##2158
+444090##Paladins##1689
+209170##Call of Duty: Ghosts - Multiplayer##110
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##108
+300##Day of Defeat: Source##86
+440##Team Fortress 2##76
+611500##Quake Champions##40
+333930##Dirty Bomb##33
+209160##Call of Duty: Ghosts##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+282440##Quake Live##0
+596350##Paladins - Public Test##0
+@@REVIEW

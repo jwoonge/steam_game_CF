@@ -1,0 +1,60 @@
+@@GAME
+252490##Rust##54150
+730##Counter-Strike: Global Offensive##33338
+352400##LEGO® Jurassic World##17884
+387990##Scrap Mechanic##17236
+10##Counter-Strike##14002
+65270##Demolition Company Gold##4539
+252950##Rocket League##2164
+285310##RollerCoaster Tycoon: Deluxe##1364
+346110##ARK: Survival Evolved##1307
+346010##Besiege##1184
+285920##TerraTech##1087
+332310##LEGO® Worlds##1079
+445110##Tasty Planet: Back for Seconds##1006
+313120##Stranded Deep##859
+250340##Blockland##856
+4000##Garry's Mod##804
+271590##Grand Theft Auto V##535
+945360##Among Us##468
+3390##Feeding Frenzy 2: Shipwreck Showdown Deluxe##441
+367450##Poly Bridge##352
+242760##The Forest##344
+284160##BeamNG.drive##278
+289950##Construction-Simulator 2015##194
+376870##Minecraft: Story Mode - A Telltale Games Series##184
+291550##Brawlhalla##162
+884660##CRSED##142
+508440##Totally Accurate Battle Simulator##137
+359550##Tom Clancy's Rainbow Six Siege##132
+1097150##Fall Guys: Ultimate Knockout##124
+675010##MudRunner##118
+11020##TrackMania Nations Forever##110
+1085660##Destiny 2##99
+427730##Who's Your Daddy?!##82
+207210##Tony Hawk's Pro Skater HD##74
+17390##Spore##53
+233720##Surgeon Simulator##34
+263280##Spintires®##31
+431240##Golf With Your Friends##29
+859570##Secret Neighbor##29
+823130##Totally Accurate Battlegrounds##27
+105600##Terraria##20
+1106840##Hydroneer##20
+431960##Wallpaper Engine##19
+813820##Realm Royale##17
+304930##Unturned##14
+700580##Rust - Staging Branch##9
+407530##ARK: Survival Of The Fittest##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+367690##Spintires® - Editor##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+878760##Realm Royale - Test Server##0
+@@REVIEW
+730##Recommended

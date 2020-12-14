@@ -1,0 +1,107 @@
+@@GAME
+730##Counter-Strike: Global Offensive##256604
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##22409
+359550##Tom Clancy's Rainbow Six Siege##6994
+433850##Z1 Battle Royale##3326
+252490##Rust##3101
+755790##Ring of Elysium##2806
+905370##Conqueror's Blade##1604
+107410##Arma 3##1564
+218620##PAYDAY 2##943
+252950##Rocket League##757
+393380##Squad##622
+30##Day of Defeat##576
+518790##theHunter: Call of the Wild™##557
+436520##Line of Sight##543
+581320##Insurgency: Sandstorm##401
+996380##Smartphone Tycoon##362
+10180##Call of Duty: Modern Warfare 2##310
+10##Counter-Strike##273
+884660##CRSED##268
+665360##Comedy Night##256
+389280##Flight Sim World##252
+380600##Fishing Planet##232
+223850##3DMark##177
+300##Day of Defeat: Source##153
+1180380##Stay Out##148
+550650##Black Squad##115
+493490##City Car Driving##95
+440##Team Fortress 2##80
+809960##Radical Heights##79
+570##Dota 2##68
+291480##Warface##63
+552990##World of Warships##59
+223750##DCS World Steam Edition##50
+589290##Holdfast: Nations At War##50
+766570##Russian Fishing 4##45
+823130##Totally Accurate Battlegrounds##45
+506540##Last Man Standing##43
+939510##Pandemic Express - Zombie Escape##40
+530700##Argo##34
+813820##Realm Royale##34
+236390##War Thunder##33
+1250##Killing Floor##19
+418460##Rising Storm 2: Vietnam##16
+438100##VRChat##14
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##5
+444090##Paladins##5
+479130##ESEA##3
+302080##Bus Driver##2
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+211050##Battle vs Chess##0
+1930##Two Worlds: Epic Edition##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+253710##theHunter Classic##0
+244710##Shelter 1##0
+267960##Hyper Fighters##0
+302240##Chernobyl Commando##0
+774941##Squad - Public Testing##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+439700##H1Z1: Test Server##0
+310380##Fractured Space##0
+596350##Paladins - Public Test##0
+555570##Infestation: The New Z##0
+569610##Distant Space##0
+575640##Zup! 3##0
+585690##Minimalism##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+729460##Distant Space 2##0
+743350##Slay.one##0
+700580##Rust - Staging Branch##0
+878760##Realm Royale - Test Server##0
+@@REVIEW
+252490##Recommended
+755790##Recommended
+730##Recommended

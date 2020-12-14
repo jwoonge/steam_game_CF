@@ -1,0 +1,136 @@
+@@GAME
+221100##DayZ##105544
+271590##Grand Theft Auto V##30690
+377160##Fallout 4##25049
+513710##SCUM##12515
+57740##Jagged Alliance - Back in Action##11808
+22380##Fallout: New Vegas##10125
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##8788
+107410##Arma 3##6600
+337000##Deus Ex: Mankind Divided™##4623
+8930##Sid Meier's Civilization V##4610
+440##Team Fortress 2##4001
+28050##Deus Ex: Human Revolution##3065
+236870##HITMAN™##2797
+861650##Session##2541
+12210##Grand Theft Auto IV: The Complete Edition##2312
+203140##Hitman: Absolution##1849
+205810##Jagged Alliance: Crossfire##1556
+815370##Green Hell##1276
+863550##HITMAN™ 2##1165
+238010##Deus Ex: Human Revolution - Director's Cut##1111
+307780##Mortal Kombat X##935
+391220##Rise of the Tomb Raider##930
+8000##Tomb Raider: Anniversary##800
+620##Portal 2##774
+976310##Mortal Kombat 11##724
+203160##Tomb Raider##710
+304240##Resident Evil##696
+17330##Crysis Warhead##634
+1091500##Cyberpunk 2077##582
+201280##Deus Ex: Human Revolution - The Missing Link##491
+750920##Shadow of the Tomb Raider##490
+588430##Fallout Shelter##476
+255710##Cities: Skylines##426
+224580##Arma 2: DayZ Mod##423
+10680##Aliens vs. Predator##402
+730##Counter-Strike: Global Offensive##278
+24870##Need for Speed: SHIFT##250
+289070##Sid Meier's Civilization VI##239
+1250410##Microsoft Flight Simulator##232
+3900##Sid Meier's Civilization IV##218
+4000##Garry's Mod##209
+91700##E.Y.E: Divine Cybermancy##190
+50130##Mafia II (Classic)##177
+233840##Worms Clan Wars##172
+48180##Tom Clancy's H.A.W.X. 2##152
+94510##Back to the Future: Ep 3 - Citizen Brown##150
+94500##Back to the Future: Ep 2 - Get Tannen!##140
+393380##Squad##131
+650500##Wolfenstein II: The New Colossus German Edition##129
+31290##Back to the Future: Ep 1 - It's About Time##116
+205930##Hitman: Sniper Challenge##116
+6910##Deus Ex: Game of the Year Edition##81
+47870##Need for Speed: Hot Pursuit##73
+205350##Mortal Kombat Kollection##73
+24780##SimCity 4 Deluxe##72
+9200##RAGE##67
+962730##Skater XL##62
+239160##Thief##59
+33930##Arma 2: Operation Arrowhead##59
+541300##Survive the Nights##51
+42730##James Bond: Blood Stone##41
+379720##DOOM##40
+240##Counter-Strike: Source##38
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##37
+458830##Snooker Nation Championship##31
+299740##Miscreated##28
+22370##Fallout 3 - Game of the Year Edition##24
+9930##Test Drive Unlimited 2##19
+500##Left 4 Dead##16
+2810##X3: Reunion##14
+7000##Tomb Raider: Legend##14
+314000##Pool Nation FX##14
+895400##Deadside##13
+65720##Arma 2: Private Military Company##12
+33910##Arma 2##9
+8140##Tomb Raider: Underworld##8
+38400##Fallout##8
+300##Day of Defeat: Source##7
+231430##Company of Heroes 2##5
+400##Portal##2
+65700##Arma 2: British Armed Forces##2
+6860##Hitman: Blood Money##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+12370##Jagged Alliance 2: Gold Pack##0
+12380##Jagged Alliance 2 Gold: Unfinished Business##0
+2800##X2: The Threat##0
+6920##Deus Ex: Invisible War##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+420##Half-Life 2: Episode Two##0
+17340##Crysis Wars##0
+1030830##Mafia II: Definitive Edition##0
+94520##Back to the Future: Ep 4 - Double Visions##0
+94530##Back to the Future: Ep 5 - OUTATIME##0
+65790##Arma: Cold War Assault##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+912290##Miscreated: Experimental Server##0
+6000##STAR WARS™ Republic Commando##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+32350##STAR WARS™ Starfighter™##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+32420##STAR WARS™: The Clone Wars - Republic Heroes™##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+774941##Squad - Public Testing##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+1151340##Fallout 76##0
+@@REVIEW
+861650##Recommended
+962730##Not Recommended
+221100##Not Recommended
+289070##Not Recommended
+258180##Not Recommended

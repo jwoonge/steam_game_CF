@@ -1,0 +1,371 @@
+@@GAME
+730##Counter-Strike: Global Offensive##50879
+221100##DayZ##44370
+252490##Rust##41233
+359550##Tom Clancy's Rainbow Six Siege##31263
+252950##Rocket League##18732
+107410##Arma 3##13105
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##10953
+381210##Dead by Daylight##10157
+550##Left 4 Dead 2##8980
+377160##Fallout 4##5818
+466240##Deceit##1863
+305620##The Long Dark##1739
+219740##Don't Starve##1517
+207610##The Walking Dead##929
+485610##Ball 3D: Soccer Online##829
+709620##Squareboy vs Bullies: Arena Edition##781
+866800##The Walking Dead: The Final Season##727
+251570##7 Days to Die##714
+346500##Road Scars: Origins##612
+569610##Distant Space##612
+230410##Warframe##605
+976310##Mortal Kombat 11##602
+1274940##Strip 'Em##599
+612880##Wolfenstein II: The New Colossus##593
+261030##The Walking Dead: Season Two##590
+412020##Metro Exodus##585
+281750##Munin##576
+34900##Bad Rats##553
+533950##Don't open the doors!##542
+691690##Ash of Gods: Redemption##540
+562360##Planes, Bullets and Vodka##527
+313340##Mountain##515
+536220##The Walking Dead: A New Frontier##513
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##510
+298630##The Escapists##509
+286690##Metro 2033 Redux##504
+1219950##Evil Democracy: 1932##499
+536040##Cards of Cthulhu##496
+282070##This War of Mine##494
+292030##The Witcher 3: Wild Hunt##487
+810670##NALOGI##485
+287390##Metro: Last Light Redux##476
+332480##Phoenix Force##475
+562730##MechDefender##470
+206610##3SwitcheD##468
+253860##Earth 2140 HD##468
+253880##Earth 2150 Trilogy##468
+253920##Gorky 17##468
+1930##Two Worlds: Epic Edition##467
+253960##Jack Orlando Director's Cut##467
+254060##KnightShift##467
+254080##World War III: Black Gold##467
+254100##World War II: Panzer Claws##467
+259320##Heli Heroes##467
+279720##The I of the Dragon##467
+420970##RoBoRumble##467
+269710##Tumblestone##467
+252150##Grimm##461
+496640##Strange Night##461
+1152090##Elmarion: Dragon time##459
+853380##Air Threat##457
+1140440##OMON Simulator##456
+896160##Evil Bank Manager##455
+450860##Andarilho##448
+837400##Fated Kingdom##446
+1334590##Furry Love##446
+388060##The Escapists: The Walking Dead##441
+294230##Millie##440
+485450##Ninja Stealth##434
+4000##Garry's Mod##433
+1900##Earth 2160##432
+7510##X-Blades##430
+508900##Zup! X##428
+671510##Desolate##427
+1048100##Peekaboo##426
+410670##Suits: A Business RPG##411
+512160##Volleying##411
+215930##Jagged Alliance 2 - Wildfire ##410
+635060##Castle of no Escape##409
+224900##Iron Sky Invasion##408
+1100110##Nibiru##388
+539720##Razortron 2000##378
+462780##Darksiders Warmastered Edition##377
+218620##PAYDAY 2##373
+374320##DARK SOULS™ III##368
+629760##MORDHAU##359
+362400##Regimental Chess##344
+597230##Shotgun Legend##342
+514360##Freedom Fighter##341
+539750##Kombine##341
+377600##Tcheco in the Castle of Lucio##340
+854860##Cows VS Vikings##340
+549100##GravNewton##337
+434570##Blood and Bacon##335
+438480##Rock 'N' Roll Defense##335
+575640##Zup! 3##335
+591420##Zup! 4##335
+799070##Zup! 8##335
+391740##Blaster Shooter GunGuy!##334
+391140##Blast-off##333
+617670##Zup! S##330
+610660##Russian Roads##329
+508170##BlackSmith HIT##328
+364910##Redemption: Saints And Sinners##326
+415350##Shooting Stars!##326
+566160##Zup! 6##326
+278570##Labyrinthine Dreams##325
+448780##Sixtieth Kilometer##324
+7530##Two Worlds II Castle Defense##322
+488280##Gun Done##322
+1084400##Hentai Arena | Battle Royale##322
+429570##The Walking Dead: Michonne##320
+550670##What The Heck, Dude?##319
+554310##Rage Wars##319
+33930##Arma 2: Operation Arrowhead##318
+503300##Super Star##316
+319760##Oh My Gore!##315
+313020##Soul Gambler##312
+259340##Chicken Shoot Gold##311
+576480##Drunken Fight Simulator##311
+1098340##Zup! 9##311
+371280##Rolling Shapes##310
+389700##My Bones##310
+636150##Cyberhunt##309
+658550##Zup! Zero 2##308
+453670##The Lost Souls##306
+1293230##House of Detention##306
+577460##Hunter's Grimm##304
+253980##Enclave##303
+645090##Zup! 5##300
+490820##Fly O'Clock##299
+495570##ConflictCraft##298
+641990##The Escapists 2##298
+673800##Zup! XS##296
+873240##Hentai Memory##295
+33910##Arma 2##294
+65700##Arma 2: British Armed Forces##294
+65720##Arma 2: Private Military Company##294
+107430##Arma X: Anniversary Edition##294
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##294
+444410##Find Out##294
+65780##Arma: Gold Edition##293
+65790##Arma: Cold War Assault##293
+323720##Decay - The Mare##291
+825310##Dude Simulator 2##290
+407230##Legend of Mysteria##288
+332790##Darkness Assault##287
+601010##Hotel Anatolia##287
+357070##UBERMOSH##286
+401190##Dinosaur Hunt##285
+461730##Blaite##285
+463350##Storm of Spears##285
+533300##Zup!##285
+218510##Planets Under Attack##284
+378270##Putrefaction##284
+391260##Labyronia RPG##284
+397500##Labyronia RPG 2##284
+434420##The Chosen RPG##284
+551930##Skater 2D##284
+575700##Fruit Arranger##284
+805940##RUSSIA BATTLEGROUNDS##283
+439910##Risky Rescue##281
+440760##Cube Destroyer##281
+529240##Creature Clicker - Capture, Train, Ascend!##281
+634340##Legend of Himari##281
+1168660##Barro 2020##281
+357290##Red Lake##280
+376730##Monument##280
+397940##No Time To Live##280
+446050##Operation KREEP##280
+466420##Warriors' Wrath##280
+490910##Control Craft 3##280
+554800##Masky##280
+560710##Leap Up no jutsu##280
+576470##ANIMALITY##280
+603030##Lamp Head##280
+603060##Tarim: Guardians##280
+615610##Orbt XL##280
+628760##The Adventurer - Episode 1: Beginning of the End##280
+754120##Ninja Stealth 3##280
+551080##Rescue your chickens##279
+571020##Santa's Big Adventures##279
+579150##Riot of the numbers##279
+589640##Spoids##279
+361850##Portal of Evil: Stolen Runes Collector's Edition##274
+658560##Zup! 7##274
+669950##BDSM: Big Drunk Satanic Massacre##274
+944220##Gachi Heroes##274
+1008710##Wet Girl##273
+571870##Little Jack's Adventures##272
+685690##Guns'n'Stories: Bulletproof VR##271
+914690##Hentai Shooter 3D##270
+604780##aMAZE##269
+434890##Eight Mini Racers##268
+440730##Survival Zombies The Inverted Evolution##268
+463030##Bottle##267
+967250##DOKA 2 KISHKI EDITION##267
+394870##Office Battle##265
+1016860##Boiling Steel##265
+438080##Surfingers##264
+351940##The Descendant##262
+610360##Zup! Zero##260
+453960##Envy the Dead##255
+387930##The Tape##254
+509850##Bumper##254
+596870##Drop Hunt##253
+1129220##BEARS, VODKA, BALALAIKA! 🐻##252
+1216490##Knock Harder##252
+526540##8infinity##251
+398710##Timberman##250
+603190##Tank Destroyer##250
+1069740##Seen##250
+485440##Call Of The Mighty Warriors##249
+255300##Journey of a Roach##246
+562220##Zup! 2##246
+632200##Kuro survival##246
+215790##Dream Pinball 3D##235
+1184810##Mainframe Defenders##235
+461010##Roll'd##234
+485730##Shift##234
+635880##Chicken Labyrinth Puzzles##232
+601220##Zup! F##223
+201810##Wolfenstein: The New Order##222
+458600##ZRoll##210
+253900##Knights and Merchants##191
+10##Counter-Strike##188
+1397920##Mr.Mine##169
+1347800##Escort Simulator##161
+1173380##NEKO ARENA##152
+1070850##Today Is My Birthday##150
+253940##Septerra Core##129
+12100##Grand Theft Auto III##119
+406210##Over the Dream##92
+240##Counter-Strike: Source##55
+611500##Quake Champions##44
+236390##War Thunder##25
+444090##Paladins##25
+1172470##Apex Legends##15
+857520##Degrees##9
+706400##Death's Maze##8
+749340##Chocolate makes you happy##1
+853860##aMAZE Classic##1
+1258080##Shop Titans##1
+442070##Drawful 2##1
+308600##Geneshift##1
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+2990##FlatOut 2##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+214510##LEGO® The Lord of the Rings™##0
+6370##Bloodline Champions##0
+11610##Dragon Nest##0
+13140##America's Army 3##0
+17080##Tribes: Ascend##0
+36630##Rusty Hearts##0
+47410##Stronghold Kingdoms##0
+55130##HOMEFRONT Demo##0
+99900##Spiral Knights##0
+99910##Puzzle Pirates##0
+105430##Age of Empires Online##0
+106010##Pandora Saga: Weapons of Balance##0
+107900##War Inc. Battlezone##0
+108210##Memoir '44 Online##0
+109400##MicroVolts Surge##0
+109410##Brawl Busters##0
+109600##Neverwinter##0
+113400##APB Reloaded##0
+113900##World of Battles##0
+200210##Realm of the Mad God Exalt##0
+201190##Magic: The Gathering – Tactics##0
+201210##Pox Nora##0
+201230##EverQuest II##0
+203290##America's Army: Proving Grounds##0
+205710##EverQuest Free-to-Play##0
+206210##Gotham City Impostors: Free To Play##0
+207230##Archeblade##0
+208030##Moon Breakers##0
+211500##RaceRoom Racing Experience ##0
+211880##Bullet Run##0
+212070##Star Conflict##0
+212200##Mabinogi##0
+212220##Dungeon Fighter Online##0
+212240##Atlantica Online##0
+212370##Arctic Combat##0
+212390##C9##0
+212500##The Lord of the Rings Online™##0
+212800##Super Crate Box##0
+213650##Dwarfs F2P##0
+215870##Dungeon Party##0
+218130##Dungeonland##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+219340##The Banner Saga: Factions##0
+221080##District 187##0
+222520##Champions of Regnum##0
+224320##Uncharted Waters Online##0
+227240##Construct 2 Free##0
+231060##Ragnarok Online 2##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+259280##Earth 2150: The Moon Project##0
+259300##Earth 2150: Lost Souls##0
+247120##Portal 2 Sixense Perceptual Pack##0
+260410##Get Off My Lawn!##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+272060##Serena##0
+302380##Floating Point##0
+312150##Wild Warfare##0
+17570##Pirates, Vikings, & Knights II##0
+339120##Fork Parker's Holiday Profit Hike##0
+346290##Penumbra: Necrologue##0
+382490##Relic Hunters Zero##0
+397720##Romance of the Three Kingdoms Maker##0
+596350##Paladins - Public Test##0
+50620##Darksiders##0
+666960##Cowboy's Adventure##0
+667300##aMAZE 3D##0
+670100##Mint##0
+304930##Unturned##0
+679660##aMAZE ZER0##0
+689360##The Thirst of Hearts##0
+703920##Bang Bang Fruit 2##0
+704190##Bitcoin Collector##0
+722020##Bitcoin Collector: Spinners Attack##0
+736840##aMAZE Double##0
+745670##3D Tower##0
+756260##Kingdom Defense##0
+608990##The Archotek Project##0
+763360##Nice Way##0
+764560##Chocolate makes you happy 2##0
+790860##Chocolate makes you happy 3##0
+700580##Rust - Staging Branch##0
+806850##aMAZE Gears##0
+815390##Psi Cards##0
+815950##Chocolate makes you happy 4##0
+831060##Black Jack Story##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+489520##Minion Masters##0
+393390##Cat Simulator##0
+406970##The Uncertain: Last Quiet Day##0
+797410##Headsnatchers##0
+760620##Deiland##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+702150##Project Mercury##0
+618140##Barro##0
+348510##Autobahn Police Simulator##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+325180##AppGameKit Classic##0
+34270##SEGA Mega Drive & Genesis Classics##0
+729660##Blackout Z: Slaughterhouse Edition##0
+@@REVIEW
+1456200##Recommended
+715810##Recommended
+1129220##Recommended
+1453940##Recommended
+1462860##Recommended
+1465500##Recommended
+1422260##Recommended
+837400##Recommended
+1184810##Recommended
+691690##Recommended

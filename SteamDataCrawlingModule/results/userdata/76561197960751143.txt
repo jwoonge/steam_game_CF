@@ -1,0 +1,153 @@
+@@GAME
+482730##Football Manager 2017##30249
+730##Counter-Strike: Global Offensive##29312
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##12035
+231670##Football Manager 2014##10925
+71270##Football Manager 2012##9460
+359320##Elite Dangerous##8353
+34220##Football Manager 2011##6122
+292030##The Witcher 3: Wild Hunt##5022
+291650##Pillars of Eternity##3989
+300550##Shadowrun: Dragonfall - Director's Cut##3587
+211420##DARK SOULS™: Prepare To Die Edition##3516
+378120##Football Manager 2016##2785
+230230##Divinity: Original Sin (Classic)##2607
+814380##Sekiro™: Shadows Die Twice##2438
+207890##Football Manager 2013##2207
+208500##F1 2012##2031
+10##Counter-Strike##1960
+362960##Tyranny##1813
+611500##Quake Champions##1434
+8930##Sid Meier's Civilization V##1307
+240##Counter-Strike: Source##1057
+330840##Game of Thrones - A Telltale Games Series##1003
+212500##The Lord of the Rings Online™##922
+335300##DARK SOULS™ II: Scholar of the First Sin##842
+435150##Divinity: Original Sin 2##729
+240760##Wasteland 2##719
+236850##Europa Universalis IV##689
+252950##Rocket League##665
+48110##Silent Hunter 5: Battle of the Atlantic##652
+465650##Out of the Park Baseball 18##537
+72850##The Elder Scrolls V: Skyrim##507
+441830##I am Setsuna##481
+227300##Euro Truck Simulator 2##449
+10180##Call of Duty: Modern Warfare 2##445
+1089350##NBA 2K20##433
+1091500##Cyberpunk 2077##388
+739630##Phasmophobia##314
+560130##Pillars of Eternity II: Deadfire##249
+323370##TERA##203
+1100600##Football Manager 2020##195
+234650##Shadowrun Returns##189
+945360##Among Us##159
+20900##The Witcher: Enhanced Edition##156
+570##Dota 2##155
+394230##Battleborn##144
+250820##SteamVR##139
+228280##Baldur's Gate: Enhanced Edition##121
+373420##Divinity: Original Sin Enhanced Edition##114
+364360##Total War: WARHAMMER##102
+8870##BioShock Infinite##76
+319630##Life is Strange™##75
+4760##Rome: Total War##72
+872790##Football Manager 2019##72
+223850##3DMark##71
+109600##Neverwinter##68
+333930##Dirty Bomb##61
+414340##Hellblade: Senua's Sacrifice##59
+24010##Train Simulator##57
+550650##Black Squad##52
+42850##Arsenal of Democracy##50
+256290##Child of Light##48
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##47
+413150##Stardew Valley##47
+272270##Torment: Tides of Numenera##45
+233450##Prison Architect##43
+444090##Paladins##43
+391540##Undertale##40
+6840##Commandos 3: Destination Berlin##34
+453480##Shadowverse##32
+42700##Call of Duty: Black Ops##28
+282440##Quake Live##28
+404730##Wasteland 2: Director's Cut##25
+243950##Divinity: Dragon Commander##24
+438100##VRChat##22
+813820##Realm Royale##22
+65800##Dungeon Defenders##21
+440##Team Fortress 2##18
+289130##Endless Legend™ - Emperor Edition##17
+471710##Rec Room##16
+10500##Total War: EMPIRE - Definitive Edition##13
+25900##King's Bounty: The Legend##8
+394360##Hearts of Iron IV##8
+327690##Gigantic##6
+291550##Brawlhalla##6
+660330##Ragnarok Re:Start##6
+588430##Fallout Shelter##5
+372000##Tree of Savior (English Ver.)##2
+374320##DARK SOULS™ III##2
+594490##Deadly Hunter VR##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+7520##Two Worlds II##0
+200260##Batman: Arkham City GOTY##0
+205790##Dota 2 Test##0
+1900##Earth 2160##0
+230170##Divinity: Dragon Commander Beta##0
+242460##Football Manager 2014 Editor##0
+242480##Football Manager 2014 Resource Archiver##0
+253880##Earth 2150 Trilogy##0
+259280##Earth 2150: The Moon Project##0
+259300##Earth 2150: Lost Souls##0
+253940##Septerra Core##0
+254060##KnightShift##0
+254080##World War III: Black Gold##0
+257170##Rebuild 3: Gangs of Deadsville##0
+257350##Baldur's Gate II: Enhanced Edition##0
+271570##Space Farmers##0
+246620##Plague Inc: Evolved##0
+283310##Soulbringer##0
+291170##Royal Defense##0
+292410##Street Racing Syndicate##0
+201810##Wolfenstein: The New Order##0
+297020##The Culling Of The Cows##0
+351030##Pixel Puzzles Ultimate##0
+301540##Rhythm Destruction##0
+306350##Slipstream 5000##0
+259130##Wasteland 1 - The Original Classic##0
+341000##Mad Games Tycoon##0
+346940##Shadowrun: Hong Kong - Extended Edition##0
+348870##Night Mysteries: The Amphora Prisoner##0
+357470##An Alternative Reality: The Football Manager Documentary##0
+397340##SimplePlanes##0
+412600##Lup##0
+418070##Turbo Pug##0
+428950##Kivi, Toilet and Shotgun##0
+438180##Super Mustache##0
+596350##Paladins - Public Test##0
+449200##Calcu-Late##0
+451880##Catch a Falling Star##0
+454200##Neon Hardcorps##0
+469730##Super Mega Neo Pug##0
+473560##Cosmic Dust & Rust##0
+482750##Football Manager Touch 2017##0
+743650##Quake Champions PTS##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+878760##Realm Royale - Test Server##0
+872820##Football Manager 2019 Touch##0
+1100620##Football Manager 2020 Touch##0
+@@REVIEW
+362960##Recommended

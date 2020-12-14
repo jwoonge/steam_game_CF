@@ -1,0 +1,220 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+4000##Garry's Mod##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+220##Half-Life 2##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+12140##Max Payne##0
+12150##Max Payne 2: The Fall of Max Payne##0
+12500##Puzzle Quest##0
+15100##Assassin's Creed##0
+16600##Trials 2: Second Edition##0
+500##Left 4 Dead##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+9310##Warhammer 40,000: Dawn of War - Winter Assault##0
+9450##Warhammer 40,000: Dawn of War - Soulstorm##0
+17410##Mirror's Edge##0
+15620##Warhammer 40,000: Dawn of War II##0
+3480##Peggle Deluxe##0
+3540##Peggle Nights##0
+26800##Braid##0
+3590##Plants vs. Zombies: Game of the Year##0
+17390##Spore##0
+17440##Spore: Creepy & Cute Parts Pack##0
+24720##Spore: Galactic Adventures##0
+32360##The Secret of Monkey Island: Special Edition##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+35500##Cities XL - Limited Edition##0
+41500##Torchlight##0
+32440##LEGO® Star Wars™: The Complete Saga##0
+45300##Wings of Prey##0
+33230##Assassin's Creed II##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+42120##Lead and Gold - Gangs of the Wild West##0
+8190##Just Cause 2##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+34010##Alpha Protocol##0
+49400##Magic: The Gathering - Duels of the Planeswalkers##0
+24780##SimCity 4 Deluxe##0
+31280##Poker Night at the Inventory##0
+22600##Worms Reloaded##0
+3170##King's Bounty: Armored Princess##0
+25900##King's Bounty: The Legend##0
+63910##King's Bounty: Crossworlds##0
+41000##Serious Sam HD: The First Encounter##0
+41010##Serious Sam HD: The Second Encounter##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+227780##Serious Sam Classics: Revolution##0
+564310##Serious Sam Fusion 2017 (beta)##0
+23490##Tropico 3 - Steam Special Edition##0
+57600##Tropico 3: Absolute Power##0
+58510##Cities XL 2011##0
+22380##Fallout: New Vegas##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+620##Portal 2##0
+72200##Universe Sandbox Legacy##0
+105600##Terraria##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+49470##Magic: The Gathering — Duels of the Planeswalkers 2012##0
+48000##LIMBO##0
+107100##Bastion##0
+57690##Tropico 4##0
+110800##L.A. Noire##0
+72850##The Elder Scrolls V: Skyrim##0
+55230##Saints Row: The Third##0
+48240##Anno 2070##0
+204880##Sins of a Solar Empire: Rebellion##0
+4560##Company of Heroes - Legacy Edition##0
+228200##Company of Heroes ##0
+204100##Max Payne 3##0
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##0
+50300##Spec Ops: The Line##0
+730##Counter-Strike: Global Offensive##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+200260##Batman: Arkham City GOTY##0
+49520##Borderlands 2##0
+200710##Torchlight II##0
+11170##Blood Bowl: Dark Elves Edition##0
+205100##Dishonored##0
+219640##Chivalry: Medieval Warfare##0
+220240##Far Cry® 3##0
+17460##Mass Effect##0
+24980##Mass Effect 2##0
+238260##Pinball Arcade##0
+238960##Path of Exile##0
+234330##Marvel Puzzle Quest##0
+226980##Pinball FX2##0
+8930##Sid Meier's Civilization V##0
+232910##TrackMania² Stadium##0
+225260##Brütal Legend##0
+233450##Prison Architect##0
+8870##BioShock Infinite##0
+44350##GRID 2##0
+228300##Remember Me##0
+234710##Poker Night 2##0
+234650##Shadowrun Returns##0
+233270##Far Cry® 3 Blood Dragon##0
+220200##Kerbal Space Program##0
+222730##Reus##0
+213850##Magic 2014 ##0
+241600##Rogue Legacy##0
+242920##Banished##0
+231430##Company of Heroes 2##0
+239030##Papers, Please##0
+248390##Craft The World##0
+245620##Tropico 5##0
+262470##Rollers of the Realm##0
+226840##Age of Wonders III##0
+550##Left 4 Dead 2##0
+271590##Grand Theft Auto V##0
+203160##Tomb Raider##0
+232790##Broken Age##0
+213670##South Park™: The Stick of Truth™##0
+286000##Tooth and Tail##0
+287980##Mini Metro##0
+201810##Wolfenstein: The New Order##0
+299780##Noir Syndrome##0
+300550##Shadowrun: Dragonfall - Director's Cut##0
+306660##Ultimate General: Gettysburg##0
+63380##Sniper Elite V2##0
+310560##DiRT Rally##0
+206420##Saints Row IV##0
+318090##Dicetiny##0
+307690##Sleeping Dogs: Definitive Edition##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+4760##Rome: Total War##0
+4770##Rome: Total War - Alexander##0
+10500##Total War: EMPIRE - Definitive Edition##0
+34030##Total War: NAPOLEON - Definitive Edition##0
+34330##Total War: SHOGUN 2##0
+211160##Viking: Battle for Asgard##0
+214950##Total War: ROME II - Emperor Edition##0
+217060##Total War Battles: SHOGUN##0
+329110##Gems of War##0
+298110##Far Cry 4##0
+282070##This War of Mine##0
+319630##Life is Strange™##0
+341800##Keep Talking and Nobody Explodes##0
+346010##Besiege##0
+346940##Shadowrun: Hong Kong - Extended Edition##0
+353640##Train Valley##0
+255710##Cities: Skylines##0
+261640##Borderlands: The Pre-Sequel##0
+359320##Elite Dangerous##0
+361280##Turmoil##0
+361420##ASTRONEER##0
+363970##Clicker Heroes##0
+367450##Poly Bridge##0
+368370##Her Story##0
+369990##Gremlins, Inc.##0
+397340##SimplePlanes##0
+416210##Block'hood##0
+423580##Project Highrise##0
+431280##tiny & Tall: Gleipnir Part One##0
+391220##Rise of the Tomb Raider##0
+34270##SEGA Mega Drive & Genesis Classics##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+314160##Microsoft Flight Simulator X: Steam Edition##0
+377160##Fallout 4##0
+364360##Total War: WARHAMMER##0
+493370##Ragnarok Clicker##0
+508440##Totally Accurate Battle Simulator##0
+521150##Another Brick in The Mall##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+493340##Planet Coaster##0
+236690##Blood Bowl 2##0
+602490##Blood Bowl: Death Zone##0
+8500##EVE Online##0
+569480##Kingdoms and Castles##0
+588430##Fallout Shelter##0
+598330##SimAirport##0
+285190##Warhammer 40,000: Dawn of War III##0
+632470##Disco Elysium##0
+236150##Starpoint Gemini 2##0
+38400##Fallout##0
+460920##Steep##0
+552520##Far Cry 5##0
+203770##Crusader Kings II##0
+737800##F1 2018##0
+945360##Among Us##0
+492720##Tropico 6##0
+979110##Space Haven##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+1085660##Destiny 2##0
+1213210##Command & Conquer™ Remastered Collection##0
+1227400##Over the Alps##0
+@@REVIEW
+236690##Recommended
+569480##Recommended
+329110##Not Recommended
+20920##Recommended
+220240##Recommended
+17460##Recommended

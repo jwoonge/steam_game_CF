@@ -1,0 +1,110 @@
+@@GAME
+570##Dota 2##260152
+730##Counter-Strike: Global Offensive##61430
+1085660##Destiny 2##32845
+240##Counter-Strike: Source##6532
+227300##Euro Truck Simulator 2##3028
+271590##Grand Theft Auto V##2753
+621060##PC Building Simulator##2675
+252950##Rocket League##1372
+1080110##F1 2020##1227
+3700##Sniper Elite##1215
+872790##Football Manager 2019##976
+489830##The Elder Scrolls V: Skyrim Special Edition##924
+312660##Sniper Elite 4##874
+238090##Sniper Elite 3##638
+22330##The Elder Scrolls IV: Oblivion ##608
+63380##Sniper Elite V2##551
+223850##3DMark##437
+225640##Sacred 2 Gold##237
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##148
+12320##Sacred Gold##106
+10##Counter-Strike##89
+233130##Shadow Warrior##87
+22600##Worms Reloaded##85
+630##Alien Swarm##82
+292030##The Witcher 3: Wild Hunt##58
+13560##Tom Clancy's Splinter Cell##54
+470220##UNO##36
+524390##PCMark 10##28
+80##Counter-Strike: Condition Zero##16
+70640##Worms##5
+220##Half-Life 2##4
+217200##Worms Armageddon##2
+70##Half-Life##1
+300##Day of Defeat: Source##1
+205790##Dota 2 Test##1
+374320##DARK SOULS™ III##1
+464170##VRMark##1
+631510##Devil May Cry HD Collection##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+6900##Hitman: Codename 47##0
+6850##Hitman 2: Silent Assassin##0
+6860##Hitman: Blood Money##0
+13580##Tom Clancy's Splinter Cell: Double Agent##0
+22320##The Elder Scrolls III: Morrowind##0
+13570##Tom Clancy's Splinter Cell: Chaos Theory##0
+33220##Tom Clancy's Splinter Cell: Conviction##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+232010##Euro Truck Simulator##0
+207930##Sacred Citadel##0
+225160##Shadow Warrior Classic Redux##0
+235600##Tom Clancy's Splinter Cell Blacklist##0
+205100##Dishonored##0
+247430##Hitman: Contracts##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+258760##Scania Truck Driving Simulator##0
+270880##American Truck Simulator##0
+34830##Sniper: Ghost Warrior##0
+34870##Sniper Ghost Warrior 2##0
+271500##Sniper Art of Victory##0
+302080##Bus Driver##0
+247950##Sacred 3##0
+22100##Mount & Blade##0
+48700##Mount & Blade: Warband##0
+48720##Mount & Blade: With Fire and Sword##0
+221380##Age of Empires II (2013)##0
+324800##Shadow Warrior 2##0
+367500##Dragon's Dogma: Dark Arisen##0
+50620##Darksiders##0
+388410##Darksiders II Deathinitive Edition##0
+462780##Darksiders Warmastered Edition##0
+403640##Dishonored 2##0
+539730##True Sight##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+236870##HITMAN™##0
+591740##Sniper Fury##0
+368070##Sniper Ghost Warrior 3##0
+214170##Divine Divinity##0
+219760##Beyond Divinity##0
+219780##Divinity II: Developer's Cut##0
+373420##Divinity: Original Sin Enhanced Edition##0
+435150##Divinity: Original Sin 2##0
+731490##Crash Bandicoot™ N. Sane Trilogy##0
+368230##Kingdom: Classic##0
+798460##Ni no Kuni Wrath of the White Witch™ Remastered##0
+813780##Age of Empires II: Definitive Edition##0
+863550##HITMAN™ 2##0
+872820##Football Manager 2019 Touch##0
+606280##Darksiders III##0
+973580##Sniper Ghost Warrior Contracts##0
+996580##Spyro™ Reignited Trilogy##0
+379430##Kingdom Come: Deliverance##0
+601150##Devil May Cry 5##0
+1213210##Command & Conquer™ Remastered Collection##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW

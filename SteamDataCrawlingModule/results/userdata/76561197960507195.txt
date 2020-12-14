@@ -1,0 +1,26 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+730##Counter-Strike: Global Offensive##0
+342230##Air Guardians##0
+706400##Death's Maze##0
+711010##Corrupt##0
+764500##Deep Dark Fight##0
+769440##Beach Restaurant##0
+801290##Diabolic##0
+801880##Drift Tuner 2019##0
+809700##CubeRun##0
+822700##Beer and Skittls VR##0
+823180##Bubble Strike##0
+857050##Casual Penalty##0
+905640##CombatArms: Reloaded##0
+967440##Kick The Anime Simulator##0
+@@REVIEW
+981300##Recommended
+730##Recommended

@@ -1,0 +1,42 @@
+@@GAME
+10##Counter-Strike##149007
+252950##Rocket League##129726
+730##Counter-Strike: Global Offensive##87826
+582660##Black Desert Online##38522
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##17229
+812140##Assassin's Creed Odyssey##6710
+295110##Just Survive##3433
+601430##The Evil Within 2##1405
+620##Portal 2##1096
+433850##Z1 Battle Royale##791
+477160##Human: Fall Flat##351
+242720##GunZ 2: The Second Duel##283
+4000##Garry's Mod##235
+431960##Wallpaper Engine##109
+42910##Magicka##75
+319150##Hazard Ops##40
+550##Left 4 Dead 2##31
+945360##Among Us##25
+11020##TrackMania Nations Forever##19
+242760##The Forest##15
+244930##SNOW##12
+218230##PlanetSide 2##9
+42160##War of the Roses##7
+248570##Toribash##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+12750##GRID##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+440900##Conan Exiles##0
+931180##Conan Exiles - Testlive Client##0
+@@REVIEW

@@ -1,0 +1,207 @@
+@@GAME
+635240##Making of Furi: Episode 1 - Conception##120265
+635241##Making of Furi: Episode 2 - Game Play##120182
+635242##Making of Furi: Episode 3 - Art and Animation##120181
+730##Counter-Strike: Global Offensive##94470
+306130##The Elder Scrolls Online##74557
+239140##Dying Light##64918
+218620##PAYDAY 2##63074
+805550##Assetto Corsa Competizione##62766
+107410##Arma 3##57397
+645630##Car Mechanic Simulator 2018##55796
+438740##Friday the 13th: The Game##55280
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##55138
+255710##Cities: Skylines##51340
+621060##PC Building Simulator##47519
+281990##Stellaris##47277
+431960##Wallpaper Engine##47271
+383870##Firewatch##47192
+737800##F1 2018##47192
+292030##The Witcher 3: Wild Hunt##46447
+594650##Hunt: Showdown##44984
+8500##EVE Online##41185
+261550##Mount & Blade II: Bannerlord##37341
+552500##Warhammer: Vermintide 2##25912
+105600##Terraria##25861
+474960##Quantum Break##21915
+518790##theHunter: Call of the Wild™##13091
+356190##Middle-earth™: Shadow of War™##4712
+8870##BioShock Infinite##4503
+22100##Mount & Blade##4368
+570##Dota 2##4186
+383150##Dead Island Definitive Edition##3709
+48720##Mount & Blade: With Fire and Sword##3483
+836620##Black Desert##2465
+48700##Mount & Blade: Warband##1879
+20900##The Witcher: Enhanced Edition##1107
+263280##Spintires®##728
+238320##Outlast##695
+1070330##Russian Life Simulator##674
+927380##Yakuza Kiwami 2##517
+638970##Yakuza 0##508
+945360##Among Us##477
+834530##Yakuza Kiwami##462
+383180##Dead Island Riptide Definitive Edition##459
+644560##Mirror##440
+414700##Outlast 2##416
+810670##NALOGI##399
+102840##Shank 2##388
+655100##Oik 3##388
+431750##Iron Sea Defenders##372
+1096720##CATGIRL LOVER##363
+337000##Deus Ex: Mankind Divided™##359
+673800##Zup! XS##356
+508900##Zup! X##348
+562360##Planes, Bullets and Vodka##342
+591420##Zup! 4##339
+539720##Razortron 2000##337
+588970##Oik##333
+297020##The Culling Of The Cows##332
+1098340##Zup! 9##332
+566160##Zup! 6##326
+611980##Oik 2##326
+636150##Cyberhunt##324
+438480##Rock 'N' Roll Defense##322
+654900##qop##317
+368230##Kingdom: Classic##314
+799070##Zup! 8##311
+409720##BioShock 2 Remastered##310
+757330##qop 2##310
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##305
+238010##Deus Ex: Human Revolution - Director's Cut##305
+533300##Zup!##305
+562220##Zup! 2##304
+448070##Red Risk##303
+575640##Zup! 3##299
+610360##Zup! Zero##296
+409710##BioShock Remastered##295
+658550##Zup! Zero 2##288
+48000##LIMBO##285
+532210##Life is Strange 2##278
+378610##Valley##273
+585950##WayOut 2: Hex##272
+645090##Zup! 5##272
+258180##Deus Ex: The Fall##271
+873240##Hentai Memory##271
+878750##Hentai Girl##271
+220460##Cargo Commander##270
+617670##Zup! S##270
+601220##Zup! F##269
+384300##CPUCores :: Maximize Your FPS##257
+963690##Hentai Girl Hime##252
+1146950##Hentai Girl Fantasy##249
+658560##Zup! 7##248
+391540##Undertale##219
+319630##Life is Strange™##212
+203160##Tomb Raider##205
+955050##Bright Memory##202
+1900##Earth 2160##150
+260160##The Last Tinker: City of Colors##127
+208140##Endless Space##119
+402130##FlatOut 4: Total Insanity##97
+218510##Planets Under Attack##94
+314830##Blackguards 2##89
+282070##This War of Mine##88
+279720##The I of the Dragon##85
+323720##Decay - The Mare##83
+281750##Munin##80
+382140##SKYHILL##76
+339190##Dead Synchronicity: Tomorrow Comes Today##70
+351860##Cultures - Northland##66
+327220##Anna's Quest##64
+355130##MotoGP™15##60
+265330##Gomo##49
+314810##Randal's Monday##48
+255300##Journey of a Roach##38
+249650##Blackguards##32
+8850##BioShock 2##29
+244210##Assetto Corsa##23
+7670##BioShock##19
+368070##Sniper Ghost Warrior 3##18
+1056960##Wolfenstein: Youngblood##11
+550650##Black Squad##10
+442070##Drawful 2##10
+630##Alien Swarm##10
+261820##Estranged: Act I##10
+17550##Eternal Silence##9
+233450##Prison Architect##4
+10##Counter-Strike##1
+130##Half-Life: Blue Shift##1
+6120##Shank##1
+34830##Sniper: Ghost Warrior##1
+201510##Flatout 3##1
+34870##Sniper Ghost Warrior 2##1
+201810##Wolfenstein: The New Order##1
+214490##Alien: Isolation##1
+350080##Wolfenstein: The Old Blood ##1
+365720##Skyrim Script Extender (SKSE)##1
+420290##Blackwake##1
+311340##METAL GEAR SOLID V: GROUND ZEROES##1
+604490##Running Through Russia##1
+612880##Wolfenstein II: The New Colossus##1
+671090##Oik Memory##1
+864300##qop 3##1
+966630##qop 4##1
+431930##Kabounce##1
+34330##Total War: SHOGUN 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+2990##FlatOut 2##0
+6220##FlatOut##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+12360##FlatOut: Ultimate Carnage##0
+367690##Spintires® - Editor##0
+302510##Ryse: Son of Rome##0
+337360##Dead Island Retro Revenge##0
+350640##Sherlock Holmes: The Devil's Daughter##0
+238370##Magicka 2##0
+397080##Magicka 2: Spell Balance Beta##0
+351870##Cultures - 8th Wonder of the World##0
+384570##ZanZarah: The Hidden Portal##0
+437630##State of Mind##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+549780##Rainbow Rage Squad##0
+770720##Hunt: Showdown (Test Server)##0
+601510##Yu-Gi-Oh! Duel Links##0
+664030##Time To Walk Alone##0
+670090##FallenCore##0
+673660##Neon Hardcore##0
+679510##Steel Punk Ball##0
+683530##FreeFly Burning##0
+692200##aMAZE Dark Times##0
+711450##Orb The Ball##0
+718220##NeoBoom2##0
+733050##Lines Infinite##0
+745340##Super Meat Shooter##0
+749340##Chocolate makes you happy##0
+749550##Lawnmower Game 2: Drifter##0
+755790##Ring of Elysium##0
+763360##Nice Way##0
+773230##The Evil Party##0
+788190##Super Asteroids##0
+806850##aMAZE Gears##0
+809790##Nightmare Simulator##0
+810740##Turtle Lu##0
+815080##Hot Mars 69##0
+818530##8 Ball##0
+821910##Tower Defense Sudden Attack##0
+823770##Labyrinths of Atlantis##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+840180##On Board 4 PC##0
+844160##Chocolate makes you happy 5##0
+864570##Chocolate makes you happy 6##0
+948900##macdows 95##0
+1019100##Attack on Titan 2 - A.O.T.2 - 進撃の巨人２ Demo##0
+524220##NieR:Automata™##0
+1026820##Coloring Game##0
+1236990##Boris and the Dark Survival##0
+266310##GameGuru##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW
+489830##Recommended
+730##Not Recommended

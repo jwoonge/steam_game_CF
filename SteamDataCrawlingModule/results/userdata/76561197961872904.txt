@@ -1,0 +1,43 @@
+@@GAME
+730##Counter-Strike: Global Offensive##185241
+10##Counter-Strike##80542
+433850##Z1 Battle Royale##30456
+271590##Grand Theft Auto V##12885
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##11894
+295110##Just Survive##9903
+306130##The Elder Scrolls Online##8443
+813820##Realm Royale##2304
+252950##Rocket League##1271
+227300##Euro Truck Simulator 2##195
+221100##DayZ##159
+1080110##F1 2020##122
+359550##Tom Clancy's Rainbow Six Siege##97
+555570##Infestation: The New Z##76
+1313860##EA SPORTS™ FIFA 21 ##68
+346110##ARK: Survival Evolved##57
+945360##Among Us##55
+397900##Business Tour - Online Multiplayer Board Game##54
+739630##Phasmophobia##47
+282660##Easy eSports##33
+550##Left 4 Dead 2##13
+372000##Tree of Savior (English Ver.)##4
+230410##Warframe##2
+70##Half-Life##1
+4000##Garry's Mod##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+407530##ARK: Survival Of The Fittest##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+218620##PAYDAY 2##0
+878760##Realm Royale - Test Server##0
+714010##Aim Lab##0
+706220##Black Desert Online SA##0
+@@REVIEW
+813820##Recommended
+730##Recommended

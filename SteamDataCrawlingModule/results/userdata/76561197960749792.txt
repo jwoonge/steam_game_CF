@@ -1,0 +1,39 @@
+@@GAME
+730##Counter-Strike: Global Offensive##100658
+433850##Z1 Battle Royale##83919
+295110##Just Survive##60419
+10##Counter-Strike##28832
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2182
+439700##H1Z1: Test Server##1218
+418370##Resident Evil 7 Biohazard##570
+381210##Dead by Daylight##466
+544920##Darwin Project##295
+362300##Just Survive Test Server##283
+225540##Just Cause 3##156
+360940##The Mean Greens - Plastic Warfare##146
+50130##Mafia II (Classic)##86
+379720##DOOM##57
+438100##VRChat##29
+440##Team Fortress 2##27
+57900##Duke Nukem Forever##23
+221640##Super Hexagon##14
+273350##Evolve Stage 2##14
+813820##Realm Royale##10
+30##Day of Defeat##9
+227260##DisplayFusion##8
+728540##Islands of Nyne: Battle Royale##6
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+8930##Sid Meier's Civilization V##0
+50300##Spec Ops: The Line##0
+67370##The Darkness II##0
+205790##Dota 2 Test##0
+370240##NBA 2K16##0
+1030830##Mafia II: Definitive Edition##0
+878760##Realm Royale - Test Server##0
+@@REVIEW
+381210##Not Recommended

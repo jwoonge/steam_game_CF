@@ -1,0 +1,45 @@
+@@GAME
+730##Counter-Strike: Global Offensive##38255
+440##Team Fortress 2##15167
+240##Counter-Strike: Source##10179
+72850##The Elder Scrolls V: Skyrim##7452
+420##Half-Life 2: Episode Two##604
+298030##Total Annihilation##538
+550##Left 4 Dead 2##464
+220##Half-Life 2##359
+48700##Mount & Blade: Warband##260
+287450##Rise of Nations: Extended Edition##140
+20##Team Fortress Classic##120
+70000##Dino D-Day##70
+427520##Factorio##42
+340##Half-Life 2: Lost Coast##8
+238260##Pinball Arcade##8
+670290##Real Pool 3D - Poolians##6
+10##Counter-Strike##4
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+17410##Mirror's Edge##0
+108800##Crysis 2 Maximum Edition##0
+50300##Spec Ops: The Line##0
+205790##Dota 2 Test##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+16700##Stronghold Crusader Extreme HD##0
+40970##Stronghold Crusader HD##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+268050##The Evil Within##0
+611500##Quake Champions##0
+@@REVIEW
+440##Recommended

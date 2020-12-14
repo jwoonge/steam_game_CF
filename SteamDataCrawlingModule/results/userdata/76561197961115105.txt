@@ -1,0 +1,167 @@
+@@GAME
+292030##The Witcher 3: Wild Hunt##3862
+98200##Frozen Synapse##3421
+219640##Chivalry: Medieval Warfare##1613
+245490##Trials Fusion##1517
+8930##Sid Meier's Civilization V##1453
+881100##Noita##1367
+241930##Middle-earth™: Shadow of Mordor™##1275
+49520##Borderlands 2##1238
+28050##Deus Ex: Human Revolution##1198
+40800##Super Meat Boy##1197
+294100##RimWorld##1132
+427520##Factorio##1032
+335300##DARK SOULS™ II: Scholar of the First Sin##1014
+233450##Prison Architect##927
+274190##Broforce##924
+93200##Revenge of the Titans##914
+243970##Invisible, Inc.##866
+413150##Stardew Valley##857
+753640##Outer Wilds##776
+255710##Cities: Skylines##755
+311690##Enter the Gungeon##665
+435150##Divinity: Original Sin 2##655
+105600##Terraria##633
+227300##Euro Truck Simulator 2##627
+730##Counter-Strike: Global Offensive##618
+237350##Frozen Cortex##597
+383870##Firewatch##556
+10##Counter-Strike##456
+620##Portal 2##424
+203160##Tomb Raider##406
+40700##Machinarium##403
+535230##Domina##341
+219890##Antichamber##328
+205100##Dishonored##322
+210970##The Witness##321
+394970##DEADBOLT##318
+480490##Prey##309
+632360##Risk of Rain 2##287
+388880##Oxenfree##285
+242680##Nuclear Throne##270
+10500##Total War: EMPIRE - Definitive Edition##254
+326460##ShellShock Live##253
+344740##CRYPTARK##249
+368230##Kingdom: Classic##241
+257510##The Talos Principle##228
+230270##N++##216
+8870##BioShock Infinite##202
+113020##Monaco##176
+489140##Mr Shifty##176
+214560##Mark of the Ninja##161
+535930##Two Point Hospital##147
+248610##Door Kickers##144
+47870##Need for Speed: Hot Pursuit##141
+34330##Total War: SHOGUN 2##133
+40930##The Misadventures of P.B. Winterbottom##129
+457140##Oxygen Not Included##122
+240##Counter-Strike: Source##116
+26800##Braid##114
+233150##LUFTRAUSERS##113
+440##Team Fortress 2##100
+548430##Deep Rock Galactic##96
+224760##FEZ##93
+219150##Hotline Miami##91
+346010##Besiege##79
+291650##Pillars of Eternity##74
+379720##DOOM##70
+211400##Deadlight##64
+365450##Hacknet##62
+612880##Wolfenstein II: The New Colossus##62
+238460##BattleBlock Theater##57
+50000##Nimbus##55
+95300##Capsized##51
+675010##MudRunner##49
+20540##Company of Heroes: Tales of Valor##38
+274270##NOT A HERO##36
+91200##Anomaly Warzone Earth##35
+239030##Papers, Please##34
+278360##A Story About My Uncle##31
+206190##Gunpoint##27
+828900##The Stillness of the Wind##27
+29180##Osmos##23
+320##Half-Life 2: Deathmatch##22
+396710##The Adventure Pals##22
+1510##Uplink##21
+285900##Gang Beasts##20
+18700##And Yet It Moves##19
+113200##The Binding of Isaac##18
+201570##Really Big Sky##18
+461560##Mandagon##18
+207140##SpeedRunners##13
+282440##Quake Live##13
+766370##Dying Light: Bad Blood##13
+630##Alien Swarm##13
+231160##The Swapper##11
+227320##You Need A Budget 4 (YNAB)##10
+92300##A.R.E.S.##9
+1500##Darwinia##8
+225080##Brothers - A Tale of Two Sons##8
+24420##Aquaria##4
+26500##Cogs##2
+200900##Cave Story+##2
+863550##HITMAN™ 2##2
+391220##Rise of the Tomb Raider##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+9340##Company of Heroes: Opposing Fronts##0
+228200##Company of Heroes ##0
+4560##Company of Heroes - Legacy Edition##0
+34030##Total War: NAPOLEON - Definitive Edition##0
+97000##Solar 2##0
+41210##Eufloria##0
+221180##Eufloria HD##0
+26900##Crayon Physics Deluxe##0
+41100##Hammerfight##0
+55040##Atom Zombie Smasher ##0
+70300##VVVVVV##0
+96200##Steel Storm: Burning Retribution##0
+400##Portal##0
+80310##Gemini Rue##0
+91600##Sanctum##0
+111800##Blocks That Matter##0
+1520##DEFCON##0
+1530##Multiwinia##0
+98800##Dungeons of Dredmor##0
+94200##Jamestown##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+41800##Gratuitous Space Battles##0
+203560##Containment: The Zombie Puzzler##0
+219950##NiGHTS into Dreams...##0
+212800##Super Crate Box##0
+368730##No Time To Explain Remastered##0
+250110##Assault Android Cactus##0
+217490##Borderlands 2 RU##0
+215530##The Incredible Adventures of Van Helsing##0
+266110##Tower of Guns##0
+268870##Satellite Reign##0
+270050##Quest of Dungeons##0
+293780##Crawl##0
+299380##Masquerade: The Baubles of Doom##0
+312530##Duck Game##0
+321360##Primal Carnage: Extinction##0
+322450##FRAMED Collection##0
+290340##Armello##0
+450390##The Lab##0
+522210##Serial Cleaner##0
+545040##Feather##0
+573600##Think of the Children##0
+600370##Paradigm##0
+600990##The Gardens Between##0
+661940##Regular Human Basketball##0
+698790##Paper Fire Rookie##0
+857980##Void Bastards##0
+916900##Paperbark##0
+963000##The Haunted Island, a Frog Detective Game##0
+231430##Company of Heroes 2##0
+727020##Arcade Moonlander##0
+1305720##Delores: A Thimbleweed Park Mini-Adventure##0
+371140##Aegis Defenders##0
+@@REVIEW
+383870##Recommended

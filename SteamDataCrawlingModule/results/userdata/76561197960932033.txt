@@ -1,0 +1,186 @@
+@@GAME
+730##Counter-Strike: Global Offensive##178467
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##38941
+252950##Rocket League##7199
+646570##Slay the Spire##6282
+378540##The Surge##5543
+282660##Easy eSports##4731
+1174180##Red Dead Redemption 2##4224
+1151640##Horizon Zero Dawn##3620
+1145360##Hades##3062
+323190##Frostpunk##2733
+271590##Grand Theft Auto V##2662
+644830##The Surge 2##2465
+379720##DOOM##2191
+360430##Mafia III: Definitive Edition##2157
+488790##South Park The Fractured But Whole##2102
+7670##BioShock##2017
+213670##South Park™: The Stick of Truth™##1963
+233450##Prison Architect##1804
+1172380##STAR WARS Jedi: Fallen Order™ ##1602
+102600##Orcs Must Die!##1549
+391220##Rise of the Tomb Raider##1528
+750920##Shadow of the Tomb Raider##1526
+203160##Tomb Raider##1512
+394510##HELLDIVERS™##1426
+362890##Black Mesa##1396
+244210##Assetto Corsa##1392
+620##Portal 2##1367
+255710##Cities: Skylines##1318
+292030##The Witcher 3: Wild Hunt##1295
+227300##Euro Truck Simulator 2##1265
+239030##Papers, Please##1246
+409710##BioShock Remastered##1239
+8870##BioShock Infinite##1126
+207610##The Walking Dead##1106
+319630##Life is Strange™##1079
+387290##Ori and the Blind Forest: Definitive Edition##1027
+240##Counter-Strike: Source##1012
+204100##Max Payne 3##968
+220##Half-Life 2##942
+1097150##Fall Guys: Ultimate Knockout##909
+282070##This War of Mine##899
+361300##Mother Russia Bleeds##827
+1222140##Detroit: Become Human##823
+17470##Dead Space##822
+554620##Life is Strange: Before the Storm##817
+310560##DiRT Rally##804
+447820##Day of Infamy##756
+752590##A Plague Tale: Innocence##752
+108710##Alan Wake##744
+47780##Dead Space 2##730
+218620##PAYDAY 2##726
+731490##Crash Bandicoot™ N. Sane Trilogy##723
+728540##Islands of Nyne: Battle Royale##714
+423230##Furi##674
+261030##The Walking Dead: Season Two##660
+107100##Bastion##645
+464060##RUINER##629
+57900##Duke Nukem Forever##610
+414340##Hellblade: Senua's Sacrifice##608
+9200##RAGE##590
+241540##State of Decay##586
+381210##Dead by Daylight##584
+621060##PC Building Simulator##584
+234140##Mad Max##576
+519860##DUSK##556
+359550##Tom Clancy's Rainbow Six Siege##554
+736260##Baba Is You##542
+274190##Broforce##489
+389140##Horizon Chase Turbo##473
+420##Half-Life 2: Episode Two##426
+616110##SPACEPLAN##425
+250320##The Wolf Among Us##406
+683320##GRIS##399
+278360##A Story About My Uncle##396
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##385
+415880##Disc Jam##371
+597220##West of Loathing##367
+728880##Overcooked! 2##346
+523660##HYPERCHARGE: Unboxed##327
+365590##Tom Clancy's The Division##316
+17410##Mirror's Edge##306
+400##Portal##301
+550##Left 4 Dead 2##301
+219150##Hotline Miami##299
+211400##Deadlight##286
+437920##Tricky Towers##275
+242860##Verdun##262
+380##Half-Life 2: Episode One##261
+674940##Stick Fight: The Game##260
+201790##Orcs Must Die! 2##254
+304430##INSIDE##253
+905340##Heave Ho##251
+28050##Deus Ex: Human Revolution##250
+531510##Just Shapes & Beats##250
+424840##Little Nightmares##249
+222880##Insurgency##236
+220780##Thomas Was Alone##232
+80##Counter-Strike: Condition Zero##223
+203140##Hitman: Absolution##222
+469820##Genital Jousting##222
+11020##TrackMania Nations Forever##219
+755790##Ring of Elysium##215
+684410##Bridge Constructor Portal##199
+274170##Hotline Miami 2: Wrong Number##189
+845070##The Awesome Adventures of Captain Spirit##189
+233270##Far Cry® 3 Blood Dragon##176
+221380##Age of Empires II (2013)##167
+615610##Orbt XL##165
+1046030##ISLANDERS##162
+431960##Wallpaper Engine##156
+501300##What Remains of Edith Finch##156
+409720##BioShock 2 Remastered##154
+8930##Sid Meier's Civilization V##150
+237630##DuckTales Remastered##149
+321400##Supraball##142
+214250##I Am Alive##118
+72850##The Elder Scrolls V: Skyrim##117
+324800##Shadow Warrior 2##113
+10##Counter-Strike##109
+235540##Warhammer: End Times - Vermintide##107
+1122720##Sayonara Wild Hearts##105
+214870##Painkiller Hell & Damnation##101
+741510##The Hong Kong Massacre##101
+40800##Super Meat Boy##99
+219640##Chivalry: Medieval Warfare##97
+242920##Banished##76
+204340##Serious Sam 2##62
+9350##Supreme Commander##60
+300##Day of Defeat: Source##58
+265590##The Red Solstice##49
+700160##Semblance##41
+367520##Hollow Knight##39
+400430##The Vanishing of Ethan Carter Redux##38
+396750##EVERSPACE™##37
+570##Dota 2##37
+260730##Desperados - Wanted Dead or Alive##32
+1237970##Titanfall® 2##32
+217200##Worms Armageddon##27
+732430##Superflight##21
+41000##Serious Sam HD: The First Encounter##18
+26800##Braid##17
+611500##Quake Champions##12
+3830##Psychonauts##11
+9180##Commander Keen Complete Pack##9
+442120##Pinball FX3##9
+584400##Sonic Mania##4
+12120##Grand Theft Auto: San Andreas##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+6900##Hitman: Codename 47##0
+564310##Serious Sam Fusion 2017 (beta)##0
+108800##Crysis 2 Maximum Edition##0
+48000##LIMBO##0
+57300##Amnesia: The Dark Descent##0
+204060##Superbrothers: Sword & Sworcery EP##0
+209830##Lone Survivor: The Director's Cut##0
+205930##Hitman: Sniper Challenge##0
+9420##Supreme Commander: Forged Alliance##0
+39650##The Guild II##0
+55110##Red Faction: Armageddon##0
+39690##ArcaniA##0
+50650##Darksiders II##0
+65530##SpellForce 2 - Faith in Destiny##0
+950670##Gothic Playable Teaser##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+258520##The Vanishing of Ethan Carter##0
+24240##PAYDAY: The Heist##0
+8850##BioShock 2##0
+12250##Grand Theft Auto: San Andreas##0
+261570##Ori and the Blind Forest##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+524440##Tom Clancy's The Division PTS##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+469820##Recommended

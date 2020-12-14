@@ -1,0 +1,161 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+300##Day of Defeat: Source##0
+4000##Garry's Mod##0
+20900##The Witcher: Enhanced Edition##0
+500##Left 4 Dead##0
+34820##Combat Wings: Battle of Britain##0
+550##Left 4 Dead 2##0
+10680##Aliens vs. Predator##0
+24960##Battlefield: Bad Company™ 2##0
+47870##Need for Speed: Hot Pursuit##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+108710##Alan Wake##0
+12750##GRID##0
+217790##Dogfight 1942##0
+227300##Euro Truck Simulator 2##0
+212500##The Lord of the Rings Online™##0
+230410##Warframe##0
+236390##War Thunder##0
+262410##World of Guns: Gun Disassembly##0
+265630##Fistful of Frags##0
+224260##No More Room in Hell##0
+256410##Might & Magic: Duel of Champions##0
+232910##TrackMania² Stadium##0
+232010##Euro Truck Simulator##0
+242760##The Forest##0
+265930##Goat Simulator##0
+270880##American Truck Simulator##0
+271500##Sniper Art of Victory##0
+273110##Counter-Strike Nexon: Studio##0
+34830##Sniper: Ghost Warrior##0
+34870##Sniper Ghost Warrior 2##0
+222880##Insurgency##0
+225840##Sven Co-op##0
+286940##S.K.I.L.L. - Special Force 2##0
+292630##Uriel's Chasm##0
+295550##Royal Quest##0
+302830##BLOCKADE 3D##0
+304050##Trove##0
+304930##Unturned##0
+305260##Battle Islands##0
+256190##Enemy Front##0
+291480##Warface##0
+312990##The Expendabros##0
+227940##Heroes & Generals##0
+222900##Dead Island: Epidemic##0
+317600##Company of Heroes: Eastern Front##0
+205790##Dota 2 Test##0
+321040##DiRT 3 Complete Edition##0
+289950##Construction-Simulator 2015##0
+238320##Outlast##0
+326960##Killing Floor - Toy Master##0
+331360##Heavy Metal Machines##0
+730##Counter-Strike: Global Offensive##0
+335240##Transformice##0
+316390##Anomaly Zone##0
+349700##Aftermath##0
+287290##Resident Evil Revelations 2##0
+351570##Killing Floor: Uncovered##0
+353940##Aces of the Luftwaffe##0
+355180##Codename CURE##0
+355840##Survarium##0
+360940##The Mean Greens - Plastic Warfare##0
+365300##Transmissions: Element 120##0
+368360##60 Seconds!##0
+1012880##60 Seconds! Reatomized##0
+380600##Fishing Planet##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+391460##WARMODE##0
+391660##Incitement 3##0
+393420##Hurtworld##0
+445900##Hurtworld SDK##0
+397900##Business Tour - Online Multiplayer Board Game##0
+407250##Pro Evolution Soccer 2016 myClub##0
+410130##AGON - The Lost Sword of Toledo##0
+280790##Creativerse##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+436150##Governor of Poker 3##0
+457330##High Octane Drift##0
+442220##Iron Madness##0
+302670##Call to Arms##0
+489360##CASE: Animatronics##0
+327030##Worms W.M.D##0
+479130##ESEA##0
+503560##911 Operator##0
+513000##Kuboom##0
+513650##Zula Europe##0
+542780##Drift GEAR Racing Free##0
+550900##Metin2##0
+444200##World of Tanks Blitz##0
+555570##Infestation: The New Z##0
+563560##Alien Swarm: Reactive Drop##0
+578310##BRAIN / OUT##0
+434510##Formicide##0
+601510##Yu-Gi-Oh! Duel Links##0
+607200##Tanki X##0
+506540##Last Man Standing##0
+635260##CarX Drift Racing Online##0
+218620##PAYDAY 2##0
+666220##CS2D##0
+670290##Real Pool 3D - Poolians##0
+674400##Einar##0
+700330##SCP: Secret Laboratory##0
+734580##BattleRush##0
+466240##Deceit##0
+738500##The Parallax Effect##0
+757810##Mahlone One##0
+787790##Epic Roller Coasters##0
+788260##Rules Of Survival##0
+805850##Wrecked##0
+809960##Radical Heights##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+884660##CRSED##0
+905640##CombatArms: Reloaded##0
+961440##Resident Evil 2 "1-Shot Demo"##0
+893520##CreativeDestruction##0
+1048540##Kao the Kangaroo: Round 2##0
+219830##King Arthur's Gold##0
+761890##Albion Online##0
+1362420##Siege Survival: Gloria Victis Prologue##0
+@@REVIEW
+327030##Recommended
+489360##Recommended
+457330##Recommended
+321040##Recommended
+730##Recommended

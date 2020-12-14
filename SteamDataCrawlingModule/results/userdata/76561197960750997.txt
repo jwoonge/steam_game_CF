@@ -1,0 +1,129 @@
+@@GAME
+393380##Squad##12744
+218620##PAYDAY 2##12593
+365590##Tom Clancy's The Division##2831
+440##Team Fortress 2##2624
+225540##Just Cause 3##2411
+57690##Tropico 4##1348
+413150##Stardew Valley##1284
+233450##Prison Architect##1272
+227940##Heroes & Generals##1071
+271590##Grand Theft Auto V##1009
+255710##Cities: Skylines##979
+49520##Borderlands 2##963
+17390##Spore##885
+240##Counter-Strike: Source##802
+222880##Insurgency##789
+8930##Sid Meier's Civilization V##648
+427520##Factorio##597
+8980##Borderlands GOTY##567
+322330##Don't Starve Together##461
+24960##Battlefield: Bad Company™ 2##458
+252110##Lovers in a Dangerous Spacetime##445
+206420##Saints Row IV##344
+212680##FTL: Faster Than Light##339
+236390##War Thunder##319
+300##Day of Defeat: Source##301
+236850##Europa Universalis IV##298
+252950##Rocket League##286
+239030##Papers, Please##273
+17510##Age of Chivalry##255
+268850##EVGA Precision X1##180
+242050##Assassin's Creed IV Black Flag##169
+107410##Arma 3##158
+588430##Fallout Shelter##157
+400##Portal##152
+24240##PAYDAY: The Heist##148
+22380##Fallout: New Vegas##141
+620##Portal 2##136
+219740##Don't Starve##135
+220200##Kerbal Space Program##132
+298110##Far Cry 4##117
+1085660##Destiny 2##106
+221910##The Stanley Parable##93
+303210##The Beginner's Guide##86
+4000##Garry's Mod##78
+434170##The Jackbox Party Pack 3##73
+8190##Just Cause 2##71
+377160##Fallout 4##56
+285900##Gang Beasts##54
+47890##The Sims(TM) 3##53
+383870##Firewatch##51
+12110##Grand Theft Auto: Vice City##44
+220##Half-Life 2##34
+12210##Grand Theft Auto IV: The Complete Edition##33
+387290##Ori and the Blind Forest: Definitive Edition##27
+550##Left 4 Dead 2##26
+105450##Age of Empires® III (2007)##23
+105600##Terraria##22
+386940##Ultimate Chicken Horse##21
+237930##Transistor##16
+274170##Hotline Miami 2: Wrong Number##15
+221380##Age of Empires II (2013)##13
+32440##LEGO® Star Wars™: The Complete Saga##12
+331670##The Jackbox Party Pack##12
+391540##Undertale##11
+837470##Untitled Goose Game##10
+12120##Grand Theft Auto: San Andreas##9
+477160##Human: Fall Flat##9
+619910##Just Cause™ 3: Multiplayer Mod##7
+555000##GOAT OF DUTY##7
+381780##80 Days##6
+863550##HITMAN™ 2##5
+438100##VRChat##4
+442070##Drawful 2##3
+448510##Overcooked##3
+48000##LIMBO##3
+203160##Tomb Raider##3
+10##Counter-Strike##2
+409160##Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist##2
+804320##Papers, Please - The Short Film##2
+286160##Tabletop Simulator##1
+319630##Life is Strange™##1
+375950##Viridi##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+130##Half-Life: Blue Shift##0
+280##Half-Life: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+6880##Just Cause##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+17440##Spore: Creepy & Cute Parts Pack##0
+24720##Spore: Galactic Adventures##0
+107100##Bastion##0
+206440##To the Moon##0
+204360##Castle Crashers##0
+12240##Grand Theft Auto: Vice City##0
+225080##Brothers - A Tale of Two Sons##0
+12250##Grand Theft Auto: San Andreas##0
+224480##Octodad: Dadliest Catch##0
+238460##BattleBlock Theater##0
+304430##INSIDE##0
+304930##Unturned##0
+729040##Borderlands GOTY Enhanced##0
+205790##Dota 2 Test##0
+219150##Hotline Miami##0
+261570##Ori and the Blind Forest##0
+291550##Brawlhalla##0
+397460##The Jackbox Party Pack 2##0
+774941##Squad - Public Testing##0
+420530##OneShot##0
+524440##Tom Clancy's The Division PTS##0
+545100##PAYDAY 2: John Wick Weapon Pack##0
+730##Counter-Strike: Global Offensive##0
+34330##Total War: SHOGUN 2##0
+325180##AppGameKit Classic##0
+@@REVIEW
+365590##Not Recommended
+225540##Recommended
+271590##Not Recommended

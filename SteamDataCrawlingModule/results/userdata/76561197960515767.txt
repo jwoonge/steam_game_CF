@@ -1,0 +1,225 @@
+@@GAME
+107410##Arma 3##263170
+346110##ARK: Survival Evolved##157009
+8500##EVE Online##45639
+244850##Space Engineers##34312
+903950##Last Oasis##23967
+440900##Conan Exiles##22708
+730##Counter-Strike: Global Offensive##19856
+221100##DayZ##19149
+251570##7 Days to Die##17878
+238960##Path of Exile##17159
+220200##Kerbal Space Program##14702
+427520##Factorio##13384
+8930##Sid Meier's Civilization V##10189
+72850##The Elder Scrolls V: Skyrim##9277
+2870##X Rebirth##8553
+1151340##Fallout 76##8269
+311310##Naval Action##8172
+233860##Kenshi##7988
+594570##Total War: WARHAMMER II##5855
+299740##Miscreated##5799
+250820##SteamVR##5652
+382310##Eco##5499
+223750##DCS World Steam Edition##5116
+22380##Fallout: New Vegas##5088
+226840##Age of Wonders III##5026
+292030##The Witcher 3: Wild Hunt##5004
+344760##Reign Of Kings##4648
+513710##SCUM##4313
+244450##Men of War: Assault Squad 2##3892
+637090##BATTLETECH##3725
+929270##ViewTracker##3404
+33570##Patrician III##2860
+379430##Kingdom Come: Deliverance##2811
+230190##War for the Overworld##2546
+544550##Stationeers##2310
+392160##X4: Foundations##2235
+355840##Survarium##2216
+234650##Shadowrun Returns##2094
+203770##Crusader Kings II##2018
+686810##Hell Let Loose##1986
+239140##Dying Light##1749
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##1709
+208140##Endless Space##1706
+489830##The Elder Scrolls V: Skyrim Special Edition##1646
+268850##EVGA Precision X1##1639
+230410##Warframe##1569
+377160##Fallout 4##1549
+38410##Fallout 2##1546
+64000##Men of War: Assault Squad##1468
+236390##War Thunder##1249
+261550##Mount & Blade II: Bannerlord##1166
+582660##Black Desert Online##1158
+418460##Rising Storm 2: Vietnam##1124
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##1119
+364360##Total War: WARHAMMER##1119
+629760##MORDHAU##1079
+812140##Assassin's Creed Odyssey##1036
+20510##S.T.A.L.K.E.R.: Clear Sky##1017
+430440##Of Kings And Men##1009
+996580##Spyro™ Reignited Trilogy##958
+48240##Anno 2070##927
+34330##Total War: SHOGUN 2##909
+9420##Supreme Commander: Forged Alliance##880
+342200##MechWarrior Online##801
+513650##Zula Europe##761
+1690##Space Empires V##715
+326160##Shroud of the Avatar: Forsaken Virtues##708
+834910##ATLAS##676
+530700##Argo##580
+10##Counter-Strike##551
+289130##Endless Legend™ - Emperor Edition##548
+105600##Terraria##547
+218230##PlanetSide 2##537
+301520##Robocraft##515
+648350##Jurassic World Evolution##512
+393380##Squad##508
+440##Team Fortress 2##461
+49520##Borderlands 2##453
+379720##DOOM##450
+322330##Don't Starve Together##394
+225640##Sacred 2 Gold##389
+231430##Company of Heroes 2##383
+201310##X3: Albion Prelude##376
+416670##Gunslingers##334
+374280##Hired Ops##328
+8800##Sid Meier's Civilization IV: Beyond the Sword##323
+722060##Dominions 5##317
+570##Dota 2##309
+491950##Orwell##298
+227680##StarForge##277
+363680##Battlefleet Gothic: Armada##271
+33930##Arma 2: Operation Arrowhead##250
+262410##World of Guns: Gun Disassembly##245
+55150##Warhammer 40,000: Space Marine##223
+22100##Mount & Blade##217
+213850##Magic 2014 ##193
+32470##STAR WARS™ Empire at War: Gold Pack##186
+302670##Call to Arms##182
+813780##Age of Empires II: Definitive Edition##181
+4700##Total War: MEDIEVAL II - Definitive Edition##172
+227780##Serious Sam Classics: Revolution##171
+12370##Jagged Alliance 2: Gold Pack##147
+65740##Carrier Command: Gaea Mission##143
+755790##Ring of Elysium##143
+2820##X3: Terran Conflict##140
+42910##Magicka##129
+70100##Hacker Evolution##128
+286690##Metro 2033 Redux##119
+48700##Mount & Blade: Warband##116
+235800##Audiosurf 2##110
+1091500##Cyberpunk 2077##109
+507490##Ashes of the Singularity: Escalation##101
+233130##Shadow Warrior##87
+242570##Space Hulk##84
+222880##Insurgency##84
+838380##DEAD OR ALIVE 6##77
+41000##Serious Sam HD: The First Encounter##74
+209080##Guns of Icarus Online##70
+608800##Guns of Icarus Alliance##70
+444090##Paladins##66
+24960##Battlefield: Bad Company™ 2##62
+238370##Magicka 2##61
+46540##Trapped Dead##60
+555000##GOAT OF DUTY##58
+70##Half-Life##52
+41700##S.T.A.L.K.E.R.: Call of Pripyat##48
+700330##SCP: Secret Laboratory##46
+563560##Alien Swarm: Reactive Drop##45
+433850##Z1 Battle Royale##45
+22330##The Elder Scrolls IV: Oblivion ##44
+255710##Cities: Skylines##41
+1510##Uplink##39
+242860##Verdun##29
+348250##Google Earth VR##29
+4920##Natural Selection 2##28
+289070##Sid Meier's Civilization VI##28
+476620##Call of Duty: WWII - Multiplayer##25
+225320##Tomb Raider III: Adventures of Lara Croft##19
+9450##Warhammer 40,000: Dawn of War - Soulstorm##19
+476600##Call of Duty: WWII##14
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##12
+442210##Switchcars##12
+223710##Cry of Fear##10
+650000##DOOM VFR##10
+552990##World of Warships##9
+253940##Septerra Core##7
+823130##Totally Accurate Battlegrounds##4
+12320##Sacred Gold##3
+544920##Darwin Project##3
+34270##SEGA Mega Drive & Genesis Classics##3
+333930##Dirty Bomb##2
+2600##Vampire: The Masquerade - Bloodlines##1
+20900##The Witcher: Enhanced Edition##1
+33350##Anno 1404: Venice##1
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##1
+9310##Warhammer 40,000: Dawn of War - Winter Assault##1
+312990##The Expendabros##1
+319630##Life is Strange™##1
+834530##Yakuza Kiwami##1
+38420##Fallout Tactics##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+12380##Jagged Alliance 2 Gold: Unfinished Business##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+33250##Anno 1404##0
+620##Portal 2##0
+9350##Supreme Commander##0
+41010##Serious Sam HD: The Second Encounter##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+41070##Serious Sam 3: BFE##0
+111600##Serious Sam Double D XXL##0
+201480##Serious Sam: The Random Encounter##0
+204340##Serious Sam 2##0
+564310##Serious Sam Fusion 2017 (beta)##0
+1083500##PlanetSide 2 - Test##0
+271290##HAWKEN##0
+250260##Jazzpunk: Director's Cut##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+287390##Metro: Last Light Redux##0
+33910##Arma 2##0
+65700##Arma 2: British Armed Forces##0
+65720##Arma 2: Private Military Company##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+224580##Arma 2: DayZ Mod##0
+316010##Magic Duels##0
+261640##Borderlands: The Pre-Sequel##0
+407530##ARK: Survival Of The Fittest##0
+912290##Miscreated: Experimental Server##0
+365720##Skyrim Script Extender (SKSE)##0
+397080##Magicka 2: Spell Balance Beta##0
+438100##VRChat##0
+931180##Conan Exiles - Testlive Client##0
+596350##Paladins - Public Test##0
+774941##Squad - Public Testing##0
+544750##SOULCALIBUR VI##0
+375230##Warhammer 40,000: Eternal Crusade##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+304930##Unturned##0
+439700##H1Z1: Test Server##0
+1033460##DOA6 Character: Ayane##0
+611500##Quake Champions##0
+38400##Fallout##0
+@@REVIEW
+513650##Recommended
+355840##Not Recommended
+261550##Not Recommended
+233860##Recommended
+544550##Recommended
+226840##Not Recommended
+33570##Recommended
+440900##Recommended
+346110##Not Recommended
+231430##Not Recommended

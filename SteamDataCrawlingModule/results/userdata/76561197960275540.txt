@@ -1,0 +1,193 @@
+@@GAME
+570##Dota 2##108980
+35450##Rising Storm/Red Orchestra 2 Multiplayer##43469
+736220##Post Scriptum##37625
+393380##Squad##35161
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##29722
+1280##Darkest Hour: Europe '44-'45##23744
+686810##Hell Let Loose##18954
+440##Team Fortress 2##17811
+34330##Total War: SHOGUN 2##9608
+4920##Natural Selection 2##8387
+10500##Total War: EMPIRE - Definitive Edition##5499
+730##Counter-Strike: Global Offensive##4736
+292030##The Witcher 3: Wild Hunt##4647
+236390##War Thunder##4316
+42710##Call of Duty: Black Ops - Multiplayer##3560
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##3354
+244450##Men of War: Assault Squad 2##2911
+72850##The Elder Scrolls V: Skyrim##2796
+240##Counter-Strike: Source##2682
+15620##Warhammer 40,000: Dawn of War II##2439
+221100##DayZ##2183
+55150##Warhammer 40,000: Space Marine##2074
+1200##Red Orchestra: Ostfront 41-45##1990
+34030##Total War: NAPOLEON - Definitive Edition##1737
+552500##Warhammer: Vermintide 2##1561
+242860##Verdun##1486
+231430##Company of Heroes 2##1473
+17460##Mass Effect##1454
+273350##Evolve Stage 2##1453
+209660##Call of Duty: Advanced Warfare - Multiplayer##1358
+33230##Assassin's Creed II##1346
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##1207
+235540##Warhammer: End Times - Vermintide##1205
+50130##Mafia II (Classic)##1196
+214950##Total War: ROME II - Emperor Edition##1134
+218620##PAYDAY 2##1115
+594570##Total War: WARHAMMER II##1113
+364360##Total War: WARHAMMER##1086
+271590##Grand Theft Auto V##997
+226840##Age of Wonders III##957
+285190##Warhammer 40,000: Dawn of War III##898
+42160##War of the Roses##833
+44350##GRID 2##775
+28050##Deus Ex: Human Revolution##732
+10180##Call of Duty: Modern Warfare 2##594
+107410##Arma 3##572
+620##Portal 2##561
+209650##Call of Duty: Advanced Warfare##551
+816090##Space Hulk: Deathwing - Enhanced Edition##479
+64000##Men of War: Assault Squad##472
+32360##The Secret of Monkey Island: Special Edition##446
+48700##Mount & Blade: Warband##428
+203140##Hitman: Absolution##409
+56400##Warhammer 40,000: Dawn of War II - Retribution##405
+572410##Steel Division: Normandy 44##400
+63950##IL-2 Sturmovik: Cliffs of Dover##378
+49540##Aliens: Colonial Marines##373
+363680##Battlefleet Gothic: Armada##355
+573100##Battlefleet Gothic: Armada 2##346
+42700##Call of Duty: Black Ops##339
+204880##Sins of a Solar Empire: Rebellion##333
+17300##Crysis##320
+20900##The Witcher: Enhanced Edition##311
+1151640##Horizon Zero Dawn##283
+1091500##Cyberpunk 2077##272
+812140##Assassin's Creed Odyssey##262
+493340##Planet Coaster##257
+420##Half-Life 2: Episode Two##253
+219640##Chivalry: Medieval Warfare##251
+400##Portal##250
+418460##Rising Storm 2: Vietnam##232
+373930##Sudden Strike 4##230
+32470##STAR WARS™ Empire at War: Gold Pack##214
+48720##Mount & Blade: With Fire and Sword##205
+550##Left 4 Dead 2##199
+235380##Blitzkrieg 3##158
+251570##7 Days to Die##148
+291650##Pillars of Eternity##142
+22600##Worms Reloaded##120
+3590##Plants vs. Zombies: Game of the Year##115
+552990##World of Warships##106
+424030##War of Rights##96
+440090##Heroes of the West##89
+1230##Mare Nostrum##76
+612520##Sudden Strike 2 Gold##69
+630##Alien Swarm##69
+1100410##Commandos 2 - HD Remaster##68
+20540##Company of Heroes: Tales of Valor##62
+6800##Commandos: Behind Enemy Lines##60
+6810##Commandos: Beyond the Call of Duty##59
+227940##Heroes & Generals##58
+300##Day of Defeat: Source##52
+46360##Theatre of War 2: Kursk 1943 ##52
+48190##Assassin's Creed Brotherhood##51
+12210##Grand Theft Auto IV: The Complete Edition##48
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##48
+230410##Warframe##43
+63380##Sniper Elite V2##30
+379430##Kingdom Come: Deliverance##30
+47810##Dragon Age: Origins - Ultimate Edition##27
+253900##Knights and Merchants##23
+356260##Stalingrad##19
+813780##Age of Empires II: Definitive Edition##18
+6830##Commandos 2: Men of Courage##17
+17330##Crysis Warhead##16
+612300##Sudden Strike Gold##14
+46340##Theatre of War 2: Africa 1943##13
+35140##Batman: Arkham Asylum GOTY Edition##13
+221380##Age of Empires II (2013)##12
+206980##War of the Roses Balance Beta##10
+313500##Blitzkrieg 2 Anthology##10
+444560##Agent Origins: Escape##10
+6840##Commandos 3: Destination Berlin##9
+17340##Crysis Wars##3
+29660##Aion##1
+32460##Monkey Island 2: Special Edition##1
+262280##Dungeons 2##1
+241930##Middle-earth™: Shadow of Mordor™##1
+612540##Sudden Strike 3##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+9450##Warhammer 40,000: Dawn of War - Soulstorm##0
+4560##Company of Heroes - Legacy Edition##0
+228200##Company of Heroes ##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+1030830##Mafia II: Definitive Edition##0
+46290##Theatre of War##0
+754530##IL-2 Sturmovik: Cliffs of Dover Blitz##0
+22100##Mount & Blade##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+201280##Deus Ex: Human Revolution - The Missing Link##0
+205790##Dota 2 Test##0
+21170##Gotham City Impostors##0
+57400##Batman: Arkham City™##0
+200260##Batman: Arkham City GOTY##0
+206210##Gotham City Impostors: Free To Play##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+205930##Hitman: Sniper Challenge##0
+238960##Path of Exile##0
+3910##Sid Meier's Civilization III: Complete##0
+12750##GRID##0
+234650##Shadowrun Returns##0
+65930##The Bureau: XCOM Declassified##0
+254000##East India Company Gold##0
+261550##Mount & Blade II: Bannerlord##0
+284850##Grim Legends: The Forsaken Bride##0
+286570##F1 2015##0
+310560##DiRT Rally##0
+312990##The Expendabros##0
+324850##Red Orchestra 2/Rising Storm Beta Community Maps##0
+500##Left 4 Dead##0
+371140##Aegis Defenders##0
+359320##Elite Dangerous##0
+774941##Squad - Public Testing##0
+443080##Elite Dangerous: Arena##0
+310380##Fractured Space##0
+48000##LIMBO##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+507490##Ashes of the Singularity: Escalation##0
+208140##Endless Space##0
+737230##Rising Storm 2: Vietnam CTB Beta##0
+38400##Fallout##0
+298900##Space Hulk: Deathwing##0
+835860##Dreadnought##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+43110##Metro 2033##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+976730##Halo: The Master Chief Collection##0
+1085660##Destiny 2##0
+203770##Crusader Kings II##0
+527430##Warhammer 40,000: Inquisitor - Martyr##0
+1042800##Warhammer 40,000: Inquisitor - Prophecy##0
+203160##Tomb Raider##0
+680360##Regions Of Ruin##0
+@@REVIEW
+736220##Recommended

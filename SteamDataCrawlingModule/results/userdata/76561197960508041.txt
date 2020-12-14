@@ -1,0 +1,97 @@
+@@GAME
+250820##SteamVR##145085
+72850##The Elder Scrolls V: Skyrim##79659
+252490##Rust##38348
+275850##No Man's Sky##37982
+211##Source SDK##28334
+8930##Sid Meier's Civilization V##27414
+489830##The Elder Scrolls V: Skyrim Special Edition##26271
+289070##Sid Meier's Civilization VI##14339
+730##Counter-Strike: Global Offensive##13481
+220##Half-Life 2##13299
+240##Counter-Strike: Source##11783
+211820##Starbound##11368
+431960##Wallpaper Engine##10286
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##8970
+300##Day of Defeat: Source##4045
+528230##SYNTHETIK##3674
+346110##ARK: Survival Evolved##2669
+9420##Supreme Commander: Forged Alliance##2411
+611670##The Elder Scrolls V: Skyrim VR##1791
+270150##RUNNING WITH RIFLES##1435
+209670##Cortex Command##1247
+718670##Cultist Simulator##995
+255710##Cities: Skylines##900
+280520##Crea##880
+35450##Rising Storm/Red Orchestra 2 Multiplayer##790
+212680##FTL: Faster Than Light##739
+107410##Arma 3##577
+332310##LEGO® Worlds##554
+22320##The Elder Scrolls III: Morrowind##522
+289130##Endless Legend™ - Emperor Edition##434
+22330##The Elder Scrolls IV: Oblivion ##420
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##413
+218620##PAYDAY 2##389
+253250##Stonehearth##371
+4000##Garry's Mod##339
+359550##Tom Clancy's Rainbow Six Siege##324
+49470##Magic: The Gathering — Duels of the Planeswalkers 2012##286
+105600##Terraria##282
+233150##LUFTRAUSERS##243
+451650##Whirligig##219
+242760##The Forest##198
+48240##Anno 2070##195
+255420##Magic 2015##176
+252950##Rocket League##139
+239090##Samurai Gunn##137
+316010##Magic Duels##130
+368230##Kingdom: Classic##111
+311340##METAL GEAR SOLID V: GROUND ZEROES##105
+241930##Middle-earth™: Shadow of Mordor™##102
+244850##Space Engineers##86
+9350##Supreme Commander##84
+249050##Dungeon of the Endless™ - Crystal Edition##84
+219830##King Arthur's Gold##80
+248610##Door Kickers##65
+304930##Unturned##57
+1840##Source Filmmaker##55
+636480##Ravenfield##42
+238370##Magicka 2##33
+984110##SYNTHETIK: Arena##31
+386070##Planetary Annihilation: TITANS##28
+450390##The Lab##18
+837380##DeoVR Video Player##17
+222730##Reus##13
+613220##Steam 360 Video Player##8
+721090##SKYBOX VR Video Player##6
+407530##ARK: Survival Of The Fittest##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+550##Left 4 Dead 2##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+238960##Path of Exile##0
+10680##Aliens vs. Predator##0
+700580##Rust - Staging Branch##0
+367540##Starbound - Unstable##0
+313500##Blitzkrieg 2 Anthology##0
+227940##Heroes & Generals##0
+397080##Magicka 2: Spell Balance Beta##0
+374570##Kung Fury##0
+496300##Kingdom: New Lands##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+646200##Dead Effect 2 VR##0
+342180##Arizona Sunshine##0
+@@REVIEW
+252490##Recommended
+48240##Not Recommended

@@ -1,0 +1,47 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+400##Portal##0
+72850##The Elder Scrolls V: Skyrim##0
+203810##Dear Esther##0
+520720##Dear Esther: Landmark Edition##0
+212680##FTL: Faster Than Light##0
+219740##Don't Starve##0
+322330##Don't Starve Together##0
+243450##Urban Trial Freestyle##0
+49520##Borderlands 2##0
+262060##Darkest Dungeon®##0
+268910##Cuphead##0
+310560##DiRT Rally##0
+314650##SpaceEngine##0
+305620##The Long Dark##0
+343780##Cat Goes Fishing##0
+357330##Space Beast Terror Fright##0
+292030##The Witcher 3: Wild Hunt##0
+225540##Just Cause 3##0
+427520##Factorio##0
+510420##The Hex##0
+221680##Rocksmith® 2014 Edition - Remastered##0
+460920##Steep##0
+616560##Ultimate Epic Battle Simulator##0
+392110##Endless Space® 2 - Digital Deluxe Edition##0
+653530##Return of the Obra Dinn##0
+656350##UnderMine##0
+753640##Outer Wilds##0
+844590##Hypnospace Outlaw##0
+945360##Among Us##0
+973760##Thronebreaker: The Witcher Tales##0
+1172380##STAR WARS Jedi: Fallen Order™ ##0
+@@REVIEW

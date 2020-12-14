@@ -1,0 +1,59 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+33910##Arma 2##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+55110##Red Faction: Armageddon##0
+2400##The Ship##0
+2420##The Ship Single Player##0
+2430##The Ship Tutorial##0
+104900##ORION: Prelude##0
+730##Counter-Strike: Global Offensive##0
+226700##Infestation: Survivor Stories 2020##0
+224580##Arma 2: DayZ Mod##0
+227680##StarForge##0
+235600##Tom Clancy's Splinter Cell Blacklist##0
+222880##Insurgency##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+107410##Arma 3##0
+250400##How to Survive##0
+215280##Secret World Legends##0
+263280##Spintires®##0
+367690##Spintires® - Editor##0
+263440##The Stomping Land##0
+221100##DayZ##0
+247730##Nether##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+299860##Beasts of Prey##0
+209650##Call of Duty: Advanced Warfare##0
+209660##Call of Duty: Advanced Warfare - Multiplayer##0
+304930##Unturned##0
+227700##Firefall##0
+393420##Hurtworld##0
+445900##Hurtworld SDK##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+@@REVIEW
+107410##Recommended
+263440##Recommended
+730##Recommended
+252490##Recommended
+240##Recommended

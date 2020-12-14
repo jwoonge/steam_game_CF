@@ -1,0 +1,36 @@
+@@GAME
+730##Counter-Strike: Global Offensive##222633
+433850##Z1 Battle Royale##48296
+10##Counter-Strike##29820
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##4563
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##3996
+240##Counter-Strike: Source##2435
+346110##ARK: Survival Evolved##1559
+282660##Easy eSports##592
+439700##H1Z1: Test Server##350
+252490##Rust##335
+295110##Just Survive##181
+246620##Plague Inc: Evolved##153
+570##Dota 2##49
+728540##Islands of Nyne: Battle Royale##42
+300##Day of Defeat: Source##36
+809960##Radical Heights##3
+42680##Call of Duty: Modern Warfare 3##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+700580##Rust - Staging Branch##0
+362300##Just Survive Test Server##0
+205790##Dota 2 Test##0
+407530##ARK: Survival Of The Fittest##0
+380600##Fishing Planet##0
+657200##Hand Simulator##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+@@REVIEW

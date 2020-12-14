@@ -1,0 +1,26 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+17480##Command and Conquer: Red Alert 3##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+24790##Command and Conquer 3: Tiberium Wars##0
+24810##Command and Conquer 3: Kane's Wrath##0
+34030##Total War: NAPOLEON - Definitive Edition##0
+47700##Command and Conquer 4: Tiberian Twilight##0
+47890##The Sims(TM) 3##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+105400##Fable III##0
+72850##The Elder Scrolls V: Skyrim##0
+730##Counter-Strike: Global Offensive##0
+239820##Game Dev Tycoon##0
+213670##South Park™: The Stick of Truth™##0
+206420##Saints Row IV##0
+221380##Age of Empires II (2013)##0
+552990##World of Warships##0
+@@REVIEW

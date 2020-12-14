@@ -1,0 +1,33 @@
+@@GAME
+252950##Rocket League##14672
+730##Counter-Strike: Global Offensive##14534
+300##Day of Defeat: Source##13402
+10##Counter-Strike##955
+500##Left 4 Dead##622
+386360##SMITE##526
+236390##War Thunder##350
+489830##The Elder Scrolls V: Skyrim Special Edition##323
+240##Counter-Strike: Source##188
+400##Portal##157
+440##Team Fortress 2##119
+70##Half-Life##117
+34330##Total War: SHOGUN 2##106
+550##Left 4 Dead 2##52
+20##Team Fortress Classic##42
+17700##Insurgency: Modern Infantry Combat##36
+220##Half-Life 2##27
+280##Half-Life: Source##14
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+858460##SMITE - Public Test##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+611500##Quake Champions##0
+1085660##Destiny 2##0
+@@REVIEW

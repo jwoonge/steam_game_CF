@@ -1,0 +1,29 @@
+@@GAME
+730##Counter-Strike: Global Offensive##41965
+629520##Soundpad##11417
+359550##Tom Clancy's Rainbow Six Siege##1777
+945360##Among Us##1098
+250820##SteamVR##746
+739630##Phasmophobia##200
+714010##Aim Lab##121
+10##Counter-Strike##65
+1172470##Apex Legends##61
+1180380##Stay Out##45
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+15120##Tom Clancy's Rainbow Six: Vegas 2##0
+15000##Tom Clancy's Rainbow Six: Lockdown##0
+19830##Tom Clancy's Rainbow Six 3: Gold Edition##0
+19840##Tom Clancy's Rainbow Six 3: Athena Sword##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+359550##Recommended
+730##Recommended

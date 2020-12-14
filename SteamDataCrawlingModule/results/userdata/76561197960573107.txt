@@ -1,0 +1,81 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+300##Day of Defeat: Source##0
+2100##Dark Messiah of Might & Magic Single Player##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+9450##Warhammer 40,000: Dawn of War - Soulstorm##0
+10090##Call of Duty: World at War##0
+24860##Battlefield 2##0
+20900##The Witcher: Enhanced Edition##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+72850##The Elder Scrolls V: Skyrim##0
+55230##Saints Row: The Third##0
+205790##Dota 2 Test##0
+4560##Company of Heroes - Legacy Edition##0
+228200##Company of Heroes ##0
+9340##Company of Heroes: Opposing Fronts##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+9310##Warhammer 40,000: Dawn of War - Winter Assault##0
+15620##Warhammer 40,000: Dawn of War II##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+55150##Warhammer 40,000: Space Marine##0
+200510##XCOM: Enemy Unknown##0
+45760##Ultra Street Fighter IV##0
+36620##Forsaken World ##0
+109600##Neverwinter##0
+238960##Path of Exile##0
+206480##Dungeons & Dragons Online®##0
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##0
+231430##Company of Heroes 2##0
+213850##Magic 2014 ##0
+251730##Legend of Grimrock 2##0
+255220##GRID Autosport##0
+262060##Darkest Dungeon®##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+291480##Warface##0
+200110##Nosgoth##0
+249230##Risen 3 - Titan Lords##0
+950670##Gothic Playable Teaser##0
+235540##Warhammer: End Times - Vermintide##0
+365720##Skyrim Script Extender (SKSE)##0
+377160##Fallout 4##0
+337000##Deus Ex: Mankind Divided™##0
+268500##XCOM 2##0
+440900##Conan Exiles##0
+931180##Conan Exiles - Testlive Client##0
+379720##DOOM##0
+442080##Riders of Icarus##0
+527230##For The King##0
+529180##Dark and Light##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+375230##Warhammer 40,000: Eternal Crusade##0
+285190##Warhammer 40,000: Dawn of War III##0
+38400##Fallout##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+755790##Ring of Elysium##0
+265590##The Red Solstice##0
+882100##XCOM: Chimera Squad##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+1151340##Fallout 76##0
+@@REVIEW

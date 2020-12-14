@@ -1,0 +1,20 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+227300##Euro Truck Simulator 2##0
+302830##BLOCKADE 3D##0
+321040##DiRT 3 Complete Edition##0
+730##Counter-Strike: Global Offensive##0
+393420##Hurtworld##0
+445900##Hurtworld SDK##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+687510##WireNet##0
+787860##Farming Simulator 19##0
+@@REVIEW

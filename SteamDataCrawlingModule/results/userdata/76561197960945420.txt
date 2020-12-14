@@ -1,0 +1,22 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+380600##Fishing Planet##0
+730##Counter-Strike: Global Offensive##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+641990##The Escapists 2##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+884660##CRSED##0
+586980##MadOut2 BigCityOnline##0
+958260##DEAD OR ALIVE Xtreme Venus Vacation##0
+1084400##Hentai Arena | Battle Royale##0
+1085660##Destiny 2##0
+1172470##Apex Legends##0
+@@REVIEW

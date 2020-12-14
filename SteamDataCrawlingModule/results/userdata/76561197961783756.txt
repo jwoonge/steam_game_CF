@@ -1,0 +1,13 @@
+@@GAME
+730##Counter-Strike: Global Offensive##178
+10##Counter-Strike##25
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+217980##Dishonored RHCP##0
+@@REVIEW
+10##Recommended

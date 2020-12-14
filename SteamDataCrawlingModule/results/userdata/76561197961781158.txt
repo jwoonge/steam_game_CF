@@ -1,0 +1,190 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+240##Counter-Strike: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+320##Half-Life 2: Deathmatch##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+620##Portal 2##0
+730##Counter-Strike: Global Offensive##0
+211050##Battle vs Chess##0
+218510##Planets Under Attack##0
+222160##Hamlet or the last game without MMORPG features, shaders and product placement##0
+7510##X-Blades##0
+1900##Earth 2160##0
+215930##Jagged Alliance 2 - Wildfire ##0
+1930##Two Worlds: Epic Edition##0
+224900##Iron Sky Invasion##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+262410##World of Guns: Gun Disassembly##0
+234650##Shadowrun Returns##0
+253880##Earth 2150 Trilogy##0
+259280##Earth 2150: The Moon Project##0
+259300##Earth 2150: Lost Souls##0
+253900##Knights and Merchants##0
+253920##Gorky 17##0
+253940##Septerra Core##0
+253960##Jack Orlando Director's Cut##0
+253980##Enclave##0
+254100##World War II: Panzer Claws##0
+259320##Heli Heroes##0
+261430##AION Free-to-Play##0
+268420##Aura Kingdom##0
+271860##Super Killer Hornet: Resurrection##0
+273770##Game Tycoon 1.5##0
+279720##The I of the Dragon##0
+282660##Easy eSports##0
+284950##Pixel Puzzles: Japan##0
+351030##Pixel Puzzles Ultimate##0
+285010##Pixel Puzzles: UndeadZ##0
+292380##Racer 8##0
+293180##Overcast - Walden and the Werewolf##0
+296870##Dreaming Sarah##0
+297020##The Culling Of The Cows##0
+308000##Gold Rush! Classic##0
+313140##Blackbay Asylum##0
+341540##TRIP Steam Edition##0
+356880##Eron##0
+357290##Red Lake##0
+366180##Disposable Heroes##0
+385070##Atonement: Scourge of Time##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+391660##Incitement 3##0
+397900##Business Tour - Online Multiplayer Board Game##0
+406090##Lost Moon##0
+429470##Space Pilgrim Episode I: Alpha Centauri##0
+448780##Sixtieth Kilometer##0
+449540##There's Poop In My Soup##0
+449680##SAMOLIOTIK##0
+438480##Rock 'N' Roll Defense##0
+539720##Razortron 2000##0
+562360##Planes, Bullets and Vodka##0
+636150##Cyberhunt##0
+457710##Road Madness##0
+463350##Storm of Spears##0
+467370##Escape This##0
+470270##Tribal Pass##0
+479130##ESEA##0
+509850##Bumper##0
+522570##The Last Hope##0
+528430##Wells##0
+533820##Atonement 2: Ruptured by Despair##0
+535760##Unforgiving Trials: The Space Crusade##0
+542550##Plankton##0
+558230##Elsword Free-to-Play##0
+574580##To The Capital##0
+574640##Unalive##0
+576130##State of Anarchy Complete: Master of Mayhem##0
+588430##Fallout Shelter##0
+591560##Red Death##0
+606330##Shadows 2: Perfidia##0
+627950##1914: Prelude to Chaos##0
+628750##aMAZE 2##0
+589850##Leashed Soul##0
+667420##Redium##0
+670430##Colorless Life##0
+675940##SpaceShot##0
+680690##Kama Bullet Heritage##0
+685990##Forgotten Land##0
+689350##Ruin City Gasolina##0
+694490##Quad Hopping##0
+697930##Brutal Runner##0
+707400##Attack Of Insects##0
+708920##I Can See the Future##0
+709410##AZURA##0
+711210##StepX##0
+711560##Stone Flower##0
+713680##Ablepsia##0
+714620##Snakeez##0
+715980##Eared Hero##0
+718320##FoxyLand##0
+720470##Caveman Alive##0
+725280##Psi Project##0
+727530##Expelled##0
+734820##Protect Me##0
+741450##Immortal Heroes##0
+744550##Tactical Operations##0
+745340##Super Meat Shooter##0
+745370##Purple Heart##0
+745710##SMACKHEAD##0
+745740##Reflex##0
+747700##Space Shaft##0
+753990##Psi Project: Legacy##0
+754040##Piggy Poggy Pog##0
+754800##Yashik##0
+756420##Dark Maze##0
+756440##Your Bunny Wrote##0
+756880##NVL##0
+757170##KOLOBOK##0
+760350##Star Sweet##0
+760460##WEED##0
+769440##Beach Restaurant##0
+770350##PIXEL DRIFT##0
+771610##NeoBalls##0
+776190##Galactic Battles##0
+776960##Sos i Pie Sos##0
+777020##Mumps##0
+777050##TOXIC PLUMBING##0
+778590##Mountain Troll##0
+778850##Please close the doors##0
+782100###CuteSnake##0
+782300##Unstoppable Hamster##0
+786560##NeoBalls2##0
+788510##Aeve:Zero Gravity##0
+790230##Zombie Clicker Defense##0
+793990##Dupio##0
+796110##Arkasha##0
+796440##Spaceguy##0
+796480##Bit-Boom##0
+796510##Monkey Slap##0
+797060##Qubika##0
+800280##FLYVALNY 20!8##0
+800530##Ninja jump##0
+801020##Golden Dungeons##0
+801060##ArcBall##0
+801280##Cowboy Escape##0
+803390##Thunderbolt##0
+804970##Shoottera##0
+806140##Achievement printer##0
+806240##RollingBall##0
+809320##Silent Tweets##0
+811360##Archibald##0
+817760##The Castle Disaster##0
+818790##Stunt Hill##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+823100##Peace Duke##0
+823130##Totally Accurate Battlegrounds##0
+823180##Bubble Strike##0
+823360##Sloppy Goat##0
+823650##Zombow##0
+825000##Temptation##0
+825610##Viking's drakkars##0
+828150##WIN THE GAME!##0
+828230##Dungeons of the dead##0
+834470##Zima uhodi!##0
+611500##Quake Champions##0
+222880##Insurgency##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+@@REVIEW
+730##Recommended

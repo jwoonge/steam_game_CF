@@ -1,0 +1,22 @@
+@@GAME
+730##Counter-Strike: Global Offensive##201818
+10##Counter-Strike##148397
+766570##Russian Fishing 4##50819
+570##Dota 2##32567
+282660##Easy eSports##3128
+252490##Rust##695
+238960##Path of Exile##408
+380600##Fishing Planet##293
+33930##Arma 2: Operation Arrowhead##10
+33910##Arma 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+@@REVIEW

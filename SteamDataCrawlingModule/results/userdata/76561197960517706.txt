@@ -1,0 +1,65 @@
+@@GAME
+730##Counter-Strike: Global Offensive##277333
+10##Counter-Strike##123158
+570##Dota 2##97417
+271590##Grand Theft Auto V##67416
+70##Half-Life##53206
+20##Team Fortress Classic##52672
+440##Team Fortress 2##52102
+273110##Counter-Strike Nexon: Studio##39395
+254060##KnightShift##36422
+30##Day of Defeat##34920
+50##Half-Life: Opposing Force##34521
+60##Ricochet##34397
+40##Deathmatch Classic##33806
+130##Half-Life: Blue Shift##33441
+243470##Watch_Dogs##29642
+321040##DiRT 3 Complete Edition##28165
+346110##ARK: Survival Evolved##28037
+407530##ARK: Survival Of The Fittest##27466
+307690##Sleeping Dogs: Definitive Edition##27360
+526740##hack_me##9978
+463150##BARRIER X##9900
+238320##Outlast##9823
+620##Portal 2##9709
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##4501
+444090##Paladins##3673
+313830##See No Evil##2922
+463350##Storm of Spears##2749
+440760##Cube Destroyer##2748
+391420##Gun Rocket##2714
+201790##Orcs Must Die! 2##2682
+357290##Red Lake##2615
+509220##Save Jesus##2582
+281920##Splatter - Zombiecalypse Now##2548
+291010##The Hat Man: Shadow Ward##2481
+433850##Z1 Battle Royale##1963
+383150##Dead Island Definitive Edition##1194
+351150##DRAGON: A Game About a Dragon##270
+407230##Legend of Mysteria##270
+72400##Clones##235
+317250##Airscape: The Fall of Gravity##235
+359550##Tom Clancy's Rainbow Six Siege##168
+945360##Among Us##146
+550##Left 4 Dead 2##92
+755790##Ring of Elysium##70
+349040##NARUTO SHIPPUDEN: Ultimate Ninja STORM 4##26
+479130##ESEA##21
+282660##Easy eSports##1
+500##Left 4 Dead##0
+346630##Plazma Being##0
+353550##House of Caravan##0
+371670##Rolling Sun##0
+391310##Alien Attack##0
+410210##Ampersand##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+485310##Head Shot##0
+554530##CRACKHEAD##0
+575490##Let's Draw##0
+611500##Quake Champions##0
+@@REVIEW
+730##Recommended
+440##Recommended
+10##Recommended

@@ -1,0 +1,181 @@
+@@GAME
+294100##RimWorld##147238
+1158310##Crusader Kings III##76570
+250820##SteamVR##53250
+4000##Garry's Mod##44008
+30##Day of Defeat##40192
+233860##Kenshi##39661
+617830##SUPERHOT VR##38908
+730##Counter-Strike: Global Offensive##37667
+1145360##Hades##37165
+632360##Risk of Rain 2##29480
+945360##Among Us##26819
+306130##The Elder Scrolls Online##24144
+323190##Frostpunk##20803
+360##Half-Life Deathmatch: Source##20615
+555160##Pavlov VR##19724
+280680##Krita##19044
+629730##Blade & Sorcery##18694
+413150##Stardew Valley##18658
+262150##Vanguard Princess##18589
+365670##Blender##18230
+602960##Barotrauma##17982
+594570##Total War: WARHAMMER II##17125
+823500##BONEWORKS##16779
+637650##FINAL FANTASY XV WINDOWS EDITION##16609
+218230##PlanetSide 2##16118
+40##Deathmatch Classic##15907
+230410##Warframe##15598
+1097150##Fall Guys: Ultimate Knockout##15270
+1086940##Baldur's Gate 3##15005
+753640##Outer Wilds##14413
+620980##Beat Saber##14256
+438100##VRChat##14198
+550##Left 4 Dead 2##12955
+629760##MORDHAU##11888
+346010##Besiege##11828
+1057240##Crucible##11452
+10##Counter-Strike##11017
+327030##Worms W.M.D##10990
+466240##Deceit##10628
+20##Team Fortress Classic##9877
+228300##Remember Me##9701
+698780##Doki Doki Literature Club##8719
+440##Team Fortress 2##6514
+400##Portal##6430
+50##Half-Life: Opposing Force##6084
+546560##Half-Life: Alyx##6073
+80##Counter-Strike: Condition Zero##5076
+70##Half-Life##4738
+269170##SportsBar VR ##4544
+380##Half-Life 2: Episode One##4083
+320##Half-Life 2: Deathmatch##3480
+300##Day of Defeat: Source##3297
+240##Counter-Strike: Source##3200
+500##Left 4 Dead##2755
+1065970##Spice&Wolf VR##2144
+1091500##Cyberpunk 2077##1925
+420##Half-Life 2: Episode Two##1610
+673800##Zup! XS##1442
+1019550##Thief Simulator VR##1407
+364360##Total War: WARHAMMER##1198
+1075080##Falcon Age##1193
+203770##Crusader Kings II##1191
+34870##Sniper Ghost Warrior 2##1189
+1222690##Dragon Age™ Inquisition##1189
+286200##ReignMaker##1188
+553260##Realpolitiks##1188
+72850##The Elder Scrolls V: Skyrim##1187
+130##Half-Life: Blue Shift##1052
+578650##The Outer Worlds##602
+998930##Seek Girl##481
+568220##Lobotomy Corporation##469
+340##Half-Life 2: Lost Coast##462
+280##Half-Life: Source##462
+779340##Total War: THREE KINGDOMS##457
+60##Ricochet##305
+275850##No Man's Sky##293
+880940##Pummel Party##287
+394360##Hearts of Iron IV##264
+220##Half-Life 2##245
+214950##Total War: ROME II - Emperor Edition##119
+100##Counter-Strike: Condition Zero Deleted Scenes##105
+863550##HITMAN™ 2##78
+644930##They Are Billions##75
+620##Portal 2##68
+582010##Monster Hunter: World##68
+397540##Borderlands 3##50
+814380##Sekiro™: Shadows Die Twice##42
+870780##Control##41
+552500##Warhammer: Vermintide 2##37
+397750##Guided Meditation VR##36
+739630##Phasmophobia##32
+108600##Project Zomboid##30
+1047440##DATE A LIVE: Rio Reincarnation##28
+617290##Remnant: From the Ashes##19
+1167630##Teardown##13
+374320##DARK SOULS™ III##11
+1044620##Aokana - Four Rhythms Across the Blue##9
+367520##Hollow Knight##6
+567290##Slash It##3
+546550##Snowball!##2
+684050##Achievement Idler Black##2
+644446##Amnesia Fortnight: AF 2012 - Day 6##2
+644451##Amnesia Fortnight: AF 2012 - The Day After##2
+649610##Amnesia Fortnight: AF 2012 - Bonus - All 30 Second Pitches##2
+649611##Amnesia Fortnight: AF 2012 - Bonus - BRAZEN Documentary##2
+734120##Bonbon##2
+824190##Achievement Clicker 2019##2
+850050##Achievement Idler: Red##2
+105600##Terraria##1
+355920##Pixel Puzzles 2: Space##1
+464670##Empty Soul - S&S Edition##1
+583760##Slash It 2##1
+651500##My Memory of Us##1
+377160##Fallout 4##1
+771350##Achievement Clicker 2018##1
+1183970##Hentai Nazi##1
+1930##Two Worlds: Epic Edition##0
+1083500##PlanetSide 2 - Test##0
+253880##Earth 2150 Trilogy##0
+259280##Earth 2150: The Moon Project##0
+259300##Earth 2150: Lost Souls##0
+253900##Knights and Merchants##0
+253940##Septerra Core##0
+253980##Enclave##0
+254060##KnightShift##0
+231310##MirrorMoon EP##0
+242050##Assassin's Creed IV Black Flag##0
+279720##The I of the Dragon##0
+289650##Assassin's Creed Unity##0
+341120##Glorkian Warrior: The Trials Of Glork##0
+311560##Assassin's Creed Rogue##0
+351030##Pixel Puzzles Ultimate##0
+371320##Samsa and the Knights of Light##0
+292030##The Witcher 3: Wild Hunt##0
+394220##Last Horizon##0
+368500##Assassin's Creed Syndicate##0
+457140##Oxygen Not Included##0
+493520##GTFO##0
+508180##Fly and Destroy##0
+289070##Sid Meier's Civilization VI##0
+567150##Mosaics Galore##0
+594650##Hunt: Showdown##0
+770720##Hunt: Showdown (Test Server)##0
+228020##Spacebase DF-9 Prototype##0
+644440##Amnesia Fortnight: AF 2012 - Day 0##0
+644441##Amnesia Fortnight: AF 2012 - Day 1##0
+644442##Amnesia Fortnight: AF 2012 - Day 2##0
+644443##Amnesia Fortnight: AF 2012 - Day 3##0
+644444##Amnesia Fortnight: AF 2012 - Day 4##0
+644445##Amnesia Fortnight: AF 2012 - Day 5##0
+644447##Amnesia Fortnight: AF 2012 - Day 7##0
+644448##Amnesia Fortnight: AF 2012 - Day 8##0
+644449##Amnesia Fortnight: AF 2012 - Day 9##0
+644450##Amnesia Fortnight: AF 2012 - Day 10##0
+649612##Amnesia Fortnight: AF 2012 - Bonus - End Credits##0
+649613##Amnesia Fortnight: AF 2012 - Bonus - Intro##0
+649614##Amnesia Fortnight: AF 2012 - Bonus - Autonomous Playthrough##0
+649615##Amnesia Fortnight: AF 2012 - Bonus - Black Lake Playthrough##0
+649616##Amnesia Fortnight: AF 2012 - Bonus - BRAZEN Playthrough##0
+649617##Amnesia Fortnight: AF 2012 - Bonus - Hack 'n' Slash Playthrough##0
+649618##Amnesia Fortnight: AF 2012 - Bonus - Spacebase DF-9 Playthrough##0
+649619##Amnesia Fortnight: AF 2012 - Bonus - The White Birch Playthrough##0
+771840##Royal Casino: Video Poker##0
+782330##DOOM Eternal##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+820030##Picross Fairytale - nonogram: Red Riding Hood secret##0
+412020##Metro Exodus##0
+450390##The Lab##0
+1086640##Dude Simulator 3##0
+976730##Halo: The Master Chief Collection##0
+1144030##Pesterquest##0
+50130##Mafia II (Classic)##0
+360430##Mafia III: Definitive Edition##0
+1030830##Mafia II: Definitive Edition##0
+1030840##Mafia: Definitive Edition##0
+@@REVIEW
+632360##Recommended
+945360##Recommended
+602960##Recommended
+10##Recommended

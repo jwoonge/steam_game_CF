@@ -1,0 +1,206 @@
+@@GAME
+381210##Dead by Daylight##70232
+232450##SolForge##43395
+49520##Borderlands 2##30085
+646570##Slay the Spire##29158
+9880##Champions Online##20947
+268500##XCOM 2##19413
+261640##Borderlands: The Pre-Sequel##17164
+435150##Divinity: Original Sin 2##14676
+264710##Subnautica##12212
+29500##City of Heroes: Architect Edition##10178
+377160##Fallout 4##9596
+200510##XCOM: Enemy Unknown##8162
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##7708
+72850##The Elder Scrolls V: Skyrim##7311
+238960##Path of Exile##7175
+200710##Torchlight II##6848
+997070##Marvel's Avengers##6134
+356190##Middle-earth™: Shadow of War™##5056
+47810##Dragon Age: Origins - Ultimate Edition##4775
+610080##Realm Grinder##4572
+306130##The Elder Scrolls Online##4201
+359550##Tom Clancy's Rainbow Six Siege##3659
+371660##Far Cry Primal##3617
+1184050##Gears Tactics##3607
+475150##Titan Quest Anniversary Edition##3497
+280790##Creativerse##2837
+361420##ASTRONEER##2823
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##2787
+440##Team Fortress 2##2648
+648800##Raft##2573
+620##Portal 2##2392
+241930##Middle-earth™: Shadow of Mordor™##2315
+242760##The Forest##2313
+488790##South Park The Fractured But Whole##2185
+234710##Poker Night 2##1898
+22380##Fallout: New Vegas##1869
+214560##Mark of the Ninja##1869
+552500##Warhammer: Vermintide 2##1797
+848450##Subnautica: Below Zero##1785
+91310##Dead Island##1688
+203160##Tomb Raider##1373
+413150##Stardew Valley##1309
+739630##Phasmophobia##1227
+470220##UNO##1118
+594570##Total War: WARHAMMER II##1081
+346110##ARK: Survival Evolved##1080
+742120##DRAGON QUEST® XI: Echoes of an Elusive Age™##1070
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##1065
+102500##Kingdoms of Amalur: Reckoning™##1013
+729040##Borderlands GOTY Enhanced##991
+544750##SOULCALIBUR VI##977
+962130##Grounded##936
+504370##Battlerite##830
+8980##Borderlands GOTY##828
+213670##South Park™: The Stick of Truth™##810
+10150##Prototype##752
+24980##Mass Effect 2##747
+9450##Warhammer 40,000: Dawn of War - Soulstorm##740
+249870##Scribblenauts Unmasked##724
+319050##Chaos Reborn##684
+823910##Last Evil##653
+400##Portal##643
+316010##Magic Duels##620
+246620##Plague Inc: Evolved##601
+304390##For Honor##589
+500##Left 4 Dead##568
+550##Left 4 Dead 2##559
+241600##Rogue Legacy##547
+274940##Depth##499
+457140##Oxygen Not Included##498
+1091500##Cyberpunk 2077##492
+444090##Paladins##481
+431240##Golf With Your Friends##439
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##365
+249130##LEGO® MARVEL Super Heroes##359
+258970##Gauntlet™ ##334
+280160##Aragami##325
+251570##7 Days to Die##313
+242700##Injustice: Gods Among Us Ultimate Edition##304
+466240##Deceit##303
+38420##Fallout Tactics##288
+251170##Damned##261
+205790##Dota 2 Test##235
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##233
+4920##Natural Selection 2##178
+4000##Garry's Mod##177
+200170##Worms Revolution##176
+322330##Don't Starve Together##159
+38410##Fallout 2##150
+501590##Bulletstorm: Full Clip Edition##146
+10##Counter-Strike##145
+402570##Atlas Reactor##144
+368070##Sniper Ghost Warrior 3##118
+42910##Magicka##117
+39140##FINAL FANTASY VII##112
+559650##Witch It##109
+945360##Among Us##98
+760060##Mutant Year Zero: Road to Eden##97
+665180##Dark Elf##90
+257350##Baldur's Gate II: Enhanced Edition##89
+748360##MY HERO ONE'S JUSTICE##84
+3830##Psychonauts##65
+257730##Infinity Wars - Animated Trading Card Game##54
+301520##Robocraft##54
+379720##DOOM##50
+873940##Crying Suns##50
+4540##Titan Quest##49
+594650##Hunt: Showdown##48
+224260##No More Room in Hell##47
+207610##The Walking Dead##44
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##35
+570##Dota 2##35
+244160##Homeworld Remastered Collection##29
+283920##Putt-Putt Joins the Parade##26
+480430##Hide and Shriek##25
+531640##Eternal Card Game##23
+45760##Ultra Street Fighter IV##20
+225140##Duke Nukem 3D: Megaton Edition##14
+552990##World of Warships##12
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##9
+219740##Don't Starve##3
+283940##Freddi Fish and the Case of the Missing Kelp Seeds##2
+404770##SUPERFIGHT##2
+201790##Orcs Must Die! 2##1
+365720##Skyrim Script Extender (SKSE)##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+1300##SiN Episodes: Emergence##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+55230##Saints Row: The Third##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+43110##Metro 2033##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+225160##Shadow Warrior Classic Redux##0
+230410##Warframe##0
+256410##Might & Magic: Duel of Champions##0
+238460##BattleBlock Theater##0
+115320##PROTOTYPE 2##0
+323370##TERA##0
+407530##ARK: Survival Of The Fittest##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+391220##Rise of the Tomb Raider##0
+596350##Paladins - Public Test##0
+364360##Total War: WARHAMMER##0
+582500##We Were Here##0
+654310##For Honor - Public Test##0
+770720##Hunt: Showdown (Test Server)##0
+642890##THE KING OF FIGHTERS: DESTINY##0
+686140##THE KING OF FIGHTERS: DESTINY: SOUTH TOWN##0
+691960##THE KING OF FIGHTERS: DESTINY: KYOKUGEN STYLE##0
+691961##THE KING OF FIGHTERS: DESTINY:  ANGELINA##0
+700380##THE KING OF FIGHTERS: DESTINY: BROTHER##0
+703590##THE KING OF FIGHTERS: DESTINY: SIDE STORY- GEESE HOWARD##0
+706620##THE KING OF FIGHTERS: DESTINY: WOMEN FIGHTERS##0
+711400##THE KING OF FIGHTERS: DESTINY: MEMORIES##0
+716620##THE KING OF FIGHTERS: DESTINY: RECEPTION##0
+724890##THE KING OF FIGHTERS: DESTINY: SECRET##0
+734270##THE KING OF FIGHTERS: DESTINY: SIDE STORY- NIKAIDO BENIMARU##0
+736730##THE KING OF FIGHTERS: DESTINY: READY GO!##0
+739060##THE KING OF FIGHTERS: DESTINY: SHADOW OF EVIL##0
+743200##THE KING OF FIGHTERS: DESTINY: TRAP##0
+743201##THE KING OF FIGHTERS: DESTINY: FATAL FURY##0
+747890##THE KING OF FIGHTERS: DESTINY: SIDE STORY- ANGELINA##0
+755840##THE KING OF FIGHTERS: DESTINY: FINAL ROUND##0
+759560##THE KING OF FIGHTERS: DESTINY: BLACK CRYSTAL##0
+762420##THE KING OF FIGHTERS: DESTINY: ESCAPE##0
+762440##THE KING OF FIGHTERS: DESTINY: LABYRINTH##0
+762450##THE KING OF FIGHTERS: DESTINY: SIDE STORY- KING##0
+775050##THE KING OF FIGHTERS: DESTINY: Generator##0
+776900##THE KING OF FIGHTERS: DESTINY: R##0
+783570##THE KING OF FIGHTERS: DESTINY: RUGAL BERNSTEIN##0
+788840##THE KING OF FIGHTERS: DESTINY: DESTINY##0
+680320##The Heiress##0
+686190##Killing Time##0
+712730##SIMULACRA##0
+427460##Battlerite Public Test##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+627270##Injustice™ 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+839770##Phoenix Point: Year One Edition##0
+1195460##Last Year##0
+@@REVIEW
+648800##Recommended
+1184050##Recommended
+552500##Recommended
+381210##Recommended
+316010##Recommended

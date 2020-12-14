@@ -1,0 +1,32 @@
+@@GAME
+730##Counter-Strike: Global Offensive##22899
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##22283
+10##Counter-Strike##13236
+236390##War Thunder##1897
+379720##DOOM##854
+238960##Path of Exile##794
+222880##Insurgency##516
+447040##Watch_Dogs 2##464
+310560##DiRT Rally##336
+506540##Last Man Standing##63
+874240##MU Legend##27
+563560##Alien Swarm: Reactive Drop##25
+555570##Infestation: The New Z##24
+24960##Battlefield: Bad Company™ 2##15
+611500##Quake Champions##11
+218620##PAYDAY 2##7
+433850##Z1 Battle Royale##6
+314000##Pool Nation FX##4
+30##Day of Defeat##1
+223750##DCS World Steam Edition##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+49520##Borderlands 2##0
+261640##Borderlands: The Pre-Sequel##0
+439700##H1Z1: Test Server##0
+@@REVIEW
+578080##Recommended

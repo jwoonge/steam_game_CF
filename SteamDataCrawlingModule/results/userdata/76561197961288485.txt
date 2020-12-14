@@ -1,0 +1,39 @@
+@@GAME
+730##Counter-Strike: Global Offensive##345289
+10##Counter-Strike##70909
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##44512
+295110##Just Survive##8594
+570##Dota 2##5010
+271590##Grand Theft Auto V##2364
+218620##PAYDAY 2##1803
+620##Portal 2##1233
+444090##Paladins##1121
+433850##Z1 Battle Royale##841
+325210##Arctico##186
+440##Team Fortress 2##172
+397900##Business Tour - Online Multiplayer Board Game##155
+212500##The Lord of the Rings Online™##117
+218230##PlanetSide 2##116
+582500##We Were Here##87
+436520##Line of Sight##81
+70##Half-Life##76
+30##Day of Defeat##64
+240720##Getting Over It with Bennett Foddy##54
+611500##Quake Champions##24
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+596350##Paladins - Public Test##0
+212740##TERA##0
+38400##Fallout##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+1151340##Fallout 76##0
+@@REVIEW

@@ -1,0 +1,56 @@
+@@GAME
+252490##Rust##462096
+730##Counter-Strike: Global Offensive##158746
+238960##Path of Exile##17498
+10##Counter-Strike##15643
+570##Dota 2##15383
+295270##Football Manager 2015##8753
+378120##Football Manager 2016##5601
+644930##They Are Billions##4555
+236390##War Thunder##3230
+275850##No Man's Sky##2998
+253710##theHunter Classic##2455
+442120##Pinball FX3##1301
+518790##theHunter: Call of the Wild™##975
+493340##Planet Coaster##918
+424370##Wolcen: Lords of Mayhem##889
+201810##Wolfenstein: The New Order##811
+33930##Arma 2: Operation Arrowhead##781
+16450##F.E.A.R. 2: Project Origin##734
+282660##Easy eSports##454
+1100600##Football Manager 2020##393
+350080##Wolfenstein: The Old Blood ##373
+313120##Stranded Deep##363
+271590##Grand Theft Auto V##346
+594650##Hunt: Showdown##314
+108800##Crysis 2 Maximum Edition##307
+386360##SMITE##282
+297000##Heroes of Might & Magic III - HD Edition##271
+236850##Europa Universalis IV##226
+227940##Heroes & Generals##192
+221380##Age of Empires II (2013)##156
+333930##Dirty Bomb##67
+380600##Fishing Planet##39
+293540##Guns and Robots##26
+49520##Borderlands 2##25
+700580##Rust - Staging Branch##23
+239160##Thief##23
+304890##Quantum Rush Online##14
+316390##Anomaly Zone##9
+33910##Arma 2##5
+70##Half-Life##2
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##1
+224580##Arma 2: DayZ Mod##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+203140##Hitman: Absolution##0
+858460##SMITE - Public Test##0
+442080##Riders of Icarus##0
+770720##Hunt: Showdown (Test Server)##0
+1100620##Football Manager 2020 Touch##0
+@@REVIEW

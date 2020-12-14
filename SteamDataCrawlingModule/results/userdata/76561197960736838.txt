@@ -1,0 +1,148 @@
+@@GAME
+10##Counter-Strike##73975
+730##Counter-Strike: Global Offensive##47532
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##15054
+105600##Terraria##8625
+374320##DARK SOULS™ III##8271
+570940##DARK SOULS™: REMASTERED##7449
+218620##PAYDAY 2##5786
+335300##DARK SOULS™ II: Scholar of the First Sin##5412
+550##Left 4 Dead 2##4240
+289070##Sid Meier's Civilization VI##3413
+646570##Slay the Spire##2929
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##2790
+367520##Hollow Knight##2764
+272350##Tom Clancy's Ghost Recon Phantoms - EU##2372
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##2247
+814380##Sekiro™: Shadows Die Twice##1676
+42710##Call of Duty: Black Ops - Multiplayer##1521
+485510##Nioh: Complete Edition##1507
+488790##South Park The Fractured But Whole##1327
+582010##Monster Hunter: World##1180
+8930##Sid Meier's Civilization V##1127
+879160##Battlerite Royale##904
+304930##Unturned##899
+211420##DARK SOULS™: Prepare To Die Edition##876
+444090##Paladins##778
+611500##Quake Champions##725
+10180##Call of Duty: Modern Warfare 2##704
+571740##Golf It!##692
+552520##Far Cry 5##639
+1253920##Rogue Legacy 2##574
+570##Dota 2##573
+607050##Wargroove##544
+42680##Call of Duty: Modern Warfare 3##536
+312660##Sniper Elite 4##524
+241600##Rogue Legacy##484
+976730##Halo: The Master Chief Collection##368
+250760##Shovel Knight: Treasure Trove##353
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##328
+322500##SUPERHOT##323
+255710##Cities: Skylines##317
+389730##TEKKEN 7##307
+298110##Far Cry 4##298
+70##Half-Life##293
+286160##Tabletop Simulator##292
+302590##Of Guards And Thieves##274
+312530##Duck Game##265
+282440##Quake Live##261
+202090##Magicka: Wizard Wars##248
+535930##Two Point Hospital##231
+731490##Crash Bandicoot™ N. Sane Trilogy##229
+359550##Tom Clancy's Rainbow Six Siege##225
+241930##Middle-earth™: Shadow of Mordor™##203
+557340##My Friend Pedro##188
+304390##For Honor##184
+30##Day of Defeat##178
+674940##Stick Fight: The Game##173
+379720##DOOM##172
+42910##Magicka##168
+367450##Poly Bridge##166
+363600##Holy Potatoes! A Weapon Shop?!##164
+728880##Overcooked! 2##158
+32440##LEGO® Star Wars™: The Complete Saga##152
+207140##SpeedRunners##152
+319910##Trine 3: The Artifacts of Power##150
+42700##Call of Duty: Black Ops##149
+298630##The Escapists##132
+130##Half-Life: Blue Shift##126
+435790##10 Second Ninja X##119
+292030##The Witcher 3: Wild Hunt##115
+219150##Hotline Miami##112
+331670##The Jackbox Party Pack##102
+316010##Magic Duels##99
+234670##NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst##95
+299740##Miscreated##87
+518030##Aim Hero##83
+945360##Among Us##81
+322330##Don't Starve Together##75
+434170##The Jackbox Party Pack 3##68
+72850##The Elder Scrolls V: Skyrim##67
+264200##One Finger Death Punch##67
+233450##Prison Architect##65
+630##Alien Swarm##63
+20##Team Fortress Classic##61
+230270##N++##59
+448510##Overcooked##59
+797470##METAL GEAR SURVIVE BETA##55
+440##Team Fortress 2##53
+49520##Borderlands 2##48
+6060##Star Wars: Battlefront 2 (Classic, 2005)##47
+242700##Injustice: Gods Among Us Ultimate Edition##47
+782330##DOOM Eternal##43
+377160##Fallout 4##41
+387290##Ori and the Blind Forest: Definitive Edition##40
+40800##Super Meat Boy##39
+285900##Gang Beasts##37
+326460##ShellShock Live##37
+92##Codename Gordon##37
+219640##Chivalry: Medieval Warfare##36
+13570##Tom Clancy's Splinter Cell: Chaos Theory##35
+382560##Hot Lava##35
+391540##Undertale##34
+386620##Cook, Serve, Delicious! 2!!##33
+238370##Magicka 2##31
+397460##The Jackbox Party Pack 2##31
+291550##Brawlhalla##28
+386940##Ultimate Chicken Horse##27
+610180##The Jackbox Party Pack 4##26
+204360##Castle Crashers##25
+431960##Wallpaper Engine##25
+641320##Cooking Simulator##25
+714010##Aim Lab##25
+311210##Call of Duty: Black Ops III##24
+225540##Just Cause 3##22
+240720##Getting Over It with Bennett Foddy##21
+214560##Mark of the Ninja##18
+235460##METAL GEAR RISING: REVENGEANCE##18
+824270##KovaaK 2.0##17
+684410##Bridge Constructor Portal##16
+378540##The Surge##15
+271590##Grand Theft Auto V##13
+397950##Clustertruck##12
+15120##Tom Clancy's Rainbow Six: Vegas 2##9
+251470##TowerFall Ascension##9
+365670##Blender##9
+232910##TrackMania² Stadium##6
+690040##SUPERHOT: MIND CONTROL DELETE##6
+592260##Dungeon Painter Studio##6
+268850##EVGA Precision X1##2
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+860950##Mark of the Ninja: Remastered##0
+235600##Tom Clancy's Splinter Cell Blacklist##0
+912290##Miscreated: Experimental Server##0
+261640##Borderlands: The Pre-Sequel##0
+397080##Magicka 2: Spell Balance Beta##0
+261570##Ori and the Blind Forest##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+596350##Paladins - Public Test##0
+213670##South Park™: The Stick of Truth™##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+743650##Quake Champions PTS##0
+250460##Bridge Constructor##0
+654310##For Honor - Public Test##0
+1085660##Destiny 2##0
+@@REVIEW

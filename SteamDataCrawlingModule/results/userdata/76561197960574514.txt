@@ -1,0 +1,71 @@
+@@GAME
+730##Counter-Strike: Global Offensive##54963
+10##Counter-Strike##41694
+700330##SCP: Secret Laboratory##41418
+1172470##Apex Legends##31535
+70##Half-Life##1034
+550##Left 4 Dead 2##954
+21100##F.E.A.R. 3##662
+21090##F.E.A.R.##661
+215930##Jagged Alliance 2 - Wildfire ##499
+303390##Dead Bits##415
+420970##RoBoRumble##361
+487330##Totally Unbalanced##342
+799070##Zup! 8##334
+269710##Tumblestone##327
+253920##Gorky 17##322
+253940##Septerra Core##316
+351940##The Descendant##314
+259360##Chicken Shoot 2##313
+259340##Chicken Shoot Gold##312
+254060##KnightShift##312
+618610##Endless Horde##311
+224220##Pressure##307
+287290##Resident Evil Revelations 2##302
+252150##Grimm##293
+400790##The Juicer##293
+253860##Earth 2140 HD##283
+545410##A Trip to Yugoslavia: Director's Cut##283
+253980##Enclave##282
+434210##It's Spring Again##282
+573210##Mistwood Heroes##282
+439250##Space Pilgrim Episode III: Delta Pavonis##281
+658560##Zup! 7##244
+601220##Zup! F##243
+617670##Zup! S##243
+1098340##Zup! 9##243
+279720##The I of the Dragon##240
+55230##Saints Row: The Third##121
+475550##Beholder##22
+466240##Deceit##3
+219950##NiGHTS into Dreams...##1
+260410##Get Off My Lawn!##1
+7520##Two Worlds II##1
+643700##Super Sports Surgery##1
+673660##Neon Hardcore##1
+729740##JigsawMania##1
+749270##Magic Siege - Defender##1
+532210##Life is Strange 2##1
+34270##SEGA Mega Drive & Genesis Classics##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+620##Portal 2##0
+16450##F.E.A.R. 2: Project Origin##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+247120##Portal 2 Sixense Perceptual Pack##0
+270170##Depression Quest##0
+272060##Serena##0
+1930##Two Worlds: Epic Edition##0
+397720##Romance of the Three Kingdoms Maker##0
+325180##AppGameKit Classic##0
+368230##Kingdom: Classic##0
+@@REVIEW
+1172470##Recommended
+287290##Recommended
+70##Recommended
+730##Recommended

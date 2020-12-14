@@ -1,0 +1,84 @@
+@@GAME
+730##Counter-Strike: Global Offensive##73233
+10##Counter-Strike##62149
+70##Half-Life##57433
+30##Day of Defeat##55162
+40##Deathmatch Classic##50818
+130##Half-Life: Blue Shift##49827
+50##Half-Life: Opposing Force##48156
+227940##Heroes & Generals##46373
+570##Dota 2##46110
+440##Team Fortress 2##45690
+552990##World of Warships##45677
+333930##Dirty Bomb##45561
+20##Team Fortress Classic##45496
+588430##Fallout Shelter##43581
+236390##War Thunder##43568
+813820##Realm Royale##43423
+230410##Warframe##43141
+433850##Z1 Battle Royale##43122
+555570##Infestation: The New Z##42810
+386180##Crossout##41230
+218230##PlanetSide 2##41226
+113400##APB Reloaded##41174
+611500##Quake Champions##18523
+60##Ricochet##3617
+304390##For Honor##3160
+222880##Insurgency##1700
+1080110##F1 2020##1014
+209080##Guns of Icarus Online##324
+444090##Paladins##238
+755790##Ring of Elysium##229
+211500##RaceRoom Racing Experience ##192
+1275630##Drug Dealer Simulator: Free Sample##177
+530700##Argo##173
+291480##Warface##154
+55150##Warhammer 40,000: Space Marine##147
+790710##World of Warplanes##138
+550650##Black Squad##125
+253710##theHunter Classic##118
+355840##Survarium##100
+630##Alien Swarm##99
+1840##Source Filmmaker##99
+17550##Eternal Silence##99
+92500##PC Gamer##99
+259080##Just Cause 2: Multiplayer Mod##99
+261820##Estranged: Act I##99
+905370##Conqueror's Blade##70
+513650##Zula Europe##67
+203160##Tomb Raider##67
+436520##Line of Sight##66
+884660##CRSED##65
+1209040##Cyber Hunter##62
+286940##S.K.I.L.L. - Special Force 2##58
+466240##Deceit##28
+444200##World of Tanks Blitz##24
+691020##Fog Of War - Free Edition##23
+264120##Victory: The Age of Racing##21
+714010##Aim Lab##21
+203290##America's Army: Proving Grounds##18
+1180380##Stay Out##18
+374280##Hired Ops##15
+384180##Prominence Poker##10
+563560##Alien Swarm: Reactive Drop##8
+371140##Aegis Defenders##7
+251950##World War II Online##5
+391460##WARMODE##5
+212390##C9##1
+386360##SMITE##1
+457330##High Octane Drift##1
+608800##Guns of Icarus Alliance##1
+857520##Degrees##1
+905640##CombatArms: Reloaded##1
+435790##10 Second Ninja X##1
+1083500##PlanetSide 2 - Test##0
+858460##SMITE - Public Test##0
+596350##Paladins - Public Test##0
+878760##Realm Royale - Test Server##0
+439700##H1Z1: Test Server##0
+769920##Odysseus Kosmos and his Robot Quest - Episode 1##0
+654310##For Honor - Public Test##0
+1085660##Destiny 2##0
+1076280##Showdown Bandit##0
+@@REVIEW
+588430##Recommended

@@ -1,0 +1,123 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+300##Day of Defeat: Source##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+8000##Tomb Raider: Anniversary##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+17470##Dead Space##0
+22320##The Elder Scrolls III: Morrowind##0
+32360##The Secret of Monkey Island: Special Edition##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+22370##Fallout 3 - Game of the Year Edition##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+24780##SimCity 4 Deluxe##0
+57300##Amnesia: The Dark Descent##0
+34270##SEGA Mega Drive & Genesis Classics##0
+400##Portal##0
+620##Portal 2##0
+110800##L.A. Noire##0
+214870##Painkiller Hell & Damnation##0
+223470##POSTAL 2##0
+225300##Tomb Raider II##0
+221640##Super Hexagon##0
+238960##Path of Exile##0
+257730##Infinity Wars - Animated Trading Card Game##0
+238210##System Shock 2##0
+39140##FINAL FANTASY VII##0
+250180##METAL SLUG 3##0
+252950##Rocket League##0
+227600##Castle of Illusion##0
+49520##Borderlands 2##0
+221380##Age of Empires II (2013)##0
+268910##Cuphead##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+225840##Sven Co-op##0
+213670##South Park™: The Stick of Truth™##0
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##0
+287020##Harvester##0
+288470##Fable Anniversary##0
+8870##BioShock Infinite##0
+287450##Rise of Nations: Extended Edition##0
+310560##DiRT Rally##0
+312530##Duck Game##0
+246580##The Typing of The Dead: Overkill##0
+7000##Tomb Raider: Legend##0
+8140##Tomb Raider: Underworld##0
+35130##Lara Croft and the Guardian of Light##0
+203160##Tomb Raider##0
+224960##Tomb Raider I##0
+224980##Tomb Raider: The Last Revelation##0
+225000##Tomb Raider: Chronicles##0
+225020##Tomb Raider (VI): The Angel of Darkness##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+214490##Alien: Isolation##0
+324800##Shadow Warrior 2##0
+261640##Borderlands: The Pre-Sequel##0
+730##Counter-Strike: Global Offensive##0
+332200##Axiom Verge##0
+335300##DARK SOULS™ II: Scholar of the First Sin##0
+339340##Resident Evil 0##0
+304240##Resident Evil##0
+307780##Mortal Kombat X##0
+348550##GUILTY GEAR XX ACCENT CORE PLUS R##0
+360830##Yooka-Laylee##0
+268050##The Evil Within##0
+367520##Hollow Knight##0
+377160##Fallout 4##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+405820##Turok##0
+409160##Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist##0
+394510##HELLDIVERS™##0
+282440##Quake Live##0
+413150##Stardew Valley##0
+210970##The Witness##0
+377840##FINAL FANTASY IX##0
+431240##Golf With Your Friends##0
+391220##Rise of the Tomb Raider##0
+438100##VRChat##0
+437220##The Culling##0
+205230##Hell Yeah!##0
+205950##Jet Set Radio##0
+379720##DOOM##0
+501970##Phantasmagoria 2##0
+501990##Phantasmagoria##0
+418370##Resident Evil 7 Biohazard##0
+571740##Golf It!##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+488790##South Park The Fractured But Whole##0
+546050##Puyo Puyo™Tetris® ##0
+813780##Age of Empires II: Definitive Edition##0
+586200##Street Fighter 30th Anniversary Collection##0
+570940##DARK SOULS™: REMASTERED##0
+848350##Katamari Damacy REROLL##0
+880940##Pummel Party##0
+883710##Resident Evil 2##0
+945360##Among Us##0
+976310##Mortal Kombat 11##0
+1017900##Age of Empires: Definitive Edition##0
+1097150##Fall Guys: Ultimate Knockout##0
+976730##Halo: The Master Chief Collection##0
+1085660##Destiny 2##0
+1172380##STAR WARS Jedi: Fallen Order™ ##0
+1174180##Red Dead Redemption 2##0
+1238080##Burnout™ Paradise Remastered##0
+952060##Resident Evil 3##0
+952070##RESIDENT EVIL RESISTANCE##0
+969990##SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated##0
+368180##Polyball##0
+1368440##Armor Of Heroes##0
+@@REVIEW

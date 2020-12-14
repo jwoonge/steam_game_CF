@@ -1,0 +1,177 @@
+@@GAME
+212500##The Lord of the Rings Online™##91685
+440900##Conan Exiles##14115
+219990##Grim Dawn##11787
+72850##The Elder Scrolls V: Skyrim##9726
+292030##The Witcher 3: Wild Hunt##8427
+377160##Fallout 4##7553
+49520##Borderlands 2##6611
+257350##Baldur's Gate II: Enhanced Edition##5779
+374320##DARK SOULS™ III##5724
+48240##Anno 2070##5652
+22380##Fallout: New Vegas##5336
+373420##Divinity: Original Sin Enhanced Edition##4771
+359320##Elite Dangerous##4675
+321800##Icewind Dale: Enhanced Edition##4654
+272270##Torment: Tides of Numenera##3494
+379430##Kingdom Come: Deliverance##3348
+238960##Path of Exile##3261
+404730##Wasteland 2: Director's Cut##3063
+356190##Middle-earth™: Shadow of War™##3036
+211420##DARK SOULS™: Prepare To Die Edition##3034
+215280##Secret World Legends##2515
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##2469
+271590##Grand Theft Auto V##2460
+262060##Darkest Dungeon®##2200
+40300##Risen##2075
+346940##Shadowrun: Hong Kong - Extended Edition##2055
+28050##Deus Ex: Human Revolution##1930
+33230##Assassin's Creed II##1868
+300550##Shadowrun: Dragonfall - Director's Cut##1829
+200710##Torchlight II##1690
+552500##Warhammer: Vermintide 2##1669
+617290##Remnant: From the Ashes##1659
+15620##Warhammer 40,000: Dawn of War II##1604
+388410##Darksiders II Deathinitive Edition##1564
+418240##Shadow Tactics: Blades of the Shogun##1541
+673880##Warhammer 40,000: Mechanicus##1511
+8930##Sid Meier's Civilization V##1456
+200510##XCOM: Enemy Unknown##1400
+50620##Darksiders##1364
+234270##Ken Follett's The Pillars of the Earth##1291
+105450##Age of Empires® III (2007)##1262
+403640##Dishonored 2##1229
+337000##Deus Ex: Mankind Divided™##1168
+108710##Alan Wake##1165
+56400##Warhammer 40,000: Dawn of War II - Retribution##1156
+285190##Warhammer 40,000: Dawn of War III##1109
+618970##Outcast - Second Contact##1081
+234650##Shadowrun Returns##1071
+420##Half-Life 2: Episode Two##1059
+319630##Life is Strange™##1035
+387290##Ori and the Blind Forest: Definitive Edition##1007
+307670##Hard West##1000
+281640##The Banner Saga 2##973
+233130##Shadow Warrior##951
+19680##Alice: Madness Returns##942
+203160##Tomb Raider##855
+307690##Sleeping Dogs: Definitive Edition##848
+9200##RAGE##846
+236090##Dust: An Elysian Tail##818
+230410##Warframe##802
+205100##Dishonored##798
+462770##Pyre##797
+35720##Trine 2##768
+207610##The Walking Dead##751
+620##Portal 2##750
+35700##Trine##731
+245280##ENSLAVED™: Odyssey to the West™ Premium Edition##724
+260230##Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™##715
+17300##Crysis##702
+288570##Wolfenstein: The New Order German Edition##678
+289070##Sid Meier's Civilization VI##671
+256290##Child of Light##670
+257850##Hyper Light Drifter##666
+237990##The Banner Saga##663
+204100##Max Payne 3##633
+250320##The Wolf Among Us##590
+107100##Bastion##540
+108800##Crysis 2 Maximum Edition##501
+440##Team Fortress 2##490
+281990##Stellaris##486
+34330##Total War: SHOGUN 2##445
+231160##The Swapper##439
+17410##Mirror's Edge##386
+302510##Ryse: Son of Rome##372
+400##Portal##371
+218620##PAYDAY 2##368
+237930##Transistor##361
+383870##Firewatch##355
+630##Alien Swarm##286
+206440##To the Moon##273
+277430##Halo: Spartan Assault##264
+48000##LIMBO##235
+635320##Last Day of June##232
+400430##The Vanishing of Ethan Carter Redux##229
+331870##AER Memories of Old##227
+225080##Brothers - A Tale of Two Sons##212
+816090##Space Hulk: Deathwing - Enhanced Edition##208
+282440##Quake Live##199
+217750##Age of Conan: Unchained##178
+204880##Sins of a Solar Empire: Rebellion##156
+316010##Magic Duels##143
+7520##Two Worlds II##141
+47810##Dragon Age: Origins - Ultimate Edition##97
+10##Counter-Strike##92
+201230##EverQuest II##90
+346110##ARK: Survival Evolved##84
+305620##The Long Dark##81
+391920##Ether One Redux##73
+26800##Braid##71
+1151340##Fallout 76##71
+34010##Alpha Protocol##62
+336610##Outcast 1.1##57
+582660##Black Desert Online##48
+466300##Planescape: Torment: Enhanced Edition##47
+39500##Gothic 3##44
+238210##System Shock 2##33
+235540##Warhammer: End Times - Vermintide##32
+218130##Dungeonland##22
+407530##ARK: Survival Of The Fittest##22
+489830##The Elder Scrolls V: Skyrim Special Edition##20
+236850##Europa Universalis IV##16
+429180##Project CARS - Pagani Edition##16
+220##Half-Life 2##14
+70##Half-Life##10
+303800##The Witcher Adventure Game##9
+730##Counter-Strike: Global Offensive##9
+211##Source SDK##8
+312280##Simply Chess##6
+388880##Oxenfree##5
+475150##Titan Quest Anniversary Edition##4
+380##Half-Life 2: Episode One##4
+265950##Ether One##3
+38400##Fallout##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+950670##Gothic Playable Teaser##0
+22370##Fallout 3 - Game of the Year Edition##0
+462780##Darksiders Warmastered Edition##0
+39510##Gothic II: Gold Edition##0
+65540##Gothic##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##0
+202750##Alan Wake's American Nightmare##0
+109600##Neverwinter##0
+250740##Ragnarok Online - Free to Play - European Version##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+240760##Wasteland 2##0
+259130##Wasteland 1 - The Original Classic##0
+9900##Star Trek Online##0
+316790##Grim Fandango Remastered##0
+258520##The Vanishing of Ethan Carter##0
+219740##Don't Starve##0
+230230##Divinity: Original Sin (Classic)##0
+261570##Ori and the Blind Forest##0
+310380##Fractured Space##0
+931180##Conan Exiles - Testlive Client##0
+355790##Styx: Shards of Darkness##0
+606150##Moonlighter##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+783050##Bear With Me - Collector's Edition##0
+298900##Space Hulk: Deathwing##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+44350##GRID 2##0
+1085660##Destiny 2##0
+226840##Age of Wonders III##0
+@@REVIEW

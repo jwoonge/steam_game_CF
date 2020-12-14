@@ -1,0 +1,22 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+236390##War Thunder##0
+730##Counter-Strike: Global Offensive##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+700330##SCP: Secret Laboratory##0
+863550##HITMAN™ 2##0
+1104640##New Frontier##0
+764050##Maelstrom##0
+567730##Merry Snowballs##0
+582660##Black Desert Online##0
+@@REVIEW
+744900##Not Recommended
+730##Not Recommended

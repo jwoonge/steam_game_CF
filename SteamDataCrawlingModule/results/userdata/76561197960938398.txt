@@ -1,0 +1,30 @@
+@@GAME
+730##Counter-Strike: Global Offensive##43620
+271590##Grand Theft Auto V##1053
+287390##Metro: Last Light Redux##273
+227300##Euro Truck Simulator 2##260
+570##Dota 2##137
+10##Counter-Strike##132
+479130##ESEA##27
+550##Left 4 Dead 2##9
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+44350##GRID 2##0
+218620##PAYDAY 2##0
+254060##KnightShift##0
+444200##World of Tanks Blitz##0
+689360##The Thirst of Hearts##0
+839340##SOK MIN##0
+842130##Sunny Smiles##0
+1180380##Stay Out##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+566190##The Search##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+@@REVIEW
+730##Recommended

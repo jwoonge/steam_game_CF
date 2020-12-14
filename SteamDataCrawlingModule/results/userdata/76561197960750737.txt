@@ -1,0 +1,201 @@
+@@GAME
+240##Counter-Strike: Source##113719
+730##Counter-Strike: Global Offensive##95800
+49520##Borderlands 2##53153
+218620##PAYDAY 2##38089
+10##Counter-Strike##31525
+620##Portal 2##11280
+550##Left 4 Dead 2##8882
+236390##War Thunder##7666
+476240##KNIGHTS##6921
+379720##DOOM##3128
+261640##Borderlands: The Pre-Sequel##3116
+266010##LYNE##1910
+254440##Pool Nation##1890
+104900##ORION: Prelude##1658
+365450##Hacknet##1652
+1085660##Destiny 2##1623
+8870##BioShock Infinite##1279
+210550##Angry Birds Space##1156
+246620##Plague Inc: Evolved##1035
+227580##10,000,000##685
+290890##You Must Build A Boat##637
+221910##The Stanley Parable##570
+301640##Zombie Army Trilogy##473
+91600##Sanctum##424
+72200##Universe Sandbox Legacy##423
+107900##War Inc. Battlezone##373
+418040##hocus##336
+219890##Antichamber##279
+370360##TIS-100##258
+238430##Contagion##244
+357600##Unium##240
+57200##Puzzle Dimension##234
+230860##Cannon Brawl##208
+377160##Fallout 4##181
+210770##Sanctum 2##145
+211##Source SDK##140
+206420##Saints Row IV##118
+204180##Waveform##102
+35000##Mini Ninjas##101
+42710##Call of Duty: Black Ops - Multiplayer##100
+105450##Age of Empires® III (2007)##84
+317400##Portal Stories: Mel##78
+253650##Sparkle 2 Evo##76
+265930##Goat Simulator##65
+400##Portal##57
+239030##Papers, Please##53
+434570##Blood and Bacon##43
+8850##BioShock 2##39
+233720##Surgeon Simulator##38
+1840##Source Filmmaker##37
+11360##Chains##33
+300##Day of Defeat: Source##32
+48000##LIMBO##29
+219640##Chivalry: Medieval Warfare##29
+259080##Just Cause 2: Multiplayer Mod##29
+257510##The Talos Principle##22
+282880##FaeVerse Alchemy##21
+213670##South Park™: The Stick of Truth™##18
+211500##RaceRoom Racing Experience ##18
+339470##Retention##17
+340280##Cubot##16
+257400##Fuse##16
+37000##The Void##15
+340##Half-Life 2: Lost Coast##13
+282400##SuperPower 2 Steam Edition##13
+570##Dota 2##13
+1510##Uplink##11
+41730##Ion Assault##10
+206440##To the Moon##8
+105300##Critical Mass##7
+346010##Besiege##7
+253880##Earth 2150 Trilogy##5
+12900##Audiosurf##4
+233450##Prison Architect##4
+16500##Chaos Theory##3
+201790##Orcs Must Die! 2##1
+259280##Earth 2150: The Moon Project##1
+259300##Earth 2150: Lost Souls##1
+8190##Just Cause 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+4000##Garry's Mod##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+9870##Ghostbusters: The Video Game##0
+17390##Spore##0
+17440##Spore: Creepy & Cute Parts Pack##0
+24720##Spore: Galactic Adventures##0
+11370##Nikopol: Secrets of the Immortals##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+32380##STAR WARS™ Jedi Knight: Dark Forces II##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+41000##Serious Sam HD: The First Encounter##0
+564310##Serious Sam Fusion 2017 (beta)##0
+43110##Metro 2033##0
+41010##Serious Sam HD: The Second Encounter##0
+42700##Call of Duty: Black Ops##0
+92800##SpaceChem##0
+70000##Dino D-Day##0
+24240##PAYDAY: The Heist##0
+41070##Serious Sam 3: BFE##0
+207610##The Walking Dead##0
+63380##Sniper Elite V2##0
+113200##The Binding of Isaac##0
+207570##English Country Tune##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+204360##Castle Crashers##0
+219150##Hotline Miami##0
+205790##Dota 2 Test##0
+223470##POSTAL 2##0
+17460##Mass Effect##0
+24980##Mass Effect 2##0
+204100##Max Payne 3##0
+226700##Infestation: Survivor Stories 2020##0
+208090##Loadout##0
+224260##No More Room in Hell##0
+233740##Organ Trail: Director's Cut##0
+1500##Darwinia##0
+1520##DEFCON##0
+1530##Multiwinia##0
+238210##System Shock 2##0
+239450##Gun Monkeys##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+239350##Spelunky##0
+239820##Game Dev Tycoon##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+253030##Race The Sun##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+245470##Democracy 3##0
+261030##The Walking Dead: Season Two##0
+221380##Age of Empires II (2013)##0
+222880##Insurgency##0
+225140##Duke Nukem 3D: Megaton Edition##0
+301520##Robocraft##0
+301700##Numba Deluxe##0
+8600##RACE 07##0
+8660##GTR Evolution##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+220240##Far Cry® 3##0
+233270##Far Cry® 3 Blood Dragon##0
+314020##Morphopolis##0
+274900##Murder Miners##0
+6880##Just Cause##0
+274170##Hotline Miami 2: Wrong Number##0
+305620##The Long Dark##0
+282070##This War of Mine##0
+361190##Sparkle 3 Genesis##0
+361830##in Space##0
+104200##BEEP##0
+263980##Out There Somewhere##0
+315430##Polarity##0
+341500##Camera Obscura##0
+388010##Tick: The Time Based Puzzle Game##0
+388340##Super Hipster Lumberjack##0
+314000##Pool Nation FX##0
+239140##Dying Light##0
+438270##Learn Japanese To Survive - Hiragana Battle##0
+545690##VOI##0
+551110##WayOut##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+611770##Void Source##0
+635060##Castle of no Escape##0
+661430##LineWay##0
+675220##SoulFrost##0
+676420##SiNKR##0
+679660##aMAZE ZER0##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+699600##PEG##0
+716230##Galactic Lords##0
+727640##ШП (ShP)##0
+775530##puzzlement##0
+827920##Bounce##0
+850110##Number Guesser##0
+231430##Company of Heroes 2##0
+203160##Tomb Raider##0
+@@REVIEW
+476240##Recommended
+379720##Not Recommended
+365450##Recommended
+301640##Recommended
+218620##Recommended

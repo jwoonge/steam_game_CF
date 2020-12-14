@@ -1,0 +1,101 @@
+@@GAME
+730##Counter-Strike: Global Offensive##38566
+346110##ARK: Survival Evolved##13140
+240##Counter-Strike: Source##5177
+105600##Terraria##4375
+252950##Rocket League##3394
+359550##Tom Clancy's Rainbow Six Siege##3271
+271590##Grand Theft Auto V##2239
+255710##Cities: Skylines##1876
+493340##Planet Coaster##1482
+570##Dota 2##1479
+632360##Risk of Rain 2##1351
+8930##Sid Meier's Civilization V##1342
+505460##Foxhole##1335
+328080##Rise to Ruins##1139
+742120##DRAGON QUEST® XI: Echoes of an Elusive Age™##1036
+304050##Trove##898
+227300##Euro Truck Simulator 2##891
+589360##Ni no Kuni™ II: Revenant Kingdom##808
+10##Counter-Strike##787
+238960##Path of Exile##753
+4000##Garry's Mod##654
+644930##They Are Billions##518
+440##Team Fortress 2##493
+861650##Session##492
+232090##Killing Floor 2##476
+548430##Deep Rock Galactic##464
+200710##Torchlight II##418
+620##Portal 2##343
+442120##Pinball FX3##335
+427520##Factorio##329
+49520##Borderlands 2##317
+294100##RimWorld##298
+238260##Pinball Arcade##278
+11020##TrackMania Nations Forever##213
+1097150##Fall Guys: Ultimate Knockout##204
+40800##Super Meat Boy##184
+528230##SYNTHETIK##179
+823130##Totally Accurate Battlegrounds##159
+374040##Portal Knights##140
+208030##Moon Breakers##137
+363970##Clicker Heroes##135
+900270##Reventure##134
+1250##Killing Floor##132
+230290##Universe Sandbox##115
+729040##Borderlands GOTY Enhanced##113
+304930##Unturned##107
+48000##LIMBO##99
+431240##Golf With Your Friends##77
+413150##Stardew Valley##73
+630##Alien Swarm##69
+57900##Duke Nukem Forever##67
+813820##Realm Royale##64
+99900##Spiral Knights##61
+512900##Streets of Rogue##60
+531510##Just Shapes & Beats##60
+477160##Human: Fall Flat##59
+400##Portal##52
+351920##Crazy Machines 3##51
+582010##Monster Hunter: World##48
+108600##Project Zomboid##43
+638490##Soldat##32
+340490##Subterrain##31
+367450##Poly Bridge##28
+225080##Brothers - A Tale of Two Sons##24
+55040##Atom Zombie Smasher ##18
+57300##Amnesia: The Dark Descent##18
+111400##Bunch Of Heroes##15
+678310##Pinball Deluxe: Reloaded##13
+107100##Bastion##12
+55020##Air Forte ##12
+214700##Thirty Flights of Loving##11
+380840##Teeworlds##10
+474220##Soldat 2##9
+590720##Cobalt WASD##8
+22000##World of Goo##6
+49600##Beat Hazard##6
+3483##Peggle Extreme##5
+285330##RollerCoaster Tycoon 2: Triple Thrill Pack##5
+209830##Lone Survivor: The Director's Cut##4
+452060##Caveblazers##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+550##Left 4 Dead 2##0
+55000##Flotilla##0
+3830##Psychonauts##0
+204060##Superbrothers: Sword & Sworcery EP##0
+26800##Braid##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+233450##Prison Architect##0
+407530##ARK: Survival Of The Fittest##0
+232150##Killing Floor 2 - SDK##0
+8980##Borderlands GOTY##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+878760##Realm Royale - Test Server##0
+@@REVIEW

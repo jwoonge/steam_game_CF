@@ -1,0 +1,156 @@
+@@GAME
+380600##Fishing Planet##30691
+858810##Dawn of Man##9858
+255710##Cities: Skylines##7564
+220200##Kerbal Space Program##6077
+413150##Stardew Valley##3897
+968970##Lumberjack's Dynasty##3314
+40960##Stronghold 2##3275
+475150##Titan Quest Anniversary Edition##2991
+374090##Winter Sports Trilogy Super Pack##2990
+8930##Sid Meier's Civilization V##2651
+415200##Motorsport Manager##2251
+8800##Sid Meier's Civilization IV: Beyond the Sword##2248
+503560##911 Operator##2222
+815370##Green Hell##2100
+320300##Car Mechanic Simulator 2015##2076
+695290##The Golf Club™ 2019 Featuring PGA TOUR##1967
+291930##Industry Empire##1785
+47890##The Sims(TM) 3##1682
+227300##Euro Truck Simulator 2##1565
+377160##Fallout 4##1521
+1129580##Medieval Dynasty##1487
+378860##Project CARS 2##1280
+591370##Production Line##1273
+233450##Prison Architect##1165
+10##Counter-Strike##1146
+758330##Shenmue I & II##1054
+730##Counter-Strike: Global Offensive##988
+588430##Fallout Shelter##983
+613100##House Flipper##937
+872790##Football Manager 2019##750
+678900##Farmer's Dynasty##666
+544730##Catan Universe##634
+351030##Pixel Puzzles Ultimate##604
+305620##The Long Dark##603
+239820##Game Dev Tycoon##572
+689980##Car Trader Simulator##534
+991170##BarnFinders##534
+494840##UBOAT##510
+371520##Bounty Train##493
+496300##Kingdom: New Lands##430
+234270##Ken Follett's The Pillars of the Earth##363
+259550##Hero of the Kingdom##348
+221380##Age of Empires II (2013)##347
+237990##The Banner Saga##342
+242920##Banished##289
+1012880##60 Seconds! Reatomized##279
+475550##Beholder##275
+491950##Orwell##270
+282070##This War of Mine##250
+622720##Weedcraft Inc##249
+704850##Thief Simulator##232
+523150##Mahjong World Contest##227
+648800##Raft##224
+231430##Company of Heroes 2##190
+367450##Poly Bridge##187
+382140##SKYHILL##183
+296970##Renowned Explorers: International Society##172
+228360##Full Throttle Remastered##165
+33580##The Great Art Race##158
+368230##Kingdom: Classic##148
+394310##Punch Club##147
+564050##Bud Spencer & Terence Hill - Slaps And Beans##132
+205610##Port Royale 3##121
+368360##60 Seconds!##101
+271590##Grand Theft Auto V##92
+244070##Sid Meier's Ace Patrol##92
+358130##Curious Expedition##88
+32330##LEGOⓇ Indiana Jones™: The Original Adventures##87
+12120##Grand Theft Auto: San Andreas##77
+467960##Home Behind##75
+390910##Collisions##71
+244090##Sid Meier's Ace Patrol: Pacific Skies##65
+239030##Papers, Please##61
+236850##Europa Universalis IV##60
+926140##CHANGE: A Homeless Survival Experience##55
+447310##Paper Train: Traffic##52
+346900##AdVenture Capitalist##51
+70640##Worms##47
+621220##Nantucket##45
+30##Day of Defeat##43
+513510##Intralism##43
+316790##Grim Fandango Remastered##42
+314160##Microsoft Flight Simulator X: Steam Edition##41
+1287260##BarnFinders: The Pilot##39
+12210##Grand Theft Auto IV: The Complete Edition##31
+645630##Car Mechanic Simulator 2018##30
+597230##Shotgun Legend##28
+1227400##Over the Alps##25
+442500##Age of Gladiators##22
+57640##Broken Sword 1 - Shadow of the Templars: Director's Cut##7
+253710##theHunter Classic##7
+525040##The Disney Afternoon Collection##7
+34270##SEGA Mega Drive & Genesis Classics##6
+237630##DuckTales Remastered##6
+73170##Darkest Hour: A Hearts of Iron Game##2
+217200##Worms Armageddon##2
+322330##Don't Starve Together##2
+505640##Antihero##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+300##Day of Defeat: Source##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+33520##Tropico##0
+33530##Tropico 2: Pirate Cove##0
+20900##The Witcher: Enhanced Edition##0
+33600##Broken Sword 2 - the Smoking Mirror: Remastered##0
+33610##Broken Sword 3 - the Sleeping Dragon##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+212680##FTL: Faster Than Light##0
+228280##Baldur's Gate: Enhanced Edition##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+257350##Baldur's Gate II: Enhanced Edition##0
+262940##Broken Sword 5 - the Serpent's Curse##0
+233290##MURDERED: SOUL SUSPECT™##0
+303800##The Witcher Adventure Game##0
+316160##Broken Sword 4 - the Angel of Death##0
+318600##The Flame in the Flood##0
+39520##The Guild Gold Edition##0
+39650##The Guild II##0
+39660##The Guild II - Pirates of the European Seas##0
+39680##The Guild II: Renaissance##0
+331920##Airline Tycoon Deluxe##0
+286460##Black Mirror II##0
+286480##Black Mirror III##0
+292930##Black Mirror I##0
+350640##Sherlock Holmes: The Devil's Daughter##0
+249650##Blackguards##0
+314830##Blackguards 2##0
+219740##Don't Starve##0
+382630##Austin High##0
+281640##The Banner Saga 2##0
+808290##Runes of Magic##0
+13250##Unreal Gold##0
+872820##Football Manager 2019 Touch##0
+310560##DiRT Rally##0
+@@REVIEW
+858810##Recommended
+413150##Recommended
+282070##Recommended

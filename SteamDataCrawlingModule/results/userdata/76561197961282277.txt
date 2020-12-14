@@ -1,0 +1,64 @@
+@@GAME
+8800##Sid Meier's Civilization IV: Beyond the Sword##259519
+236850##Europa Universalis IV##153404
+8500##EVE Online##130455
+8930##Sid Meier's Civilization V##129238
+228200##Company of Heroes ##114673
+9340##Company of Heroes: Opposing Fronts##85994
+240##Counter-Strike: Source##39536
+105450##Age of Empires® III (2007)##10617
+550##Left 4 Dead 2##9840
+281990##Stellaris##9619
+24980##Mass Effect 2##5332
+4560##Company of Heroes - Legacy Edition##4926
+221380##Age of Empires II (2013)##4467
+813780##Age of Empires II: Definitive Edition##4156
+300##Day of Defeat: Source##2784
+3920##Sid Meier's Pirates!##2657
+500##Left 4 Dead##1947
+9420##Supreme Commander: Forged Alliance##1267
+440##Team Fortress 2##1242
+700480##Microsoft Allegiance##1183
+620##Portal 2##543
+12110##Grand Theft Auto: Vice City##531
+420##Half-Life 2: Episode Two##456
+400##Portal##282
+17460##Mass Effect##87
+289070##Sid Meier's Civilization VI##80
+1213210##Command & Conquer™ Remastered Collection##80
+20540##Company of Heroes: Tales of Valor##65
+1128810##RISK: Global Domination##53
+933110##Age of Empires III: Definitive Edition##49
+10##Counter-Strike##28
+231430##Company of Heroes 2##28
+203770##Crusader Kings II##10
+203290##America's Army: Proving Grounds##7
+3900##Sid Meier's Civilization IV##3
+12180##Grand Theft Auto 2##2
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+3990##Sid Meier's Civilization IV: Warlords##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+12100##Grand Theft Auto III##0
+12120##Grand Theft Auto: San Andreas##0
+12170##Grand Theft Auto##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+41500##Torchlight##0
+9350##Supreme Commander##0
+317600##Company of Heroes: Eastern Front##0
+@@REVIEW
+236850##Recommended

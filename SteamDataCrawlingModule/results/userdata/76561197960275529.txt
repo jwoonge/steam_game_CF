@@ -1,0 +1,215 @@
+@@GAME
+252950##Rocket League##25887
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##13079
+730##Counter-Strike: Global Offensive##10288
+292030##The Witcher 3: Wild Hunt##5437
+666140##My Time At Portia##4460
+261640##Borderlands: The Pre-Sequel##3422
+424370##Wolcen: Lords of Mayhem##3253
+344760##Reign Of Kings##2409
+1046930##Dota Underlords##2373
+637650##FINAL FANTASY XV WINDOWS EDITION##1486
+684410##Bridge Constructor Portal##1019
+431960##Wallpaper Engine##982
+346010##Besiege##844
+814380##Sekiro™: Shadows Die Twice##834
+367500##Dragon's Dogma: Dark Arisen##803
+391220##Rise of the Tomb Raider##751
+271590##Grand Theft Auto V##738
+638970##Yakuza 0##723
+219990##Grim Dawn##684
+222880##Insurgency##675
+301520##Robocraft##613
+982220##Globesweeper##475
+207140##SpeedRunners##469
+1091500##Cyberpunk 2077##444
+477160##Human: Fall Flat##421
+629760##MORDHAU##408
+601150##Devil May Cry 5##407
+427290##Vampyr##385
+581320##Insurgency: Sandstorm##358
+330830##Tales from the Borderlands##353
+1217060##Gunfire Reborn##352
+49520##Borderlands 2##320
+240##Counter-Strike: Source##305
+513710##SCUM##289
+360430##Mafia III: Definitive Edition##286
+374320##DARK SOULS™ III##265
+738520##Breathedge##244
+749250##7th Sector##240
+675010##MudRunner##230
+729040##Borderlands GOTY Enhanced##210
+688130##Pogostuck: Rage With Your Friends##208
+440##Team Fortress 2##199
+517630##Just Cause 4##155
+524220##NieR:Automata™##139
+501300##What Remains of Edith Finch##132
+35140##Batman: Arkham Asylum GOTY Edition##124
+298610##Ylands##93
+400##Portal##88
+387290##Ori and the Blind Forest: Definitive Edition##83
+307690##Sleeping Dogs: Definitive Edition##82
+8980##Borderlands GOTY##79
+55230##Saints Row: The Third##79
+474960##Quantum Break##79
+817510##Golfing Over It with Alva Majo##79
+657200##Hand Simulator##72
+225260##Brütal Legend##51
+310560##DiRT Rally##49
+244930##SNOW##47
+230410##Warframe##44
+9200##RAGE##43
+460790##Bayonetta##43
+208650##Batman™: Arkham Knight##40
+238960##Path of Exile##37
+620##Portal 2##35
+1004390##Trials Rising - Open Beta##35
+757300##Truberbrook##33
+383870##Firewatch##32
+755790##Ring of Elysium##32
+12360##FlatOut: Ultimate Carnage##30
+504130##Manual Samuel - Anniversary Edition##28
+221910##The Stanley Parable##24
+304430##INSIDE##24
+368730##No Time To Explain Remastered##23
+667720##Red Faction Guerrilla Re-Mars-tered##21
+684580##Shoppe Keep 2##17
+728240##Adventure Time: Pirates of the Enchiridion##16
+24960##Battlefield: Bad Company™ 2##15
+32360##The Secret of Monkey Island: Special Edition##11
+274920##FaceRig##11
+323320##Grow Home##10
+292910##Deponia: The Complete Journey##9
+367450##Poly Bridge##9
+377260##Unearned Bounty##9
+225540##Just Cause 3##9
+570##Dota 2##9
+206420##Saints Row IV##7
+609320##FAR: Lone Sails##5
+386180##Crossout##4
+813820##Realm Royale##3
+823130##Totally Accurate Battlegrounds##3
+261570##Ori and the Blind Forest##2
+421120##Samorost 3##2
+992310##Backbone: Prologue##2
+679990##Half-Life: C.A.G.E.D.##1
+250460##Bridge Constructor##1
+848450##Subnautica: Below Zero##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+32460##Monkey Island 2: Special Edition##0
+31280##Poker Night at the Inventory##0
+50300##Spec Ops: The Line##0
+55100##Homefront##0
+12140##Max Payne##0
+31270##Puzzle Agent##0
+55150##Warhammer 40,000: Space Marine##0
+12100##Grand Theft Auto III##0
+12230##Grand Theft Auto III##0
+12130##Manhunt##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+94590##Puzzle Agent 2##0
+67370##The Darkness II##0
+207610##The Walking Dead##0
+8330##Telltale Texas Hold'Em##0
+94600##Hector: Ep 1##0
+94610##Hector: Ep 2##0
+94620##Hector: Ep 3##0
+8200##Sam & Max 101: Culture Shock##0
+8210##Sam & Max 102: Situation: Comedy##0
+8220##Sam & Max 103: The Mole, the Mob and the Meatball##0
+8240##Sam & Max 105: Reality 2.0##0
+8250##Sam & Max 106: Bright Side of the Moon##0
+8260##Sam & Max 201: Ice Station Santa##0
+8270##Sam & Max 202: Moai Better Blues##0
+8280##Sam & Max 203: Night of the Raving Dead##0
+8290##Sam & Max 204: Chariots of the Dogs##0
+8300##Sam & Max 205: What's New Beelzebub?##0
+8310##Bone: Out from Boneville##0
+8320##Bone: The Great Cow Race##0
+12110##Grand Theft Auto: Vice City##0
+12240##Grand Theft Auto: Vice City##0
+113400##APB Reloaded##0
+44350##GRID 2##0
+210770##Sanctum 2##0
+3910##Sid Meier's Civilization III: Complete##0
+234650##Shadowrun Returns##0
+65930##The Bureau: XCOM Declassified##0
+204530##Infested Planet##0
+233840##Worms Clan Wars##0
+252130##Divide by Sheep##0
+261030##The Walking Dead: Season Two##0
+261110##Killer is Dead##0
+262940##Broken Sword 5 - the Serpent's Curse##0
+268870##Satellite Reign##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+278360##A Story About My Uncle##0
+286570##F1 2015##0
+265590##The Red Solstice##0
+316790##Grim Fandango Remastered##0
+318600##The Flame in the Flood##0
+330840##Game of Thrones - A Telltale Games Series##0
+333930##Dirty Bomb##0
+366220##Wurm Unlimited##0
+368370##Her Story##0
+381780##80 Days##0
+317820##Guild of Dungeoneering##0
+388210##Day of the Tentacle Remastered##0
+391720##Layers of Fear##0
+400170##The Incredible Adventures of Van Helsing: Final Cut##0
+409160##Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist##0
+414530##Skyforge##0
+425410##Road to Ballhalla##0
+426790##Grow Up##0
+429570##The Walking Dead: Michonne##0
+535230##Domina##0
+550210##Layers of Fear - Soundtrack##0
+289130##Endless Legend™ - Emperor Edition##0
+507490##Ashes of the Singularity: Escalation##0
+1233550##Rocket Arena##0
+632360##Risk of Rain 2##0
+20500##Red Faction: Guerrilla Steam Edition##0
+707680##Slapshot##0
+15700##Oddworld: Abe's Oddysee##0
+231430##Company of Heroes 2##0
+740230##Just Ski##0
+878760##Realm Royale - Test Server##0
+845070##The Awesome Adventures of Captain Spirit##0
+863550##HITMAN™ 2##0
+439190##Stories: The Path of Destinies##0
+13250##Unreal Gold##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+884660##CRSED##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+395170##DISTRAINT: Deluxe Edition##0
+489520##Minion Masters##0
+370910##Kathy Rain##0
+226840##Age of Wonders III##0
+1085660##Destiny 2##0
+555000##GOAT OF DUTY##0
+1270990##West of Dead Beta##0
+442070##Drawful 2##0
+203160##Tomb Raider##0
+814200##Simple Story - Alex##0
+628950##Nephise Begins##0
+335190##200% Mixed Juice!##0
+390710##Acceleration of SUGURI 2##0
+282800##100% Orange Juice##0
+618140##Barro##0
+1305720##Delores: A Thimbleweed Park Mini-Adventure##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+@@REVIEW

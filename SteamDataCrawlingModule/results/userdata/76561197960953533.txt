@@ -1,0 +1,28 @@
+@@GAME
+440##Team Fortress 2##44302
+1085660##Destiny 2##7980
+976730##Halo: The Master Chief Collection##2521
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##753
+730##Counter-Strike: Global Offensive##86
+476620##Call of Duty: WWII - Multiplayer##74
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+203290##America's Army: Proving Grounds##0
+385800##NEKOPARA Vol. 0##0
+476600##Call of Duty: WWII##0
+204880##Sins of a Solar Empire: Rebellion##0
+308600##Geneshift##0
+285800##Braveland##0
+489520##Minion Masters##0
+@@REVIEW
+976730##Not Recommended
+578080##Not Recommended
+1085660##Not Recommended
+730##Not Recommended
+440##Not Recommended

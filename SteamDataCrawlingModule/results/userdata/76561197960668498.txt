@@ -1,0 +1,37 @@
+@@GAME
+730##Counter-Strike: Global Offensive##15462
+218230##PlanetSide 2##12197
+208090##Loadout##1627
+570##Dota 2##1215
+223220##Giana Sisters: Twisted Dreams##1064
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##857
+327030##Worms W.M.D##595
+10##Counter-Strike##507
+1097150##Fall Guys: Ultimate Knockout##182
+1213210##Command & Conquer™ Remastered Collection##143
+440##Team Fortress 2##50
+535930##Two Point Hospital##45
+204360##Castle Crashers##34
+357190##Ultimate Marvel vs. Capcom 3##13
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+6800##Commandos: Behind Enemy Lines##0
+6810##Commandos: Beyond the Call of Duty##0
+6830##Commandos 2: Men of Courage##0
+6840##Commandos 3: Destination Berlin##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+237630##DuckTales Remastered##0
+250180##METAL SLUG 3##0
+246960##Giana Sisters: Twisted Dreams - Rise of the Owlverlord##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+@@REVIEW

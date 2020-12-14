@@ -1,0 +1,141 @@
+@@GAME
+440##Team Fortress 2##381490
+4920##Natural Selection 2##42229
+730##Counter-Strike: Global Offensive##30634
+328070##Reflex Arena##16067
+611500##Quake Champions##13093
+22380##Fallout: New Vegas##4943
+337000##Deus Ex: Mankind Divided™##4810
+22300##Fallout 3##4632
+72850##The Elder Scrolls V: Skyrim##3256
+28050##Deus Ex: Human Revolution##3207
+21660##Street Fighter IV##2946
+238010##Deus Ex: Human Revolution - Director's Cut##2657
+12900##Audiosurf##2256
+379720##DOOM##1957
+12210##Grand Theft Auto IV: The Complete Edition##1905
+24960##Battlefield: Bad Company™ 2##1819
+221640##Super Hexagon##1543
+204100##Max Payne 3##1207
+17300##Crysis##1154
+108710##Alan Wake##1001
+233130##Shadow Warrior##890
+7670##BioShock##836
+550##Left 4 Dead 2##824
+620##Portal 2##805
+219150##Hotline Miami##755
+12140##Max Payne##640
+10180##Call of Duty: Modern Warfare 2##589
+110800##L.A. Noire##583
+219890##Antichamber##540
+439370##Midair##536
+500##Left 4 Dead##483
+10680##Aliens vs. Predator##395
+22000##World of Goo##350
+225080##Brothers - A Tale of Two Sons##276
+234390##Teleglitch: Die More Edition##207
+240##Counter-Strike: Source##134
+203810##Dear Esther##119
+400##Portal##117
+40800##Super Meat Boy##99
+207610##The Walking Dead##98
+231200##Kentucky Route Zero##97
+245550##Free to Play##91
+205100##Dishonored##67
+13210##Unreal Tournament 3: Black Edition##51
+70##Half-Life##31
+17340##Crysis Wars##16
+630##Alien Swarm##14
+17330##Crysis Warhead##6
+303210##The Beginner's Guide##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+6860##Hitman: Blood Money##0
+6310##The Longest Journey##0
+409710##BioShock Remastered##0
+420##Half-Life 2: Episode Two##0
+12160##Midnight Club II##0
+22200##Zeno Clash##0
+3590##Plants vs. Zombies: Game of the Year##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+20900##The Witcher: Enhanced Edition##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+33910##Arma 2##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+50130##Mafia II (Classic)##0
+1030830##Mafia II: Definitive Edition##0
+32360##The Secret of Monkey Island: Special Edition##0
+32460##Monkey Island 2: Special Edition##0
+47810##Dragon Age: Origins - Ultimate Edition##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+4760##Rome: Total War##0
+10500##Total War: EMPIRE - Definitive Edition##0
+34030##Total War: NAPOLEON - Definitive Edition##0
+34330##Total War: SHOGUN 2##0
+44320##DiRT 3##0
+321040##DiRT 3 Complete Edition##0
+45760##Ultra Street Fighter IV##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+18700##And Yet It Moves##0
+26500##Cogs##0
+26900##Crayon Physics Deluxe##0
+41100##Hammerfight##0
+55040##Atom Zombie Smasher ##0
+70300##VVVVVV##0
+96200##Steel Storm: Burning Retribution##0
+113200##The Binding of Isaac##0
+55230##Saints Row: The Third##0
+201280##Deus Ex: Human Revolution - The Missing Link##0
+12150##Max Payne 2: The Fall of Max Payne##0
+202750##Alan Wake's American Nightmare##0
+520720##Dear Esther: Landmark Edition##0
+3830##Psychonauts##0
+48000##LIMBO##0
+57300##Amnesia: The Dark Descent##0
+204060##Superbrothers: Sword & Sworcery EP##0
+107100##Bastion##0
+26800##Braid##0
+209830##Lone Survivor: The Director's Cut##0
+1700##Arx Fatalis##0
+205790##Dota 2 Test##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+43110##Metro 2033##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+212480##Sonic & All-Stars Racing Transformed Collection##0
+229660##Sonic and All-Stars Racing Transformed Metal Sonic DLC Pack##0
+343450##Free To Play (Streaming)##0
+239030##Papers, Please##0
+239350##Spelunky##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+221910##The Stanley Parable##0
+282440##Quake Live##0
+232430##Gone Home##0
+317360##Double Action: Boogaloo##0
+391540##Undertale##0
+423230##Furi##0
+743650##Quake Champions PTS##0
+38400##Fallout##0
+@@REVIEW
+611500##Recommended
+328070##Recommended

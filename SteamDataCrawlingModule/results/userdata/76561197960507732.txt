@@ -1,0 +1,174 @@
+@@GAME
+447020##Farming Simulator 17##7227
+230410##Warframe##6425
+227300##Euro Truck Simulator 2##5473
+359320##Elite Dangerous##4286
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##3473
+582660##Black Desert Online##2433
+337000##Deus Ex: Mankind Divided™##2083
+270880##American Truck Simulator##1737
+238010##Deus Ex: Human Revolution - Director's Cut##1698
+311210##Call of Duty: Black Ops III##1573
+582010##Monster Hunter: World##1225
+208650##Batman™: Arkham Knight##1213
+391220##Rise of the Tomb Raider##1182
+252490##Rust##1084
+239140##Dying Light##1003
+638970##Yakuza 0##856
+49520##Borderlands 2##762
+480490##Prey##713
+286690##Metro 2033 Redux##655
+1190460##DEATH STRANDING##650
+241930##Middle-earth™: Shadow of Mordor™##356
+263280##Spintires®##294
+234140##Mad Max##294
+379720##DOOM##266
+235600##Tom Clancy's Splinter Cell Blacklist##201
+8930##Sid Meier's Civilization V##168
+235540##Warhammer: End Times - Vermintide##167
+464340##Syberia 3##156
+50130##Mafia II (Classic)##147
+961440##Resident Evil 2 "1-Shot Demo"##125
+307690##Sleeping Dogs: Definitive Edition##96
+220740##Chaos on Deponia##82
+203140##Hitman: Absolution##77
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##76
+1056640##Phantasy Star Online 2##76
+209000##Batman™: Arkham Origins##73
+530620##Resident Evil 7 Teaser: Beginning Hour##68
+368070##Sniper Ghost Warrior 3##61
+12210##Grand Theft Auto IV: The Complete Edition##59
+218740##Pid ##56
+620##Portal 2##49
+206420##Saints Row IV##48
+7670##BioShock##40
+300060##ADR1FT##37
+108710##Alan Wake##29
+383150##Dead Island Definitive Edition##29
+268050##The Evil Within##28
+1085660##Destiny 2##21
+244850##Space Engineers##18
+344850##Big Pharma##17
+409710##BioShock Remastered##15
+797470##METAL GEAR SURVIVE BETA##14
+273350##Evolve Stage 2##11
+550##Left 4 Dead 2##7
+12110##Grand Theft Auto: Vice City##6
+34270##SEGA Mega Drive & Genesis Classics##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+8000##Tomb Raider: Anniversary##0
+9480##Saints Row 2##0
+23310##The Last Remnant##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+21680##Bionic Commando Rearmed##0
+23380##Gyromancer##0
+40300##Risen##0
+950670##Gothic Playable Teaser##0
+43000##Front Mission Evolved##0
+50300##Spec Ops: The Line##0
+400##Portal##0
+57900##Duke Nukem Forever##0
+7610##Railroad Tycoon 3##0
+55150##Warhammer 40,000: Space Marine##0
+8140##Tomb Raider: Underworld##0
+3830##Psychonauts##0
+67370##The Darkness II##0
+64000##Men of War: Assault Squad##0
+201700##DiRT Showdown##0
+7000##Tomb Raider: Legend##0
+207610##The Walking Dead##0
+200260##Batman: Arkham City GOTY##0
+12750##GRID##0
+91310##Dead Island##0
+202750##Alan Wake's American Nightmare##0
+98400##Hard Reset##0
+55230##Saints Row: The Third##0
+57690##Tropico 4##0
+23300##Yosumin!##0
+224960##Tomb Raider I##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+271290##HAWKEN##0
+221040##Resident Evil 6##0
+44350##GRID 2##0
+65930##The Bureau: XCOM Declassified##0
+40390##Risen 2 - Dark Waters##0
+241910##Goodbye Deponia##0
+249650##Blackguards##0
+700580##Rust - Staging Branch##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+238430##Contagion##0
+261110##Killer is Dead##0
+367690##Spintires® - Editor##0
+278360##A Story About My Uncle##0
+235210##Strider##0
+8880##Freedom Force##0
+8890##Freedom Force vs. the 3rd Reich##0
+216250##Dead Island Riptide##0
+285310##RollerCoaster Tycoon: Deluxe##0
+233290##MURDERED: SOUL SUSPECT™##0
+222900##Dead Island: Epidemic##0
+287390##Metro: Last Light Redux##0
+307880##Savage Lands##0
+310560##DiRT Rally##0
+314830##Blackguards 2##0
+255070##Abyss Odyssey##0
+12100##Grand Theft Auto III##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+258180##Deus Ex: The Fall##0
+6880##Just Cause##0
+8190##Just Cause 2##0
+320300##Car Mechanic Simulator 2015##0
+321040##DiRT 3 Complete Edition##0
+258520##The Vanishing of Ethan Carter##0
+400430##The Vanishing of Ethan Carter Redux##0
+323060##Tharsis##0
+226720##Lost Planet 3##0
+319630##Life is Strange™##0
+343710##KHOLAT##0
+275100##Shelter 2##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409720##BioShock 2 Remastered##0
+360940##The Mean Greens - Plastic Warfare##0
+247950##Sacred 3##0
+370240##NBA 2K16##0
+35700##Trine##0
+35720##Trine 2##0
+319910##Trine 3: The Artifacts of Power##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+383180##Dead Island Riptide Definitive Edition##0
+385560##Shadow Complex Remastered##0
+24010##Train Simulator##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+405500##Dangerous Golf##0
+421050##Deponia Doomsday##0
+435400##Hidden Folks##0
+1030830##Mafia II: Definitive Edition##0
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##0
+581270##Old Man's Journey##0
+218620##PAYDAY 2##0
+493900##Dungeons 3##0
+15700##Oddworld: Abe's Oddysee##0
+436180##Spacelords##0
+13250##Unreal Gold##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+730##Counter-Strike: Global Offensive##0
+406970##The Uncertain: Last Quiet Day##0
+@@REVIEW

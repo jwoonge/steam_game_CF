@@ -1,0 +1,109 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+2320##Quake II##0
+550##Left 4 Dead 2##0
+620##Portal 2##0
+7530##Two Worlds II Castle Defense##0
+218510##Planets Under Attack##0
+49520##Borderlands 2##0
+215790##Dream Pinball 3D##0
+7510##X-Blades##0
+1900##Earth 2160##0
+215930##Jagged Alliance 2 - Wildfire ##0
+1930##Two Worlds: Epic Edition##0
+224900##Iron Sky Invasion##0
+214510##LEGO® The Lord of the Rings™##0
+253860##Earth 2140 HD##0
+253880##Earth 2150 Trilogy##0
+259280##Earth 2150: The Moon Project##0
+259300##Earth 2150: Lost Souls##0
+253900##Knights and Merchants##0
+253920##Gorky 17##0
+253940##Septerra Core##0
+253960##Jack Orlando Director's Cut##0
+253980##Enclave##0
+254060##KnightShift##0
+254080##World War III: Black Gold##0
+254100##World War II: Panzer Claws##0
+217920##Alien Rage - Unlimited##0
+259320##Heli Heroes##0
+254460##Obscure##0
+254480##Obscure 2##0
+279720##The I of the Dragon##0
+282660##Easy eSports##0
+285160##LEGO® The Hobbit™##0
+34830##Sniper: Ghost Warrior##0
+34870##Sniper Ghost Warrior 2##0
+271500##Sniper Art of Victory##0
+238320##Outlast##0
+730##Counter-Strike: Global Offensive##0
+355180##Codename CURE##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+291550##Brawlhalla##0
+236110##Dungeon Defenders II##0
+414700##Outlast 2##0
+420970##RoBoRumble##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+453890##Black Rose##0
+588430##Fallout Shelter##0
+601510##Yu-Gi-Oh! Duel Links##0
+635240##Making of Furi: Episode 1 - Conception##0
+635241##Making of Furi: Episode 2 - Game Play##0
+635242##Making of Furi: Episode 3 - Art and Animation##0
+666220##CS2D##0
+686550##Trivia Vault: Mixed Trivia##0
+687480##Trivia Vault: Science & History Trivia##0
+687490##Trivia Vault: Super Heroes Trivia##0
+688630##Nightork Adventures 2 - Legacy of Chaos##0
+706320##Trivia Vault: Mini Mixed Trivia##0
+706330##Trivia Vault: Mini Mixed Trivia 2##0
+710110##Trivia Vault: Mini Mixed Trivia 3##0
+710120##Trivia Vault: Mini Mixed Trivia 4##0
+722050##Dean Daimon##0
+730220##Trivia Vault: Video Game Trivia Deluxe##0
+735530##Time Killers: Spot Race##0
+752700##Abscond##0
+752710##Infinity Trip##0
+761100##Jump! Jump! Jump!##0
+761110##Infinity Escape##0
+763360##Nice Way##0
+764490##Stickman Jetpack##0
+767030##Trivia Vault: Technology Trivia Deluxe##0
+775730##Dialing##0
+776320##Armada Skies##0
+781800##Walhall##0
+786750##Squares##0
+804600##Trivia Vault Football Trivia##0
+805360##Trivia Vault Baseball Trivia##0
+805880##Trivia Vault Olympics Trivia##0
+806140##Achievement printer##0
+806610##Trivia Vault Basketball Trivia##0
+810680##Zombie Murder##0
+810720##Zombie Murder Hell Arrives##0
+822460##Trivia Vault: Auto Racing Trivia##0
+837590##Operation Thunderstorm##0
+837600##The Royal Marines Commando##0
+838490##Theorem##0
+849620##Trivia Vault: Celebrity Trivia##0
+858420##Trivia Vault: Business Trivia##0
+714010##Aim Lab##0
+1172470##Apex Legends##0
+490860##DashBored##0
+489520##Minion Masters##0
+368180##Polyball##0
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##0
+34330##Total War: SHOGUN 2##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+@@REVIEW
+730##Not Recommended
+236110##Not Recommended
+10##Recommended

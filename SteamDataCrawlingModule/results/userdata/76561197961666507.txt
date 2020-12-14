@@ -1,0 +1,137 @@
+@@GAME
+730##Counter-Strike: Global Offensive##223552
+385770##Time Clickers##144560
+346900##AdVenture Capitalist##21875
+462930##AdVenture Communist##19884
+310380##Fractured Space##12632
+221380##Age of Empires II (2013)##8904
+273350##Evolve Stage 2##7896
+402710##Osiris: New Dawn##5762
+24790##Command and Conquer 3: Tiberium Wars##5625
+550##Left 4 Dead 2##5355
+960090##Bloons TD 6##5276
+17390##Spore##2683
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##2606
+240##Counter-Strike: Source##2560
+575720##Mighty Party##2454
+671510##Desolate##2364
+285310##RollerCoaster Tycoon: Deluxe##1733
+220##Half-Life 2##1701
+38050##Risk##1689
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##1512
+295110##Just Survive##1479
+319630##Life is Strange™##1332
+7670##BioShock##1323
+233740##Organ Trail: Director's Cut##1046
+220200##Kerbal Space Program##916
+570##Dota 2##805
+400##Portal##740
+29180##Osmos##736
+305620##The Long Dark##706
+620##Portal 2##671
+440##Team Fortress 2##648
+1091500##Cyberpunk 2077##548
+91310##Dead Island##497
+606880##GreedFall##480
+383080##Sakura Clicker##471
+17460##Mass Effect##416
+622650##Bendy and the Ink Machine##414
+500##Left 4 Dead##394
+261570##Ori and the Blind Forest##378
+3900##Sid Meier's Civilization IV##357
+410900##Forts##309
+409710##BioShock Remastered##245
+380##Half-Life 2: Episode One##242
+234140##Mad Max##204
+365300##Transmissions: Element 120##193
+24720##Spore: Galactic Adventures##171
+622440##Pandemic: The Board Game##164
+235460##METAL GEAR RISING: REVENGEANCE##163
+479130##ESEA##162
+10180##Call of Duty: Modern Warfare 2##151
+270010##Time Rifters##149
+720250##Welcome to the Game II##149
+282140##SOMA##146
+379720##DOOM##145
+424840##Little Nightmares##143
+1172940##Cockwork Industries Complete##143
+1500##Darwinia##142
+246620##Plague Inc: Evolved##124
+42710##Call of Duty: Black Ops - Multiplayer##117
+503300##Super Star##97
+292030##The Witcher 3: Wild Hunt##95
+758980##Poker Legends: Tournaments##90
+208200##DOOM 3: BFG Edition##87
+274190##Broforce##82
+22370##Fallout 3 - Game of the Year Edition##76
+1030840##Mafia: Definitive Edition##75
+665180##Dark Elf##69
+8850##BioShock 2##66
+24240##PAYDAY: The Heist##66
+8870##BioShock Infinite##61
+130##Half-Life: Blue Shift##52
+405310##LEGO® MARVEL's Avengers##52
+42680##Call of Duty: Modern Warfare 3##51
+209080##Guns of Icarus Online##43
+287450##Rise of Nations: Extended Edition##37
+21090##F.E.A.R.##28
+323470##DRAGON BALL XENOVERSE##22
+2270##Wolfenstein 3D##21
+402570##Atlas Reactor##20
+343750##Firefly Online Cortex##17
+2700##RollerCoaster Tycoon 3: Platinum!##14
+275670##Space Run##8
+966870##SinVR##6
+18110##Shattered Horizon##3
+105450##Age of Empires® III (2007)##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+280##Half-Life: Source##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+420##Half-Life 2: Episode Two##0
+17440##Spore: Creepy & Cute Parts Pack##0
+409720##BioShock 2 Remastered##0
+34440##Sid Meier's Civilization IV##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+42700##Call of Duty: Black Ops##0
+107100##Bastion##0
+213120##Transformers: Fall of Cybertron##0
+208030##Moon Breakers##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+206500##AirMech Strike##0
+246700##Strike Vector##0
+266840##Age of Mythology: Extended Edition##0
+273110##Counter-Strike Nexon: Studio##0
+222880##Insurgency##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+315430##Polarity##0
+205790##Dota 2 Test##0
+201810##Wolfenstein: The New Order##0
+350080##Wolfenstein: The Old Blood ##0
+362890##Black Mesa##0
+208650##Batman™: Arkham Knight##0
+459220##Halo Wars: Definitive Edition##0
+546560##Half-Life: Alyx##0
+554620##Life is Strange: Before the Storm##0
+612880##Wolfenstein II: The New Colossus##0
+715380##Those Who Remain##0
+782330##DOOM Eternal##0
+752590##A Plague Tale: Innocence##0
+@@REVIEW
+346900##Recommended

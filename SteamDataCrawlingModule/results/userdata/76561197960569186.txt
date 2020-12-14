@@ -1,0 +1,19 @@
+@@GAME
+730##Counter-Strike: Global Offensive##351201
+10##Counter-Strike##316780
+570##Dota 2##124666
+70##Half-Life##24042
+440##Team Fortress 2##15163
+477160##Human: Fall Flat##401
+479130##ESEA##106
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+281920##Splatter - Zombiecalypse Now##0
+823130##Totally Accurate Battlegrounds##0
+945360##Among Us##0
+@@REVIEW
+349500##Recommended

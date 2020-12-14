@@ -1,0 +1,142 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+240##Counter-Strike: Source##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+43110##Metro 2033##0
+40800##Super Meat Boy##0
+50300##Spec Ops: The Line##0
+55100##Homefront##0
+620##Portal 2##0
+55150##Warhammer 40,000: Space Marine##0
+113200##The Binding of Isaac##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+67370##The Darkness II##0
+204880##Sins of a Solar Empire: Rebellion##0
+201700##DiRT Showdown##0
+207610##The Walking Dead##0
+12800##FUEL##0
+12750##GRID##0
+91310##Dead Island##0
+208500##F1 2012##0
+209080##Guns of Icarus Online##0
+730##Counter-Strike: Global Offensive##0
+200510##XCOM: Enemy Unknown##0
+203140##Hitman: Absolution##0
+203680##F1 Race Stars##0
+202970##Call of Duty: Black Ops II##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+231430##Company of Heroes 2##0
+225260##Brütal Legend##0
+44350##GRID 2##0
+210770##Sanctum 2##0
+3910##Sid Meier's Civilization III: Complete##0
+65930##The Bureau: XCOM Declassified##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+218620##PAYDAY 2##0
+252950##Rocket League##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+261110##Killer is Dead##0
+262280##Dungeons 2##0
+227300##Euro Truck Simulator 2##0
+226840##Age of Wonders III##0
+268870##Satellite Reign##0
+550##Left 4 Dead 2##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+222880##Insurgency##0
+278360##A Story About My Uncle##0
+286570##F1 2015##0
+287260##Toybox Turbos##0
+292910##Deponia: The Complete Journey##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+63380##Sniper Elite V2##0
+310560##DiRT Rally##0
+265590##The Red Solstice##0
+318600##The Flame in the Flood##0
+6880##Just Cause##0
+8190##Just Cause 2##0
+321040##DiRT 3 Complete Edition##0
+238320##Outlast##0
+44360##F1 2011##0
+24240##PAYDAY: The Heist##0
+371140##Aegis Defenders##0
+391720##Layers of Fear##0
+365450##Hacknet##0
+491950##Orwell##0
+273350##Evolve Stage 2##0
+504130##Manual Samuel - Anniversary Edition##0
+544330##Snake Pass##0
+550210##Layers of Fear - Soundtrack##0
+507490##Ashes of the Singularity: Escalation##0
+305050##Outland##0
+368420##Mirage: Arcane Warfare##0
+113020##Monaco##0
+368230##Kingdom: Classic##0
+209670##Cortex Command##0
+203770##Crusader Kings II##0
+270550##Yet Another Zombie Defense##0
+439190##Stories: The Path of Destinies##0
+490220##Prismata##0
+13250##Unreal Gold##0
+334210##Fortified##0
+737800##F1 2018##0
+769920##Odysseus Kosmos and his Robot Quest - Episode 1##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+96000##The Tiny Bang Story##0
+402390##Hyperdrive Massacre##0
+638070##Murderous Pursuits##0
+395170##DISTRAINT: Deluxe Edition##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+555000##GOAT OF DUTY##0
+797410##Headsnatchers##0
+760620##Deiland##0
+442070##Drawful 2##0
+203160##Tomb Raider##0
+289690##Lara Croft and the Temple of Osiris##0
+588210##HELLION##0
+628950##Nephise Begins##0
+702150##Project Mercury##0
+335190##200% Mixed Juice!##0
+390710##Acceleration of SUGURI 2##0
+282800##100% Orange Juice##0
+420740##The Deed##0
+618140##Barro##0
+566190##The Search##0
+350300##Gang of Four##0
+600430##Ticket to Ride: First Journey##0
+348510##Autobahn Police Simulator##0
+640890##Will Glow the Wisp##0
+442120##Pinball FX3##0
+680360##Regions Of Ruin##0
+1078000##Gamecraft##0
+727020##Arcade Moonlander##0
+368180##Polyball##0
+308600##Geneshift##0
+1305720##Delores: A Thimbleweed Park Mini-Adventure##0
+34330##Total War: SHOGUN 2##0
+1076280##Showdown Bandit##0
+406970##The Uncertain: Last Quiet Day##0
+489520##Minion Masters##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW
+730##Recommended

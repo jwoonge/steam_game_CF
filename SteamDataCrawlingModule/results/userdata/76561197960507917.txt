@@ -1,0 +1,201 @@
+@@GAME
+730##Counter-Strike: Global Offensive##128584
+570##Dota 2##75685
+240##Counter-Strike: Source##41648
+39120##RIFT##15954
+359550##Tom Clancy's Rainbow Six Siege##13704
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##10735
+252950##Rocket League##8477
+359320##Elite Dangerous##7056
+10##Counter-Strike##6439
+250820##SteamVR##5147
+271590##Grand Theft Auto V##5108
+236430##DARK SOULS™ II##4370
+304390##For Honor##4261
+252490##Rust##3993
+42710##Call of Duty: Black Ops - Multiplayer##3617
+8930##Sid Meier's Civilization V##3519
+489940##BATTALION 1944##2882
+342200##MechWarrior Online##2857
+282350##NBA 2K15##2838
+431240##Golf With Your Friends##2740
+640820##Pathfinder: Kingmaker##2526
+306130##The Elder Scrolls Online##2292
+311210##Call of Duty: Black Ops III##2135
+379430##Kingdom Come: Deliverance##2130
+241930##Middle-earth™: Shadow of Mordor™##2002
+202990##Call of Duty: Black Ops II - Multiplayer##1983
+526870##Satisfactory##1874
+377160##Fallout 4##1788
+293260##Card Hunter##1540
+8500##EVE Online##1537
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##1534
+440##Team Fortress 2##1435
+460930##Tom Clancy's Ghost Recon® Wildlands##1334
+72850##The Elder Scrolls V: Skyrim##1332
+270880##American Truck Simulator##1301
+9420##Supreme Commander: Forged Alliance##1264
+518790##theHunter: Call of the Wild™##1216
+222880##Insurgency##1145
+629760##MORDHAU##1037
+562810##Monopoly Plus##907
+645630##Car Mechanic Simulator 2018##897
+380600##Fishing Planet##870
+35450##Rising Storm/Red Orchestra 2 Multiplayer##850
+235540##Warhammer: End Times - Vermintide##818
+1172380##STAR WARS Jedi: Fallen Order™ ##811
+255710##Cities: Skylines##806
+219640##Chivalry: Medieval Warfare##745
+413150##Stardew Valley##724
+239820##Game Dev Tycoon##687
+621060##PC Building Simulator##662
+236390##War Thunder##640
+1129580##Medieval Dynasty##604
+739630##Phasmophobia##534
+221680##Rocksmith® 2014 Edition - Remastered##533
+1091500##Cyberpunk 2077##512
+361420##ASTRONEER##511
+613100##House Flipper##497
+105600##Terraria##480
+1046930##Dota Underlords##478
+218620##PAYDAY 2##472
+594650##Hunt: Showdown##471
+755790##Ring of Elysium##465
+367500##Dragon's Dogma: Dark Arisen##446
+200260##Batman: Arkham City GOTY##411
+310380##Fractured Space##396
+209080##Guns of Icarus Online##380
+374320##DARK SOULS™ III##372
+815370##Green Hell##367
+275850##No Man's Sky##366
+32800##The Lord of the Rings: War in the North##362
+244850##Space Engineers##357
+787860##Farming Simulator 19##356
+550##Left 4 Dead 2##330
+611500##Quake Champions##323
+238960##Path of Exile##318
+55230##Saints Row: The Third##295
+813820##Realm Royale##293
+322780##Worlds Adrift##287
+444090##Paladins##267
+105400##Fable III##266
+333930##Dirty Bomb##264
+35720##Trine 2##251
+220240##Far Cry® 3##246
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##242
+289070##Sid Meier's Civilization VI##241
+945360##Among Us##234
+365590##Tom Clancy's The Division##230
+302510##Ryse: Son of Rome##228
+544920##Darwin Project##220
+292030##The Witcher 3: Wild Hunt##213
+233250##Planetary Annihilation##201
+424370##Wolcen: Lords of Mayhem##193
+268500##XCOM 2##181
+107410##Arma 3##172
+665360##Comedy Night##171
+262060##Darkest Dungeon®##160
+251570##7 Days to Die##154
+443810##This Is the Police##144
+242050##Assassin's Creed IV Black Flag##136
+238090##Sniper Elite 3##133
+344760##Reign Of Kings##133
+224580##Arma 2: DayZ Mod##128
+295110##Just Survive##128
+322500##SUPERHOT##127
+278360##A Story About My Uncle##126
+227940##Heroes & Generals##119
+314520##Euro Fishing##116
+319050##Chaos Reborn##111
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##110
+4000##Garry's Mod##105
+224540##Ace of Spades##105
+230410##Warframe##101
+17700##Insurgency: Modern Infantry Combat##99
+274920##FaceRig##98
+394510##HELLDIVERS™##93
+433850##Z1 Battle Royale##90
+239070##Hammerwatch##87
+3720##Evil Genius##82
+812140##Assassin's Creed Odyssey##81
+212680##FTL: Faster Than Light##79
+813780##Age of Empires II: Definitive Edition##76
+49520##Borderlands 2##74
+301520##Robocraft##70
+291480##Warface##69
+504370##Battlerite##65
+271920##Worlds Adrift Island Creator##62
+360170##How to Survive 2##60
+1188680##The Political Machine 2020##58
+1145360##Hades##58
+42910##Magicka##47
+582660##Black Desert Online##45
+270450##Robot Roller-Derby Disco Dodgeball##44
+280790##Creativerse##44
+360940##The Mean Greens - Plastic Warfare##39
+281990##Stellaris##38
+670290##Real Pool 3D - Poolians##38
+632360##Risk of Rain 2##37
+47810##Dragon Age: Origins - Ultimate Edition##34
+304930##Unturned##34
+291550##Brawlhalla##30
+736220##Post Scriptum##27
+489520##Minion Masters##24
+339610##FreeStyle 2: Street Basketball##23
+444200##World of Tanks Blitz##16
+30##Day of Defeat##15
+630##Alien Swarm##13
+223410##Perpetuum##12
+33930##Arma 2: Operation Arrowhead##10
+43110##Metro 2033##8
+42700##Call of Duty: Black Ops##5
+346900##AdVenture Capitalist##5
+282440##Quake Live##3
+365720##Skyrim Script Extender (SKSE)##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+49800##Flight of the Icarus##0
+33900##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+91700##E.Y.E: Divine Cybermancy##0
+205790##Dota 2 Test##0
+202970##Call of Duty: Black Ops II##0
+212910##Call of Duty: Black Ops II - Zombies##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+21690##Resident Evil 5##0
+700580##Rust - Staging Branch##0
+278100##RIVE##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+310560##DiRT Rally##0
+233610##Distance##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+261640##Borderlands: The Pre-Sequel##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+596350##Paladins - Public Test##0
+524440##Tom Clancy's The Division PTS##0
+379720##DOOM##0
+427460##Battlerite Public Test##0
+654310##For Honor - Public Test##0
+770720##Hunt: Showdown (Test Server)##0
+743650##Quake Champions PTS##0
+878760##Realm Royale - Test Server##0
+552500##Warhammer: Vermintide 2##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+1063730##New World##0
+1404210##Red Dead Online##0
+@@REVIEW

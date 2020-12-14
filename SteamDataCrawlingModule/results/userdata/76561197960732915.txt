@@ -1,0 +1,74 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+24780##SimCity 4 Deluxe##0
+19200##Tank Universal##0
+65790##Arma: Cold War Assault##0
+70600##Worms Ultimate Mayhem##0
+3830##Psychonauts##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+212160##Vindictus##0
+236390##War Thunder##0
+238960##Path of Exile##0
+226320##Marvel Heroes Omega##0
+232010##Euro Truck Simulator##0
+218620##PAYDAY 2##0
+252950##Rocket League##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+259320##Heli Heroes##0
+261430##AION Free-to-Play##0
+227300##Euro Truck Simulator 2##0
+268850##EVGA Precision X1##0
+271590##Grand Theft Auto V##0
+65780##Arma: Gold Edition##0
+275100##Shelter 2##0
+349740##Shelter 2 Soundtrack##0
+285820##Action Henk##0
+227940##Heroes & Generals##0
+316010##Magic Duels##0
+730##Counter-Strike: Global Offensive##0
+380600##Fishing Planet##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+422250##ShipLord##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+467950##Survive in Space##0
+468490##Neon Space##0
+477160##Human: Fall Flat##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+489220##Unforgiving Trials: The Darkest Crusade##0
+479130##ESEA##0
+544920##Darwin Project##0
+402560##Tabletopia##0
+573130##Aporia: Beyond The Valley##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+601510##Yu-Gi-Oh! Duel Links##0
+386180##Crossout##0
+648800##Raft##0
+629520##Soundpad##0
+739630##Phasmophobia##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+755790##Ring of Elysium##0
+757240##Aimtastic##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+874240##MU Legend##0
+611500##Quake Champions##0
+880940##Pummel Party##0
+884660##CRSED##0
+969680##Steel Circus##0
+1106850##Totally Reliable Delivery Service Beta##0
+1172470##Apex Legends##0
+797410##Headsnatchers##0
+1097150##Fall Guys: Ultimate Knockout##0
+@@REVIEW

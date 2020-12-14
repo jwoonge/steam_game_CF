@@ -1,0 +1,75 @@
+@@GAME
+730##Counter-Strike: Global Offensive##21081
+207890##Football Manager 2013##10242
+231670##Football Manager 2014##6739
+271590##Grand Theft Auto V##3938
+295270##Football Manager 2015##3602
+378120##Football Manager 2016##3159
+223850##3DMark##1046
+204100##Max Payne 3##474
+203160##Tomb Raider##266
+391220##Rise of the Tomb Raider##240
+238960##Path of Exile##195
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##182
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##150
+346900##AdVenture Capitalist##118
+252950##Rocket League##114
+433850##Z1 Battle Royale##81
+10##Counter-Strike##80
+209170##Call of Duty: Ghosts - Multiplayer##69
+236870##HITMAN™##65
+255220##GRID Autosport##56
+225540##Just Cause 3##49
+352520##The Silent Age##43
+370240##NBA 2K16##42
+208650##Batman™: Arkham Knight##40
+359870##FINAL FANTASY X/X-2 HD Remaster##37
+407250##Pro Evolution Soccer 2016 myClub##36
+237990##The Banner Saga##34
+107410##Arma 3##30
+238090##Sniper Elite 3##19
+218230##PlanetSide 2##12
+244930##SNOW##12
+105600##Terraria##11
+213670##South Park™: The Stick of Truth™##10
+440##Team Fortress 2##9
+12100##Grand Theft Auto III##7
+363970##Clicker Heroes##5
+12210##Grand Theft Auto IV: The Complete Edition##3
+496920##Moirai##2
+12110##Grand Theft Auto: Vice City##1
+330840##Game of Thrones - A Telltale Games Series##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+10180##Call of Duty: Modern Warfare 2##0
+204030##Fable - The Lost Chapters##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+236390##War Thunder##0
+272350##Tom Clancy's Ghost Recon Phantoms - EU##0
+265630##Fistful of Frags##0
+225260##Brütal Legend##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+242460##Football Manager 2014 Editor##0
+242480##Football Manager 2014 Resource Archiver##0
+209160##Call of Duty: Ghosts##0
+281640##The Banner Saga 2##0
+312990##The Expendabros##0
+316790##Grim Fandango Remastered##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+291550##Brawlhalla##0
+439700##H1Z1: Test Server##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+402570##Atlas Reactor##0
+546390##Brief Karate Foolish##0
+@@REVIEW

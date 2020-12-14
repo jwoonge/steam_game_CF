@@ -1,0 +1,331 @@
+@@GAME
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##1372
+730820##The Curse of Monkey Island##609
+297000##Heroes of Might & Magic III - HD Edition##68
+20900##The Witcher: Enhanced Edition##50
+391220##Rise of the Tomb Raider##30
+1085660##Destiny 2##29
+3920##Sid Meier's Pirates!##26
+130##Half-Life: Blue Shift##21
+718850##Age of Wonders: Planetfall##15
+10##Counter-Strike##10
+65930##The Bureau: XCOM Declassified##9
+41700##S.T.A.L.K.E.R.: Call of Pripyat##8
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##7
+236690##Blood Bowl 2##6
+50##Half-Life: Opposing Force##5
+337000##Deus Ex: Mankind Divided™##5
+50300##Spec Ops: The Line##4
+327380##Pirates! Gold Plus (Classic)##4
+327390##Sid Meier's Covert Action (Classic)##4
+34270##SEGA Mega Drive & Genesis Classics##3
+40100##Supreme Commander 2##2
+235540##Warhammer: End Times - Vermintide##2
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##1
+4720##Condemned: Criminal Origins##1
+203160##Tomb Raider##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+70##Half-Life##0
+6870##Battlestations: Midway##0
+6880##Just Cause##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+6980##Thief: Deadly Shadows##0
+7000##Tomb Raider: Legend##0
+7010##Project: Snowblind##0
+8000##Tomb Raider: Anniversary##0
+8080##Kane & Lynch: Dead Men##0
+8100##Conflict: Denied Ops##0
+8140##Tomb Raider: Underworld##0
+8170##Battlestations: Pacific##0
+35000##Mini Ninjas##0
+34600##Order of War##0
+35070##Flora's Fruit Farm##0
+8190##Just Cause 2##0
+24780##SimCity 4 Deluxe##0
+35130##Lara Croft and the Guardian of Light##0
+55100##Homefront##0
+39160##Dungeon Siege III##0
+3830##Psychonauts##0
+115100##Costume Quest##0
+67370##The Darkness II##0
+211780##Conflict Desert Storm##0
+211600##Thief Gold##0
+211740##Thief 2##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+224300##Legacy of Kain: Defiance##0
+224920##Legacy of Kain: Soul Reaver##0
+224940##Legacy of Kain: Soul Reaver 2##0
+224960##Tomb Raider I##0
+225300##Tomb Raider II##0
+225320##Tomb Raider III: Adventures of Lara Croft##0
+224980##Tomb Raider: The Last Revelation##0
+225000##Tomb Raider: Chronicles##0
+225020##Tomb Raider (VI): The Angel of Darkness##0
+225260##Brütal Legend##0
+39200##Dungeon Siege 2##0
+39190##Dungeon Siege##0
+242820##140##0
+255340##Escape Goat 2##0
+243020##Pandemonium##0
+242960##Blood Omen 2: Legacy of Kain##0
+242980##Daikatana##0
+245010##Deathtrap Dungeon##0
+232790##Broken Age##0
+239160##Thief##0
+258180##Deus Ex: The Fall##0
+290510##GNOG##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+316790##Grim Fandango Remastered##0
+313340##Mountain##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+307690##Sleeping Dogs: Definitive Edition##0
+327400##Sid Meier's Colonization (Classic)##0
+246110##MASSIVE CHALICE##0
+336940##Basingstoke##0
+319630##Life is Strange™##0
+340000##Headlander##0
+28000##Kane & Lynch 2: Dog Days##0
+388210##Day of the Tentacle Remastered##0
+389850##Legacy of Dorn: Herald of Oblivion##0
+394450##Warhammer 40,000: Deathwatch - Enhanced Edition##0
+225540##Just Cause 3##0
+418180##Tempest##0
+421740##Goetia##0
+427820##Hitman GO: Definitive Edition##0
+203750##Binary Domain##0
+447820##Day of Infamy##0
+458920##Carnival Games® VR##0
+363680##Battlefleet Gothic: Armada##0
+499520##The Turing Test##0
+502370##Warhammer 40,000: Sanctus Reach##0
+510620##THOTH##0
+402590##Double Fine Adventure##0
+402591##Double Fine Adventure: Ep02 - A Promise of Infinite Possibility##0
+402592##Double Fine Adventure: Ep03 - Codename: Reds##0
+402593##Double Fine Adventure: Ep04 - Walking Around In Our Drawings##0
+402594##Double Fine Adventure: Ep05 - It’s Gonna Get Hairy##0
+402595##Double Fine Adventure: Ep06 - That Bagel Filter Thing##0
+402596##Double Fine Adventure: Ep07 - We'll Handle It##0
+402597##Double Fine Adventure: Ep08 - Adventure Games Are Not Dead##0
+402598##Double Fine Adventure: Ep09 - Broken Age##0
+402599##Double Fine Adventure: EP10 - Part One of Something Great##0
+402600##Double Fine Adventure: EP11 - Ship It##0
+402601##Double Fine Adventure: EP12 - A Whole Different Game Experience##0
+402602##Double Fine Adventure: Ep13 - Crash Landing a Plane##0
+402603##Double Fine Adventure: EP14 - I Think This is a Winner##0
+402604##Double Fine Adventure: Ep15 - Evergreen Games##0
+402605##Double Fine Adventure: Ep16 - This Time it's Just for Love##0
+402606##Double Fine Adventure: Ep17 - Deadline for Tim##0
+402607##Double Fine Adventure: Ep18 - Constipation and Defcon 4##0
+402608##Double Fine Adventure: EP19 - Last Call##0
+402609##Double Fine Adventure: Ep20 - We Did Our Job##0
+512360##Double Fine Adventure: Ep01 - A Perfect Storm For Adventure##0
+536070##Double Fine Adventure: Ep01 Bonus - Kickstarter Pitch Video##0
+536071##Double Fine Adventure: Ep01 Bonus - Kickstarter Pitch Bloopers##0
+536072##Double Fine Adventure: Ep01 Bonus - Kickstarter DRM Update##0
+536073##Double Fine Adventure: Ep01 Bonus - Kickstarter Rewards Options##0
+536074##Double Fine Adventure: Ep01 Bonus - Kickstarter European Options##0
+536075##Double Fine Adventure: Ep02 Bonus - Tim's First Address to Backe##0
+536076##Double Fine Adventure: Ep02 Bonus - Project Q&A w/ Tim##0
+536077##Double Fine Adventure: Ep02 Bonus - Tim and Ron Adventure Chat##0
+536078##Double Fine Adventure: Ep03 Bonus - Lumberjack Animatic##0
+536079##Double Fine Adventure: Ep03 Bonus - Greg Models Backer T-Shirt##0
+536080##Double Fine Adventure: Ep03 Bonus - Moai Promo Video##0
+536081##Double Fine Adventure: Ep04 Bonus - Lumberjack Previz##0
+536082##Double Fine Adventure: Ep05 Bonus - Lumberjack Party (Kinect Demo)##0
+536083##Double Fine Adventure: Ep07 Bonus - Lili Picks the Girl##0
+536084##Double Fine Adventure: Ep07 Bonus - Marius Animatics##0
+536085##Double Fine Adventure: Ep09 Bonus - Teaser Trailer Previz##0
+536086##Double Fine Adventure: Ep09 Bonus - Broken Age Teaser Trailer##0
+536087##Double Fine Adventure: Ep09 Bonus - 90,000 Friends##0
+536088##Double Fine Adventure: Ep09 Bonus - Teaser Evolution##0
+536089##Double Fine Adventure: Ep11 Bonus - Scratch Audio Montage##0
+536090##Double Fine Adventure: Ep11 Bonus - Alternate Cinema Scenes##0
+536091##Double Fine Adventure: Ep12 Bonus - Jack Black Casting Reveal##0
+536092##Double Fine Adventure: Ep12 Bonus - Pendleton Ward in the Studio##0
+536093##Double Fine Adventure: Ep13 Bonus - Wil Wheaton Casting Reveal##0
+536094##Double Fine Adventure: Ep13 Bonus - Elijah Wood Casting Reveal##0
+536095##Double Fine Adventure: Ep13 Bonus - Dave G's Wolf Scene##0
+536096##Double Fine Adventure: Ep14 Bonus - Broken Age Vella Trailer##0
+536097##Double Fine Adventure: Ep14 Bonus - Broken Age Shay Trailer##0
+536098##Double Fine Adventure: Ep15 Bonus - Broken Age Act 1 Trailer##0
+536099##Double Fine Adventure: Ep16 Bonus - Broken Age iPad Promo##0
+536100##Double Fine Adventure: Ep17 Bonus - Anna Kipnis Dialog Talk##0
+536101##Double Fine Adventure: Ep17 Bonus - Oliver Franzke Scalability Talk##0
+536102##Double Fine Adventure: Ep18 Bonus - Shay Game Awards Interstital##0
+536103##Double Fine Adventure: Ep18 Bonus - Tim's Update on Exciting Times##0
+536104##Double Fine Adventure: Ep18 Bonus - Broken Age Climax Animatic##0
+536105##Double Fine Adventure: Ep19 Bonus - Broken Age Launch Trailer##0
+536106##Double Fine Adventure: Ep19 Bonus - Backer Box Poll##0
+536107##Double Fine Adventure: Ep20 Bonus - Russian Subtitles##0
+536108##Double Fine Adventure: Ep20 Bonus - Thank You from the Backers##0
+536110##Double Fine Adventure: Ep01 Deleted - Talking with Ron##0
+536111##Double Fine Adventure: Ep02 Deleted - Tim and Erik Chat##0
+536112##Double Fine Adventure: Ep02 Deleted - Feedback with Ron##0
+536113##Double Fine Adventure: Ep02 Deleted - Ron Responds to Pitch##0
+536114##Double Fine Adventure: Ep03 Deleted - Codenames##0
+536115##Double Fine Adventure: Ep03 Deleted - Bar Crawling##0
+536116##Double Fine Adventure: Ep04 Deleted - Dinosaurs##0
+536117##Double Fine Adventure: Ep04 Deleted - Art Jamming##0
+536118##Double Fine Adventure: Ep04 Deleted - Scott Gets Shot Down##0
+536119##Double Fine Adventure: Ep04 Deleted - Signing Posters##0
+536120##Double Fine Adventure: Ep05 Deleted - Early Story Decisions##0
+536121##Double Fine Adventure: Ep05 Deleted - It's Getting Even Hairier##0
+536122##Double Fine Adventure: Ep06 Deleted - Driving with Tim##0
+536123##Double Fine Adventure: Ep06 Deleted - Crazy Cat Man##0
+536124##Double Fine Adventure: Ep06 Deleted - Vella Alteration##0
+536125##Double Fine Adventure: Ep06 Deleted - Art Directon##0
+536126##Double Fine Adventure: Ep06 Deleted - Early Story Concepts##0
+536127##Double Fine Adventure: Ep08 Deleted - Extended Beard Trimming##0
+536128##Double Fine Adventure: Ep09 Deleted - Ron Gilbert's Notes##0
+536129##Double Fine Adventure: Ep10 Deleted - Brainstorming with John##0
+536130##Double Fine Adventure: Ep10 Deleted - Gameinformer Extended##0
+536131##Double Fine Adventure: Ep10 Deleted - Reflections##0
+536132##Double Fine Adventure: Ep10 Deleted - Lighting##0
+536133##Double Fine Adventure: Ep11 Deleted - Grabbing Game##0
+536134##Double Fine Adventure: Ep12 Deleted - Fem Shep##0
+536135##Double Fine Adventure: Ep14 Deleted - Mock Reviews##0
+536136##Double Fine Adventure: Ep15 Deleted - Refunds##0
+536137##Double Fine Adventure: Ep15 Deleted - One Unit##0
+536138##Double Fine Adventure: Ep15 Deleted - Act 2 Art Jammin'##0
+536139##Double Fine Adventure: Ep16 Deleted - Act 2 Brainstorming##0
+536140##Double Fine Adventure: Ep17 Deleted - Act 2 Hour Of Fun##0
+536141##Double Fine Adventure: Ep18 Deleted - Checking in with Bagel##0
+536142##Double Fine Adventure: Ep18 Deleted - Lee Leaves the Team##0
+536143##Double Fine Adventure: Ep19 Deleted - Tim's Last Call##0
+536144##Double Fine Adventure: Ep19 Deleted - The Thrush##0
+536145##Double Fine Adventure: Ep19 Deleted - Oliver's Creed##0
+536146##Double Fine Adventure: Ep20 Deleted - Act 2 Reviews##0
+577420##Double Fine Adventure: Sidequest 1 // Tim Schafer - "My Father Told Me It Would Be..."##0
+577421##Double Fine Adventure: Sidequest 2 // Tim Schafer - “I’m Such a F@#$in’ Genius”##0
+577422##Double Fine Adventure: Sidequest 3 // Lee Petty - "I Was a Very Pleasant Baby"##0
+577423##Double Fine Adventure: Sidequest 4 // Anna Kipnis - "I Got My Dream Job"##0
+577424##Double Fine Adventure: Sidequest 5 // Brandon Dillon - "There Could Possibly Be..."##0
+577425##Double Fine Adventure: Sidequest 6 // Ray Crook - "I Think it's OK i'm Still Here"##0
+577426##Double Fine Adventure: Sidequest 7 // JP LeBreton - "You Don't Step in the Same..."##0
+577427##Double Fine Adventure: Sidequest 8 // Oliver Franzke - "I Would Have Absolutely..."##0
+577428##Double Fine Adventure: Sidequest 9 // Dave Gardner - "Look, the Clocks..."##0
+577429##Double Fine Adventure: Sidequest 10 // Peter McConnell - "What I Wish I Could Have..."##0
+577430##Double Fine Adventure: Sidequest 11 // Khris Brown - "The Purity of Your Intent"##0
+577431##Double Fine Adventure: Sidequest 12 // Camden Stoddard - "The Weight of the Sound"##0
+577432##Double Fine Adventure: Sidequest 13 // Justin Bailey - "My Seat Only Goes Back So Far"##0
+577433##Double Fine Adventure: Sidequest 14 // Ben Peck - "It's Not Like This Every Day"##0
+577434##Double Fine Adventure: Sidequest 15 // Matt Hansen - "Just Take It Seriously"##0
+600300##Double Fine Adventure: Sidequest 16 // Malena Annable - "Autonomy to be Awesome"##0
+540840##Lara Croft GO##0
+546350##Craft Keep VR##0
+507490##Ashes of the Singularity: Escalation##0
+582270##Everything##0
+285190##Warhammer 40,000: Dawn of War III##0
+597760##Yuppie Psycho##0
+611760##Don't Escape: 4 Days to Survive##0
+228360##Full Throttle Remastered##0
+310530##Darwin's Dinner Prototype##0
+625230##Kiln Prototype##0
+629160##The Gods Must Be Hungry Prototype##0
+629170##I Have No Idea What I'm Doing Prototype##0
+631780##Amnesia Fortnight##0
+631790##Amnesia Fortnight: AF 2017 - Day 0##0
+631791##Amnesia Fortnight: AF 2017 - Day 1##0
+631792##Amnesia Fortnight: AF 2017 - Day 2##0
+631793##Amnesia Fortnight: AF 2017 - Day 3##0
+631794##Amnesia Fortnight: AF 2017 - Day 4##0
+631795##Amnesia Fortnight: AF 2017 - Day 5##0
+631796##Amnesia Fortnight: AF 2017 - Day 6##0
+631797##Amnesia Fortnight: AF 2017 - Day 7##0
+631798##Amnesia Fortnight: AF 2017 - Day 8##0
+631799##Amnesia Fortnight: AF 2017 - Day 9##0
+643530##Amnesia Fortnight: AF 2017 - Day 10##0
+649610##Amnesia Fortnight: AF 2012 - Bonus - All 30 Second Pitches##0
+649611##Amnesia Fortnight: AF 2012 - Bonus - BRAZEN Documentary##0
+649612##Amnesia Fortnight: AF 2012 - Bonus - End Credits##0
+649613##Amnesia Fortnight: AF 2012 - Bonus - Intro##0
+649614##Amnesia Fortnight: AF 2012 - Bonus - Autonomous Playthrough##0
+649615##Amnesia Fortnight: AF 2012 - Bonus - Black Lake Playthrough##0
+649616##Amnesia Fortnight: AF 2012 - Bonus - BRAZEN Playthrough##0
+649617##Amnesia Fortnight: AF 2012 - Bonus - Hack 'n' Slash Playthrough##0
+649618##Amnesia Fortnight: AF 2012 - Bonus - Spacebase DF-9 Playthrough##0
+649619##Amnesia Fortnight: AF 2012 - Bonus - The White Birch Playthrough##0
+650040##Amnesia Fortnight: AF 2014 - Bonus - All 30 Second Pitches##0
+650041##Amnesia Fortnight: AF 2014 - Bonus - Audio Department Postmortem##0
+650042##Amnesia Fortnight: AF 2014 - Bonus - Intro##0
+650043##Amnesia Fortnight: AF 2014 - Bonus - Dear Leader Playthrough##0
+650044##Amnesia Fortnight: AF 2014 - Bonus - Little Pink Best Buds Playthrough##0
+650045##Amnesia Fortnight: AF 2014 - Bonus - Mnemonic Playthrough##0
+650046##Amnesia Fortnight: AF 2014 - Bonus - Steed Playthrough##0
+650047##Amnesia Fortnight: AF 2014 - Bonus - Spoilers With Pen Ward##0
+650048##Amnesia Fortnight: AF 2014 - Bonus - Tim and Pen Ward Interview##0
+650049##Amnesia Fortnight: AF 2014 - Bonus - Tim and Project Lead Interviews##0
+650050##Amnesia Fortnight: AF 2014 - Bonus - Trailer##0
+680800##Amnesia Fortnight: AF 2017 - The Day After##0
+602490##Blood Bowl: Death Zone##0
+681110##Eagle Island##0
+228020##Spacebase DF-9 Prototype##0
+644440##Amnesia Fortnight: AF 2012 - Day 0##0
+644441##Amnesia Fortnight: AF 2012 - Day 1##0
+644442##Amnesia Fortnight: AF 2012 - Day 2##0
+644443##Amnesia Fortnight: AF 2012 - Day 3##0
+644444##Amnesia Fortnight: AF 2012 - Day 4##0
+644445##Amnesia Fortnight: AF 2012 - Day 5##0
+644446##Amnesia Fortnight: AF 2012 - Day 6##0
+644447##Amnesia Fortnight: AF 2012 - Day 7##0
+644448##Amnesia Fortnight: AF 2012 - Day 8##0
+644449##Amnesia Fortnight: AF 2012 - Day 9##0
+644450##Amnesia Fortnight: AF 2012 - Day 10##0
+644451##Amnesia Fortnight: AF 2012 - The Day After##0
+285230##Mnemonic Prototype##0
+285250##Dear Leader Prototype##0
+285270##Steed Prototype##0
+285290##Little Pink Best Buds Prototype##0
+644460##Amnesia Fortnight: AF 2014 - Day 0##0
+644461##Amnesia Fortnight: AF 2014 - Day 1##0
+644462##Amnesia Fortnight: AF 2014 - Day 2##0
+644463##Amnesia Fortnight: AF 2014 - Day 3##0
+644464##Amnesia Fortnight: AF 2014 - Day 4##0
+644465##Amnesia Fortnight: AF 2014 - Day 5##0
+644466##Amnesia Fortnight: AF 2014 - Day 6##0
+644467##Amnesia Fortnight: AF 2014 - Day 7##0
+644468##Amnesia Fortnight: AF 2014 - Day 8##0
+644469##Amnesia Fortnight: AF 2014 - Day 9##0
+644470##Amnesia Fortnight: AF 2014 - Day 10##0
+644471##Amnesia Fortnight: AF 2014 - The Day After##0
+709440##Override##0
+716640##Sigma Theory##0
+503940##Railway Empire##0
+761030##EARTHLOCK##0
+782140##Re-Legion##0
+788690##Psychonauts in the Rhombus of Ruin##0
+793370##KIDS##0
+857980##Void Bastards##0
+722560##RAD##0
+285900##Gang Beasts##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+15620##Warhammer 40,000: Dawn of War II##0
+275610##Warhammer 40,000: Kill Team##0
+55150##Warhammer 40,000: Space Marine##0
+555000##GOAT OF DUTY##0
+797410##Headsnatchers##0
+442070##Drawful 2##0
+289690##Lara Croft and the Temple of Osiris##0
+702150##Project Mercury##0
+390710##Acceleration of SUGURI 2##0
+282800##100% Orange Juice##0
+420740##The Deed##0
+618140##Barro##0
+566190##The Search##0
+348510##Autobahn Police Simulator##0
+680360##Regions Of Ruin##0
+368180##Polyball##0
+34330##Total War: SHOGUN 2##0
+1076280##Showdown Bandit##0
+435790##10 Second Ninja X##0
+308600##Geneshift##0
+406970##The Uncertain: Last Quiet Day##0
+544610##Battlestar Galactica Deadlock##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+919220##Destiny or Fate##0
+@@REVIEW

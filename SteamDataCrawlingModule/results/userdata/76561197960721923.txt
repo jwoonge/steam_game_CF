@@ -1,0 +1,107 @@
+@@GAME
+252490##Rust##214919
+231430##Company of Heroes 2##152351
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##50518
+346110##ARK: Survival Evolved##30684
+8930##Sid Meier's Civilization V##20714
+440900##Conan Exiles##20699
+48700##Mount & Blade: Warband##12354
+437220##The Culling##10497
+10##Counter-Strike##9654
+236390##War Thunder##9256
+261550##Mount & Blade II: Bannerlord##7780
+221380##Age of Empires II (2013)##6860
+534500##Tiger Knight: Empire War##6797
+513710##SCUM##5307
+232890##Stronghold Crusader 2##4253
+251570##7 Days to Die##3707
+201790##Orcs Must Die! 2##3556
+107410##Arma 3##3346
+570##Dota 2##2868
+297000##Heroes of Might & Magic III - HD Edition##2820
+730##Counter-Strike: Global Offensive##2412
+555570##Infestation: The New Z##2161
+47410##Stronghold Kingdoms##2068
+644930##They Are Billions##2040
+228200##Company of Heroes ##2013
+313120##Stranded Deep##1802
+244450##Men of War: Assault Squad 2##1496
+33350##Anno 1404: Venice##1450
+47400##Stronghold 3##1337
+544730##Catan Universe##1164
+105450##Age of Empires® III (2007)##1074
+227940##Heroes & Generals##1032
+287450##Rise of Nations: Extended Edition##1029
+409590##Kingdoms##990
+219640##Chivalry: Medieval Warfare##964
+440##Team Fortress 2##859
+466560##Northgard##803
+40980##Stronghold Legends##648
+418030##Subsistence##635
+30##Day of Defeat##601
+252950##Rocket League##567
+4850##Cossacks: Back to War##484
+445720##Battle Islands: Commanders##479
+41070##Serious Sam 3: BFE##459
+755790##Ring of Elysium##403
+277460##Praetorians##314
+34330##Total War: SHOGUN 2##245
+407530##ARK: Survival Of The Fittest##230
+35450##Rising Storm/Red Orchestra 2 Multiplayer##225
+105600##Terraria##208
+427270##Orcs Must Die! Unchained##203
+240##Counter-Strike: Source##190
+24240##PAYDAY: The Heist##185
+40960##Stronghold 2##143
+214420##Gear Up##133
+273110##Counter-Strike Nexon: Studio##120
+280##Half-Life: Source##112
+113400##APB Reloaded##111
+217200##Worms Armageddon##106
+15620##Warhammer 40,000: Dawn of War II##101
+329280##Avalon Lords: Dawn Rises##100
+70000##Dino D-Day##94
+218620##PAYDAY 2##83
+346330##BrainBread 2##79
+559460##Cloud Pirates##74
+130##Half-Life: Blue Shift##62
+40970##Stronghold Crusader HD##57
+16700##Stronghold Crusader Extreme HD##50
+438680##One Troll Army##48
+203290##America's Army: Proving Grounds##43
+113420##Fallen Earth##36
+48220##Might & Magic: Heroes VI##28
+504370##Battlerite##26
+301520##Robocraft##19
+550##Left 4 Dead 2##18
+102600##Orcs Must Die!##15
+271570##Space Farmers##5
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##2
+348250##Google Earth VR##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+25830##Knights of Honor##0
+33250##Anno 1404##0
+564310##Serious Sam Fusion 2017 (beta)##0
+20540##Company of Heroes: Tales of Valor##0
+205790##Dota 2 Test##0
+40950##Stronghold HD##0
+700580##Rust - Staging Branch##0
+313140##Blackbay Asylum##0
+402840##Crusaders of the Lost Idols##0
+931180##Conan Exiles - Testlive Client##0
+469980##Legend of Miro##0
+302670##Call to Arms##0
+507080##Baseball Mogul Diamond##0
+427460##Battlerite Public Test##0
+1085660##Destiny 2##0
+203160##Tomb Raider##0
+@@REVIEW
+252490##Recommended

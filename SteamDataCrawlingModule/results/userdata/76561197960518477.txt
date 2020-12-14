@@ -1,0 +1,108 @@
+@@GAME
+730##Counter-Strike: Global Offensive##175789
+10##Counter-Strike##119671
+240##Counter-Strike: Source##90606
+585690##Minimalism##27528
+479130##ESEA##25912
+570##Dota 2##23702
+262410##World of Guns: Gun Disassembly##21587
+60##Ricochet##14950
+575680##Square n Fair##14945
+491260##Take Thy Throne##14936
+347560##Terra Incognita ~ Chapter One: The Descendant##14932
+522570##The Last Hope##14653
+387930##The Tape##12917
+377310##The Tower Of Elements##12914
+498320##Trolley Gold##9080
+418070##Turbo Pug##7995
+528510##Turbo Pug 3D##7757
+220##Half-Life 2##112
+271640##Humanity Asset##112
+448780##Sixtieth Kilometer##112
+487530##Simple Ball: Extended Edition##112
+496680##SweatShop##112
+496750##The Housewife##112
+502910##The Return Home Remastered##112
+509110##Spikit##112
+513620##SkyTime##112
+542340##Slingshot people##112
+545700##The Land of Dasthir##112
+546990##Town of Night##112
+562270##Shot Shot Tactic##112
+575860##Tomb Joe##112
+513780##Turbo Pug DX##111
+534600##Steam Dev Days##1
+534611##Steam Dev Days: Steam Machines in 2014 - Opening up the Living Room##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+338530##Trouble In The Manor##0
+438180##Super Mustache##0
+466840##Super Space Pug##0
+497050##ShapeShifter##0
+486480##Tales of Destruction##0
+506670##ORBITAL##0
+507400##Vindictive Drive##0
+515690##Warriors of Vilvatikta##0
+534610##Steam Dev Days: Welcome Address##0
+534612##Steam Dev Days: The Steam Controller##0
+534613##Steam Dev Days: In-Game Economies in Team Fortress 2 and Dota 2##0
+534614##Steam Dev Days: Embracing User Generated Content##0
+534615##Steam Dev Days: Getting Started with Linux Game Development##0
+534616##Steam Dev Days: Marketing Your Game##0
+534617##Steam Dev Days: Music in Valve Games and Media##0
+534618##Steam Dev Days: Moving Your Games to OpenGL##0
+534619##Steam Dev Days: Community and Communication in Games-As-Services##0
+534620##Steam Dev Days: United We Win##0
+534621##Steam Dev Days: Getting Started Debugging on Linux##0
+534622##Steam Dev Days: Optimizing Linux games for AMD Graphics using GPU PerfStudio2##0
+534623##Steam Dev Days: Data to Drive Decision-Making##0
+534624##Steam Dev Days: Is Early Access Right for You?##0
+534625##Steam Dev Days: Performance Tuning Applications for Intel GEN Graphics for Linux##0
+534626##Steam Dev Days: Steam Business Update##0
+534627##Steam Dev Days: Portal 2 and Team Fortress 2 Alternate Reality Games Q&A##0
+534628##Steam Dev Days: The Evolution of Gaming Hardware##0
+534629##Steam Dev Days: Steamworks Features - A Technical Overview##0
+534630##Steam Dev Days: Beyond Porting##0
+534631##Steam Dev Days: 100% Steam (Dovetail Games)##0
+534632##Steam Dev Days: Game Development with SDL 2.0##0
+534633##Steam Dev Days: What VR Could, Should, and Almost Certainly Will Be in 2 Years##0
+534634##Steam Dev Days: Porting Games to Virtual Reality##0
+534635##Steam Dev Days: Wild West of VR##0
+534636##Steam Dev Days: Virtual Reality and Steam##0
+550760##Steam Dev Days: Welcome##0
+550761##Steam Dev Days: Steam Business Update##0
+550762##Steam Dev Days: Philosophy of VR##0
+550763##Steam Dev Days: The Future of VR and Games##0
+550764##Steam Dev Days: Steam 101 - Getting Started with Marketing Features and Tools##0
+550765##Steam Dev Days: Steam Controller##0
+550766##Steam Dev Days: Steam 201 - Sound Advice from Successful Developers##0
+550767##Steam Dev Days: Your Game's Back-End Item APIs##0
+550768##Steam Dev Days: SteamVR Hardware##0
+550769##Steam Dev Days: Building Unity Games for SteamOS/Linux##0
+550770##Steam Dev Days: UGC and Workshop in ARK: Survival Evolved##0
+550771##Steam Dev Days: Video Content on Steam##0
+550772##Steam Dev Days: Game Server Hosting##0
+550773##Steam Dev Days: Games as a Service##0
+550774##Steam Dev Days: Unity Development for VR##0
+550775##Steam Dev Days: Developing The Lab##0
+550776##Steam Dev Days: The Psychology of Games##0
+550777##Steam Dev Days: Vulkan Graphics Panel##0
+550778##Steam Dev Days: Early Access##0
+550779##Steam Dev Days: Anti-Cheat for Multiplayer Games##0
+550780##Steam Dev Days: Delivering Great VR With Simple Graphics##0
+550781##Steam Dev Days: Healthy Publisher Relationships##0
+550782##Steam Dev Days: The Art of Communication: Decoding the Creative Relationship##0
+550783##Steam Dev Days: UE4 Development + Shipping an UE4 VR Game##0
+550784##Steam Dev Days: VR Developer Panel##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+@@REVIEW
+479130##Recommended
+10##Recommended
+730##Recommended

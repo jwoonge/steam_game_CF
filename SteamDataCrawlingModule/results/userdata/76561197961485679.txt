@@ -1,0 +1,164 @@
+@@GAME
+292030##The Witcher 3: Wild Hunt##9140
+49520##Borderlands 2##3892
+582010##Monster Hunter: World##3731
+373420##Divinity: Original Sin Enhanced Edition##3393
+17450##Dragon Age: Origins##2707
+268500##XCOM 2##2556
+72850##The Elder Scrolls V: Skyrim##2464
+239140##Dying Light##1993
+208480##Assassin's Creed® III##1843
+271590##Grand Theft Auto V##1806
+356190##Middle-earth™: Shadow of War™##1672
+44350##GRID 2##1544
+208650##Batman™: Arkham Knight##1544
+221040##Resident Evil 6##1541
+1190460##DEATH STRANDING##1528
+218620##PAYDAY 2##1491
+394230##Battleborn##1410
+337000##Deus Ex: Mankind Divided™##1387
+50650##Darksiders II##1368
+220240##Far Cry® 3##1353
+15620##Warhammer 40,000: Dawn of War II##1338
+200510##XCOM: Enemy Unknown##1333
+202170##Sleeping Dogs™##1287
+241930##Middle-earth™: Shadow of Mordor™##1277
+265300##Lords Of The Fallen##1265
+814380##Sekiro™: Shadows Die Twice##1254
+203160##Tomb Raider##1184
+742120##DRAGON QUEST® XI: Echoes of an Elusive Age™##1109
+209000##Batman™: Arkham Origins##1004
+108710##Alan Wake##906
+268850##EVGA Precision X1##863
+379720##DOOM##855
+234670##NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst##784
+8870##BioShock Infinite##745
+231430##Company of Heroes 2##724
+236090##Dust: An Elysian Tail##665
+207610##The Walking Dead##658
+200710##Torchlight II##587
+44320##DiRT 3##572
+310560##DiRT Rally##515
+50300##Spec Ops: The Line##494
+570##Dota 2##475
+1085660##Destiny 2##473
+387290##Ori and the Blind Forest: Definitive Edition##452
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##382
+223670##F1 2013##365
+214510##LEGO® The Lord of the Rings™##357
+287390##Metro: Last Light Redux##357
+9420##Supreme Commander: Forged Alliance##286
+11450##Overlord##286
+1091500##Cyberpunk 2077##248
+206420##Saints Row IV##247
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##232
+294860##Valkyria Chronicles™##230
+34330##Total War: SHOGUN 2##229
+620##Portal 2##229
+211420##DARK SOULS™: Prepare To Die Edition##225
+233270##Far Cry® 3 Blood Dragon##204
+35130##Lara Croft and the Guardian of Light##201
+377160##Fallout 4##196
+219990##Grim Dawn##192
+40300##Risen##177
+550##Left 4 Dead 2##166
+277590##Assassin's Creed Freedom Cry##156
+1174180##Red Dead Redemption 2##146
+91310##Dead Island##137
+351970##Tales of Zestiria##111
+335300##DARK SOULS™ II: Scholar of the First Sin##93
+394510##HELLDIVERS™##91
+235600##Tom Clancy's Splinter Cell Blacklist##88
+12830##Operation Flashpoint: Dragon Rising##80
+240##Counter-Strike: Source##75
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##73
+230230##Divinity: Original Sin (Classic)##65
+8930##Sid Meier's Civilization V##56
+205190##Rocksmith##46
+203140##Hitman: Absolution##41
+376570##WildStar##41
+219150##Hotline Miami##39
+107100##Bastion##38
+286690##Metro 2033 Redux##35
+570940##DARK SOULS™: REMASTERED##35
+214560##Mark of the Ninja##26
+230410##Warframe##22
+213670##South Park™: The Stick of Truth™##14
+750920##Shadow of the Tomb Raider##10
+220440##DmC Devil May Cry##7
+10##Counter-Strike##6
+70##Half-Life##2
+365720##Skyrim Script Extender (SKSE)##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+17410##Mirror's Edge##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+500##Left 4 Dead##0
+47730##Dragon Age: Origins - Awakening##0
+24240##PAYDAY: The Heist##0
+205790##Dota 2 Test##0
+203770##Crusader Kings II##0
+7670##BioShock##0
+409710##BioShock Remastered##0
+202750##Alan Wake's American Nightmare##0
+212680##FTL: Faster Than Light##0
+205930##Hitman: Sniper Challenge##0
+50620##Darksiders##0
+388410##Darksiders II Deathinitive Edition##0
+462780##Darksiders Warmastered Edition##0
+12750##GRID##0
+228300##Remember Me##0
+43110##Metro 2033##0
+43160##Metro: Last Light##0
+225080##Brothers - A Tale of Two Sons##0
+205100##Dishonored##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+40390##Risen 2 - Dark Waters##0
+950670##Gothic Playable Teaser##0
+262060##Darkest Dungeon®##0
+235460##METAL GEAR RISING: REVENGEANCE##0
+12710##Overlord: Raising Hell##0
+12770##Rise of the Argonauts##0
+44340##Operation Flashpoint: Red River##0
+12810##Overlord II##0
+201700##DiRT Showdown##0
+321040##DiRT 3 Complete Edition##0
+256290##Child of Light##0
+286160##Tabletop Simulator##0
+56400##Warhammer 40,000: Dawn of War II - Retribution##0
+63380##Sniper Elite V2##0
+239250##Castlevania: Lords of Shadow 2##0
+9480##Saints Row 2##0
+55230##Saints Row: The Third##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+268050##The Evil Within##0
+304240##Resident Evil##0
+291650##Pillars of Eternity##0
+201810##Wolfenstein: The New Order##0
+350080##Wolfenstein: The Old Blood ##0
+261570##Ori and the Blind Forest##0
+234140##Mad Max##0
+210970##The Witness##0
+364360##Total War: WARHAMMER##0
+451020##Battle Chasers: Nightwar##0
+474960##Quantum Break##0
+223100##Homefront: The Revolution##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+219640##Chivalry: Medieval Warfare##0
+611500##Quake Champions##0
+883710##Resident Evil 2##0
+412020##Metro Exodus##0
+601150##Devil May Cry 5##0
+1184050##Gears Tactics##0
+1222140##Detroit: Become Human##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW

@@ -1,0 +1,83 @@
+@@GAME
+1085660##Destiny 2##84339
+582660##Black Desert Online##79789
+230410##Warframe##41491
+640820##Pathfinder: Kingmaker##25825
+435150##Divinity: Original Sin 2##16710
+24960##Battlefield: Bad Company™ 2##15984
+373420##Divinity: Original Sin Enhanced Edition##10223
+230230##Divinity: Original Sin (Classic)##6640
+238750##Might & Magic X - Legacy ##5779
+238960##Path of Exile##5697
+205890##Chronicle: RuneScape Legends##4824
+262060##Darkest Dungeon®##4400
+524220##NieR:Automata™##3234
+218230##PlanetSide 2##3060
+15620##Warhammer 40,000: Dawn of War II##2959
+230190##War for the Overworld##2077
+466560##Northgard##1536
+17020##Global Agenda##1491
+41500##Torchlight##1334
+386070##Planetary Annihilation: TITANS##1150
+261430##AION Free-to-Play##978
+4920##Natural Selection 2##698
+782330##DOOM Eternal##651
+440##Team Fortress 2##400
+8930##Sid Meier's Civilization V##369
+382110##Virtual Desktop##365
+431960##Wallpaper Engine##363
+620##Portal 2##296
+233250##Planetary Annihilation##253
+17080##Tribes: Ascend##122
+446620##Zombie Training Simulator##94
+550##Left 4 Dead 2##90
+270130##The Gallery - Episode 1: Call of the Starseed##77
+418650##Space Pirate Trainer##64
+500##Left 4 Dead##56
+410570##Gunjack##51
+1086940##Baldur's Gate 3##51
+268850##EVGA Precision X1##42
+517710##Redout: Enhanced Edition##37
+348250##Google Earth VR##36
+396030##InCell VR##34
+570##Dota 2##33
+412740##Audioshield##32
+450390##The Lab##32
+477130##Surge##31
+538870##EVE: Valkyrie##30
+436820##Waltz of the Wizard##27
+236390##War Thunder##26
+688480##EVE: Valkyrie - Warzone##25
+242700##Injustice: Gods Among Us Ultimate Edition##22
+460850##Allumette##18
+13210##Unreal Tournament 3: Black Edition##15
+327140##Tilt Brush##14
+452710##Realities##13
+12840##DiRT 2##12
+464540##Colosse##12
+684380##Mermaid VR##10
+343740##InMind VR##9
+515020##The VR Museum of Fine Art##5
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+2720##ThreadSpace: Hyperbol##0
+205790##Dota 2 Test##0
+1083500##PlanetSide 2 - Test##0
+243380##Might & Magic VI##0
+304030##ArcheAge##0
+453170##Destinations##0
+503630##INVASION!##0
+@@REVIEW
+524220##Recommended
+1085660##Recommended
+230410##Recommended

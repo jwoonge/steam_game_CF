@@ -1,0 +1,97 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+17080##Tribes: Ascend##0
+99900##Spiral Knights##0
+109600##Neverwinter##0
+203290##America's Army: Proving Grounds##0
+206210##Gotham City Impostors: Free To Play##0
+212500##The Lord of the Rings Online™##0
+258700##Dragon Nest Europe##0
+263500##Dragons and Titans##0
+206480##Dungeons & Dragons Online®##0
+242720##GunZ 2: The Second Duel##0
+206500##AirMech Strike##0
+246280##Happy Wars##0
+273110##Counter-Strike Nexon: Studio##0
+225840##Sven Co-op##0
+282440##Quake Live##0
+293540##Guns and Robots##0
+296300##Ballistic Overkill##0
+416880##Ballistic Overkill Dedicated Server##0
+301520##Robocraft##0
+224600##Defiance##0
+227700##Firefall##0
+291480##Warface##0
+268420##Aura Kingdom##0
+200110##Nosgoth##0
+323370##TERA##0
+327690##Gigantic##0
+730##Counter-Strike: Global Offensive##0
+332070##School of Dragons: How to Train Your Dragon##0
+333930##Dirty Bomb##0
+271590##Grand Theft Auto V##0
+339280##Strife##0
+355840##Survarium##0
+365300##Transmissions: Element 120##0
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##0
+376870##Minecraft: Story Mode - A Telltale Games Series##0
+380600##Fishing Planet##0
+381990##Dragon Saga##0
+291550##Brawlhalla##0
+299360##Block N Load##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+444640##Bloons TD Battles##0
+489940##BATTALION 1944##0
+417910##Street Warriors Online##0
+505040##FORTIFY##0
+402570##Atlas Reactor##0
+513650##Zula Europe##0
+530700##Argo##0
+292730##Call of Duty: Infinite Warfare##0
+537180##Digimon Masters Online##0
+550650##Black Squad##0
+555570##Infestation: The New Z##0
+563560##Alien Swarm: Reactive Drop##0
+571740##Golf It!##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+582660##Black Desert Online##0
+212740##TERA##0
+591740##Sniper Fury##0
+511800##ONRAID##0
+615400##Make It Rain: Love of Money##0
+506540##Last Man Standing##0
+670290##Real Pool 3D - Poolians##0
+304930##Unturned##0
+436180##Spacelords##0
+215830##Closers##0
+427460##Battlerite Public Test##0
+504370##Battlerite##0
+766570##Russian Fishing 4##0
+591530##Hyper Universe##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+581320##Insurgency: Sandstorm##0
+728540##Islands of Nyne: Battle Royale##0
+1026820##Coloring Game##0
+879160##Battlerite Royale##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+325180##AppGameKit Classic##0
+1106850##Totally Reliable Delivery Service Beta##0
+489520##Minion Masters##0
+310560##DiRT Rally##0
+1172470##Apex Legends##0
+@@REVIEW
+1172470##Recommended

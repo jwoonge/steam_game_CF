@@ -1,0 +1,83 @@
+@@GAME
+730##Counter-Strike: Global Offensive##230506
+10##Counter-Strike##9478
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##7565
+240##Counter-Strike: Source##5615
+238960##Path of Exile##2307
+282660##Easy eSports##1968
+356190##Middle-earth™: Shadow of War™##1836
+440##Team Fortress 2##1457
+1145360##Hades##1131
+362890##Black Mesa##885
+7740##NBA 2K9##815
+728880##Overcooked! 2##790
+391220##Rise of the Tomb Raider##723
+750920##Shadow of the Tomb Raider##703
+1172380##STAR WARS Jedi: Fallen Order™ ##631
+2100##Dark Messiah of Might & Magic Single Player##564
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##563
+433850##Z1 Battle Royale##543
+55150##Warhammer 40,000: Space Marine##522
+379720##DOOM##495
+252950##Rocket League##486
+714010##Aim Lab##367
+945360##Among Us##350
+610370##Desperados III##337
+388410##Darksiders II Deathinitive Edition##332
+650500##Wolfenstein II: The New Colossus German Edition##322
+420##Half-Life 2: Episode Two##295
+814380##Sekiro™: Shadows Die Twice##282
+378540##The Surge##280
+253230##A Hat in Time##272
+380##Half-Life 2: Episode One##231
+611500##Quake Champions##189
+241930##Middle-earth™: Shadow of Mordor™##168
+883710##Resident Evil 2##156
+606280##Darksiders III##127
+374320##DARK SOULS™ III##91
+403640##Dishonored 2##86
+271590##Grand Theft Auto V##83
+341800##Keep Talking and Nobody Explodes##79
+225080##Brothers - A Tale of Two Sons##68
+273350##Evolve Stage 2##55
+417290##Ghost of a Tale##54
+387290##Ori and the Blind Forest: Definitive Edition##51
+280160##Aragami##46
+880940##Pummel Party##46
+200510##XCOM: Enemy Unknown##45
+460790##Bayonetta##31
+678950##DRAGON BALL FighterZ##29
+282440##Quake Live##23
+323320##Grow Home##18
+33230##Assassin's Creed II##15
+219990##Grim Dawn##14
+310560##DiRT Rally##11
+328070##Reflex Arena##7
+200170##Worms Revolution##6
+479130##ESEA##5
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+220##Half-Life 2##0
+400##Portal##0
+500##Left 4 Dead##0
+550##Left 4 Dead 2##0
+620##Portal 2##0
+205790##Dota 2 Test##0
+261570##Ori and the Blind Forest##0
+439700##H1Z1: Test Server##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+43110##Metro 2033##0
+@@REVIEW

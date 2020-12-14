@@ -1,0 +1,196 @@
+@@GAME
+570##Dota 2##50776
+730##Counter-Strike: Global Offensive##43449
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##16590
+903950##Last Oasis##5467
+221100##DayZ##5376
+244210##Assetto Corsa##3556
+271590##Grand Theft Auto V##3179
+805550##Assetto Corsa Competizione##2904
+440900##Conan Exiles##2735
+812140##Assassin's Creed Odyssey##1726
+359550##Tom Clancy's Rainbow Six Siege##1521
+552520##Far Cry 5##1502
+504370##Battlerite##1408
+107410##Arma 3##1265
+905370##Conqueror's Blade##905
+4920##Natural Selection 2##902
+8930##Sid Meier's Civilization V##879
+393380##Squad##874
+386360##SMITE##745
+571740##Golf It!##732
+252490##Rust##679
+228380##Wreckfest##661
+236390##War Thunder##645
+240##Counter-Strike: Source##545
+629760##MORDHAU##526
+242760##The Forest##524
+495420##State of Decay 2##480
+365590##Tom Clancy's The Division##450
+238960##Path of Exile##447
+581320##Insurgency: Sandstorm##427
+207610##The Walking Dead##413
+346110##ARK: Survival Evolved##399
+493520##GTFO##393
+620##Portal 2##391
+433850##Z1 Battle Royale##374
+295110##Just Survive##365
+220240##Far Cry® 3##361
+378860##Project CARS 2##356
+645630##Car Mechanic Simulator 2018##331
+544810##KARDS - The WWII Card Game##328
+239140##Dying Light##313
+218620##PAYDAY 2##295
+1106750##Fault##287
+12210##Grand Theft Auto IV: The Complete Edition##284
+1046930##Dota Underlords##282
+815370##Green Hell##275
+1222680##Need for Speed™ Heat ##273
+550##Left 4 Dead 2##237
+534500##Tiger Knight: Empire War##237
+526870##Satisfactory##230
+630##Alien Swarm##230
+24240##PAYDAY: The Heist##223
+361420##ASTRONEER##222
+236110##Dungeon Defenders II##215
+213670##South Park™: The Stick of Truth™##207
+227940##Heroes & Generals##206
+312660##Sniper Elite 4##202
+304930##Unturned##197
+440##Team Fortress 2##193
+204100##Max Payne 3##191
+489940##BATTALION 1944##179
+250400##How to Survive##176
+648800##Raft##172
+10##Counter-Strike##171
+555160##Pavlov VR##171
+43110##Metro 2033##167
+219740##Don't Starve##162
+219640##Chivalry: Medieval Warfare##152
+223650##F.E.A.R. Online##151
+635260##CarX Drift Racing Online##148
+620980##Beat Saber##143
+241540##State of Decay##136
+333930##Dirty Bomb##135
+209080##Guns of Icarus Online##130
+251570##7 Days to Die##111
+33930##Arma 2: Operation Arrowhead##110
+438100##VRChat##110
+273350##Evolve Stage 2##97
+880940##Pummel Party##97
+962130##Grounded##97
+291480##Warface##95
+202090##Magicka: Wizard Wars##89
+582500##We Were Here##80
+4560##Company of Heroes - Legacy Edition##74
+467660##Paranormal Activity: The Lost Soul##71
+379720##DOOM##68
+310380##Fractured Space##66
+272350##Tom Clancy's Ghost Recon Phantoms - EU##61
+291550##Brawlhalla##55
+253710##theHunter Classic##54
+307780##Mortal Kombat X##51
+550650##Black Squad##48
+292030##The Witcher 3: Wild Hunt##46
+35720##Trine 2##45
+648430##Hand of the Gods##43
+211400##Deadlight##40
+350080##Wolfenstein: The Old Blood ##38
+1172470##Apex Legends##38
+471710##Rec Room##37
+104900##ORION: Prelude##35
+222880##Insurgency##32
+301520##Robocraft##29
+255710##Cities: Skylines##29
+787790##Epic Roller Coasters##29
+7670##BioShock##27
+223750##DCS World Steam Edition##27
+200110##Nosgoth##25
+1250##Killing Floor##18
+203290##America's Army: Proving Grounds##17
+703480##Virtual Space##17
+35140##Batman: Arkham Asylum GOTY Edition##16
+17730##Smashball##16
+6370##Bloodline Champions##15
+533200##Deformers Open Beta##13
+285900##Gang Beasts##12
+224260##No More Room in Hell##11
+450390##The Lab##11
+407530##ARK: Survival Of The Fittest##10
+755770##YouTube VR##10
+766570##Russian Fishing 4##10
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##9
+348250##Google Earth VR##9
+707580##AFFECTED: The Manor##9
+208090##Loadout##8
+466240##Deceit##7
+576650##Fovos VR##6
+301640##Zombie Army Trilogy##5
+246280##Happy Wars##4
+33910##Arma 2##3
+563560##Alien Swarm: Reactive Drop##3
+224580##Arma 2: DayZ Mod##1
+539730##True Sight##1
+542970##True Sight: Episode 1##1
+542972##True Sight: Episode 3##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+409710##BioShock Remastered##0
+500##Left 4 Dead##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+46450##Grotesque Tactics: Evil Heroes##0
+228200##Company of Heroes ##0
+205790##Dota 2 Test##0
+211050##Battle vs Chess##0
+200260##Batman: Arkham City GOTY##0
+322330##Don't Starve Together##0
+9340##Company of Heroes: Opposing Fronts##0
+109600##Neverwinter##0
+212070##Star Conflict##0
+240320##Panzar##0
+42160##War of the Roses##0
+8870##BioShock Infinite##0
+700580##Rust - Staging Branch##0
+257870##Eschalon: Book 3##0
+247000##Talisman: Digital Edition##0
+201810##Wolfenstein: The New Order##0
+304030##ArcheAge##0
+313140##Blackbay Asylum##0
+344230##Pixel Puzzles 2: Birds##0
+351030##Pixel Puzzles Ultimate##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+374570##Kung Fury##0
+858460##SMITE - Public Test##0
+774941##Squad - Public Testing##0
+427270##Orcs Must Die! Unchained##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+439700##H1Z1: Test Server##0
+362300##Just Survive Test Server##0
+524440##Tom Clancy's The Division PTS##0
+442080##Riders of Icarus##0
+427460##Battlerite Public Test##0
+542971##True Sight: Episode 2##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+1017170##True Sight: The International 2018 Finals##0
+552990##World of Warships##0
+612880##Wolfenstein II: The New Colossus##0
+700030##Life is Feudal: MMO##0
+931180##Conan Exiles - Testlive Client##0
+884660##CRSED##0
+714010##Aim Lab##0
+1056960##Wolfenstein: Youngblood##0
+1063730##New World##0
+@@REVIEW

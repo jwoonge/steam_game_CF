@@ -1,0 +1,188 @@
+@@GAME
+730##Counter-Strike: Global Offensive##117544
+610080##Realm Grinder##40138
+363970##Clicker Heroes##18141
+244850##Space Engineers##13687
+10##Counter-Strike##10396
+105600##Terraria##10267
+1258080##Shop Titans##8747
+248390##Craft The World##6038
+427520##Factorio##5716
+787860##Farming Simulator 19##5230
+219990##Grim Dawn##5068
+242760##The Forest##3932
+271590##Grand Theft Auto V##3523
+251570##7 Days to Die##2973
+518790##theHunter: Call of the Wild™##2625
+232810##Godus##2276
+227300##Euro Truck Simulator 2##2048
+47830##Medal of Honor(TM) Multiplayer##2042
+374040##Portal Knights##1888
+323370##TERA##1819
+571740##Golf It!##1694
+383120##Empyrion - Galactic Survival##1664
+568570##Force of Nature##1571
+333420##Cossacks 3##1191
+242920##Banished##1109
+236090##Dust: An Elysian Tail##1031
+238960##Path of Exile##955
+611500##Quake Champions##837
+35720##Trine 2##815
+404590##Vikings - Wolves of Midgard##788
+400170##The Incredible Adventures of Van Helsing: Final Cut##774
+227680##StarForge##713
+230190##War for the Overworld##664
+645630##Car Mechanic Simulator 2018##659
+227940##Heroes & Generals##642
+42910##Magicka##622
+324080##Rising World##603
+761890##Albion Online##603
+90200##Farming Simulator 2011##598
+238370##Magicka 2##520
+264710##Subnautica##506
+42160##War of the Roses##496
+690790##DiRT Rally 2.0##478
+24790##Command and Conquer 3: Tiberium Wars##465
+247000##Talisman: Digital Edition##440
+513710##SCUM##421
+451340##Gold Rush: The Game##412
+815370##Green Hell##369
+471550##Nine Parchments##362
+424370##Wolcen: Lords of Mayhem##353
+323190##Frostpunk##328
+1085660##Destiny 2##299
+208670##Blades of Time##284
+460930##Tom Clancy's Ghost Recon® Wildlands##276
+221380##Age of Empires II (2013)##269
+239220##The Mighty Quest For Epic Loot##262
+690640##Trine 4: The Nightmare Prince##248
+550##Left 4 Dead 2##241
+232090##Killing Floor 2##237
+464920##Surviving Mars##230
+227860##Castle Story##229
+218620##PAYDAY 2##222
+569480##Kingdoms and Castles##199
+444090##Paladins##184
+816090##Space Hulk: Deathwing - Enhanced Edition##183
+319910##Trine 3: The Artifacts of Power##179
+477160##Human: Fall Flat##179
+200710##Torchlight II##178
+379720##DOOM##158
+240##Counter-Strike: Source##151
+327090##Out of Reach##151
+41070##Serious Sam 3: BFE##150
+24800##Command and Conquer: Red Alert 3 - Uprising##148
+280520##Crea##146
+374320##DARK SOULS™ III##142
+272350##Tom Clancy's Ghost Recon Phantoms - EU##135
+346110##ARK: Survival Evolved##135
+239140##Dying Light##133
+274940##Depth##127
+1106840##Hydroneer##125
+48240##Anno 2070##122
+47790##Medal of Honor(TM) Single Player##122
+438740##Friday the 13th: The Game##115
+35700##Trine##112
+24810##Command and Conquer 3: Kane's Wrath##105
+381210##Dead by Daylight##102
+466240##Deceit##99
+360170##How to Survive 2##97
+563560##Alien Swarm: Reactive Drop##95
+648800##Raft##81
+17410##Mirror's Edge##79
+367450##Poly Bridge##78
+99900##Spiral Knights##74
+312990##The Expendabros##68
+221540##Defense Grid 2##64
+571310##SteamWorld Dig 2##60
+208730##Game of Thrones ##56
+265930##Goat Simulator##54
+13240##Unreal Tournament: Game of the Year Edition##53
+346010##Besiege##53
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##53
+273110##Counter-Strike Nexon: Studio##52
+505170##Carmageddon: Max Damage##47
+35320##Insane 2##46
+304930##Unturned##46
+440##Team Fortress 2##45
+50650##Darksiders II##43
+261640##Borderlands: The Pre-Sequel##41
+11390##Crash Time II##40
+802200##Hellbound: Survival Mode##39
+285440##Crimzon Clover  WORLD IGNITION##30
+466560##Northgard##29
+236390##War Thunder##27
+231140##Cities XL Platinum##26
+209730##RAW - Realms of Ancient War##25
+39160##Dungeon Siege III##24
+34920##Razor2: Hidden Skies##23
+23700##Puzzle Kingdoms##21
+356310##METAL SLUG DEFENSE##19
+4000##Garry's Mod##16
+253900##Knights and Merchants##16
+205650##The Testament of Sherlock Holmes##16
+365450##Hacknet##16
+224540##Ace of Spades##15
+226840##Age of Wonders III##14
+222900##Dead Island: Epidemic##13
+67370##The Darkness II##12
+92000##Hydrophobia: Prophecy##11
+39200##Dungeon Siege 2##10
+773920##scram##8
+8600##RACE 07##7
+37030##UFO: Extraterrestrials Gold##7
+282030##Carmageddon 2: Carpocalypse Now##7
+11230##Gumboy Tournament##6
+108800##Crysis 2 Maximum Edition##6
+58520##Blood Bowl: Legendary Edition##6
+35300##Warfare##5
+105450##Age of Empires® III (2007)##5
+219780##Divinity II: Developer's Cut##5
+590870##Planetoid##2
+47700##Command and Conquer 4: Tiberian Twilight##1
+44660##The Retro Expansion##1
+58610##Wargame: European Escalation##1
+797410##Headsnatchers##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+17480##Command and Conquer: Red Alert 3##0
+17470##Dead Space##0
+44620##STCC II##0
+44630##RACE 07 - Formula RaceRoom Add-On##0
+44650##GT Power Expansion##0
+44670##The WTCC 2010 Pack##0
+44680##Race Injection##0
+39190##Dungeon Siege##0
+564310##Serious Sam Fusion 2017 (beta)##0
+206980##War of the Roses Balance Beta##0
+205790##Dota 2 Test##0
+230410##Warframe##0
+265630##Fistful of Frags##0
+253710##theHunter Classic##0
+422420##Godus Wars##0
+204560##Confrontation##0
+25910##Supreme Ruler 2020: Gold##0
+230230##Divinity: Original Sin (Classic)##0
+373420##Divinity: Original Sin Enhanced Edition##0
+321040##DiRT 3 Complete Edition##0
+238320##Outlast##0
+407530##ARK: Survival Of The Fittest##0
+232150##Killing Floor 2 - SDK##0
+397080##Magicka 2: Spell Balance Beta##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+596350##Paladins - Public Test##0
+298900##Space Hulk: Deathwing##0
+366440##Savage Resurrection##0
+368230##Kingdom: Classic##0
+63500##Swords and Soldiers HD##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+945360##Among Us##0
+231430##Company of Heroes 2##0
+310560##DiRT Rally##0
+@@REVIEW

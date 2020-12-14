@@ -1,0 +1,105 @@
+@@GAME
+570##Dota 2##247232
+1085660##Destiny 2##81410
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##39832
+359550##Tom Clancy's Rainbow Six Siege##16281
+322330##Don't Starve Together##8980
+10##Counter-Strike##6657
+1046930##Dota Underlords##5080
+200210##Realm of the Mad God Exalt##4971
+242720##GunZ 2: The Second Duel##3746
+310950##Street Fighter V##3706
+105600##Terraria##3570
+755790##Ring of Elysium##3106
+730##Counter-Strike: Global Offensive##2847
+218230##PlanetSide 2##2552
+243870##Tom Clancy's Ghost Recon Phantoms - NA##1980
+275850##No Man's Sky##1886
+241930##Middle-earth™: Shadow of Mordor™##1824
+220440##DmC Devil May Cry##1748
+813820##Realm Royale##1724
+815370##Green Hell##1609
+30##Day of Defeat##1334
+237110##Mortal Kombat Komplete Edition##1303
+42910##Magicka##1162
+307780##Mortal Kombat X##1045
+601150##Devil May Cry 5##1030
+880940##Pummel Party##917
+252950##Rocket League##874
+236110##Dungeon Defenders II##865
+599140##Graveyard Keeper##706
+331360##Heavy Metal Machines##484
+113200##The Binding of Isaac##412
+286160##Tabletop Simulator##396
+761890##Albion Online##368
+386940##Ultimate Chicken Horse##362
+222900##Dead Island: Epidemic##360
+49520##Borderlands 2##346
+386360##SMITE##342
+433850##Z1 Battle Royale##312
+45700##Devil May Cry 4##296
+239220##The Mighty Quest For Epic Loot##295
+6550##Devil May Cry 3: Special Edition##280
+230410##Warframe##276
+629760##MORDHAU##236
+504370##Battlerite##236
+202090##Magicka: Wizard Wars##215
+835570##Conqueror's Blade##192
+238370##Magicka 2##141
+620##Portal 2##139
+915580##Dungeon Hunter Champions##121
+1172470##Apex Legends##114
+238960##Path of Exile##111
+292030##The Witcher 3: Wild Hunt##110
+208200##DOOM 3: BFG Edition##104
+222880##Insurgency##74
+295110##Just Survive##55
+1057240##Crucible##52
+360940##The Mean Greens - Plastic Warfare##41
+293560##TOME: Immortal Arena##32
+809960##Radical Heights##16
+757240##Aimtastic##6
+70##Half-Life##2
+218620##PAYDAY 2##2
+44350##GRID 2##2
+706220##Black Desert Online SA##2
+34270##SEGA Mega Drive & Genesis Classics##2
+441380##PAC-MAN™ CHAMPIONSHIP EDITION 2##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+205790##Dota 2 Test##0
+214510##LEGO® The Lord of the Rings™##0
+1083500##PlanetSide 2 - Test##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+261640##Borderlands: The Pre-Sequel##0
+397080##Magicka 2: Spell Balance Beta##0
+371140##Aegis Defenders##0
+858460##SMITE - Public Test##0
+327030##Worms W.M.D##0
+219640##Chivalry: Medieval Warfare##0
+368420##Mirage: Arcane Warfare##0
+427460##Battlerite Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+878760##Realm Royale - Test Server##0
+737800##F1 2018##0
+714010##Aim Lab##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+945360##Among Us##0
+43110##Metro 2033##0
+285900##Gang Beasts##0
+226840##Age of Wonders III##0
+203160##Tomb Raider##0
+435790##10 Second Ninja X##0
+489520##Minion Masters##0
+1048540##Kao the Kangaroo: Round 2##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+@@REVIEW
+241930##Recommended
+359550##Recommended

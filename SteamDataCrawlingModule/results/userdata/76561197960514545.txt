@@ -1,0 +1,298 @@
+@@GAME
+730##Counter-Strike: Global Offensive##91824
+250820##SteamVR##41371
+252950##Rocket League##10573
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##7221
+240##Counter-Strike: Source##4050
+1250##Killing Floor##3440
+440##Team Fortress 2##2995
+346110##ARK: Survival Evolved##2403
+377160##Fallout 4##1902
+268850##EVGA Precision X1##1875
+413150##Stardew Valley##1826
+201230##EverQuest II##1781
+252490##Rust##1755
+49520##Borderlands 2##1675
+359320##Elite Dangerous##1595
+17020##Global Agenda##1552
+42710##Call of Duty: Black Ops - Multiplayer##1396
+200210##Realm of the Mad God Exalt##1375
+17460##Mass Effect##1358
+372000##Tree of Savior (English Ver.)##1307
+91310##Dead Island##1304
+39210##FINAL FANTASY XIV Online##1303
+555160##Pavlov VR##1265
+488790##South Park The Fractured But Whole##1231
+637650##FINAL FANTASY XV WINDOWS EDITION##1206
+379430##Kingdom Come: Deliverance##1127
+1046930##Dota Underlords##1120
+1286830##STAR WARS™: The Old Republic™##1021
+505460##Foxhole##997
+8930##Sid Meier's Civilization V##991
+362890##Black Mesa##991
+63200##Monday Night Combat##978
+550##Left 4 Dead 2##971
+105600##Terraria##964
+418370##Resident Evil 7 Biohazard##949
+42700##Call of Duty: Black Ops##944
+546560##Half-Life: Alyx##862
+433850##Z1 Battle Royale##838
+381210##Dead by Daylight##834
+28050##Deus Ex: Human Revolution##832
+241540##State of Decay##803
+110800##L.A. Noire##775
+552500##Warhammer: Vermintide 2##756
+327070##Gloria Victis##742
+56400##Warhammer 40,000: Dawn of War II - Retribution##725
+746930##OrbusVR##721
+374320##DARK SOULS™ III##682
+480490##Prey##676
+359550##Tom Clancy's Rainbow Six Siege##670
+342940##Project: Gorgon##636
+72850##The Elder Scrolls V: Skyrim##614
+809960##Radical Heights##608
+24960##Battlefield: Bad Company™ 2##605
+227940##Heroes & Generals##605
+440900##Conan Exiles##592
+235540##Warhammer: End Times - Vermintide##585
+414700##Outlast 2##564
+205710##EverQuest Free-to-Play##532
+620980##Beat Saber##529
+726830##Vacation Simulator##529
+295110##Just Survive##521
+544920##Darwin Project##519
+22320##The Elder Scrolls III: Morrowind##503
+582660##Black Desert Online##499
+458960##Winning Putt: Golf Online##498
+379720##DOOM##498
+594650##Hunt: Showdown##498
+17510##Age of Chivalry##498
+264710##Subnautica##496
+211820##Starbound##494
+207610##The Walking Dead##489
+342180##Arizona Sunshine##487
+457550##Bigscreen Beta##484
+1097150##Fall Guys: Ultimate Knockout##479
+213670##South Park™: The Stick of Truth™##463
+38410##Fallout 2##442
+600140##Belko VR: An Escape Room Experiment##442
+437220##The Culling##438
+570##Dota 2##428
+228380##Wreckfest##420
+448280##Job Simulator##420
+247730##Nether##414
+105400##Fable III##407
+49470##Magic: The Gathering — Duels of the Planeswalkers 2012##382
+301640##Zombie Army Trilogy##371
+4920##Natural Selection 2##367
+212500##The Lord of the Rings Online™##366
+444090##Paladins##357
+583950##Artifact##353
+20900##The Witcher: Enhanced Edition##349
+58520##Blood Bowl: Legendary Edition##344
+316010##Magic Duels##330
+218230##PlanetSide 2##326
+745920##Temtem##326
+98800##Dungeons of Dredmor##324
+242760##The Forest##309
+350080##Wolfenstein: The Old Blood ##307
+203160##Tomb Raider##305
+232090##Killing Floor 2##301
+447820##Day of Infamy##299
+212680##FTL: Faster Than Light##295
+10090##Call of Duty: World at War##293
+420##Half-Life 2: Episode Two##287
+431240##Golf With Your Friends##285
+310560##DiRT Rally##258
+290930##Half-Life 2: Update##245
+386180##Crossout##224
+364470##The Elder Scrolls: Legends##219
+400##Portal##218
+530350##Smashbox Arena##216
+224260##No More Room in Hell##215
+289070##Sid Meier's Civilization VI##205
+471710##Rec Room##204
+200260##Batman: Arkham City GOTY##203
+65800##Dungeon Defenders##201
+376570##WildStar##201
+365590##Tom Clancy's The Division##198
+640150##Tale of Toast##198
+208400##Avernum: Escape From the Pit##181
+43110##Metro 2033##180
+527100##Star Trek: Bridge Crew##175
+42910##Magicka##172
+230410##Warframe##169
+261640##Borderlands: The Pre-Sequel##162
+282140##SOMA##155
+10680##Aliens vs. Predator##154
+39140##FINAL FANTASY VII##152
+226700##Infestation: Survivor Stories 2020##147
+221100##DayZ##140
+450390##The Lab##136
+525680##Deisim##136
+304050##Trove##135
+22200##Zeno Clash##132
+236390##War Thunder##131
+219640##Chivalry: Medieval Warfare##123
+813820##Realm Royale##122
+743860##Wild West Online##112
+589040##Fujii##105
+394230##Battleborn##103
+244210##Assetto Corsa##99
+488310##Eleven: Table Tennis VR##99
+270130##The Gallery - Episode 1: Call of the Starseed##94
+238430##Contagion##88
+457860##Apollo 11 VR##88
+386360##SMITE##86
+41500##Torchlight##85
+202710##Demigod##84
+313630##The Solus Project##84
+207170##Legend of Grimrock##83
+428080##Racket: Nx##82
+91600##Sanctum##81
+215280##Secret World Legends##79
+218620##PAYDAY 2##72
+17390##Spore##71
+10##Counter-Strike##69
+233130##Shadow Warrior##69
+467660##Paranormal Activity: The Lost Soul##67
+451520##theBlu##65
+238960##Path of Exile##63
+304930##Unturned##62
+605770##Luna##60
+287920##Mortal Online##59
+611500##Quake Champions##59
+113200##The Binding of Isaac##58
+71340##Sonic Generations##58
+107310##Cthulhu Saves the World ##56
+504370##Battlerite##54
+420290##Blackwake##53
+17700##Insurgency: Modern Infantry Combat##52
+222880##Insurgency##50
+63610##Riven##49
+414510##5089: The Action RPG##48
+233270##Far Cry® 3 Blood Dragon##45
+200710##Torchlight II##40
+270880##American Truck Simulator##40
+455160##PaintLab##39
+438100##VRChat##38
+422760##Ocean Rift##37
+300##Day of Defeat: Source##34
+48110##Silent Hunter 5: Battle of the Atlantic##34
+35130##Lara Croft and the Guardian of Light##30
+755790##Ring of Elysium##30
+528550##Drunkn Bar Fight##29
+367450##Poly Bridge##27
+845070##The Awesome Adventures of Captain Spirit##27
+506540##Last Man Standing##25
+823130##Totally Accurate Battlegrounds##25
+221910##The Stanley Parable##23
+677620##Splitgate: Arena Warfare##23
+530700##Argo##22
+417860##Emily is Away##21
+8500##EVE Online##21
+37100##Aztaka##19
+408900##Unfortunate Spacemen##19
+468700##NVIDIA® VR Funhouse##18
+526140##The Gallery - Episode 2: Heart of the Emberstone##17
+787790##Epic Roller Coasters##17
+35720##Trine 2##16
+355840##Survarium##14
+466240##Deceit##12
+310380##Fractured Space##11
+530620##Resident Evil 7 Teaser: Beginning Hour##10
+91900##Post Apocalyptic Mayhem##8
+209830##Lone Survivor: The Director's Cut##8
+48700##Mount & Blade: Warband##8
+351290##SURVIVAL: Postapocalypse Now##8
+291550##Brawlhalla##7
+202200##Galactic Civilizations II: Ultimate Edition##6
+220##Half-Life 2##5
+469650##Disney Movies VR##5
+606140##Survived By##5
+850500##Slum Ball VR Tournament##5
+354200##Aberoth##3
+461320##Smackitball##2
+495520##Ping Pong League##2
+2280##The Ultimate DOOM##1
+479130##ESEA##1
+557670##Spooky Night##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+24170##Star Wars Galaxies##0
+107300##Breath of Death VII ##0
+205790##Dota 2 Test##0
+201700##DiRT Showdown##0
+211500##RaceRoom Racing Experience ##0
+1083500##PlanetSide 2 - Test##0
+700580##Rust - Staging Branch##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+367540##Starbound - Unstable##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+273110##Counter-Strike Nexon: Studio##0
+286570##F1 2015##0
+287340##Colin McRae Rally##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+321040##DiRT 3 Complete Edition##0
+323370##TERA##0
+345520##Infinite Crisis™##0
+407530##ARK: Survival Of The Fittest##0
+232150##Killing Floor 2 - SDK##0
+380600##Fishing Planet##0
+858460##SMITE - Public Test##0
+214490##Alien: Isolation##0
+427270##Orcs Must Die! Unchained##0
+931180##Conan Exiles - Testlive Client##0
+596350##Paladins - Public Test##0
+524440##Tom Clancy's The Division PTS##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+442080##Riders of Icarus##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+586950##The Wizards##0
+770720##Hunt: Showdown (Test Server)##0
+368420##Mirage: Arcane Warfare##0
+15700##Oddworld: Abe's Oddysee##0
+427460##Battlerite Public Test##0
+878760##Realm Royale - Test Server##0
+203770##Crusader Kings II##0
+232050##Eador. Masters of the Broken World##0
+439190##Stories: The Path of Destinies##0
+391720##Layers of Fear##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+96000##The Tiny Bang Story##0
+681660##Bless Online##0
+231430##Company of Heroes 2##0
+204880##Sins of a Solar Empire: Rebellion##0
+308600##Geneshift##0
+343710##KHOLAT##0
+987350##PlanetSide Arena##0
+1085660##Destiny 2##0
+1237970##Titanfall® 2##0
+489520##Minion Masters##0
+34330##Total War: SHOGUN 2##0
+1323620##Cherry VX##0
+@@REVIEW
+546560##Recommended
+583950##Recommended
+730##Recommended
+488310##Recommended
+620980##Recommended
+270130##Recommended
+746930##Recommended
+809960##Recommended
+594650##Recommended
+488790##Recommended

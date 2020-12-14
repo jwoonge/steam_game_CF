@@ -1,0 +1,90 @@
+@@GAME
+570##Dota 2##94348
+730##Counter-Strike: Global Offensive##73025
+10##Counter-Strike##52453
+220200##Kerbal Space Program##14209
+105600##Terraria##13464
+8930##Sid Meier's Civilization V##5940
+289070##Sid Meier's Civilization VI##4894
+211820##Starbound##4229
+4000##Garry's Mod##3627
+271590##Grand Theft Auto V##3413
+203140##Hitman: Absolution##3336
+200710##Torchlight II##3170
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##3032
+550##Left 4 Dead 2##2894
+242920##Banished##2567
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##2545
+211420##DARK SOULS™: Prepare To Die Edition##1616
+72850##The Elder Scrolls V: Skyrim##1481
+107410##Arma 3##1437
+255710##Cities: Skylines##1362
+500##Left 4 Dead##1304
+218620##PAYDAY 2##1223
+252490##Rust##1083
+427520##Factorio##996
+535930##Two Point Hospital##974
+359550##Tom Clancy's Rainbow Six Siege##761
+2400##The Ship##582
+236870##HITMAN™##534
+35720##Trine 2##506
+244850##Space Engineers##482
+33930##Arma 2: Operation Arrowhead##470
+224260##No More Room in Hell##423
+245490##Trials Fusion##422
+65800##Dungeon Defenders##348
+221380##Age of Empires II (2013)##323
+238960##Path of Exile##298
+22600##Worms Reloaded##291
+242760##The Forest##251
+252950##Rocket League##240
+207140##SpeedRunners##212
+221040##Resident Evil 6##194
+259080##Just Cause 2: Multiplayer Mod##187
+238430##Contagion##145
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##144
+295110##Just Survive##142
+7600##Sid Meier's Railroads!##125
+220##Half-Life 2##106
+48700##Mount & Blade: Warband##81
+214490##Alien: Isolation##81
+296470##Mount Your Friends##70
+221910##The Stanley Parable##65
+730820##The Curse of Monkey Island##58
+225840##Sven Co-op##47
+236850##Europa Universalis IV##28
+57690##Tropico 4##25
+440##Team Fortress 2##14
+249380##Carmageddon: Reincarnation##9
+365670##Blender##5
+30##Day of Defeat##4
+8190##Just Cause 2##3
+205790##Dota 2 Test##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+340##Half-Life 2: Lost Coast##0
+2430##The Ship Tutorial##0
+46410##Avencast##0
+33910##Arma 2##0
+208090##Loadout##0
+205930##Hitman: Sniper Challenge##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+700580##Rust - Staging Branch##0
+367540##Starbound - Unstable##0
+505170##Carmageddon: Max Damage##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+222900##Dead Island: Epidemic##0
+63380##Sniper Elite V2##0
+227940##Heroes & Generals##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+@@REVIEW

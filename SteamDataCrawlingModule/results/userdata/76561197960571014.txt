@@ -1,0 +1,190 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+7000##Tomb Raider: Legend##0
+8000##Tomb Raider: Anniversary##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+20900##The Witcher: Enhanced Edition##0
+500##Left 4 Dead##0
+8140##Tomb Raider: Underworld##0
+550##Left 4 Dead 2##0
+620##Portal 2##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+34830##Sniper: Ghost Warrior##0
+108710##Alan Wake##0
+25990##Majesty: Gold Edition##0
+73230##Majesty Gold HD##0
+206610##3SwitcheD##0
+50300##Spec Ops: The Line##0
+211050##Battle vs Chess##0
+1930##Two Worlds: Epic Edition##0
+224900##Iron Sky Invasion##0
+220740##Chaos on Deponia##0
+227300##Euro Truck Simulator 2##0
+238960##Path of Exile##0
+34870##Sniper Ghost Warrior 2##0
+44350##GRID 2##0
+236730##Anomaly 2##0
+253900##Knights and Merchants##0
+246760##Legends of Eisenwald##0
+257120##Not The Robots##0
+241910##Goodbye Deponia##0
+49520##Borderlands 2##0
+259550##Hero of the Kingdom##0
+269310##Infectonator : Survivors##0
+200510##XCOM: Enemy Unknown##0
+290280##Volt##0
+298600##Lovely Planet##0
+214340##Deponia##0
+219910##Edna & Harvey: Harvey's New Eyes##0
+230820##The Night of the Rabbit##0
+243200##Memoria##0
+268540##The Whispered World Special Edition##0
+314830##Blackguards 2##0
+317250##Airscape: The Fall of Gravity##0
+209650##Call of Duty: Advanced Warfare##0
+209660##Call of Duty: Advanced Warfare - Multiplayer##0
+318100##AXYOS##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+202970##Call of Duty: Black Ops II##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+321870##Silence of the Sleep##0
+261640##Borderlands: The Pre-Sequel##0
+343560##Bob Was Hungry##0
+346560##Hero of the Kingdom II##0
+287290##Resident Evil Revelations 2##0
+351920##Crazy Machines 3##0
+318970##StarCrawlers##0
+362150##Ashes of Immortality II - Bad Blood##0
+368250##Valiant: Resurrection##0
+368370##Her Story##0
+361350##Skyhook##0
+370620##Onyx##0
+370640##Midnight's Blessing##0
+370660##Opaline##0
+370780##Fated Souls##0
+371140##Aegis Defenders##0
+292030##The Witcher 3: Wild Hunt##0
+379530##Fate Tectonics##0
+313020##Soul Gambler##0
+364050##Face It - A game to fight inner demons##0
+389430##Knight Online##0
+389650##Stardust Galaxy Warriors##0
+391660##Incitement 3##0
+395170##DISTRAINT: Deluxe Edition##0
+395250##The Adventures of Fatman##0
+396850##Chronicles of the Witches and Warlocks##0
+403940##Dungelot : Shattered Lands##0
+238090##Sniper Elite 3##0
+407720##Poker Pretty Girls Battle: Texas Hold'em##0
+98400##Hard Reset##0
+407810##Hard Reset Redux##0
+332400##Girlfriend Rescue##0
+225540##Just Cause 3##0
+415830##Gnomes Garden##0
+307670##Hard West##0
+421050##Deponia Doomsday##0
+429280##Gems of the Aztecs##0
+431960##Wallpaper Engine##0
+391220##Rise of the Tomb Raider##0
+433910##Neon Drive##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+438480##Rock 'N' Roll Defense##0
+539720##Razortron 2000##0
+562360##Planes, Bullets and Vodka##0
+636150##Cyberhunt##0
+461340##A Timely Intervention##0
+461360##Thorne - Son of Slaves (Ep.2)##0
+464080##Kyoto Colorful Days##0
+503560##911 Operator##0
+508900##Zup! X##0
+514920##Crash Wheels##0
+312660##Sniper Elite 4##0
+337000##Deus Ex: Mankind Divided™##0
+523150##Mahjong World Contest##0
+523160##Alice's Patchworks 2##0
+523900##Fated Souls 2##0
+517330##Stellar Interface##0
+528820##Eisenwald: Blood of November##0
+533300##Zup!##0
+545960##Wild Animals - Animated Jigsaws##0
+550650##Black Squad##0
+551550##ASSASSINATION BOX##0
+552570##The New Queen##0
+444200##World of Tanks Blitz##0
+562220##Zup! 2##0
+566160##Zup! 6##0
+567060##Putrefaction 2: Void Walker##0
+567140##Mahjong Magic Journey##0
+567160##Katy and Bob: Safari Cafe##0
+569970##Chosen 2##0
+574030##Score a goal (Physical football)##0
+575640##Zup! 3##0
+584100##Mad Digger##0
+591420##Zup! 4##0
+601220##Zup! F##0
+602790##Fated Souls 3##0
+603150##Defence to death##0
+610360##Zup! Zero##0
+617670##Zup! S##0
+619910##Just Cause™ 3: Multiplayer Mod##0
+368070##Sniper Ghost Warrior 3##0
+645090##Zup! 5##0
+645290##Mechanism##0
+658550##Zup! Zero 2##0
+658560##Zup! 7##0
+673800##Zup! XS##0
+705740##Car Demolition Clicker##0
+730620##Hammer 2##0
+745740##Reflex##0
+753990##Psi Project: Legacy##0
+796480##Bit-Boom##0
+798420##Professional Fishing##0
+799070##Zup! 8##0
+806140##Achievement printer##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+825310##Dude Simulator 2##0
+834180###CuteSnake 2##0
+846200##Bastard##0
+873240##Hentai Memory##0
+730##Counter-Strike: Global Offensive##0
+1098340##Zup! 9##0
+1101140##Fishing Adventure##0
+1157340##Hentai Killer##0
+1085660##Destiny 2##0
+220820##Zombie Driver HD##0
+231430##Company of Heroes 2##0
+489520##Minion Masters##0
+836620##Black Desert##0
+555000##GOAT OF DUTY##0
+442070##Drawful 2##0
+203160##Tomb Raider##0
+566190##The Search##0
+640590##The LEGO® NINJAGO® Movie Video Game##0
+@@REVIEW
+368070##Not Recommended
+745740##Recommended
+312660##Recommended
+440##Not Recommended
+1085660##Recommended
+238090##Recommended
+444200##Recommended
+1072562##Recommended

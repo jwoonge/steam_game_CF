@@ -1,0 +1,59 @@
+@@GAME
+730##Counter-Strike: Global Offensive##51094
+10##Counter-Strike##36519
+440##Team Fortress 2##18146
+433850##Z1 Battle Royale##11970
+402570##Atlas Reactor##11167
+105600##Terraria##8234
+570##Dota 2##7275
+552500##Warhammer: Vermintide 2##5912
+252950##Rocket League##5885
+211820##Starbound##4207
+72850##The Elder Scrolls V: Skyrim##3160
+311690##Enter the Gungeon##2936
+42910##Magicka##1250
+500##Left 4 Dead##1155
+304930##Unturned##1013
+427520##Factorio##929
+1250##Killing Floor##887
+504370##Battlerite##706
+582010##Monster Hunter: World##647
+49600##Beat Hazard##593
+737010##Warhammer: Vermintide 2 Closed Test##378
+880940##Pummel Party##360
+222900##Dead Island: Epidemic##293
+346010##Besiege##266
+219150##Hotline Miami##216
+265630##Fistful of Frags##206
+108600##Project Zomboid##206
+18300##Spectraball##195
+221640##Super Hexagon##188
+945360##Among Us##182
+40800##Super Meat Boy##178
+240##Counter-Strike: Source##139
+18500##Defense Grid: The Awakening##100
+4920##Natural Selection 2##91
+80##Counter-Strike: Condition Zero##89
+238320##Outlast##81
+248820##Risk of Rain##73
+12900##Audiosurf##61
+359960##Choice Chamber##49
+70##Half-Life##24
+544730##Catan Universe##8
+285310##RollerCoaster Tycoon: Deluxe##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+4560##Company of Heroes - Legacy Edition##0
+228200##Company of Heroes ##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+205790##Dota 2 Test##0
+367540##Starbound - Unstable##0
+334230##Town of Salem##0
+439700##H1Z1: Test Server##0
+427460##Battlerite Public Test##0
+@@REVIEW

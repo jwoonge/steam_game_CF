@@ -1,0 +1,23 @@
+@@GAME
+730##Counter-Strike: Global Offensive##86580
+252490##Rust##53490
+550##Left 4 Dead 2##53364
+30##Day of Defeat##53363
+40##Deathmatch Classic##53362
+70##Half-Life##53361
+130##Half-Life: Blue Shift##53361
+50##Half-Life: Opposing Force##53360
+60##Ricochet##53359
+20##Team Fortress Classic##53358
+508900##Zup! X##53358
+739630##Phasmophobia##377
+552520##Far Cry 5##377
+880940##Pummel Party##371
+657200##Hand Simulator##22
+10##Counter-Strike##0
+238960##Path of Exile##0
+700580##Rust - Staging Branch##0
+485610##Ball 3D: Soccer Online##0
+@@REVIEW
+252490##Recommended
+730##Recommended

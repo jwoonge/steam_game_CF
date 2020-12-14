@@ -1,0 +1,34 @@
+@@GAME
+730##Counter-Strike: Global Offensive##150187
+10##Counter-Strike##41342
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##8136
+33930##Arma 2: Operation Arrowhead##2217
+916440##Anno 1800##1673
+107410##Arma 3##973
+231430##Company of Heroes 2##382
+227940##Heroes & Generals##274
+33910##Arma 2##39
+333930##Dirty Bomb##35
+268850##EVGA Precision X1##13
+240##Counter-Strike: Source##1
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+300##Day of Defeat: Source##0
+620##Portal 2##0
+224580##Arma 2: DayZ Mod##0
+252950##Rocket League##0
+221380##Age of Empires II (2013)##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+346900##AdVenture Capitalist##0
+755790##Ring of Elysium##0
+@@REVIEW
+730##Recommended

@@ -1,0 +1,26 @@
+@@GAME
+433850##Z1 Battle Royale##74255
+730##Counter-Strike: Global Offensive##61407
+10##Counter-Strike##24413
+476620##Call of Duty: WWII - Multiplayer##3295
+476600##Call of Duty: WWII##261
+359550##Tom Clancy's Rainbow Six Siege##105
+439700##H1Z1: Test Server##88
+379720##DOOM##72
+15100##Assassin's Creed##33
+813820##Realm Royale##11
+878760##Realm Royale - Test Server##4
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+240##Counter-Strike: Source##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+433850##Recommended

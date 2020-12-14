@@ -1,0 +1,158 @@
+@@GAME
+730##Counter-Strike: Global Offensive##214159
+570##Dota 2##96192
+10##Counter-Strike##15396
+4000##Garry's Mod##7189
+359550##Tom Clancy's Rainbow Six Siege##6044
+271590##Grand Theft Auto V##3162
+239140##Dying Light##1227
+218230##PlanetSide 2##992
+1091500##Cyberpunk 2077##984
+750920##Shadow of the Tomb Raider##924
+438100##VRChat##910
+203160##Tomb Raider##780
+282660##Easy eSports##744
+464340##Syberia 3##689
+200210##Realm of the Mad God Exalt##475
+240##Counter-Strike: Source##409
+620##Portal 2##396
+50300##Spec Ops: The Line##383
+386360##SMITE##347
+755790##Ring of Elysium##312
+252490##Rust##249
+391720##Layers of Fear##249
+70##Half-Life##221
+304390##For Honor##199
+43110##Metro 2033##191
+304930##Unturned##178
+202090##Magicka: Wizard Wars##160
+504370##Battlerite##138
+845070##The Awesome Adventures of Captain Spirit##130
+400##Portal##126
+611500##Quake Champions##120
+397900##Business Tour - Online Multiplayer Board Game##109
+365670##Blender##107
+674940##Stick Fight: The Game##88
+233130##Shadow Warrior##70
+274940##Depth##66
+1421230##Syberia The World Before - Prologue##61
+218620##PAYDAY 2##60
+809960##Radical Heights##60
+444090##Paladins##43
+13250##Unreal Gold##33
+227700##Firefall##18
+1840##Source Filmmaker##16
+331470##Everlasting Summer##12
+240320##Panzar##7
+244930##SNOW##4
+239220##The Mighty Quest For Epic Loot##3
+20##Team Fortress Classic##1
+30##Day of Defeat##1
+50##Half-Life: Opposing Force##1
+60##Ricochet##1
+420##Half-Life 2: Episode Two##1
+201700##DiRT Showdown##1
+223470##POSTAL 2##1
+99900##Spiral Knights##1
+238960##Path of Exile##1
+206500##AirMech Strike##1
+245550##Free to Play##1
+343450##Free To Play (Streaming)##1
+246280##Happy Wars##1
+304050##Trove##1
+315430##Polarity##1
+392820##Wild Island Quest##1
+48000##LIMBO##1
+273350##Evolve Stage 2##1
+489520##Minion Masters##1
+227220##Sang-Froid - Tales of Werewolves##1
+40##Deathmatch Classic##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+300##Day of Defeat: Source##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+320##Half-Life 2: Deathmatch##0
+380##Half-Life 2: Episode One##0
+500##Left 4 Dead##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+550##Left 4 Dead 2##0
+55100##Homefront##0
+46500##Syberia##0
+46510##Syberia 2##0
+7760##X-COM: UFO Defense##0
+55150##Warhammer 40,000: Space Marine##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+67370##The Darkness II##0
+204880##Sins of a Solar Empire: Rebellion##0
+207610##The Walking Dead##0
+12750##GRID##0
+11450##Overlord##0
+205790##Dota 2 Test##0
+214510##LEGO® The Lord of the Rings™##0
+1083500##PlanetSide 2 - Test##0
+39000##Moonbase Alpha##0
+225260##Brütal Legend##0
+44350##GRID 2##0
+210770##Sanctum 2##0
+65930##The Bureau: XCOM Declassified##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+700580##Rust - Staging Branch##0
+254100##World War II: Panzer Claws##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+259300##Earth 2150: Lost Souls##0
+261110##Killer is Dead##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+278360##A Story About My Uncle##0
+286570##F1 2015##0
+289600##Marauder##0
+292910##Deponia: The Complete Journey##0
+301520##Robocraft##0
+265590##The Red Solstice##0
+318600##The Flame in the Flood##0
+238320##Outlast##0
+15700##Oddworld: Abe's Oddysee##0
+355840##Survarium##0
+858460##SMITE - Public Test##0
+365450##Hacknet##0
+420970##RoBoRumble##0
+596350##Paladins - Public Test##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+485310##Head Shot##0
+324810##TOXIKK##0
+550210##Layers of Fear - Soundtrack##0
+554530##CRACKHEAD##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+643270##OLDTV##0
+323580##Jotun: Valhalla Edition##0
+113020##Monaco##0
+308040##Back to Bed##0
+38400##Fallout##0
+427460##Battlerite Public Test##0
+565020##Global Adventures##0
+368230##Kingdom: Classic##0
+209670##Cortex Command##0
+513780##Turbo Pug DX##0
+203770##Crusader Kings II##0
+439370##Midair##0
+439190##Stories: The Path of Destinies##0
+490220##Prismata##0
+222880##Insurgency##0
+654310##For Honor - Public Test##0
+766370##Dying Light: Bad Blood##0
+638070##Murderous Pursuits##0
+395170##DISTRAINT: Deluxe Edition##0
+231430##Company of Heroes 2##0
+343710##KHOLAT##0
+431930##Kabounce##0
+406970##The Uncertain: Last Quiet Day##0
+34270##SEGA Mega Drive & Genesis Classics##0
+@@REVIEW
+50300##Recommended
+730##Not Recommended

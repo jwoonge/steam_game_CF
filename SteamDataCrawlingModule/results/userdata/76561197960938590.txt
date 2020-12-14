@@ -1,0 +1,31 @@
+@@GAME
+10##Counter-Strike##113469
+730##Counter-Strike: Global Offensive##68730
+570##Dota 2##60943
+304930##Unturned##60868
+240##Counter-Strike: Source##14217
+130##Half-Life: Blue Shift##13567
+303870##Blinding Dark##8938
+444200##World of Tanks Blitz##7447
+70##Half-Life##5257
+314160##Microsoft Flight Simulator X: Steam Edition##3530
+440##Team Fortress 2##3006
+24960##Battlefield: Bad Company™ 2##2686
+274900##Murder Miners##141
+236390##War Thunder##131
+555570##Infestation: The New Z##69
+355180##Codename CURE##18
+444090##Paladins##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+223750##DCS World Steam Edition##0
+273110##Counter-Strike Nexon: Studio##0
+596350##Paladins - Public Test##0
+588430##Fallout Shelter##0
+@@REVIEW
+10##Recommended

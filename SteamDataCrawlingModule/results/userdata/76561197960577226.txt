@@ -1,0 +1,141 @@
+@@GAME
+730##Counter-Strike: Global Offensive##247159
+252490##Rust##46291
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##42918
+221100##DayZ##38389
+107410##Arma 3##33821
+10##Counter-Strike##26227
+33930##Arma 2: Operation Arrowhead##15611
+209170##Call of Duty: Ghosts - Multiplayer##15434
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##11232
+469600##Legion TD 2##8453
+813820##Realm Royale##7683
+313160##Farming Simulator 15##2492
+513710##SCUM##1921
+360430##Mafia III: Definitive Edition##1170
+221380##Age of Empires II (2013)##1111
+447020##Farming Simulator 17##1086
+717690##OVERKILL's The Walking Dead##811
+477770##Ride 2##800
+880940##Pummel Party##598
+393100##Call of Duty: Modern Warfare Remastered - Multiplayer##485
+346110##ARK: Survival Evolved##481
+365590##Tom Clancy's The Division##383
+239140##Dying Light##258
+433850##Z1 Battle Royale##199
+209660##Call of Duty: Advanced Warfare - Multiplayer##171
+263280##Spintires®##167
+284160##BeamNG.drive##123
+310560##DiRT Rally##79
+240720##Getting Over It with Bennett Foddy##78
+755790##Ring of Elysium##69
+575640##Zup! 3##66
+359550##Tom Clancy's Rainbow Six Siege##49
+895400##Deadside##36
+431960##Wallpaper Engine##35
+312660##Sniper Elite 4##34
+12210##Grand Theft Auto IV: The Complete Edition##30
+295110##Just Survive##16
+33910##Arma 2##4
+209160##Call of Duty: Ghosts##3
+224580##Arma 2: DayZ Mod##1
+479130##ESEA##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+29800##Caster##0
+20900##The Witcher: Enhanced Edition##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+104000##iBomber Defense##0
+42680##Call of Duty: Modern Warfare 3##0
+200020##Global Ops: Commando Libya##0
+218660##iBomber Attack##0
+232770##POSTAL##0
+700580##Rust - Staging Branch##0
+367690##Spintires® - Editor##0
+267940##Glacier 3: The Meltdown##0
+284930##Speed Kills##0
+293180##Overcast - Walden and the Werewolf##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+222900##Dead Island: Epidemic##0
+305740##Pitiri 1977##0
+227940##Heroes & Generals##0
+209650##Call of Duty: Advanced Warfare##0
+343360##Particula##0
+407530##ARK: Survival Of The Fittest##0
+348790##Wooden Floor##0
+383520##Lilly and Sasha: Guardian Angels##0
+385070##Atonement: Scourge of Time##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+391660##Incitement 3##0
+287920##Mortal Online##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+429180##Project CARS - Pagani Edition##0
+524440##Tom Clancy's The Division PTS##0
+513650##Zula Europe##0
+292730##Call of Duty: Infinite Warfare##0
+393080##Call of Duty: Modern Warfare Remastered##0
+659910##Loptice##0
+660390##RageBall##0
+670370##Fallen Cube##0
+673660##Neon Hardcore##0
+674570##Bear Football##0
+685790##Ruthless Safari##0
+701720##2D Neon Cube##0
+713570##Go Kart Survival##0
+727610##Hot Pool##0
+748430##Cube Color##0
+768060##The Warrior Of Treasures##0
+775790##Rampage Ragdoll##0
+779060##Cyborg Invasion Shooter 2: Battle Of Earth##0
+783330##Super Robolom##0
+787250##Clash of Castle##0
+791790##No safety##0
+792810##Balloon##0
+799500##SurvivalZ##0
+801060##ArcBall##0
+801890##Christmas Race 2##0
+803320##Haldor##0
+878760##Realm Royale - Test Server##0
+817680##Real Drift##0
+819650##Bitcoin##0
+827420##Coin Pusher##0
+829080##Burst Into##0
+833300##Fantasyland##0
+842290##ArcBall 2##0
+851580##Planet Unknown Runner##0
+859610##S.T.R.E.T.C.H.##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW
+433850##Not Recommended
+730##Recommended

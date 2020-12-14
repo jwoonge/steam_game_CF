@@ -1,0 +1,115 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##9573
+730##Counter-Strike: Global Offensive##5443
+1085660##Destiny 2##3862
+570##Dota 2##3050
+240##Counter-Strike: Source##2925
+440##Team Fortress 2##2610
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##2343
+410340##Liftoff##1821
+620##Portal 2##1772
+271590##Grand Theft Auto V##1758
+49520##Borderlands 2##1653
+42710##Call of Duty: Black Ops - Multiplayer##1493
+333930##Dirty Bomb##1436
+1086940##Baldur's Gate 3##1392
+244850##Space Engineers##1288
+91310##Dead Island##1255
+1046930##Dota Underlords##1026
+582010##Monster Hunter: World##1024
+200710##Torchlight II##995
+211820##Starbound##975
+1172620##Sea of Thieves##886
+252950##Rocket League##806
+204300##Awesomenauts##696
+105600##Terraria##630
+530700##Argo##582
+55230##Saints Row: The Third##568
+1091500##Cyberpunk 2077##534
+55100##Homefront##478
+513710##SCUM##452
+213850##Magic 2014 ##423
+268910##Cuphead##413
+219990##Grim Dawn##402
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##369
+641780##The Drone Racing League Simulator##363
+42680##Call of Duty: Modern Warfare 3##342
+865360##We Were Here Together##333
+273350##Evolve Stage 2##323
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##300
+10180##Call of Duty: Modern Warfare 2##292
+964570##DCL - The Game##265
+617290##Remnant: From the Ashes##262
+232090##Killing Floor 2##249
+500##Left 4 Dead##236
+212910##Call of Duty: Black Ops II - Zombies##231
+594650##Hunt: Showdown##221
+359550##Tom Clancy's Rainbow Six Siege##220
+219640##Chivalry: Medieval Warfare##196
+202970##Call of Duty: Black Ops II##195
+311690##Enter the Gungeon##174
+444090##Paladins##168
+10##Counter-Strike##138
+582500##We Were Here##130
+202990##Call of Duty: Black Ops II - Multiplayer##125
+208090##Loadout##117
+543900##METAL GEAR SURVIVE##114
+8980##Borderlands GOTY##97
+42700##Call of Duty: Black Ops##93
+45750##Lost Planet 2##93
+834910##ATLAS##84
+221680##Rocksmith® 2014 Edition - Remastered##78
+774241##Warhammer: Chaosbane##75
+630##Alien Swarm##62
+327690##Gigantic##61
+222900##Dead Island: Epidemic##58
+550##Left 4 Dead 2##58
+962730##Skater XL##57
+755790##Ring of Elysium##51
+223390##Forge##50
+96300##Ravaged Zombie Apocalypse##41
+255500##Entropy##34
+291480##Warface##34
+504370##Battlerite##34
+541300##Survive the Nights##30
+677620##Splitgate: Arena Warfare##30
+304930##Unturned##22
+889040##FPV Air 2##18
+244930##SNOW##17
+555570##Infestation: The New Z##17
+400##Portal##16
+340810##Deepworld##14
+300##Day of Defeat: Source##13
+4000##Garry's Mod##12
+550650##Black Squad##12
+4920##Natural Selection 2##10
+579940##Race for the Galaxy##8
+301520##Robocraft##7
+397060##Faeria##6
+705220##Tactical Monsters Rumble Arena##6
+478980##Mansions of Madness##5
+337950##The SKIES##4
+60##Ricochet##1
+691730##FPV Drone Simulator##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+729040##Borderlands GOTY Enhanced##0
+205790##Dota 2 Test##0
+230410##Warframe##0
+367540##Starbound - Unstable##0
+225840##Sven Co-op##0
+346330##BrainBread 2##0
+232150##Killing Floor 2 - SDK##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+596350##Paladins - Public Test##0
+770720##Hunt: Showdown (Test Server)##0
+427460##Battlerite Public Test##0
+611500##Quake Champions##0
+@@REVIEW

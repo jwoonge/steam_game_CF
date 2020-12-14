@@ -1,0 +1,112 @@
+@@GAME
+227300##Euro Truck Simulator 2##11263
+447020##Farming Simulator 17##8129
+645630##Car Mechanic Simulator 2018##6336
+313160##Farming Simulator 15##5423
+787860##Farming Simulator 19##4727
+221100##DayZ##4641
+535930##Two Point Hospital##4502
+359320##Elite Dangerous##4392
+107410##Arma 3##4095
+552520##Far Cry 5##3980
+320300##Car Mechanic Simulator 2015##3171
+451340##Gold Rush: The Game##2890
+55230##Saints Row: The Third##2825
+365590##Tom Clancy's The Division##2811
+360430##Mafia III: Definitive Edition##2637
+33350##Anno 1404: Venice##2616
+252490##Rust##2300
+503940##Railway Empire##2023
+613100##House Flipper##2012
+218620##PAYDAY 2##1870
+928600##F1 2019##1841
+493340##Planet Coaster##1785
+72850##The Elder Scrolls V: Skyrim##1780
+552990##World of Warships##1718
+220260##Farming Simulator 2013##1709
+260930##Emergency 2014##1524
+203140##Hitman: Absolution##1471
+206420##Saints Row IV##1443
+220160##Trials Evolution Gold Edition##1419
+304730##Train Fever##1142
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##1082
+270880##American Truck Simulator##1081
+263280##Spintires®##1025
+577670##Demolish & Build 2018##995
+208500##F1 2012##978
+239140##Dying Light##937
+218640##Lucius##913
+44350##GRID 2##881
+424370##Wolcen: Lords of Mayhem##844
+518790##theHunter: Call of the Wild™##844
+48240##Anno 2070##796
+24010##Train Simulator##601
+91310##Dead Island##549
+675010##MudRunner##535
+10180##Call of Duty: Modern Warfare 2##517
+730##Counter-Strike: Global Offensive##506
+588160##Pizza Connection 3##467
+255710##Cities: Skylines##375
+348510##Autobahn Police Simulator##370
+255480##NBA 2K14##325
+49520##Borderlands 2##318
+641320##Cooking Simulator##316
+332310##LEGO® Worlds##260
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##223
+605740##Flashing Lights##184
+238960##Path of Exile##140
+34870##Sniper Ghost Warrior 2##113
+356190##Middle-earth™: Shadow of War™##84
+516750##My Summer Car##74
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##73
+33910##Arma 2##68
+110800##L.A. Noire##67
+219640##Chivalry: Medieval Warfare##62
+10##Counter-Strike##61
+231430##Company of Heroes 2##55
+204100##Max Payne 3##42
+11020##TrackMania Nations Forever##40
+233720##Surgeon Simulator##39
+208200##DOOM 3: BFG Edition##35
+212740##TERA##33
+205930##Hitman: Sniper Challenge##28
+570##Dota 2##23
+12210##Grand Theft Auto IV: The Complete Edition##21
+33930##Arma 2: Operation Arrowhead##20
+489830##The Elder Scrolls V: Skyrim Special Edition##19
+1275630##Drug Dealer Simulator: Free Sample##19
+427270##Orcs Must Die! Unchained##17
+220##Half-Life 2##11
+523750##Die 4te Offenbarung##9
+346010##Besiege##8
+224580##Arma 2: DayZ Mod##7
+414730##Epic Clicker Journey##6
+444200##World of Tanks Blitz##4
+524440##Tom Clancy's The Division PTS##2
+33250##Anno 1404##1
+225200##Farming Simulator 2013 - Modding Tutorials##1
+236390##War Thunder##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+205790##Dota 2 Test##0
+700580##Rust - Staging Branch##0
+367690##Spintires® - Editor##0
+380600##Fishing Planet##0
+510630##Soccer Manager 2017##0
+@@REVIEW
+535930##Recommended
+787860##Recommended
+503940##Recommended
+424370##Not Recommended
+451340##Recommended
+645630##Recommended
+348510##Not Recommended
+360430##Recommended

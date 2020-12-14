@@ -1,0 +1,192 @@
+@@GAME
+730##Counter-Strike: Global Offensive##32298
+211820##Starbound##26726
+346110##ARK: Survival Evolved##20222
+359320##Elite Dangerous##18474
+220240##Far Cry® 3##6494
+224600##Defiance##6094
+440900##Conan Exiles##5016
+346900##AdVenture Capitalist##3346
+72850##The Elder Scrolls V: Skyrim##3309
+28050##Deus Ex: Human Revolution##3293
+206480##Dungeons & Dragons Online®##2952
+201310##X3: Albion Prelude##2406
+49520##Borderlands 2##2260
+226320##Marvel Heroes Omega##2106
+365590##Tom Clancy's The Division##1978
+1286830##STAR WARS™: The Old Republic™##1550
+200710##Torchlight II##1481
+341000##Mad Games Tycoon##1420
+307880##Savage Lands##1400
+324260##VoidExpanse##1348
+8980##Borderlands GOTY##1335
+311310##Naval Action##1292
+24960##Battlefield: Bad Company™ 2##1278
+326410##Windward##1000
+10##Counter-Strike##871
+236390##War Thunder##864
+529180##Dark and Light##800
+242920##Banished##792
+447020##Farming Simulator 17##784
+435150##Divinity: Original Sin 2##781
+271590##Grand Theft Auto V##710
+219990##Grim Dawn##684
+487120##Citadel: Forged With Fire##632
+304930##Unturned##626
+298110##Far Cry 4##585
+428690##Youtubers Life##543
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##530
+230410##Warframe##507
+17390##Spore##459
+617290##Remnant: From the Ashes##455
+552520##Far Cry 5##403
+208090##Loadout##380
+261640##Borderlands: The Pre-Sequel##378
+374040##Portal Knights##378
+899770##Last Epoch##360
+258970##Gauntlet™ ##327
+418180##Tempest##323
+436150##Governor of Poker 3##286
+200170##Worms Revolution##279
+218620##PAYDAY 2##278
+212160##Vindictus##267
+442080##Riders of Icarus##249
+253710##theHunter Classic##230
+569480##Kingdoms and Castles##225
+219740##Don't Starve##223
+239220##The Mighty Quest For Epic Loot##219
+12210##Grand Theft Auto IV: The Complete Edition##215
+239820##Game Dev Tycoon##213
+493520##GTFO##210
+310380##Fractured Space##192
+301520##Robocraft##181
+250900##The Binding of Isaac: Rebirth##177
+613100##House Flipper##175
+1030210##Torchlight III##174
+22380##Fallout: New Vegas##164
+644930##They Are Billions##163
+10180##Call of Duty: Modern Warfare 2##159
+295110##Just Survive##149
+9900##Star Trek Online##146
+233450##Prison Architect##136
+518790##theHunter: Call of the Wild™##135
+244850##Space Engineers##134
+682990##Drug Dealer Simulator##130
+251570##7 Days to Die##125
+840800##Outlaws of the Old West##124
+242760##The Forest##121
+6870##Battlestations: Midway##119
+897410##Esports Life Tycoon##118
+273350##Evolve Stage 2##111
+239030##Papers, Please##110
+2820##X3: Terran Conflict##106
+313120##Stranded Deep##106
+245620##Tropico 5##104
+582550##Passpartout: The Starving Artist##103
+322330##Don't Starve Together##102
+238090##Sniper Elite 3##102
+1097150##Fall Guys: Ultimate Knockout##100
+275850##No Man's Sky##99
+1129580##Medieval Dynasty##99
+342200##MechWarrior Online##92
+201790##Orcs Must Die! 2##86
+245490##Trials Fusion##81
+361420##ASTRONEER##81
+1058380##Streamer Daily##78
+359550##Tom Clancy's Rainbow Six Siege##75
+380600##Fishing Planet##74
+394360##Hearts of Iron IV##73
+327860##Salt##72
+466660##Stash##72
+351100##Niffelheim##61
+620##Portal 2##60
+200510##XCOM: Enemy Unknown##60
+255710##Cities: Skylines##58
+262060##Darkest Dungeon®##55
+252490##Rust##49
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##48
+945360##Among Us##41
+1172380##STAR WARS Jedi: Fallen Order™ ##41
+108600##Project Zomboid##39
+451340##Gold Rush: The Game##35
+704830##Esports Life: Ep.1 - Dreams of Glory##35
+733790##Not Tonight##33
+386400##Foosball: World Tour##31
+640820##Pathfinder: Kingmaker##31
+568570##Force of Nature##30
+429790##AdventureQuest 3D##29
+337000##Deus Ex: Mankind Divided™##29
+227940##Heroes & Generals##28
+606800##Startup Company##28
+405370##Sky Break##27
+445220##Avorion##27
+218130##Dungeonland##26
+262410##World of Guns: Gun Disassembly##26
+383120##Empyrion - Galactic Survival##26
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##25
+217200##Worms Armageddon##24
+489520##Minion Masters##23
+403190##Planetbase##22
+504370##Battlerite##22
+982270##Dealer's Life##22
+8170##Battlestations: Pacific##21
+493340##Planet Coaster##21
+586310##Gunman Taco Truck##21
+1343400##RuneScape##20
+290300##Rebel Galaxy##19
+280790##Creativerse##19
+3900##Sid Meier's Civilization IV##18
+248390##Craft The World##18
+252950##Rocket League##18
+658980##Valnir Rok##18
+808290##Runes of Magic##17
+278190##ACID Music Studio 10 - Steam Powered##15
+364360##Total War: WARHAMMER##15
+1071940##Streamer's Life##15
+246280##Happy Wars##12
+386590##Novus Inceptio##11
+390670##Steel Ocean##11
+418030##Subsistence##9
+516750##My Summer Car##9
+105600##Terraria##6
+212390##C9##6
+240720##Getting Over It with Bennett Foddy##6
+109600##Neverwinter##4
+218470##RaiderZ##2
+231060##Ragnarok Online 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+729040##Borderlands GOTY Enhanced##0
+34440##Sid Meier's Civilization IV##0
+2810##X3: Reunion##0
+113400##APB Reloaded##0
+200210##Realm of the Mad God Exalt##0
+237310##Elsword##0
+700580##Rust - Staging Branch##0
+367540##Starbound - Unstable##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+65930##The Bureau: XCOM Declassified##0
+200110##Nosgoth##0
+407530##ARK: Survival Of The Fittest##0
+278150##Sound Forge Audio Studio 10 - Steam Powered##0
+330070##VEGAS Movie Studio 13 Platinum - Steam Powered##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+13540##Tom Clancy's Rainbow Six: Vegas##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+931180##Conan Exiles - Testlive Client##0
+524440##Tom Clancy's The Division PTS##0
+427460##Battlerite Public Test##0
+8500##EVE Online##0
+1063730##New World##0
+@@REVIEW

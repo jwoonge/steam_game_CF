@@ -1,0 +1,194 @@
+@@GAME
+221100##DayZ##464484
+550##Left 4 Dead 2##404840
+500##Left 4 Dead##258670
+107410##Arma 3##26527
+33930##Arma 2: Operation Arrowhead##11150
+91310##Dead Island##9179
+17520##Synergy##5345
+227300##Euro Truck Simulator 2##5120
+20500##Red Faction: Guerrilla Steam Edition##4541
+263280##Spintires®##4349
+203140##Hitman: Absolution##3724
+12210##Grand Theft Auto IV: The Complete Edition##3200
+234140##Mad Max##3093
+55230##Saints Row: The Third##3092
+33230##Assassin's Creed II##2583
+21690##Resident Evil 5##2193
+271590##Grand Theft Auto V##2153
+12840##DiRT 2##2050
+208480##Assassin's Creed® III##2018
+48190##Assassin's Creed Brotherhood##2008
+220240##Far Cry® 3##1955
+8000##Tomb Raider: Anniversary##1901
+33220##Tom Clancy's Splinter Cell: Conviction##1792
+204100##Max Payne 3##1775
+47780##Dead Space 2##1766
+63380##Sniper Elite V2##1697
+28050##Deus Ex: Human Revolution##1670
+227100##Sniper Elite: Nazi Zombie Army##1665
+4000##Garry's Mod##1649
+9200##RAGE##1558
+41070##Serious Sam 3: BFE##1551
+214490##Alien: Isolation##1534
+620##Portal 2##1517
+15100##Assassin's Creed##1499
+17300##Crysis##1490
+235600##Tom Clancy's Splinter Cell Blacklist##1488
+57400##Batman: Arkham City™##1429
+239140##Dying Light##1419
+201870##Assassin's Creed Revelations##1361
+391220##Rise of the Tomb Raider##1361
+57300##Amnesia: The Dark Descent##1332
+312660##Sniper Elite 4##1299
+203160##Tomb Raider##1185
+201810##Wolfenstein: The New Order##1101
+8140##Tomb Raider: Underworld##1067
+238090##Sniper Elite 3##962
+299740##Miscreated##942
+108710##Alan Wake##926
+44320##DiRT 3##925
+43110##Metro 2033##898
+8870##BioShock Infinite##888
+379720##DOOM##850
+43160##Metro: Last Light##830
+222480##Resident Evil Revelations##777
+50130##Mafia II (Classic)##768
+612880##Wolfenstein II: The New Colossus##693
+220##Half-Life 2##675
+108800##Crysis 2 Maximum Edition##657
+35140##Batman: Arkham Asylum GOTY Edition##653
+22120##Penumbra: Black Plague##650
+21100##F.E.A.R. 3##650
+477160##Human: Fall Flat##637
+240##Counter-Strike: Source##636
+238320##Outlast##632
+8190##Just Cause 2##618
+265550##Dead Rising 3##600
+300##Day of Defeat: Source##570
+24840##Medal of Honor: Airborne##541
+20##Team Fortress Classic##539
+350080##Wolfenstein: The Old Blood ##539
+19680##Alice: Madness Returns##512
+50300##Spec Ops: The Line##488
+247910##Sniper Elite: Nazi Zombie Army 2##482
+55110##Red Faction: Armageddon##467
+33900##Arma 2##440
+17470##Dead Space##429
+268050##The Evil Within##423
+24240##PAYDAY: The Heist##410
+47790##Medal of Honor(TM) Single Player##381
+418370##Resident Evil 7 Biohazard##370
+431240##Golf With Your Friends##355
+205100##Dishonored##343
+201280##Deus Ex: Human Revolution - The Missing Link##324
+42680##Call of Duty: Modern Warfare 3##320
+239200##Amnesia: A Machine for Pigs##310
+400##Portal##285
+400430##The Vanishing of Ethan Carter Redux##275
+202750##Alan Wake's American Nightmare##263
+19900##Far Cry 2##262
+254700##Resident Evil 4##260
+209000##Batman™: Arkham Origins##258
+8980##Borderlands GOTY##255
+22380##Fallout: New Vegas##255
+208200##DOOM 3: BFG Edition##254
+440##Team Fortress 2##232
+40700##Machinarium##222
+282140##SOMA##209
+7670##BioShock##199
+72850##The Elder Scrolls V: Skyrim##195
+310560##DiRT Rally##191
+17330##Crysis Warhead##181
+21980##Call of Juarez: Bound in Blood##168
+208650##Batman™: Arkham Knight##154
+222980##Dead Pixels##148
+10180##Call of Duty: Modern Warfare 2##139
+13570##Tom Clancy's Splinter Cell: Chaos Theory##138
+4300##RoboBlitz##129
+10##Counter-Strike##123
+12150##Max Payne 2: The Fall of Max Payne##119
+34330##Total War: SHOGUN 2##114
+201700##DiRT Showdown##109
+206420##Saints Row IV##108
+221910##The Stanley Parable##108
+65700##Arma 2: British Armed Forces##77
+205930##Hitman: Sniper Challenge##77
+12750##GRID##65
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##62
+2210##Quake 4##59
+2310##Quake##59
+13580##Tom Clancy's Splinter Cell: Double Agent##58
+45740##Dead Rising 2##57
+280##Half-Life: Source##53
+13560##Tom Clancy's Splinter Cell##52
+218620##PAYDAY 2##51
+9050##DOOM 3##49
+91700##E.Y.E: Divine Cybermancy##43
+630##Alien Swarm##43
+238210##System Shock 2##42
+65720##Arma 2: Private Military Company##39
+207610##The Walking Dead##38
+12140##Max Payne##31
+15120##Tom Clancy's Rainbow Six: Vegas 2##31
+55100##Homefront##31
+1280##Darkest Hour: Europe '44-'45##29
+2280##The Ultimate DOOM##21
+17530##D.I.P.R.I.P. Warm Up##20
+50##Half-Life: Opposing Force##19
+1230##Mare Nostrum##19
+34270##SEGA Mega Drive & Genesis Classics##19
+1250##Killing Floor##18
+2200##Quake III Arena##18
+22180##Penumbra: Overture##17
+2290##Final DOOM##17
+96400##Shoot Many Robots##17
+268850##EVGA Precision X1##14
+99300##Renegade Ops##13
+496920##Moirai##12
+2320##Quake II##10
+70##Half-Life##6
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##6
+8850##BioShock 2##5
+253530##Fortress Forever##5
+17340##Crysis Wars##3
+47830##Medal of Honor(TM) Multiplayer##3
+380##Half-Life 2: Episode One##2
+420##Half-Life 2: Episode Two##1
+321040##DiRT 3 Complete Edition##1
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+1200##Red Orchestra: Ostfront 41-45##0
+409710##BioShock Remastered##0
+22140##Penumbra: Requiem##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+409720##BioShock 2 Remastered##0
+729040##Borderlands GOTY Enhanced##0
+2300##DOOM II: Hell on Earth##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+9070##DOOM 3: Resurrection of Evil##0
+9160##Master Levels for DOOM II##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+564310##Serious Sam Fusion 2017 (beta)##0
+200260##Batman: Arkham City GOTY##0
+44690##GT Legends##0
+222880##Insurgency##0
+367690##Spintires® - Editor##0
+912290##Miscreated: Experimental Server##0
+258520##The Vanishing of Ethan Carter##0
+380600##Fishing Planet##0
+267490##Batman™: Arkham Origins Blackgate - Deluxe Edition##0
+1030830##Mafia II: Definitive Edition##0
+@@REVIEW
+221100##Recommended
+379720##Recommended

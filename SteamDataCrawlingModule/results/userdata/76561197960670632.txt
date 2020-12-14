@@ -1,0 +1,13 @@
+@@GAME
+570##Dota 2##124894
+730##Counter-Strike: Global Offensive##119616
+10##Counter-Strike##111685
+50##Half-Life: Opposing Force##1609
+130##Half-Life: Blue Shift##1609
+60##Ricochet##1608
+30##Day of Defeat##1205
+40##Deathmatch Classic##1202
+70##Half-Life##1202
+20##Team Fortress Classic##1201
+@@REVIEW
+570##Recommended

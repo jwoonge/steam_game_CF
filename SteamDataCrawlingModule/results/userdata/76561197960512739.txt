@@ -1,0 +1,78 @@
+@@GAME
+346110##ARK: Survival Evolved##156013
+295110##Just Survive##94568
+730##Counter-Strike: Global Offensive##81297
+221100##DayZ##38185
+107410##Arma 3##30104
+304930##Unturned##26601
+202990##Call of Duty: Black Ops II - Multiplayer##19743
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##16264
+390670##Steel Ocean##10827
+252490##Rust##10505
+275850##No Man's Sky##10209
+433850##Z1 Battle Royale##7982
+513710##SCUM##7866
+55150##Warhammer 40,000: Space Marine##6195
+552990##World of Warships##5622
+359550##Tom Clancy's Rainbow Six Siege##5272
+230410##Warframe##4767
+460930##Tom Clancy's Ghost Recon® Wildlands##4659
+594650##Hunt: Showdown##4648
+444090##Paladins##4133
+42710##Call of Duty: Black Ops - Multiplayer##2369
+280790##Creativerse##2135
+242760##The Forest##1921
+686810##Hell Let Loose##1637
+291480##Warface##1333
+530700##Argo##1178
+4000##Garry's Mod##1098
+555570##Infestation: The New Z##1071
+500##Left 4 Dead##1022
+945360##Among Us##1010
+407530##ARK: Survival Of The Fittest##957
+306020##Bloons TD5##905
+99830##Crysis 2##863
+212910##Call of Duty: Black Ops II - Zombies##834
+286940##S.K.I.L.L. - Special Force 2##742
+362300##Just Survive Test Server##681
+550650##Black Squad##581
+809960##Radical Heights##576
+755790##Ring of Elysium##508
+227940##Heroes & Generals##498
+218620##PAYDAY 2##463
+439700##H1Z1: Test Server##462
+33910##Arma 2##386
+739630##Phasmophobia##386
+10##Counter-Strike##162
+224260##No More Room in Hell##147
+291550##Brawlhalla##136
+884660##CRSED##116
+1172470##Apex Legends##106
+813820##Realm Royale##97
+202970##Call of Duty: Black Ops II##88
+823130##Totally Accurate Battlegrounds##66
+11020##TrackMania Nations Forever##50
+893520##CreativeDestruction##37
+224580##Arma 2: DayZ Mod##28
+440##Team Fortress 2##18
+30##Day of Defeat##3
+70##Half-Life##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+42700##Call of Duty: Black Ops##0
+102700##A.V.A. Alliance of Valiant Arms™##0
+236390##War Thunder##0
+391460##WARMODE##0
+596350##Paladins - Public Test##0
+770720##Hunt: Showdown (Test Server)##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+700580##Rust - Staging Branch##0
+878760##Realm Royale - Test Server##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+1085660##Destiny 2##0
+@@REVIEW
+346110##Recommended

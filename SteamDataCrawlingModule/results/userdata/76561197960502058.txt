@@ -1,0 +1,132 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+230410##Warframe##0
+238960##Path of Exile##0
+44350##GRID 2##0
+252150##Grimm##0
+272060##Serena##0
+282660##Easy eSports##0
+285160##LEGO® The Hobbit™##0
+299820##Paradigm Shift##0
+224600##Defiance##0
+307230##I, Zombie##0
+310560##DiRT Rally##0
+291480##Warface##0
+730##Counter-Strike: Global Offensive##0
+342230##Air Guardians##0
+386280##Vendetta - Curse of Raven's Cry##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+394480##Ringies##0
+399100##Spheroid##0
+407300##The Last NightMary - A Lenda do Cabeça de Cuia##0
+397720##Romance of the Three Kingdoms Maker##0
+239140##Dying Light##0
+311860##Data Hacker: Initiation##0
+329000##Data Hacker: Corruption##0
+331790##Data Hacker: Reboot##0
+340650##Elements: Soul of Fire##0
+385070##Atonement: Scourge of Time##0
+385080##Guardians of Victoria##0
+391660##Incitement 3##0
+412170##City of Chains##0
+412210##Warfront Defenders: Westerplatte##0
+412290##The Dreamlord##0
+416040##CLASH##0
+423710##Invasion: Brain Craving##0
+438010##PulseCharge##0
+438020##AI: Rampage##0
+438030##Dead6hot##0
+444460##Love is Blind: Mutants##0
+444480##Broken Dreams##0
+444490##POLYWAR##0
+447920##Drift (Over) Drive##0
+448630##Rabiez: Epidemic##0
+448640##Elements II: Hearts of Light##0
+453820##Hero Quest: Tower Conflict##0
+454890##Project Starship##0
+457820##Outrage##0
+463210##State of Anarchy##0
+463220##Dungeon of Zolthan##0
+467000##Insincere##0
+467010##Fall of Civilization##0
+473470##Purgatory##0
+486150##Radical Spectrum: Volume 1##0
+491650##Reset 1-1##0
+513590##So Many Cubes##0
+533820##Atonement 2: Ruptured by Despair##0
+563120##Desolate Wastes: Vendor Chronicles##0
+576120##Purgatory II##0
+576130##State of Anarchy Complete: Master of Mayhem##0
+587790##Deadly Animal Duel##0
+591560##Red Death##0
+606330##Shadows 2: Perfidia##0
+661120##Mercury: Cascade into Madness##0
+661300##Radical Spectrum: Volume 2##0
+661670##Renegade Grounds: Episode 1##0
+666260##Formless Adventure##0
+677210##Gift To Humanity##0
+678820##Gun-Running War Dogs##0
+739410##Zorbit's Orbits##0
+741930##Hydroactive##0
+766940##Snares of Ruin##0
+778840##Armored Evolution##0
+438100##VRChat##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+438480##Rock 'N' Roll Defense##0
+539720##Razortron 2000##0
+562360##Planes, Bullets and Vodka##0
+636150##Cyberhunt##0
+479130##ESEA##0
+527210##Janken Cards##0
+547730##Izanami's Dream Battle##0
+550650##Black Squad##0
+8500##EVE Online##0
+351940##The Descendant##0
+592130##NakedMan VS The Clothes##0
+592240##Jupiteration##0
+610080##Realm Grinder##0
+654980##Inferno Puzzle##0
+660290##Dungeons & Geese##0
+666220##CS2D##0
+304930##Unturned##0
+686090##Bloodlines of Prima##0
+700030##Life is Feudal: MMO##0
+711010##Corrupt##0
+718330##Cubic##0
+756230##KARTOFELKA##0
+608990##The Archotek Project##0
+776390##Outbreak in Space VR##0
+778230##Mighty Gemstones##0
+801320##The Last Hope: Atomic Bomb - Crypto War##0
+801880##Drift Tuner 2019##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+833890##NeoSticks##0
+905370##Conqueror's Blade##0
+611500##Quake Champions##0
+962430##Warface - Free Anniversary Pack##0
+967250##DOKA 2 KISHKI EDITION##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+1046930##Dota Underlords##0
+1070330##Russian Life Simulator##0
+1104640##New Frontier##0
+374280##Hired Ops##0
+1085660##Destiny 2##0
+522040##Princess Remedy In A Heap of Trouble##0
+203770##Crusader Kings II##0
+707010##Will To Live Online##0
+231430##Company of Heroes 2##0
+232770##POSTAL##0
+@@REVIEW

@@ -1,0 +1,258 @@
+@@GAME
+730##Counter-Strike: Global Offensive##103199
+240##Counter-Strike: Source##24736
+550##Left 4 Dead 2##11050
+33930##Arma 2: Operation Arrowhead##5687
+33900##Arma 2##5624
+105600##Terraria##3661
+91310##Dead Island##3207
+8190##Just Cause 2##2430
+440##Team Fortress 2##1635
+204100##Max Payne 3##1433
+201810##Wolfenstein: The New Order##1367
+252950##Rocket League##1310
+204450##Call of Juarez Gunslinger##1304
+107410##Arma 3##1199
+630##Alien Swarm##1159
+222880##Insurgency##1140
+8980##Borderlands GOTY##1017
+221100##DayZ##907
+24960##Battlefield: Bad Company™ 2##872
+200710##Torchlight II##835
+10500##Total War: EMPIRE - Definitive Edition##805
+35450##Rising Storm/Red Orchestra 2 Multiplayer##753
+220200##Kerbal Space Program##690
+214560##Mark of the Ninja##673
+1250##Killing Floor##665
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##650
+24240##PAYDAY: The Heist##626
+8870##BioShock Infinite##610
+16600##Trials 2: Second Edition##527
+201790##Orcs Must Die! 2##512
+500##Left 4 Dead##483
+620##Portal 2##476
+45740##Dead Rising 2##391
+470220##UNO##386
+17410##Mirror's Edge##341
+282140##SOMA##324
+21090##F.E.A.R.##307
+42910##Magicka##301
+28050##Deus Ex: Human Revolution##301
+1167630##Teardown##290
+1200##Red Orchestra: Ostfront 41-45##277
+43110##Metro 2033##277
+12150##Max Payne 2: The Fall of Max Payne##275
+72200##Universe Sandbox Legacy##273
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##253
+220##Half-Life 2##217
+233450##Prison Architect##217
+12210##Grand Theft Auto IV: The Complete Edition##213
+20500##Red Faction: Guerrilla Steam Edition##202
+300##Day of Defeat: Source##193
+423580##Project Highrise##192
+714010##Aim Lab##192
+15120##Tom Clancy's Rainbow Six: Vegas 2##179
+49520##Borderlands 2##159
+17330##Crysis Warhead##153
+220240##Far Cry® 3##150
+10##Counter-Strike##148
+105450##Age of Empires® III (2007)##147
+21100##F.E.A.R. 3##143
+1174180##Red Dead Redemption 2##141
+222730##Reus##138
+50130##Mafia II (Classic)##134
+19900##Far Cry 2##122
+284160##BeamNG.drive##116
+322500##SUPERHOT##114
+22370##Fallout 3 - Game of the Year Edition##112
+42120##Lead and Gold - Gangs of the Wild West##109
+400##Portal##105
+7670##BioShock##97
+202170##Sleeping Dogs™##96
+55230##Saints Row: The Third##95
+1048100##Peekaboo##92
+72850##The Elder Scrolls V: Skyrim##86
+48190##Assassin's Creed Brotherhood##79
+581320##Insurgency: Sandstorm##79
+337320##Paint the Town Red##76
+1300##SiN Episodes: Emergence##71
+9340##Company of Heroes: Opposing Fronts##64
+107800##Rochard##59
+55100##Homefront##51
+244850##Space Engineers##48
+30##Day of Defeat##44
+218620##PAYDAY 2##41
+15000##Tom Clancy's Rainbow Six: Lockdown##39
+489940##BATTALION 1944##39
+35140##Batman: Arkham Asylum GOTY Edition##38
+15320##IL-2 Sturmovik: 1946##37
+2100##Dark Messiah of Might & Magic Single Player##36
+108500##Vessel##33
+34030##Total War: NAPOLEON - Definitive Edition##32
+741510##The Hong Kong Massacre##31
+60##Ricochet##29
+437920##Tricky Towers##28
+1520##DEFCON##27
+1230##Mare Nostrum##25
+732430##Superflight##24
+223430##Miner Wars 2081##23
+684410##Bridge Constructor Portal##21
+6860##Hitman: Blood Money##20
+638000##When Ski Lifts Go Wrong ##19
+219640##Chivalry: Medieval Warfare##17
+319630##Life is Strange™##16
+2500##Shadowgrounds##15
+19830##Tom Clancy's Rainbow Six 3: Gold Edition##14
+4700##Total War: MEDIEVAL II - Definitive Edition##14
+383870##Firewatch##14
+8400##Geometry Wars: Retro Evolved##12
+12900##Audiosurf##12
+48000##LIMBO##10
+35700##Trine##10
+582270##Everything##10
+532210##Life is Strange 2##10
+13520##Far Cry##8
+636480##Ravenfield##8
+657200##Hand Simulator##8
+791930##BombTag##8
+967050##Pacify##8
+428660##Deliver Us The Moon##8
+7940##Call of Duty 4: Modern Warfare##7
+12750##GRID##7
+291550##Brawlhalla##7
+221380##Age of Empires II (2013)##5
+17340##Crysis Wars##4
+107200##Space Pirates and Zombies##4
+304930##Unturned##4
+655790##Fly Simulator##4
+21110##F.E.A.R.: Extraction Point##2
+22000##World of Goo##1
+98100##TRAUMA##1
+98200##Frozen Synapse##1
+527450##Cockroach Simulator##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1002##Rag Doll Kung Fu##0
+1280##Darkest Hour: Europe '44-'45##0
+1309##SiN Multiplayer##0
+1313##SiN: Gold##0
+2400##The Ship##0
+2430##The Ship Tutorial##0
+1510##Uplink##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+4000##Garry's Mod##0
+6850##Hitman 2: Silent Assassin##0
+6900##Hitman: Codename 47##0
+12140##Max Payne##0
+409710##BioShock Remastered##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+17300##Crysis##0
+19840##Tom Clancy's Rainbow Six 3: Athena Sword##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+15130##Beyond Good & Evil##0
+4560##Company of Heroes - Legacy Edition##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+12840##DiRT 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+1030830##Mafia II: Definitive Edition##0
+729040##Borderlands GOTY Enhanced##0
+22380##Fallout: New Vegas##0
+16450##F.E.A.R. 2: Project Origin##0
+21120##F.E.A.R.: Perseus Mandate##0
+4540##Titan Quest##0
+475150##Titan Quest Anniversary Edition##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+44320##DiRT 3##0
+321040##DiRT 3 Complete Edition##0
+9500##Gish##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+4760##Rome: Total War##0
+4770##Rome: Total War - Alexander##0
+11200##Shadowgrounds: Survivor##0
+92800##SpaceChem##0
+205790##Dota 2 Test##0
+108800##Crysis 2 Maximum Edition##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+20820##Shatter##0
+41500##Torchlight##0
+208200##DOOM 3: BFG Edition##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+462780##Darksiders Warmastered Edition##0
+2280##The Ultimate DOOM##0
+2290##Final DOOM##0
+2300##DOOM II: Hell on Earth##0
+9160##Master Levels for DOOM II##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+238960##Path of Exile##0
+10680##Aliens vs. Predator##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+301520##Robocraft##0
+222900##Dead Island: Epidemic##0
+317360##Double Action: Boogaloo##0
+690040##SUPERHOT: MIND CONTROL DELETE##0
+287450##Rise of Nations: Extended Edition##0
+346010##Besiege##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+361420##ASTRONEER##0
+322330##Don't Starve Together##0
+383120##Empyrion - Galactic Survival##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+261570##Ori and the Blind Forest##0
+387290##Ori and the Blind Forest: Definitive Edition##0
+396750##EVERSPACE™##0
+400160##Concrete Jungle##0
+214490##Alien: Isolation##0
+359550##Tom Clancy's Rainbow Six Siege##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+438100##VRChat##0
+457210##SEUM: Speedrunners from Hell##0
+464920##Surviving Mars##0
+377160##Fallout 4##0
+379720##DOOM##0
+477160##Human: Fall Flat##0
+49540##Aliens: Colonial Marines##0
+518790##theHunter: Call of the Wild™##0
+292030##The Witcher 3: Wild Hunt##0
+563560##Alien Swarm: Reactive Drop##0
+374040##Portal Knights##0
+648800##Raft##0
+424840##Little Nightmares##0
+666220##CS2D##0
+674940##Stick Fight: The Game##0
+677620##Splitgate: Arena Warfare##0
+240720##Getting Over It with Bennett Foddy##0
+750920##Shadow of the Tomb Raider##0
+823130##Totally Accurate Battlegrounds##0
+489520##Minion Masters##0
+686810##Hell Let Loose##0
+359320##Elite Dangerous##0
+252130##Divide by Sheep##0
+282100##Fearless Fantasy##0
+325180##AppGameKit Classic##0
+1085660##Destiny 2##0
+231430##Company of Heroes 2##0
+952060##Resident Evil 3##0
+952070##RESIDENT EVIL RESISTANCE##0
+883710##Resident Evil 2##0
+1282690##Crysis® 3 ##0
+@@REVIEW
+730##Recommended
+204100##Recommended
+24240##Recommended

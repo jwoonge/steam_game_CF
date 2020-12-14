@@ -1,0 +1,27 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+4000##Garry's Mod##0
+500##Left 4 Dead##0
+10090##Call of Duty: World at War##0
+3590##Plants vs. Zombies: Game of the Year##0
+24790##Command and Conquer 3: Tiberium Wars##0
+550##Left 4 Dead 2##0
+400##Portal##0
+205790##Dota 2 Test##0
+102600##Orcs Must Die!##0
+730##Counter-Strike: Global Offensive##0
+239660##Soldier Front 2##0
+271590##Grand Theft Auto V##0
+273110##Counter-Strike Nexon: Studio##0
+306830##Zombies Monsters Robots##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+@@REVIEW

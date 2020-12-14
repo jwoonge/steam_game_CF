@@ -1,0 +1,187 @@
+@@GAME
+730##Counter-Strike: Global Offensive##163162
+271590##Grand Theft Auto V##36795
+251570##7 Days to Die##24409
+107410##Arma 3##10662
+385760##NBA 2K17##10654
+365590##Tom Clancy's The Division##8655
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##8331
+10##Counter-Strike##5191
+433850##Z1 Battle Royale##4591
+42710##Call of Duty: Black Ops - Multiplayer##4087
+577800##NBA 2K18##3823
+342200##MechWarrior Online##3749
+252950##Rocket League##3502
+268500##XCOM 2##3289
+322330##Don't Starve Together##2992
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##2663
+200170##Worms Revolution##2487
+33350##Anno 1404: Venice##1485
+460920##Steep##1090
+883710##Resident Evil 2##904
+399820##Kopanito All-Stars Soccer##894
+218620##PAYDAY 2##803
+233840##Worms Clan Wars##777
+421020##DiRT 4##764
+34270##SEGA Mega Drive & Genesis Classics##739
+860950##Mark of the Ninja: Remastered##731
+295110##Just Survive##692
+383180##Dead Island Riptide Definitive Edition##683
+323850##Move or Die##668
+657200##Hand Simulator##661
+1012880##60 Seconds! Reatomized##648
+231430##Company of Heroes 2##647
+397540##Borderlands 3##641
+550##Left 4 Dead 2##605
+252490##Rust##581
+239070##Hammerwatch##579
+220##Half-Life 2##576
+207140##SpeedRunners##573
+261640##Borderlands: The Pre-Sequel##568
+10180##Call of Duty: Modern Warfare 2##424
+42700##Call of Duty: Black Ops##423
+225260##Brütal Legend##379
+316790##Grim Fandango Remastered##372
+431240##Golf With Your Friends##365
+381210##Dead by Daylight##345
+239140##Dying Light##313
+3830##Psychonauts##282
+115100##Costume Quest##282
+388210##Day of the Tentacle Remastered##282
+422250##ShipLord##282
+477160##Human: Fall Flat##270
+571740##Golf It!##269
+105450##Age of Empires® III (2007)##268
+238460##BattleBlock Theater##267
+219150##Hotline Miami##262
+880940##Pummel Party##254
+115110##Stacking##252
+232790##Broken Age##252
+444220##Asteroid Bounty Hunter##252
+214560##Mark of the Ninja##249
+282440##Quake Live##241
+620##Portal 2##236
+221380##Age of Empires II (2013)##232
+528660##Spin Rush##231
+550040##Steep Open Beta##228
+300##Day of Defeat: Source##226
+317250##Airscape: The Fall of Gravity##222
+508180##Fly and Destroy##222
+556280##Neon Prism##222
+556870##Charlie's Adventure##222
+567280##Cube Runner##222
+567580##Duke of Alpha Centauri##222
+228360##Full Throttle Remastered##222
+246090##Spacebase DF-9##221
+219740##Don't Starve##221
+282070##This War of Mine##220
+204360##Castle Crashers##219
+243970##Invisible, Inc.##218
+413150##Stardew Valley##216
+246110##MASSIVE CHALICE##215
+220820##Zombie Driver HD##195
+327030##Worms W.M.D##175
+310560##DiRT Rally##169
+240##Counter-Strike: Source##159
+365450##Hacknet##156
+583760##Slash It 2##127
+467950##Survive in Space##126
+468490##Neon Space##126
+505210##Neon Space 2##126
+567290##Slash It##126
+586960##Upside Down##126
+586970##Hungry Flame##126
+444090##Paladins##114
+611500##Quake Champions##70
+274170##Hotline Miami 2: Wrong Number##45
+282350##NBA 2K15##35
+674940##Stick Fight: The Game##34
+218230##PlanetSide 2##23
+910880##Mad Tower Tycoon##21
+33250##Anno 1404##12
+38400##Fallout##12
+338170##Ratz Instagib 2.0##12
+16810##Sid Meier's Civilization IV: Colonization##9
+238960##Path of Exile##9
+479130##ESEA##9
+12120##Grand Theft Auto: San Andreas##7
+33910##Arma 2##2
+50##Half-Life: Opposing Force##1
+217200##Worms Armageddon##1
+351570##Killing Floor: Uncovered##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+500##Left 4 Dead##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+24960##Battlefield: Bad Company™ 2##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+33930##Arma 2: Operation Arrowhead##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+22600##Worms Reloaded##0
+70600##Worms Ultimate Mayhem##0
+70620##Worms Crazy Golf##0
+70640##Worms##0
+70660##Worms Pinball##0
+70650##Worms Blast##0
+115120##Iron Brigade##0
+1083500##PlanetSide 2 - Test##0
+270910##Worms World Party Remastered##0
+290140##Echo of Soul##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+700580##Rust - Staging Branch##0
+246070##Hack 'n' Slash##0
+12250##Grand Theft Auto: San Andreas##0
+395200##Ben and Ed##0
+413850##CS:GO Player Profiles##0
+413851##CS:GO Player Profiles: n0thing - Cloud9##0
+413852##CS:GO Player Profiles:  TaZ - Virtus.Pro##0
+413853##CS:GO Player Profiles: GeT_RiGhT - Ninjas in Pyjamas##0
+413854##CS:GO Player Profiles: olofmeister - fnatic##0
+413855##CS:GO Player Profiles: kennyS - Team Envyus##0
+413856##CS:GO Player Profiles: Edward - Na'Vi##0
+413857##CS:GO Player Profiles: markeloff - Flipsid3##0
+413858##CS:GO Player Profiles: device - Team SoloMid##0
+413859##CS:GO Player Profiles: FalleN - Luminosity##0
+458250##CS:GO Player Profiles: karrigan - Astralis##0
+458260##CS:GO Player Profiles: pashaBiceps - Virtus.Pro##0
+458270##CS:GO Player Profiles: Guardian - Na'Vi##0
+458280##CS:GO Player Profiles: Happy - Team EnVyUs##0
+458300##CS:GO Player Profiles: fnx - Luminosity##0
+458310##CS:GO Player Profiles: Friberg - Ninjas in Pyjamas##0
+458320##CS:GO Player Profiles: Maikelele - FaZe##0
+497810##CS:GO Player Profiles: Fer - SK Gaming##0
+497811##CS:GO Player Profiles: Dupreeh - Astralis##0
+497812##CS:GO Player Profiles: Tarik - Counter Logic Gaming##0
+497813##CS:GO Player Profiles: Hiko - Team Liquid##0
+585280##CS:GO Player Profiles: Counter-Strike: A Brief History##0
+585281##CS:GO Player Profiles: Zeus - Gambit##0
+585282##CS:GO Player Profiles: coldzera – SK Gaming##0
+585283##CS:GO Player Profiles: s1mple – Natus Vincere##0
+596350##Paladins - Public Test##0
+524440##Tom Clancy's The Division PTS##0
+200940##Sonic CD##0
+@@REVIEW
+271590##Recommended
+365590##Recommended
+730##Recommended

@@ -1,0 +1,174 @@
+@@GAME
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##61036
+311210##Call of Duty: Black Ops III##50295
+476620##Call of Duty: WWII - Multiplayer##48990
+292730##Call of Duty: Infinite Warfare##47446
+209170##Call of Duty: Ghosts - Multiplayer##45746
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##42271
+202990##Call of Duty: Black Ops II - Multiplayer##36191
+42710##Call of Duty: Black Ops - Multiplayer##28162
+209660##Call of Duty: Advanced Warfare - Multiplayer##25874
+49520##Borderlands 2##14319
+8930##Sid Meier's Civilization V##13967
+8980##Borderlands GOTY##11162
+72850##The Elder Scrolls V: Skyrim##8376
+440##Team Fortress 2##3460
+500##Left 4 Dead##3042
+550##Left 4 Dead 2##2662
+365590##Tom Clancy's The Division##2646
+24960##Battlefield: Bad Company™ 2##2300
+552520##Far Cry 5##2234
+393100##Call of Duty: Modern Warfare Remastered - Multiplayer##2136
+33220##Tom Clancy's Splinter Cell: Conviction##1825
+230410##Warframe##1689
+203140##Hitman: Absolution##1544
+42680##Call of Duty: Modern Warfare 3##1424
+205100##Dishonored##1261
+201810##Wolfenstein: The New Order##1177
+28050##Deus Ex: Human Revolution##1147
+42700##Call of Duty: Black Ops##1112
+204100##Max Payne 3##974
+8870##BioShock Infinite##939
+200710##Torchlight II##868
+289070##Sid Meier's Civilization VI##865
+10090##Call of Duty: World at War##806
+21090##F.E.A.R.##750
+8190##Just Cause 2##692
+10180##Call of Duty: Modern Warfare 2##581
+620##Portal 2##570
+22380##Fallout: New Vegas##517
+43110##Metro 2033##514
+593280##Cat Quest##447
+7670##BioShock##426
+322330##Don't Starve Together##414
+209650##Call of Duty: Advanced Warfare##386
+377160##Fallout 4##348
+17470##Dead Space##316
+202970##Call of Duty: Black Ops II##309
+209160##Call of Duty: Ghosts##304
+292030##The Witcher 3: Wild Hunt##275
+55230##Saints Row: The Third##243
+108710##Alan Wake##235
+55100##Homefront##216
+65980##Sid Meier's Civilization: Beyond Earth##211
+476600##Call of Duty: WWII##189
+6860##Hitman: Blood Money##187
+9200##RAGE##187
+212910##Call of Duty: Black Ops II - Zombies##180
+72200##Universe Sandbox Legacy##174
+20900##The Witcher: Enhanced Edition##154
+99810##Bulletstorm##145
+400##Portal##136
+220##Half-Life 2##133
+17480##Command and Conquer: Red Alert 3##128
+17410##Mirror's Edge##127
+20530##Red Faction##93
+729040##Borderlands GOTY Enhanced##92
+57900##Duke Nukem Forever##90
+17300##Crysis##90
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##89
+50300##Spec Ops: The Line##84
+413150##Stardew Valley##80
+35700##Trine##72
+226980##Pinball FX2##71
+359320##Elite Dangerous##70
+1213210##Command & Conquer™ Remastered Collection##48
+39160##Dungeon Siege III##47
+442120##Pinball FX3##46
+238960##Path of Exile##42
+42910##Magicka##42
+19900##Far Cry 2##30
+24780##SimCity 4 Deluxe##30
+630##Alien Swarm##29
+63380##Sniper Elite V2##28
+2700##RollerCoaster Tycoon 3: Platinum!##27
+221260##Little Inferno##25
+13520##Far Cry##24
+3910##Sid Meier's Civilization III: Complete##20
+409710##BioShock Remastered##18
+80200##Fate of the World##17
+218620##PAYDAY 2##17
+55150##Warhammer 40,000: Space Marine##16
+222900##Dead Island: Epidemic##16
+396750##EVERSPACE™##16
+34270##SEGA Mega Drive & Genesis Classics##14
+20550##Red Faction II##2
+365720##Skyrim Script Extender (SKSE)##1
+393080##Call of Duty: Modern Warfare Remastered##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+20500##Red Faction: Guerrilla Steam Edition##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+16450##F.E.A.R. 2: Project Origin##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+44340##Operation Flashpoint: Red River##0
+55110##Red Faction: Armageddon##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+7760##X-COM: UFO Defense##0
+21100##F.E.A.R. 3##0
+39190##Dungeon Siege##0
+39200##Dungeon Siege 2##0
+37400##Time Gentlemen, Please!##0
+37420##Ben There, Dan That!##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+12770##Rise of the Argonauts##0
+20510##S.T.A.L.K.E.R.: Clear Sky##0
+41700##S.T.A.L.K.E.R.: Call of Pripyat##0
+202750##Alan Wake's American Nightmare##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+108800##Crysis 2 Maximum Edition##0
+205790##Dota 2 Test##0
+57690##Tropico 4##0
+214510##LEGO® The Lord of the Rings™##0
+205930##Hitman: Sniper Challenge##0
+225260##Brütal Legend##0
+234650##Shadowrun Returns##0
+65930##The Bureau: XCOM Declassified##0
+35720##Trine 2##0
+11450##Overlord##0
+12710##Overlord: Raising Hell##0
+261110##Killer is Dead##0
+226840##Age of Wonders III##0
+57300##Amnesia: The Dark Descent##0
+239200##Amnesia: A Machine for Pigs##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+238320##Outlast##0
+291650##Pillars of Eternity##0
+366844##Call of Duty: Black Ops III - Awakening DLC Pack##0
+455130##Call of Duty: Black Ops III – Mod Tools##0
+371140##Aegis Defenders##0
+393380##Squad##0
+774941##Squad - Public Testing##0
+4720##Condemned: Criminal Origins##0
+203750##Binary Domain##0
+524440##Tom Clancy's The Division PTS##0
+364360##Total War: WARHAMMER##0
+362960##Tyranny##0
+507490##Ashes of the Singularity: Escalation##0
+623940##HIVESWAP: ACT 1##0
+631980##Immortal Planet##0
+698640##Deep Sky Derelicts##0
+231430##Company of Heroes 2##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+582010##Monster Hunter: World##0
+@@REVIEW
+292030##Recommended
+8930##Recommended
+8980##Recommended
+42700##Recommended

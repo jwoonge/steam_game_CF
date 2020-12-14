@@ -1,0 +1,120 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##42372
+10##Counter-Strike##42077
+730##Counter-Strike: Global Offensive##39367
+221100##DayZ##8462
+239140##Dying Light##7969
+261640##Borderlands: The Pre-Sequel##6393
+49520##Borderlands 2##6186
+24960##Battlefield: Bad Company™ 2##5543
+813820##Realm Royale##5491
+205100##Dishonored##3437
+107410##Arma 3##3272
+113200##The Binding of Isaac##2588
+275850##No Man's Sky##2543
+105600##Terraria##1993
+250900##The Binding of Isaac: Rebirth##1988
+403640##Dishonored 2##1874
+203140##Hitman: Absolution##1748
+8980##Borderlands GOTY##1651
+1091500##Cyberpunk 2077##1624
+8190##Just Cause 2##1299
+238960##Path of Exile##1258
+200710##Torchlight II##1028
+295110##Just Survive##935
+201810##Wolfenstein: The New Order##915
+105450##Age of Empires® III (2007)##875
+570##Dota 2##706
+55230##Saints Row: The Third##692
+214560##Mark of the Ninja##680
+220260##Farming Simulator 2013##679
+350080##Wolfenstein: The Old Blood ##484
+424370##Wolcen: Lords of Mayhem##484
+620##Portal 2##473
+47890##The Sims(TM) 3##467
+945360##Among Us##428
+70##Half-Life##425
+214250##I Am Alive##391
+219740##Don't Starve##330
+20540##Company of Heroes: Tales of Valor##321
+1286830##STAR WARS™: The Old Republic™##272
+205930##Hitman: Sniper Challenge##268
+400##Portal##255
+252950##Rocket League##242
+207490##Rayman Origins##211
+43110##Metro 2033##178
+243360##TrackMania² Valley##162
+227100##Sniper Elite: Nazi Zombie Army##158
+221260##Little Inferno##147
+218130##Dungeonland##127
+407510##Devilian##123
+440##Team Fortress 2##114
+216250##Dead Island Riptide##111
+4000##Garry's Mod##86
+431240##Golf With Your Friends##85
+50##Half-Life: Opposing Force##80
+477160##Human: Fall Flat##71
+4560##Company of Heroes - Legacy Edition##45
+130##Half-Life: Blue Shift##33
+367520##Hollow Knight##33
+33930##Arma 2: Operation Arrowhead##29
+220780##Thomas Was Alone##29
+41070##Serious Sam 3: BFE##25
+304930##Unturned##22
+382850##Piercing Blow##22
+201790##Orcs Must Die! 2##20
+228380##Wreckfest##15
+40800##Super Meat Boy##12
+40960##Stronghold 2##10
+99300##Renegade Ops##7
+203810##Dear Esther##6
+9340##Company of Heroes: Opposing Fronts##6
+40970##Stronghold Crusader HD##5
+33910##Arma 2##5
+282440##Quake Live##3
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+16700##Stronghold Crusader Extreme HD##0
+40950##Stronghold HD##0
+40980##Stronghold Legends##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+4540##Titan Quest##0
+475150##Titan Quest Anniversary Edition##0
+95300##Capsized##0
+564310##Serious Sam Fusion 2017 (beta)##0
+520720##Dear Esther: Landmark Edition##0
+205790##Dota 2 Test##0
+2400##The Ship##0
+2420##The Ship Single Player##0
+2430##The Ship Tutorial##0
+102600##Orcs Must Die!##0
+204300##Awesomenauts##0
+322330##Don't Starve Together##0
+91600##Sanctum##0
+4920##Natural Selection 2##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+225420##Cities in Motion 2##0
+210770##Sanctum 2##0
+42910##Magicka##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+222900##Dead Island: Epidemic##0
+729040##Borderlands GOTY Enhanced##0
+383120##Empyrion - Galactic Survival##0
+530870##Empyrion - Galactic Survival Dedicated Server##0
+386360##SMITE##0
+858460##SMITE - Public Test##0
+878760##Realm Royale - Test Server##0
+884660##CRSED##0
+611500##Quake Champions##0
+1030840##Mafia: Definitive Edition##0
+@@REVIEW
+238960##Recommended

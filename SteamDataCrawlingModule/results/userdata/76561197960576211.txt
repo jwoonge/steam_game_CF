@@ -1,0 +1,119 @@
+@@GAME
+629520##Soundpad##60690
+250820##SteamVR##16827
+405710##Staxel##10941
+275850##No Man's Sky##9189
+314160##Microsoft Flight Simulator X: Steam Edition##5600
+730##Counter-Strike: Global Offensive##3020
+359320##Elite Dangerous##2698
+218620##PAYDAY 2##2273
+620##Portal 2##2109
+945360##Among Us##1653
+431960##Wallpaper Engine##1519
+620980##Beat Saber##1487
+431730##Aseprite##1314
+526870##Satisfactory##1216
+1250410##Microsoft Flight Simulator##936
+546560##Half-Life: Alyx##887
+467660##Paranormal Activity: The Lost Soul##852
+317400##Portal Stories: Mel##794
+605230##Grey Hack##666
+532210##Life is Strange 2##595
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##595
+527100##Star Trek: Bridge Crew##524
+391220##Rise of the Tomb Raider##522
+362890##Black Mesa##438
+570##Dota 2##425
+304390##For Honor##419
+863550##HITMAN™ 2##418
+393380##Squad##407
+286940##S.K.I.L.L. - Special Force 2##381
+657200##Hand Simulator##298
+555160##Pavlov VR##296
+696370##BROKE PROTOCOL: Online City RPG##262
+252870##PULSAR: Lost Colony##241
+499520##The Turing Test##239
+880940##Pummel Party##225
+470220##UNO##204
+327140##Tilt Brush##199
+823500##BONEWORKS##193
+751440##VR Kanojo##183
+916840##The Walking Dead: Saints & Sinners##173
+204100##Max Payne 3##165
+9900##Star Trek Online##163
+379720##DOOM##141
+438100##VRChat##138
+457550##Bigscreen Beta##134
+477160##Human: Fall Flat##131
+231430##Company of Heroes 2##130
+324080##Rising World##127
+606800##Startup Company##123
+286160##Tabletop Simulator##114
+244850##Space Engineers##103
+397950##Clustertruck##100
+845070##The Awesome Adventures of Captain Spirit##97
+113200##The Binding of Isaac##87
+437920##Tricky Towers##70
+541200##Get To The Orange Door##67
+211820##Starbound##64
+444640##Bloons TD Battles##53
+446750##Portal Stories: VR##51
+444090##Paladins##50
+317470##Cubic Castles##47
+11020##TrackMania Nations Forever##39
+361420##ASTRONEER##38
+400940##Budget Cuts##36
+550650##Black Squad##27
+396900##GRIP: Combat Racing##27
+466910##Worm.is: The Game##20
+708580##The Exorcist: Legion VR - Chapter 1: First Rites##18
+1008710##Wet Girl##18
+233720##Surgeon Simulator##16
+441870##OutDrive##14
+233610##Distance##13
+278360##A Story About My Uncle##12
+10##Counter-Strike##7
+800380##Escape Room VR: Stories##7
+20##Team Fortress Classic##6
+71230##Crazy Taxi##6
+643270##OLDTV##6
+396750##EVERSPACE™##5
+491950##Orwell##4
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+55150##Warhammer 40,000: Space Marine##0
+204880##Sins of a Solar Empire: Rebellion##0
+49520##Borderlands 2##0
+367540##Starbound - Unstable##0
+261640##Borderlands: The Pre-Sequel##0
+334230##Town of Salem##0
+105000##A New Beginning - Final Cut##0
+203830##The Dark Eye: Chains of Satinav##0
+214340##Deponia##0
+219910##Edna & Harvey: Harvey's New Eyes##0
+220740##Chaos on Deponia##0
+230820##The Night of the Rabbit##0
+241910##Goodbye Deponia##0
+243200##Memoria##0
+255280##1954 Alcatraz##0
+255320##Edna & Harvey: The Breakout##0
+268540##The Whispered World Special Edition##0
+341800##Keep Talking and Nobody Explodes##0
+774941##Squad - Public Testing##0
+596350##Paladins - Public Test##0
+523210##A Normal Lost Phone##0
+677160##We Were Here Too##0
+774711##The MagiCats Best Of##0
+826480##VR Benchmark Kanojo##0
+611500##Quake Champions##0
+654310##For Honor - Public Test##0
+1085660##Destiny 2##0
+@@REVIEW
+499520##Recommended
+823500##Not Recommended
+211820##Recommended
+605230##Recommended

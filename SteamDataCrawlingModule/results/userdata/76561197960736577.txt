@@ -1,0 +1,80 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+22380##Fallout: New Vegas##0
+207610##The Walking Dead##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+11020##TrackMania Nations Forever##0
+226980##Pinball FX2##0
+253710##theHunter Classic##0
+228760##TrackMania² Canyon##0
+232910##TrackMania² Stadium##0
+225080##Brothers - A Tale of Two Sons##0
+218620##PAYDAY 2##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+252950##Rocket League##0
+231670##Football Manager 2014##0
+242460##Football Manager 2014 Editor##0
+242480##Football Manager 2014 Resource Archiver##0
+262940##Broken Sword 5 - the Serpent's Curse##0
+228380##Wreckfest##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+222880##Insurgency##0
+286940##S.K.I.L.L. - Special Force 2##0
+288470##Fable Anniversary##0
+295110##Just Survive##0
+362300##Just Survive Test Server##0
+433850##Z1 Battle Royale##0
+439700##H1Z1: Test Server##0
+107410##Arma 3##0
+301520##Robocraft##0
+295270##Football Manager 2015##0
+241930##Middle-earth™: Shadow of Mordor™##0
+730##Counter-Strike: Global Offensive##0
+305620##The Long Dark##0
+282070##This War of Mine##0
+339610##FreeStyle 2: Street Basketball##0
+344760##Reign Of Kings##0
+346900##AdVenture Capitalist##0
+355840##Survarium##0
+356370##Soccer Manager 2015##0
+292030##The Witcher 3: Wild Hunt##0
+380600##Fishing Planet##0
+393420##Hurtworld##0
+445900##Hurtworld SDK##0
+357470##An Alternative Reality: The Football Manager Documentary##0
+378120##Football Manager 2016##0
+314520##Euro Fishing##0
+239140##Dying Light##0
+453090##Parkitect##0
+470220##UNO##0
+319630##Life is Strange™##0
+482730##Football Manager 2017##0
+482750##Football Manager Touch 2017##0
+518790##theHunter: Call of the Wild™##0
+552990##World of Warships##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+356190##Middle-earth™: Shadow of War™##0
+644930##They Are Billions##0
+624090##Football Manager 2018##0
+624120##Football Manager Touch 2018##0
+766570##Russian Fishing 4##0
+770240##PRO EVOLUTION SOCCER 2019##0
+872790##Football Manager 2019##0
+872820##Football Manager 2019 Touch##0
+996470##eFootball PES 2020##0
+1100600##Football Manager 2020##0
+1100620##Football Manager 2020 Touch##0
+1360000##The Infected##0
+1259970##eFootball PES 2021 SEASON UPDATE##0
+1263850##Football Manager 2021##0
+1263860##Football Manager 2021 Touch##0
+@@REVIEW

@@ -1,0 +1,16 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+20900##The Witcher: Enhanced Edition##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+438100##VRChat##0
+292030##The Witcher 3: Wild Hunt##0
+730##Counter-Strike: Global Offensive##0
+1085660##Destiny 2##0
+@@REVIEW

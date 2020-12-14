@@ -1,0 +1,188 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+96100##Defy Gravity##0
+8650##RACE 07: Andy Priaulx Crowne Plaza Raceway##0
+245550##Free to Play##0
+343450##Free To Play (Streaming)##0
+224220##Pressure##0
+253960##Jack Orlando Director's Cut##0
+247120##Portal 2 Sixense Perceptual Pack##0
+259340##Chicken Shoot Gold##0
+259360##Chicken Shoot 2##0
+252150##Grimm##0
+272060##Serena##0
+283880##Heroine's Quest: The Herald of Ragnarok##0
+290650##Time Ramesside (A New Reckoning)##0
+293180##Overcast - Walden and the Werewolf##0
+296870##Dreaming Sarah##0
+303390##Dead Bits##0
+311860##Data Hacker: Initiation##0
+329000##Data Hacker: Corruption##0
+330000##Kingdoms CCG##0
+17570##Pirates, Vikings, & Knights II##0
+332790##Darkness Assault##0
+334300##Fake Colours##0
+341380##Countless Rooms of Death##0
+342970##Pixel Survivors##0
+343440##Crash Drive 2##0
+345580##Universal Combat CE##0
+346290##Penumbra: Necrologue##0
+362180##Mortal Kombat: Legacy II: Reunited in Macau##0
+362190##Mortal Kombat: Legacy II: The Fall of Liu Kang##0
+362200##Mortal Kombat: Legacy II: Kenshi's Origin##0
+362210##Mortal Kombat: Legacy II: Kenshi Encounters Ermac##0
+362220##Mortal Kombat: Legacy II: Kitana and Mileena##0
+362230##Mortal Kombat: Legacy II: Johnny Cage##0
+362240##Mortal Kombat: Legacy II: Scorpion and Sub-Zero (Part 1)##0
+362250##Mortal Kombat: Legacy II: Scorpion and Sub-Zero (Part 2)##0
+362260##Mortal Kombat: Legacy II: Liu Kang##0
+362270##Mortal Kombat: Legacy II: Liu Kang and Kung Lao##0
+362280##Mortal Kombat: Legacy II##0
+495470##Mortal Kombat: Legacy II: Prelude##0
+298180##The Desolate Hope##0
+368590##Albert and Otto: The Adventure Begins##0
+368990##Despair##0
+375010##Energy Balance##0
+380580##SpaceCorn##0
+388660##Project Tarvotan##0
+404700##Curvatron##0
+404850##DARTHY##0
+408110##Planet R-12##0
+412290##The Dreamlord##0
+415960##Energy Cycle##0
+397720##Romance of the Three Kingdoms Maker##0
+429470##Space Pilgrim Episode I: Alpha Centauri##0
+431710##Space Pilgrim Episode II: Epsilon Indi##0
+434610##Forbidden Planet##0
+438020##AI: Rampage##0
+438180##Super Mustache##0
+439250##Space Pilgrim Episode III: Delta Pavonis##0
+444460##Love is Blind: Mutants##0
+444490##POLYWAR##0
+446030##Corroded##0
+446640##Space Pilgrim Episode IV: Sol##0
+447920##Drift (Over) Drive##0
+448630##Rabiez: Epidemic##0
+449120##Nanobots##0
+449540##There's Poop In My Soup##0
+449680##SAMOLIOTIK##0
+448070##Red Risk##0
+461730##Blaite##0
+468240##VR Regatta - The Sailing Game##0
+474830##Time in Time##0
+269710##Tumblestone##0
+485870##Super Duper Party Pooper##0
+504980##Elves Adventure##0
+506670##ORBITAL##0
+512550##Cursed West##0
+512630##VR Gallery##0
+513590##So Many Cubes##0
+516950##Stars Simulation##0
+521630##Toadled##0
+522210##Serial Cleaner##0
+529920##Resurgence##0
+542280##Happy Maze##0
+542340##Slingshot people##0
+545580##GO AWAY, THERE'S KUMIS OVER THERE!##0
+545860##Luke Sidewalker##0
+546660##Operation Breakout®##0
+547040##Above - VR##0
+550670##What The Heck, Dude?##0
+444200##World of Tanks Blitz##0
+562270##Shot Shot Tactic##0
+565860##Tomato Way##0
+544180##Orbox C##0
+568860##Psycho on the loose##0
+573210##Mistwood Heroes##0
+576120##Purgatory II##0
+581600##The Albatross##0
+581670##The Astral Hero##0
+208140##Endless Space##0
+582890##Estranged: The Departure##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+587790##Deadly Animal Duel##0
+588240##Frisky Business##0
+589420##Grass Cutter##0
+351940##The Descendant##0
+595460##Flix and Chill##0
+595640##Robo Do It##0
+596350##Paladins - Public Test##0
+599750##Crisis in the Kremlin##0
+603060##Tarim: Guardians##0
+606870##MetaMorph##0
+611960##Pilam Sky##0
+619890##Evil Glitch##0
+512020##Box Maze##0
+634200##Tanks vs Aliens##0
+636370##The Sun Never Sets##0
+641780##The Drone Racing League Simulator##0
+654990##Dude Simulator##0
+682630##Box Maze 2 : Agent Cubert##0
+251950##World War II Online##0
+15700##Oddworld: Abe's Oddysee##0
+608990##The Archotek Project##0
+236870##HITMAN™##0
+368230##Kingdom: Classic##0
+55100##Homefront##0
+319830##AX:EL##0
+209670##Cortex Command##0
+265590##The Red Solstice##0
+807140##Marble Run 2D##0
+644670##Deus Vult##0
+825310##Dude Simulator 2##0
+845070##The Awesome Adventures of Captain Spirit##0
+232050##Eador. Masters of the Broken World##0
+270550##Yet Another Zombie Defense##0
+863550##HITMAN™ 2##0
+439190##Stories: The Path of Destinies##0
+490220##Prismata##0
+202200##Galactic Civilizations II: Ultimate Edition##0
+209080##Guns of Icarus Online##0
+608800##Guns of Icarus Alliance##0
+611500##Quake Champions##0
+878380##东方大战争 ~ Touhou Big Big Battle##0
+334210##Fortified##0
+391720##Layers of Fear##0
+63500##Swords and Soldiers HD##0
+896890##VR Paradise##0
+365450##Hacknet##0
+769920##Odysseus Kosmos and his Robot Quest - Episode 1##0
+222880##Insurgency##0
+722670##中国象棋##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+730##Counter-Strike: Global Offensive##0
+96000##The Tiny Bang Story##0
+491950##Orwell##0
+402390##Hyperdrive Massacre##0
+510840##Evolvation##0
+730310##DYNASTY WARRIORS 9##0
+638070##Murderous Pursuits##0
+395170##DISTRAINT: Deluxe Edition##0
+680780##Death Train VR##0
+992310##Backbone: Prologue##0
+231430##Company of Heroes 2##0
+826600##I’m not a Monster##0
+905370##Conqueror's Blade##0
+204880##Sins of a Solar Empire: Rebellion##0
+308600##Geneshift##0
+278360##A Story About My Uncle##0
+285800##Braveland##0
+343710##KHOLAT##0
+266310##GameGuru##0
+252130##Divide by Sheep##0
+282100##Fearless Fantasy##0
+370910##Kathy Rain##0
+325180##AppGameKit Classic##0
+780800##Ball laB##0
+232770##POSTAL##0
+1076280##Showdown Bandit##0
+532210##Life is Strange 2##0
+@@REVIEW

@@ -1,0 +1,204 @@
+@@GAME
+730##Counter-Strike: Global Offensive##162756
+550##Left 4 Dead 2##11302
+221680##Rocksmith® 2014 Edition - Remastered##9012
+240##Counter-Strike: Source##8305
+50130##Mafia II (Classic)##2949
+10##Counter-Strike##2595
+80##Counter-Strike: Condition Zero##2045
+2600##Vampire: The Masquerade - Bloodlines##928
+3920##Sid Meier's Pirates!##900
+205190##Rocksmith##675
+225260##Brütal Legend##216
+2210##Quake 4##213
+10170##Wolfenstein##148
+500##Left 4 Dead##147
+12210##Grand Theft Auto IV: The Complete Edition##146
+297000##Heroes of Might & Magic III - HD Edition##144
+22490##Fallout: New Vegas RU##103
+420##Half-Life 2: Episode Two##87
+8980##Borderlands GOTY##74
+220##Half-Life 2##55
+12750##GRID##45
+11500##ToCA Race Driver 3##43
+9050##DOOM 3##31
+380##Half-Life 2: Episode One##23
+41500##Torchlight##20
+440##Team Fortress 2##18
+225160##Shadow Warrior Classic Redux##17
+12840##DiRT 2##16
+1213210##Command & Conquer™ Remastered Collection##16
+214870##Painkiller Hell & Damnation##15
+4000##Garry's Mod##14
+32380##STAR WARS™ Jedi Knight: Dark Forces II##14
+208200##DOOM 3: BFG Edition##14
+242700##Injustice: Gods Among Us Ultimate Edition##13
+237110##Mortal Kombat Komplete Edition##12
+205350##Mortal Kombat Kollection##10
+3730##Aliens versus Predator Classic 2000##6
+9070##DOOM 3: Resurrection of Evil##3
+2300##DOOM II: Hell on Earth##2
+12180##Grand Theft Auto 2##2
+11440##DiRT##1
+12170##Grand Theft Auto##1
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+2100##Dark Messiah of Might & Magic Single Player##0
+2130##Dark Messiah of Might & Magic Multi-Player##0
+6910##Deus Ex: Game of the Year Edition##0
+6920##Deus Ex: Invisible War##0
+2280##The Ultimate DOOM##0
+2290##Final DOOM##0
+9160##Master Levels for DOOM II##0
+17470##Dead Space##0
+24740##Burnout Paradise: The Ultimate Box##0
+6060##Star Wars: Battlefront 2 (Classic, 2005)##0
+6000##STAR WARS™ Republic Commando##0
+32350##STAR WARS™ Starfighter™##0
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##0
+6030##STAR WARS™ Jedi Knight II: Jedi Outcast™##0
+32390##STAR WARS™ Jedi Knight: Mysteries of the Sith™##0
+32400##STAR WARS™: Dark Forces##0
+24800##Command and Conquer: Red Alert 3 - Uprising##0
+11450##Overlord##0
+12710##Overlord: Raising Hell##0
+12810##Overlord II##0
+32430##STAR WARS™: The Force Unleashed™ Ultimate Sith Edition##0
+22370##Fallout 3 - Game of the Year Edition##0
+40100##Supreme Commander 2##0
+12800##FUEL##0
+43110##Metro 2033##0
+46420##Chrome##0
+46430##Chrome: Specforce##0
+32470##STAR WARS™ Empire at War: Gold Pack##0
+12100##Grand Theft Auto III##0
+12110##Grand Theft Auto: Vice City##0
+12120##Grand Theft Auto: San Andreas##0
+12230##Grand Theft Auto III##0
+12240##Grand Theft Auto: Vice City##0
+12250##Grand Theft Auto: San Andreas##0
+17410##Mirror's Edge##0
+1030830##Mafia II: Definitive Edition##0
+35130##Lara Croft and the Guardian of Light##0
+41000##Serious Sam HD: The First Encounter##0
+41010##Serious Sam HD: The Second Encounter##0
+41050##Serious Sam Classic: The First Encounter##0
+41060##Serious Sam Classic: The Second Encounter##0
+227780##Serious Sam Classics: Revolution##0
+564310##Serious Sam Fusion 2017 (beta)##0
+729040##Borderlands GOTY Enhanced##0
+32500##STAR WARS™: The Force Unleashed™ II##0
+22610##Alien Breed: Impact##0
+22650##Alien Breed 2: Assault##0
+22670##Alien Breed 3: Descent##0
+21100##F.E.A.R. 3##0
+99810##Bulletstorm##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+21090##F.E.A.R.##0
+21110##F.E.A.R.: Extraction Point##0
+21120##F.E.A.R.: Perseus Mandate##0
+16450##F.E.A.R. 2: Project Origin##0
+32800##The Lord of the Rings: War in the North##0
+70600##Worms Ultimate Mayhem##0
+70620##Worms Crazy Golf##0
+70660##Worms Pinball##0
+70650##Worms Blast##0
+110800##L.A. Noire##0
+98400##Hard Reset##0
+208580##STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™##0
+32370##STAR WARS™: Knights of the Old Republic™##0
+200260##Batman: Arkham City GOTY##0
+108800##Crysis 2 Maximum Edition##0
+35140##Batman: Arkham Asylum GOTY Edition##0
+217200##Worms Armageddon##0
+34030##Total War: NAPOLEON - Definitive Edition##0
+57690##Tropico 4##0
+34330##Total War: SHOGUN 2##0
+220440##DmC Devil May Cry##0
+225140##Duke Nukem 3D: Megaton Edition##0
+203160##Tomb Raider##0
+221040##Resident Evil 6##0
+238210##System Shock 2##0
+72850##The Elder Scrolls V: Skyrim##0
+45740##Dead Rising 2##0
+47790##Medal of Honor(TM) Single Player##0
+47830##Medal of Honor(TM) Multiplayer##0
+250180##METAL SLUG 3##0
+111900##Guardians of Middle-earth##0
+200170##Worms Revolution##0
+234000##Superfrog HD##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+2200##Quake III Arena##0
+2310##Quake##0
+2320##Quake II##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+274190##Broforce##0
+258180##Deus Ex: The Fall##0
+13520##Far Cry##0
+19900##Far Cry 2##0
+220240##Far Cry® 3##0
+233270##Far Cry® 3 Blood Dragon##0
+312610##METAL SLUG X##0
+238010##Deus Ex: Human Revolution - Director's Cut##0
+6850##Hitman 2: Silent Assassin##0
+6860##Hitman: Blood Money##0
+6900##Hitman: Codename 47##0
+203140##Hitman: Absolution##0
+205930##Hitman: Sniper Challenge##0
+247430##Hitman: Contracts##0
+8080##Kane & Lynch: Dead Men##0
+28000##Kane & Lynch 2: Dog Days##0
+265550##Dead Rising 3##0
+222420##THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION##0
+304240##Resident Evil##0
+222440##THE KING OF FIGHTERS 2002 UNLIMITED MATCH##0
+202170##Sleeping Dogs™##0
+45770##Dead Rising 2: Off the Record##0
+366230##BASEBALL STARS 2##0
+366250##METAL SLUG##0
+366260##METAL SLUG 2##0
+366270##SHOCK TROOPERS##0
+366280##TWINKLE STAR SPRITES##0
+214950##Total War: ROME II - Emperor Edition##0
+10500##Total War: EMPIRE - Definitive Edition##0
+345260##MEDIEVAL: Total War™ - Gold Edition##0
+4700##Total War: MEDIEVAL II - Definitive Edition##0
+211160##Viking: Battle for Asgard##0
+345240##SHOGUN: Total War™ - Collection##0
+57300##Amnesia: The Dark Descent##0
+339340##Resident Evil 0##0
+3910##Sid Meier's Civilization III: Complete##0
+200510##XCOM: Enemy Unknown##0
+244070##Sid Meier's Ace Patrol##0
+244090##Sid Meier's Ace Patrol: Pacific Skies##0
+3900##Sid Meier's Civilization IV##0
+3990##Sid Meier's Civilization IV: Warlords##0
+8800##Sid Meier's Civilization IV: Beyond the Sword##0
+8930##Sid Meier's Civilization V##0
+16810##Sid Meier's Civilization IV: Colonization##0
+34440##Sid Meier's Civilization IV##0
+34450##Sid Meier's Civilization IV: Warlords##0
+34460##Sid Meier's Civilization IV: Beyond the Sword##0
+282210##Sid Meier's Starships##0
+65980##Sid Meier's Civilization: Beyond Earth##0
+465840##THE LAST BLADE##0
+465870##SHOCK TROOPERS 2nd Squad##0
+390340##Umbrella Corps##0
+307780##Mortal Kombat X##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+337000##Deus Ex: Mankind Divided™##0
+391720##Layers of Fear##0
+737800##F1 2018##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+44350##GRID 2##0
+226840##Age of Wonders III##0
+@@REVIEW

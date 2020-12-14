@@ -1,0 +1,167 @@
+@@GAME
+570##Dota 2##215958
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##30496
+240##Counter-Strike: Source##29994
+207890##Football Manager 2013##10565
+212680##FTL: Faster Than Light##4861
+40100##Supreme Commander 2##4454
+378860##Project CARS 2##2906
+248390##Craft The World##2783
+730##Counter-Strike: Global Offensive##2537
+1046930##Dota Underlords##2251
+550##Left 4 Dead 2##2179
+548430##Deep Rock Galactic##1643
+415200##Motorsport Manager##1556
+230190##War for the Overworld##1415
+323190##Frostpunk##1282
+224580##Arma 2: DayZ Mod##1199
+493340##Planet Coaster##1155
+107410##Arma 3##1085
+644930##They Are Billions##1069
+200510##XCOM: Enemy Unknown##1063
+33930##Arma 2: Operation Arrowhead##978
+8930##Sid Meier's Civilization V##877
+22600##Worms Reloaded##866
+500##Left 4 Dead##715
+537800##Bomber Crew##698
+594650##Hunt: Showdown##676
+252950##Rocket League##659
+239140##Dying Light##638
+242920##Banished##582
+108800##Crysis 2 Maximum Edition##558
+203140##Hitman: Absolution##525
+221100##DayZ##480
+590380##Into the Breach##440
+242760##The Forest##425
+255710##Cities: Skylines##369
+233450##Prison Architect##363
+630##Alien Swarm##302
+389570##Mitos.is: The Game##295
+10##Counter-Strike##291
+268850##EVGA Precision X1##261
+262060##Darkest Dungeon®##240
+593280##Cat Quest##237
+17300##Crysis##213
+30##Day of Defeat##194
+611500##Quake Champions##180
+677340##The Colonists##172
+57690##Tropico 4##160
+493520##GTFO##155
+295790##Never Alone (Kisima Ingitchuna)##150
+945360##Among Us##149
+712180##Mugsters##148
+339280##Strife##136
+230410##Warframe##127
+731490##Crash Bandicoot™ N. Sane Trilogy##96
+263280##Spintires®##94
+360480##Victory Command##94
+679990##Half-Life: C.A.G.E.D.##92
+620##Portal 2##90
+728880##Overcooked! 2##86
+222730##Reus##83
+410900##Forts##83
+224260##No More Room in Hell##80
+218620##PAYDAY 2##75
+236390##War Thunder##66
+884660##CRSED##60
+228380##Wreckfest##59
+396710##The Adventure Pals##59
+857940##Nature Calls##59
+231430##Company of Heroes 2##58
+41500##Torchlight##57
+270150##RUNNING WITH RIFLES##55
+413150##Stardew Valley##50
+457730##Mushroom Wars 2##47
+440##Team Fortress 2##46
+1520##DEFCON##44
+508200##Bacon Tales - Between Pigs and Wolves##43
+424840##Little Nightmares##41
+225080##Brothers - A Tale of Two Sons##40
+535230##Domina##37
+233250##Planetary Annihilation##36
+273110##Counter-Strike Nexon: Studio##36
+711660##CHUCHEL##36
+201700##DiRT Showdown##33
+50##Half-Life: Opposing Force##28
+223850##3DMark##27
+379720##DOOM##27
+424280##Iron Snout##26
+251570##7 Days to Die##25
+657020##Save Dash##25
+659870##Don't Die!##24
+261570##Ori and the Blind Forest##21
+265120##Meridian: New World##21
+291550##Brawlhalla##18
+218230##PlanetSide 2##17
+214490##Alien: Isolation##16
+17480##Command and Conquer: Red Alert 3##15
+581320##Insurgency: Sandstorm##14
+320##Half-Life 2: Deathmatch##13
+300##Day of Defeat: Source##13
+10680##Aliens vs. Predator##11
+273350##Evolve Stage 2##11
+246280##Happy Wars##7
+223710##Cry of Fear##6
+453090##Parkitect##6
+33910##Arma 2##5
+105600##Terraria##5
+65800##Dungeon Defenders##5
+465440##Aplowcalypse##5
+269390##Dethroned!##4
+17500##Zombie Panic! Source##3
+41300##Altitude##2
+1286530##Black Skylands: Origins##2
+70##Half-Life##1
+268050##The Evil Within##1
+335240##Transformice##1
+355180##Codename CURE##1
+521570##You Have 10 Seconds 2##1
+539730##True Sight##1
+1017170##True Sight: The International 2018 Finals##1
+542310##Escape the Game##1
+571350##DED##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+340##Half-Life 2: Lost Coast##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+48000##LIMBO##0
+400##Portal##0
+205790##Dota 2 Test##0
+17330##Crysis Warhead##0
+17340##Crysis Wars##0
+205930##Hitman: Sniper Challenge##0
+1083500##PlanetSide 2 - Test##0
+367690##Spintires® - Editor##0
+272860##Wreckfest Throw-A-Santa + Sneak Peek 2.0##0
+290930##Half-Life 2: Update##0
+304430##INSIDE##0
+222900##Dead Island: Epidemic##0
+319150##Hazard Ops##0
+305620##The Long Dark##0
+282070##This War of Mine##0
+343710##KHOLAT##0
+383870##Firewatch##0
+542970##True Sight: Episode 1##0
+542971##True Sight: Episode 2##0
+542972##True Sight: Episode 3##0
+542974##True Sight: The Kiev Major Grand Finals##0
+542975##True Sight: The International 2017##0
+563560##Alien Swarm: Reactive Drop##0
+770720##Hunt: Showdown (Test Server)##0
+386180##Crossout##0
+656070##Better Off Tread##0
+289690##Lara Croft and the Temple of Osiris##0
+@@REVIEW
+810800##Not Recommended
+712180##Recommended
+731490##Recommended
+740280##Recommended
+884660##Recommended
+857940##Recommended
+396710##Recommended
+711660##Recommended
+537800##Recommended
+657020##Recommended

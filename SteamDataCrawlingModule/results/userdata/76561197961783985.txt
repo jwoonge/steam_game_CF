@@ -1,0 +1,172 @@
+@@GAME
+730##Counter-Strike: Global Offensive##158992
+4000##Garry's Mod##55488
+240##Counter-Strike: Source##36413
+220200##Kerbal Space Program##26808
+33930##Arma 2: Operation Arrowhead##11189
+244210##Assetto Corsa##8702
+238960##Path of Exile##7807
+301520##Robocraft##7609
+393380##Squad##7115
+1280##Darkest Hour: Europe '44-'45##6951
+236390##War Thunder##6507
+227300##Euro Truck Simulator 2##5651
+293760##Automation - The Car Company Tycoon Game##5648
+35450##Rising Storm/Red Orchestra 2 Multiplayer##5504
+227940##Heroes & Generals##4852
+211##Source SDK##4775
+346110##ARK: Survival Evolved##4664
+737800##F1 2018##4498
+107410##Arma 3##4104
+515220##F1 2017##4103
+295110##Just Survive##3999
+516750##My Summer Car##3889
+221100##DayZ##3770
+244850##Space Engineers##3719
+281990##Stellaris##3023
+415200##Motorsport Manager##2806
+928600##F1 2019##2749
+378860##Project CARS 2##2717
+211500##RaceRoom Racing Experience ##2649
+284160##BeamNG.drive##2631
+359550##Tom Clancy's Rainbow Six Siege##2316
+252870##PULSAR: Lost Colony##2308
+8500##EVE Online##2300
+300##Day of Defeat: Source##2182
+9900##Star Trek Online##2141
+242860##Verdun##1991
+15320##IL-2 Sturmovik: 1946##1893
+239140##Dying Light##1834
+905370##Conqueror's Blade##1780
+499660##Medieval Kingdom Wars##1642
+361420##ASTRONEER##1594
+314160##Microsoft Flight Simulator X: Steam Edition##1564
+386180##Crossout##1506
+736220##Post Scriptum##1372
+219640##Chivalry: Medieval Warfare##1357
+237870##Planet Explorers##1309
+203290##America's Army: Proving Grounds##1265
+13140##America's Army 3##1193
+227180##Kingdom Wars##1083
+212740##TERA##1033
+447820##Day of Infamy##993
+17700##Insurgency: Modern Infantry Combat##987
+220##Half-Life 2##919
+503940##Railway Empire##918
+57690##Tropico 4##908
+1343400##RuneScape##854
+255710##Cities: Skylines##846
+273350##Evolve Stage 2##829
+1200##Red Orchestra: Ostfront 41-45##798
+313120##Stranded Deep##795
+99900##Spiral Knights##694
+433850##Z1 Battle Royale##644
+466560##Northgard##532
+231430##Company of Heroes 2##528
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##524
+500##Left 4 Dead##438
+319850##Bridge Constructor Medieval##422
+3010##Xpand Rally##417
+10##Counter-Strike##415
+271920##Worlds Adrift Island Creator##414
+386360##SMITE##384
+321040##DiRT 3 Complete Edition##373
+436150##Governor of Poker 3##253
+621060##PC Building Simulator##193
+1286830##STAR WARS™: The Old Republic™##191
+275850##No Man's Sky##155
+261430##AION Free-to-Play##153
+33910##Arma 2##144
+384180##Prominence Poker##138
+761890##Albion Online##134
+224600##Defiance##131
+440##Team Fortress 2##129
+589290##Holdfast: Nations At War##120
+34270##SEGA Mega Drive & Genesis Classics##111
+339280##Strife##92
+1128810##RISK: Global Domination##84
+764050##Maelstrom##78
+282440##Quake Live##67
+1258080##Shop Titans##66
+4230##Race: The WTCC Game##63
+714010##Aim Lab##63
+444090##Paladins##62
+11020##TrackMania Nations Forever##60
+300080##Total War Battles: KINGDOM##56
+30##Day of Defeat##51
+304930##Unturned##51
+225840##Sven Co-op##46
+324810##TOXIKK##44
+224420##Afterfall InSanity Extended Edition##38
+273110##Counter-Strike Nexon: Studio##36
+280##Half-Life: Source##31
+312530##Duck Game##31
+436110##Medusa's Labyrinth##30
+560380##MapleStory 2##29
+70##Half-Life##27
+8600##RACE 07##27
+392060##BattleSouls##23
+805550##Assetto Corsa Competizione##20
+203770##Crusader Kings II##20
+805850##Wrecked##18
+3000##GTI Racing##17
+7510##X-Blades##17
+244930##SNOW##17
+310380##Fractured Space##17
+784950##Conflict of Nations: World War 3##14
+91700##E.Y.E: Divine Cybermancy##13
+22300##Fallout 3##11
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##11
+109600##Neverwinter##11
+530700##Argo##11
+380600##Fishing Planet##10
+380770##Wind of Luck: Arena##10
+340##Half-Life 2: Lost Coast##9
+212070##Star Conflict##9
+251950##World War II Online##9
+512470##The Pirate: Caribbean Hunt##8
+495580##Divided We Fall##4
+253710##theHunter Classic##3
+404410##Endless Sky##3
+479130##ESEA##3
+218620##PAYDAY 2##2
+214420##Gear Up##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+360##Half-Life Deathmatch: Source##0
+1002##Rag Doll Kung Fu##0
+1230##Mare Nostrum##0
+2990##FlatOut 2##0
+6220##FlatOut##0
+6870##Battlestations: Midway##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+205790##Dota 2 Test##0
+230410##Warframe##0
+286570##F1 2015##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+8660##GTR Evolution##0
+337950##The SKIES##0
+407530##ARK: Survival Of The Fittest##0
+858460##SMITE - Public Test##0
+774941##Squad - Public Testing##0
+407250##Pro Evolution Soccer 2016 myClub##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+596350##Paladins - Public Test##0
+766570##Russian Fishing 4##0
+4560##Company of Heroes - Legacy Edition##0
+228200##Company of Heroes ##0
+99300##Renegade Ops##0
+1206240##Talvisota - Winter War##0
+@@REVIEW
+220200##Recommended
+516750##Recommended
+301520##Recommended
+221100##Recommended

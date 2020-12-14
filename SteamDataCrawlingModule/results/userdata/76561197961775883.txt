@@ -1,0 +1,298 @@
+@@GAME
+252490##Rust##54341
+730##Counter-Strike: Global Offensive##44112
+105600##Terraria##9523
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##5520
+359550##Tom Clancy's Rainbow Six Siege##3357
+304930##Unturned##2370
+314970##Age of Conquest IV##882
+299360##Block N Load##817
+215280##Secret World Legends##392
+389730##TEKKEN 7##338
+440##Team Fortress 2##253
+323370##TERA##190
+945360##Among Us##187
+369200##Ghost in the Shell: Stand Alone Complex - First Assault Online##156
+714010##Aim Lab##148
+268420##Aura Kingdom##128
+243870##Tom Clancy's Ghost Recon Phantoms - NA##112
+431240##Golf With Your Friends##109
+700580##Rust - Staging Branch##97
+360380##Tiny Bridge: Ratventure##94
+240##Counter-Strike: Source##87
+299740##Miscreated##68
+261570##Ori and the Blind Forest##67
+252950##Rocket League##66
+287920##Mortal Online##63
+563560##Alien Swarm: Reactive Drop##62
+363970##Clicker Heroes##59
+555570##Infestation: The New Z##54
+30##Day of Defeat##47
+339610##FreeStyle 2: Street Basketball##46
+322330##Don't Starve Together##45
+204300##Awesomenauts##44
+630##Alien Swarm##43
+385770##Time Clickers##40
+3590##Plants vs. Zombies: Game of the Year##34
+10##Counter-Strike##33
+236110##Dungeon Defenders II##33
+1250##Killing Floor##32
+333930##Dirty Bomb##32
+570##Dota 2##32
+214560##Mark of the Ninja##31
+362070##Metal Reaper Online##31
+312280##Simply Chess##29
+434110##Premium Pool##29
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##29
+1057240##Crucible##29
+356330##Dragomon Hunter##28
+250420##8BitMMO##27
+305620##The Long Dark##27
+102700##A.V.A. Alliance of Valiant Arms™##25
+757240##Aimtastic##25
+223710##Cry of Fear##22
+234330##Marvel Puzzle Quest##20
+537180##Digimon Masters Online##20
+707010##Will To Live Online##20
+290140##Echo of Soul##19
+589870##Learn to Fly 3##19
+667890##Dead Maze##18
+222900##Dead Island: Epidemic##17
+349700##Aftermath##14
+237870##Planet Explorers##14
+317470##Cubic Castles##13
+550650##Black Squad##13
+206210##Gotham City Impostors: Free To Play##12
+257510##The Talos Principle##12
+355180##Codename CURE##12
+302590##Of Guards And Thieves##11
+332070##School of Dragons: How to Train Your Dragon##10
+355840##Survarium##10
+286940##S.K.I.L.L. - Special Force 2##9
+291550##Brawlhalla##9
+216150##MapleStory##7
+302380##Floating Point##7
+244630##NEOTOKYO°##7
+402890##Nyctophilia##7
+280790##Creativerse##7
+482920##Hero Zero##7
+659630##Tiny Toyfare##7
+380840##Teeworlds##6
+384980##Battle for Blood - Epic battles within 30 seconds!##6
+424280##Iron Snout##6
+230410##Warframe##5
+202090##Magicka: Wizard Wars##5
+248820##Risk of Rain##5
+381560##Epic Cards Battle(TCG)##5
+404480##SC2VN - The eSports Visual Novel##5
+466910##Worm.is: The Game##5
+231060##Ragnarok Online 2##4
+273110##Counter-Strike Nexon: Studio##4
+369400##Let the Cat In##4
+351490##Intergalactic Bubbles##4
+513450##Drop Alive##4
+262410##World of Guns: Gun Disassembly##3
+263540##Villagers and Heroes##3
+357480##Frozen Free Fall: Snowball Fight##3
+362400##Regimental Chess##3
+413690##Pirates: Treasure Hunters##3
+92100##DETOUR##3
+688430##Duel of Summoners : The Mabinogi Trading Card Game##3
+265630##Fistful of Frags##2
+239220##The Mighty Quest For Epic Loot##2
+304050##Trove##2
+356130##Heroes of Scene##2
+375950##Viridi##2
+387450##Shadow of Kingdoms##2
+370510##Marble Mayhem: Fragile Ball##2
+554640##拯救大魔王2 Rescue the Great Demon 2##2
+564710##Soda Dungeon##2
+17080##Tribes: Ascend##1
+109400##MicroVolts Surge##1
+212200##Mabinogi##1
+218230##PlanetSide 2##1
+238070##Shadow Warrior Classic (1997)##1
+239660##Soldier Front 2##1
+271290##HAWKEN##1
+298030##Total Annihilation##1
+224600##Defiance##1
+269910##Xam##1
+315640##Dizzel##1
+258160##Rise of Incarnates##1
+345520##Infinite Crisis™##1
+352160##Curse of Mermos##1
+373330##All Is Dust##1
+383080##Sakura Clicker##1
+386360##SMITE##1
+449040##Jesus Christ RPG Trilogy##1
+450390##The Lab##1
+461560##Mandagon##1
+474030##The Abbey of Crime Extensum##1
+518660##Zone4##1
+534500##Tiger Knight: Empire War##1
+536930##MOBIUS FINAL FANTASY##1
+8500##EVE Online##1
+434510##Formicide##1
+433850##Z1 Battle Royale##1
+24200##DC Universe Online##1
+1104640##New Frontier##1
+1085660##Destiny 2##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+4000##Garry's Mod##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+209080##Guns of Icarus Online##0
+11610##Dragon Nest##0
+113420##Fallen Earth##0
+200210##Realm of the Mad God Exalt##0
+203290##America's Army: Proving Grounds##0
+207230##Archeblade##0
+212070##Star Conflict##0
+212160##Vindictus##0
+1083500##PlanetSide 2 - Test##0
+236390##War Thunder##0
+238960##Path of Exile##0
+263500##Dragons and Titans##0
+39120##RIFT##0
+214420##Gear Up##0
+215100##Ragnarok##0
+237310##Elsword##0
+206500##AirMech Strike##0
+224260##No More Room in Hell##0
+246280##Happy Wars##0
+860950##Mark of the Ninja: Remastered##0
+245280##ENSLAVED™: Odyssey to the West™ Premium Edition##0
+263980##Out There Somewhere##0
+291410##Duelyst##0
+912290##Miscreated: Experimental Server##0
+299950##GET EVEN##0
+301520##Robocraft##0
+304030##ArcheAge##0
+227700##Firefall##0
+310370##The Way of Life Free Edition##0
+291480##Warface##0
+215080##WAKFU##0
+227940##Heroes & Generals##0
+247080##Crypt of the NecroDancer##0
+200110##Nosgoth##0
+205790##Dota 2 Test##0
+312150##Wild Warfare##0
+327690##Gigantic##0
+335240##Transformice##0
+342150##Games of Glory##0
+342200##MechWarrior Online##0
+346120##Boring Man - Online Tactical Stickman Combat##0
+339280##Strife##0
+354290##LoveBeat##0
+356670##Spooky's Jump Scare Mansion##0
+361630##404Sight##0
+368750##Nebula Online##0
+219740##Don't Starve##0
+372540##The Lost Mythologies##0
+376570##WildStar##0
+341940##Hatred##0
+381990##Dragon Saga##0
+385890##Golden Rush##0
+858460##SMITE - Public Test##0
+389430##Knight Online##0
+389570##Mitos.is: The Game##0
+397100##MachineCraft##0
+411560##Reveal The Deep##0
+413170##Metal Assault##0
+421040##Plantera##0
+421670##CUPID - A free to play Visual Novel##0
+429180##Project CARS - Pagani Edition##0
+429660##Tales of Berseria##0
+436820##Waltz of the Wizard##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+444640##Bloons TD Battles##0
+446270##UnnyWorld##0
+449020##The Bottom of the Well##0
+453480##Shadowverse##0
+453890##Black Rose##0
+455400##PAC-MAN 256##0
+310380##Fractured Space##0
+461750##Ghoul Kid##0
+467360##Off-Peak##0
+471710##Rec Room##0
+345390##King's Quest##0
+488440##Angeldust##0
+495910##Dungeon Fighter Online##0
+442080##Riders of Icarus##0
+319630##Life is Strange™##0
+402570##Atlas Reactor##0
+510050##You Have 10 Seconds##0
+513560##Hunger Dungeon##0
+516510##Orake Classic##0
+521200##Epic Battle Fantasy 3##0
+525480##.hack//G.U. Last Recode##0
+525780##Doorways: Old Prototype##0
+324810##TOXIKK##0
+529110##Awkward Dimensions Redux##0
+530700##Argo##0
+531640##Eternal Card Game##0
+533780##Zombie Defense##0
+542310##Escape the Game##0
+542560##Astro Boy: Edge of Time##0
+550040##Steep Open Beta##0
+552990##World of Warships##0
+348860##MyDream##0
+444200##World of Tanks Blitz##0
+558100##Art of War: Red Tides##0
+252850##Streamline##0
+560380##MapleStory 2##0
+402560##Tabletopia##0
+562590##Galactic Junk League##0
+578310##BRAIN / OUT##0
+582500##We Were Here##0
+586030##Shardbound##0
+588430##Fallout Shelter##0
+601510##Yu-Gi-Oh! Duel Links##0
+622380##RETNE##0
+626680##Kreedz Climbing##0
+627690##Idle Champions of the Forgotten Realms##0
+630100##SoulWorker##0
+636040##Pixel Worlds##0
+639650##1982##0
+643270##OLDTV##0
+386180##Crossout##0
+665490##The Monster Inside##0
+668770##Solarium##0
+669580##The Ultimatest Battle##0
+678800##SAS: Zombie Assault 4##0
+323580##Jotun: Valhalla Edition##0
+233130##Shadow Warrior##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+466240##Deceit##0
+755790##Ring of Elysium##0
+773920##scram##0
+799960##Wizard101##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+439700##H1Z1: Test Server##0
+848350##Katamari Damacy REROLL##0
+611500##Quake Champions##0
+884660##CRSED##0
+63500##Swords and Soldiers HD##0
+939850##The Dark Pictures Anthology: Man of Medan##0
+96000##The Tiny Bang Story##0
+965200##Walking Zombie 2##0
+999860##Enemy On Board##0
+1012730##九劫曲:诅咒之地 Nine Trials Test Server##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+761890##Albion Online##0
+722560##RAD##0
+1128810##RISK: Global Domination##0
+1209040##Cyber Hunter##0
+1210250##Island Saver##0
+1281930##tModLoader##0
+1343400##RuneScape##0
+@@REVIEW

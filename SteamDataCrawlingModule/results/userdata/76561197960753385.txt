@@ -1,0 +1,100 @@
+@@GAME
+10##Counter-Strike##75118
+730##Counter-Strike: Global Offensive##32140
+221100##DayZ##17917
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##17333
+1046930##Dota Underlords##7284
+500##Left 4 Dead##6999
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##6949
+570##Dota 2##3642
+30##Day of Defeat##3394
+55230##Saints Row: The Third##3329
+271590##Grand Theft Auto V##3175
+550##Left 4 Dead 2##2787
+236390##War Thunder##1658
+1250##Killing Floor##1535
+10180##Call of Duty: Modern Warfare 2##1316
+440##Team Fortress 2##1306
+220##Half-Life 2##1179
+359550##Tom Clancy's Rainbow Six Siege##1010
+213670##South Park™: The Stick of Truth™##653
+8870##BioShock Infinite##639
+476600##Call of Duty: WWII##610
+15620##Warhammer 40,000: Dawn of War II##584
+232090##Killing Floor 2##581
+21100##F.E.A.R. 3##403
+32800##The Lord of the Rings: War in the North##388
+476620##Call of Duty: WWII - Multiplayer##332
+35140##Batman: Arkham Asylum GOTY Edition##292
+380##Half-Life 2: Episode One##236
+251570##7 Days to Die##219
+4000##Garry's Mod##218
+240##Counter-Strike: Source##196
+976730##Halo: The Master Chief Collection##163
+200710##Torchlight II##161
+4560##Company of Heroes - Legacy Edition##135
+56400##Warhammer 40,000: Dawn of War II - Retribution##135
+420##Half-Life 2: Episode Two##125
+433850##Z1 Battle Royale##114
+55100##Homefront##113
+43110##Metro 2033##106
+291550##Brawlhalla##100
+9480##Saints Row 2##79
+630##Alien Swarm##71
+55150##Warhammer 40,000: Space Marine##70
+55140##MX vs. ATV Reflex##49
+200110##Nosgoth##48
+346330##BrainBread 2##47
+400##Portal##46
+16450##F.E.A.R. 2: Project Origin##29
+613880##Zoo Tycoon##21
+8850##BioShock 2##18
+207140##SpeedRunners##12
+203140##Hitman: Absolution##5
+9340##Company of Heroes: Opposing Fronts##3
+20900##The Witcher: Enhanced Edition##2
+8190##Just Cause 2##2
+6840##Commandos 3: Destination Berlin##1
+20570##Warhammer 40,000: Dawn of War II - Chaos Rising##1
+7670##BioShock##1
+409710##BioShock Remastered##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##0
+360##Half-Life Deathmatch: Source##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+6800##Commandos: Behind Enemy Lines##0
+6810##Commandos: Beyond the Call of Duty##0
+6830##Commandos 2: Men of Courage##0
+92800##SpaceChem##0
+205790##Dota 2 Test##0
+6850##Hitman 2: Silent Assassin##0
+4540##Titan Quest##0
+4550##Titan Quest: Immortal Throne##0
+9350##Supreme Commander##0
+9420##Supreme Commander: Forged Alliance##0
+20530##Red Faction##0
+20550##Red Faction II##0
+50620##Darksiders##0
+50650##Darksiders II##0
+55110##Red Faction: Armageddon##0
+96800##Nexuiz##0
+216370##Nexuiz Beta##0
+225760##Nexuiz STUPID Mode##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+475150##Titan Quest Anniversary Edition##0
+409720##BioShock 2 Remastered##0
+222900##Dead Island: Epidemic##0
+232150##Killing Floor 2 - SDK##0
+439700##H1Z1: Test Server##0
+623990##Tom Clancy's Rainbow Six Siege - Test Server##0
+@@REVIEW

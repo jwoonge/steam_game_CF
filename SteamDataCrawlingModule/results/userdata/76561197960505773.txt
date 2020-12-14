@@ -1,0 +1,104 @@
+@@GAME
+570##Dota 2##89677
+218230##PlanetSide 2##54806
+730##Counter-Strike: Global Offensive##40738
+238960##Path of Exile##38954
+203770##Crusader Kings II##27254
+236850##Europa Universalis IV##22100
+8930##Sid Meier's Civilization V##12975
+435150##Divinity: Original Sin 2##9415
+289070##Sid Meier's Civilization VI##6617
+72850##The Elder Scrolls V: Skyrim##5807
+221100##DayZ##5494
+200710##Torchlight II##5031
+373420##Divinity: Original Sin Enhanced Edition##4444
+255710##Cities: Skylines##4368
+447820##Day of Infamy##4107
+227300##Euro Truck Simulator 2##4100
+107410##Arma 3##3975
+572410##Steel Division: Normandy 44##2885
+240760##Wasteland 2##2383
+268500##XCOM 2##2349
+581320##Insurgency: Sandstorm##2012
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##1202
+231430##Company of Heroes 2##1007
+241930##Middle-earth™: Shadow of Mordor™##991
+222880##Insurgency##941
+270880##American Truck Simulator##832
+220260##Farming Simulator 2013##785
+203140##Hitman: Absolution##756
+254980##Silent Storm Sentinels##538
+50130##Mafia II (Classic)##440
+239140##Dying Light##407
+238090##Sniper Elite 3##397
+205100##Dishonored##394
+105400##Fable III##371
+221380##Age of Empires II (2013)##357
+307670##Hard West##328
+282070##This War of Mine##311
+231670##Football Manager 2014##305
+242920##Banished##291
+200510##XCOM: Enemy Unknown##259
+246620##Plague Inc: Evolved##224
+219640##Chivalry: Medieval Warfare##202
+418240##Shadow Tactics: Blades of the Shogun##173
+10##Counter-Strike##140
+241540##State of Decay##90
+365450##Hacknet##69
+675010##MudRunner##52
+265930##Goat Simulator##47
+50300##Spec Ops: The Line##44
+21910##World in Conflict: Soviet Assault##39
+233720##Surgeon Simulator##22
+35450##Rising Storm/Red Orchestra 2 Multiplayer##19
+22380##Fallout: New Vegas##17
+203160##Tomb Raider##17
+42960##Victoria II##3
+65930##The Bureau: XCOM Declassified##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+21760##World in Conflict##0
+1030830##Mafia II: Definitive Edition##0
+41500##Torchlight##0
+1083500##PlanetSide 2 - Test##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+242460##Football Manager 2014 Editor##0
+242480##Football Manager 2014 Resource Archiver##0
+254960##Silent Storm##0
+225200##Farming Simulator 2013 - Modding Tutorials##0
+263280##Spintires®##0
+367690##Spintires® - Editor##0
+205930##Hitman: Sniper Challenge##0
+259130##Wasteland 1 - The Original Classic##0
+404730##Wasteland 2: Director's Cut##0
+227940##Heroes & Generals##0
+321040##DiRT 3 Complete Edition##0
+365720##Skyrim Script Extender (SKSE)##0
+230230##Divinity: Original Sin (Classic)##0
+42980##Victoria: Revolutions##0
+544940##Arma 3 Community Guide Series##0
+553220##Arma 3 Community Guide Series: Introduction##0
+553221##Arma 3 Community Guide Series: Basic Infantry Combat##0
+553222##Arma 3 Community Guide Series: MP Teamwork##0
+553223##Arma 3 Community Guide Series: Helicopters##0
+553224##Arma 3 Community Guide Series: Snipers & Launchers##0
+553225##Arma 3 Community Guide Series: Combined Arms##0
+553226##Arma 3 Community Guide Series: Air Assault##0
+553227##Arma 3 Community Guide Series: Guerrilla Warfare##0
+553228##Arma 3 Community Guide Series: Zeus DLC##0
+553229##Arma 3 Community Guide Series: Ground Vehicle Crew##0
+553230##Arma 3 Community Guide Series: Machine Gun Teams##0
+553231##Arma 3 Community Guide Series: Defense##0
+553232##Arma 3 Community Guide Series: Reconnaissance##0
+716550##Arma 3 Community Guide Series: Jets##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+987350##PlanetSide Arena##0
+@@REVIEW

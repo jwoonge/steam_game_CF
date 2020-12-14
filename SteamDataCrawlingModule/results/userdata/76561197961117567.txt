@@ -1,0 +1,88 @@
+@@GAME
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##82974
+493370##Ragnarok Clicker##26321
+224580##Arma 2: DayZ Mod##18127
+251570##7 Days to Die##17695
+211820##Starbound##7909
+271590##Grand Theft Auto V##5004
+252490##Rust##4302
+221100##DayZ##2553
+33930##Arma 2: Operation Arrowhead##2382
+240##Counter-Strike: Source##1799
+8190##Just Cause 2##1699
+10##Counter-Strike##1096
+413150##Stardew Valley##906
+223100##Homefront: The Revolution##777
+648800##Raft##753
+259080##Just Cause 2: Multiplayer Mod##654
+105600##Terraria##460
+242760##The Forest##456
+292030##The Witcher 3: Wild Hunt##335
+433850##Z1 Battle Royale##285
+550##Left 4 Dead 2##225
+730##Counter-Strike: Global Offensive##214
+322330##Don't Starve Together##183
+570##Dota 2##171
+329430##State of Decay: Year-One##133
+513710##SCUM##128
+228280##Baldur's Gate: Enhanced Edition##125
+360430##Mafia III: Definitive Edition##114
+299740##Miscreated##103
+402840##Crusaders of the Lost Idols##96
+242920##Banished##62
+215930##Jagged Alliance 2 - Wildfire ##60
+346110##ARK: Survival Evolved##59
+529180##Dark and Light##59
+340050##Survivalist##57
+33900##Arma 2##31
+399790##Destiny Warriors##29
+815370##Green Hell##20
+360170##How to Survive 2##16
+429660##Tales of Berseria##13
+20900##The Witcher: Enhanced Edition##5
+70##Half-Life##3
+613830##CHRONO TRIGGER##3
+65720##Arma 2: Private Military Company##2
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##2
+65700##Arma 2: British Armed Forces##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+20920##The Witcher 2: Assassins of Kings Enhanced Edition##0
+205790##Dota 2 Test##0
+238960##Path of Exile##0
+700580##Rust - Staging Branch##0
+49520##Borderlands 2##0
+259300##Earth 2150: Lost Souls##0
+265690##NaissanceE##0
+367540##Starbound - Unstable##0
+222880##Insurgency##0
+912290##Miscreated: Experimental Server##0
+222900##Dead Island: Epidemic##0
+305620##The Long Dark##0
+407530##ARK: Survival Of The Fittest##0
+360150##How To Survive Third Person##0
+381870##Koala Kids##0
+391260##Labyronia RPG##0
+397500##Labyronia RPG 2##0
+398960##Hoven the Sages Spinel##0
+234140##Mad Max##0
+407230##Legend of Mysteria##0
+428430##Endorlight##0
+439700##H1Z1: Test Server##0
+434420##The Chosen RPG##0
+434960##Rolling Gauntlet##0
+434410##Moonlight##0
+461640##Sins Of The Demon RPG##0
+463350##Storm of Spears##0
+475150##Titan Quest Anniversary Edition##0
+510630##Soccer Manager 2017##0
+914620##Mist Survival##0
+310560##DiRT Rally##0
+@@REVIEW
+413150##Recommended
+578080##Not Recommended
+251570##Recommended

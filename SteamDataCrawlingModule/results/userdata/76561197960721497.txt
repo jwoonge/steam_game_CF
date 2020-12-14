@@ -1,0 +1,87 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+500##Left 4 Dead##0
+8140##Tomb Raider: Underworld##0
+10180##Call of Duty: Modern Warfare 2##0
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##0
+550##Left 4 Dead 2##0
+18820##Zero Gear##0
+42700##Call of Duty: Black Ops##0
+42710##Call of Duty: Black Ops - Multiplayer##0
+47870##Need for Speed: Hot Pursuit##0
+55100##Homefront##0
+400##Portal##0
+620##Portal 2##0
+24240##PAYDAY: The Heist##0
+42680##Call of Duty: Modern Warfare 3##0
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##0
+205790##Dota 2 Test##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+730##Counter-Strike: Global Offensive##0
+207210##Tony Hawk's Pro Skater HD##0
+49520##Borderlands 2##0
+203680##F1 Race Stars##0
+223470##POSTAL 2##0
+211500##RaceRoom Racing Experience ##0
+238260##Pinball Arcade##0
+203160##Tomb Raider##0
+221380##Age of Empires II (2013)##0
+218620##PAYDAY 2##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+252950##Rocket League##0
+242050##Assassin's Creed IV Black Flag##0
+260430##The Four Kings Casino and Slots##0
+254440##Pool Nation##0
+271590##Grand Theft Auto V##0
+222880##Insurgency##0
+282440##Quake Live##0
+292030##The Witcher 3: Wild Hunt##0
+313160##Farming Simulator 15##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+370240##NBA 2K16##0
+380600##Fishing Planet##0
+384180##Prominence Poker##0
+391040##F1 2016##0
+368500##Assassin's Creed Syndicate##0
+431240##Golf With Your Friends##0
+391220##Rise of the Tomb Raider##0
+264120##Victory: The Age of Racing##0
+466910##Worm.is: The Game##0
+385760##NBA 2K17##0
+460930##Tom Clancy's Ghost Recon® Wildlands##0
+479130##ESEA##0
+513650##Zula Europe##0
+521340##True or False##0
+550650##Black Squad##0
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##0
+579010##goalunited PRO##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+601510##Yu-Gi-Oh! Duel Links##0
+755790##Ring of Elysium##0
+775900##MotoGP™18##0
+750920##Shadow of the Tomb Raider##0
+880940##Pummel Party##0
+787860##Farming Simulator 19##0
+945360##Among Us##0
+969680##Steel Circus##0
+489520##Minion Masters##0
+1085660##Destiny 2##0
+1213210##Command & Conquer™ Remastered Collection##0
+@@REVIEW
+730##Not Recommended

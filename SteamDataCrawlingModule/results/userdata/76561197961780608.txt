@@ -1,0 +1,97 @@
+@@GAME
+252490##Rust##161039
+730##Counter-Strike: Global Offensive##106763
+251570##7 Days to Die##30346
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##16600
+261550##Mount & Blade II: Bannerlord##7871
+570##Dota 2##5965
+281990##Stellaris##5020
+344760##Reign Of Kings##2627
+427520##Factorio##2569
+264710##Subnautica##2555
+219990##Grim Dawn##2509
+526870##Satisfactory##2402
+629760##MORDHAU##2232
+644930##They Are Billions##1963
+504370##Battlerite##1952
+242760##The Forest##1925
+1086940##Baldur's Gate 3##1338
+48700##Mount & Blade: Warband##1279
+271590##Grand Theft Auto V##1142
+817540##SpellForce 3: Soul Harvest##1040
+10##Counter-Strike##840
+221380##Age of Empires II (2013)##726
+552500##Warhammer: Vermintide 2##723
+204300##Awesomenauts##610
+611500##Quake Champions##501
+282660##Easy eSports##478
+244850##Space Engineers##469
+848450##Subnautica: Below Zero##444
+440900##Conan Exiles##392
+379720##DOOM##334
+322330##Don't Starve Together##321
+255710##Cities: Skylines##268
+232090##Killing Floor 2##259
+235340##Prime World##203
+265210##Viscera Cleanup Detail: Santa's Rampage##173
+102700##A.V.A. Alliance of Valiant Arms™##170
+413150##Stardew Valley##143
+582500##We Were Here##139
+548430##Deep Rock Galactic##126
+108600##Project Zomboid##107
+294100##RimWorld##102
+230860##Cannon Brawl##101
+433850##Z1 Battle Royale##95
+4870##Cossacks: Art of War##90
+589870##Learn to Fly 3##88
+240380##Solstice Arena##78
+299740##Miscreated##64
+238960##Path of Exile##56
+319510##Five Nights at Freddy's##55
+48720##Mount & Blade: With Fire and Sword##53
+223710##Cry of Fear##32
+346110##ARK: Survival Evolved##27
+962130##Grounded##22
+416680##Zombie Night Terror##20
+254200##FortressCraft Evolved##14
+418240##Shadow Tactics: Blades of the Shogun##14
+487120##Citadel: Forged With Fire##14
+6020##STAR WARS™ Jedi Knight: Jedi Academy™##10
+4890##Cossacks II: Battle for Europe##9
+242920##Banished##8
+22100##Mount & Blade##6
+115220##American Conquest - Fight Back##4
+218230##PlanetSide 2##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+620##Portal 2##0
+4850##Cossacks: Back to War##0
+4880##Cossacks: European Wars##0
+115200##Cossacks II: Napoleonic Wars##0
+115210##American Conquest##0
+1083500##PlanetSide 2 - Test##0
+230410##Warframe##0
+700580##Rust - Staging Branch##0
+912290##Miscreated: Experimental Server##0
+205790##Dota 2 Test##0
+329110##Gems of War##0
+407530##ARK: Survival Of The Fittest##0
+232150##Killing Floor 2 - SDK##0
+439700##H1Z1: Test Server##0
+931180##Conan Exiles - Testlive Client##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+427460##Battlerite Public Test##0
+755790##Ring of Elysium##0
+1416260##SpellForce 3: Versus Edition##0
+914620##Mist Survival##0
+226840##Age of Wonders III##0
+38400##Fallout##0
+38410##Fallout 2##0
+38420##Fallout Tactics##0
+1151340##Fallout 76##0
+@@REVIEW

@@ -1,0 +1,219 @@
+@@GAME
+440##Team Fortress 2##196392
+730##Counter-Strike: Global Offensive##128328
+365590##Tom Clancy's The Division##79183
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##62099
+218620##PAYDAY 2##41217
+232090##Killing Floor 2##7909
+460930##Tom Clancy's Ghost Recon® Wildlands##7689
+42710##Call of Duty: Black Ops - Multiplayer##7390
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##6542
+550##Left 4 Dead 2##6345
+275850##No Man's Sky##6130
+209660##Call of Duty: Advanced Warfare - Multiplayer##5498
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##5274
+292120##FINAL FANTASY XIII##5127
+570##Dota 2##4594
+222880##Insurgency##3904
+500##Left 4 Dead##3580
+424370##Wolcen: Lords of Mayhem##3548
+377160##Fallout 4##3470
+42680##Call of Duty: Modern Warfare 3##3362
+39140##FINAL FANTASY VII##3322
+219990##Grim Dawn##3173
+250820##SteamVR##3056
+1091500##Cyberpunk 2077##3047
+513710##SCUM##2801
+10180##Call of Duty: Modern Warfare 2##2653
+292730##Call of Duty: Infinite Warfare##2636
+620##Portal 2##2530
+895400##Deadside##2428
+252490##Rust##2322
+289650##Assassin's Creed Unity##2115
+552500##Warhammer: Vermintide 2##2068
+493520##GTFO##1873
+719040##Wasteland 3##1758
+594650##Hunt: Showdown##1723
+582010##Monster Hunter: World##1681
+637650##FINAL FANTASY XV WINDOWS EDITION##1670
+1085660##Destiny 2##1544
+42700##Call of Duty: Black Ops##1275
+812140##Assassin's Creed Odyssey##1272
+256290##Child of Light##1144
+581320##Insurgency: Sandstorm##1128
+1030840##Mafia: Definitive Edition##1046
+10##Counter-Strike##1001
+240##Counter-Strike: Source##966
+211820##Starbound##966
+433850##Z1 Battle Royale##872
+239140##Dying Light##849
+552520##Far Cry 5##842
+202970##Call of Duty: Black Ops II##839
+202990##Call of Duty: Black Ops II - Multiplayer##791
+630##Alien Swarm##774
+21100##F.E.A.R. 3##767
+524440##Tom Clancy's The Division PTS##749
+434650##Lost Castle##708
+644930##They Are Billions##701
+379720##DOOM##693
+393380##Squad##689
+798490##Othercide##685
+209650##Call of Duty: Advanced Warfare##660
+393100##Call of Duty: Modern Warfare Remastered - Multiplayer##642
+317400##Portal Stories: Mel##622
+546560##Half-Life: Alyx##618
+252950##Rocket League##610
+50##Half-Life: Opposing Force##562
+548570##RAGE 2##534
+17520##Synergy##518
+1190460##DEATH STRANDING##501
+262060##Darkest Dungeon®##482
+1097150##Fall Guys: Ultimate Knockout##478
+39210##FINAL FANTASY XIV Online##445
+393080##Call of Duty: Modern Warfare Remastered##384
+323190##Frostpunk##380
+4000##Garry's Mod##370
+443810##This Is the Police##367
+477160##Human: Fall Flat##365
+760060##Mutant Year Zero: Road to Eden##364
+220##Half-Life 2##359
+686810##Hell Let Loose##357
+49520##Borderlands 2##337
+1015140##10 Miles To Safety##334
+638970##Yakuza 0##307
+420##Half-Life 2: Episode Two##302
+1239080##Door Kickers 2##280
+208090##Loadout##270
+208200##DOOM 3: BFG Edition##254
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##240
+225840##Sven Co-op##226
+362890##Black Mesa##217
+346010##Besiege##209
+677620##Splitgate: Arena Warfare##209
+4920##Natural Selection 2##206
+63380##Sniper Elite V2##205
+782330##DOOM Eternal##198
+333930##Dirty Bomb##197
+130##Half-Life: Blue Shift##196
+380##Half-Life 2: Episode One##183
+224260##No More Room in Hell##182
+286080##Thinking with Time Machine##156
+524220##NieR:Automata™##147
+435150##Divinity: Original Sin 2##146
+282070##This War of Mine##144
+865980##BOSSGARD##137
+291480##Warface##123
+42910##Magicka##118
+559100##Phantom Doctrine##110
+374280##Hired Ops##105
+400##Portal##98
+233450##Prison Architect##96
+449960##Book of Demons##87
+17700##Insurgency: Modern Infantry Combat##87
+823500##BONEWORKS##81
+238370##Magicka 2##77
+342180##Arizona Sunshine##75
+341800##Keep Talking and Nobody Explodes##68
+15120##Tom Clancy's Rainbow Six: Vegas 2##66
+292140##FINAL FANTASY XIII-2##65
+1056640##Phantasy Star Online 2##64
+100##Counter-Strike: Condition Zero Deleted Scenes##57
+563560##Alien Swarm: Reactive Drop##55
+824270##KovaaK 2.0##49
+282440##Quake Live##48
+1359090##Zero Hour##46
+113020##Monaco##41
+480490##Prey##40
+35450##Rising Storm/Red Orchestra 2 Multiplayer##39
+1079800##Pistol Whip##34
+418650##Space Pirate Trainer##28
+409160##Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist##26
+518030##Aim Hero##26
+382110##Virtual Desktop##25
+927380##Yakuza Kiwami 2##22
+743090##Defiance 2050##21
+450390##The Lab##20
+80##Counter-Strike: Condition Zero##18
+868020##Aperture Hand Lab##12
+1139900##Ghostrunner##11
+413150##Stardew Valley##10
+304930##Unturned##8
+230410##Warframe##7
+611500##Quake Champions##7
+22650##Alien Breed 2: Assault##5
+268500##XCOM 2##4
+1106850##Totally Reliable Delivery Service Beta##2
+60##Ricochet##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+70##Half-Life##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+1500##Darwinia##0
+360##Half-Life Deathmatch: Source##0
+1510##Uplink##0
+1520##DEFCON##0
+1530##Multiwinia##0
+205790##Dota 2 Test##0
+212910##Call of Duty: Black Ops II - Zombies##0
+206210##Gotham City Impostors: Free To Play##0
+218230##PlanetSide 2##0
+1083500##PlanetSide 2 - Test##0
+215100##Ragnarok##0
+42160##War of the Roses##0
+202090##Magicka: Wizard Wars##0
+238430##Contagion##0
+247580##Magicka: Wizards of the Square Tablet##0
+367540##Starbound - Unstable##0
+271590##Grand Theft Auto V##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+238460##BattleBlock Theater##0
+227940##Heroes & Generals##0
+24240##PAYDAY: The Heist##0
+339610##FreeStyle 2: Street Basketball##0
+261640##Borderlands: The Pre-Sequel##0
+232150##Killing Floor 2 - SDK##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+397080##Magicka 2: Spell Balance Beta##0
+350080##Wolfenstein: The Old Blood ##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+774941##Squad - Public Testing##0
+439700##H1Z1: Test Server##0
+438100##VRChat##0
+444090##Paladins##0
+596350##Paladins - Public Test##0
+457550##Bigscreen Beta##0
+471710##Rec Room##0
+475190##Scanner Sombre##0
+324810##TOXIKK##0
+550650##Black Squad##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+530700##Argo##0
+555160##Pavlov VR##0
+555880##Sairento VR##0
+770720##Hunt: Showdown (Test Server)##0
+219640##Chivalry: Medieval Warfare##0
+617830##SUPERHOT VR##0
+620980##Beat Saber##0
+700580##Rust - Staging Branch##0
+813820##Realm Royale##0
+878760##Realm Royale - Test Server##0
+823130##Totally Accurate Battlegrounds##0
+834530##Yakuza Kiwami##0
+846470##Moss##0
+911400##Assassin's Creed III Remastered##0
+908520##fpsVR##0
+962430##Warface - Free Anniversary Pack##0
+761890##Albion Online##0
+1148590##DOOM 64##0
+@@REVIEW
+379720##Recommended
+365590##Recommended
+289650##Not Recommended
+10180##Recommended
+440##Recommended
+218620##Recommended
+317400##Recommended
+209650##Recommended

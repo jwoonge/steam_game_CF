@@ -1,0 +1,150 @@
+@@GAME
+200510##XCOM: Enemy Unknown##45490
+268500##XCOM 2##22566
+730##Counter-Strike: Global Offensive##19453
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##18386
+2870##X Rebirth##9181
+49520##Borderlands 2##8030
+8930##Sid Meier's Civilization V##7895
+550##Left 4 Dead 2##7195
+214950##Total War: ROME II - Emperor Edition##6841
+34330##Total War: SHOGUN 2##6061
+306020##Bloons TD5##6003
+280220##Creeper World 3: Arc Eternal##4785
+10500##Total War: EMPIRE - Definitive Edition##4624
+201310##X3: Albion Prelude##3670
+105600##Terraria##3524
+48700##Mount & Blade: Warband##3410
+325610##Total War: ATTILA##3180
+392160##X4: Foundations##3075
+33910##Arma 2##3031
+2820##X3: Terran Conflict##2907
+241930##Middle-earth™: Shadow of Mordor™##2861
+9200##RAGE##2291
+33230##Assassin's Creed II##2188
+228200##Company of Heroes ##2162
+107410##Arma 3##2154
+620##Portal 2##2066
+242640##Styx: Master of Shadows##2061
+20510##S.T.A.L.K.E.R.: Clear Sky##1950
+48190##Assassin's Creed Brotherhood##1906
+243970##Invisible, Inc.##1709
+22600##Worms Reloaded##1650
+24790##Command and Conquer 3: Tiberium Wars##1628
+4500##S.T.A.L.K.E.R.: Shadow of Chernobyl##1623
+28050##Deus Ex: Human Revolution##1614
+48210##The Settlers 7: Paths to a Kingdom - Gold Edition##1528
+6860##Hitman: Blood Money##1517
+500##Left 4 Dead##1432
+201870##Assassin's Creed Revelations##1366
+65930##The Bureau: XCOM Declassified##1330
+289070##Sid Meier's Civilization VI##1286
+39190##Dungeon Siege##1240
+65740##Carrier Command: Gaea Mission##1238
+43110##Metro 2033##1002
+34030##Total War: NAPOLEON - Definitive Edition##985
+231430##Company of Heroes 2##963
+42890##Sword of the Stars Complete Collection##959
+70##Half-Life##951
+49470##Magic: The Gathering — Duels of the Planeswalkers 2012##928
+50300##Spec Ops: The Line##918
+266130##Breach & Clear##901
+409720##BioShock 2 Remastered##894
+8870##BioShock Infinite##847
+4560##Company of Heroes - Legacy Edition##825
+261640##Borderlands: The Pre-Sequel##777
+207610##The Walking Dead##744
+552500##Warhammer: Vermintide 2##728
+24240##PAYDAY: The Heist##693
+8140##Tomb Raider: Underworld##676
+238430##Contagion##607
+400##Portal##602
+64000##Men of War: Assault Squad##580
+50##Half-Life: Opposing Force##569
+7000##Tomb Raider: Legend##553
+19930##The Settlers: Rise of an Empire Gold Edition  ##530
+15120##Tom Clancy's Rainbow Six: Vegas 2##521
+7670##BioShock##468
+204530##Infested Planet##452
+6900##Hitman: Codename 47##446
+218620##PAYDAY 2##421
+240##Counter-Strike: Source##380
+40100##Supreme Commander 2##371
+811880##Close Combat: The Bloody First##369
+211400##Deadlight##341
+91310##Dead Island##332
+28000##Kane & Lynch 2: Dog Days##327
+201280##Deus Ex: Human Revolution - The Missing Link##304
+6910##Deus Ex: Game of the Year Edition##287
+205100##Dishonored##272
+289300##Faces of War##239
+2700##RollerCoaster Tycoon 3: Platinum!##223
+10##Counter-Strike##195
+57900##Duke Nukem Forever##165
+97330##Magic: The Gathering - Duels of the Planeswalkers 2013##162
+39200##Dungeon Siege 2##146
+8080##Kane & Lynch: Dead Men##117
+8850##BioShock 2##95
+6980##Thief: Deadly Shadows##73
+320##Half-Life 2: Deathmatch##70
+46290##Theatre of War##64
+39160##Dungeon Siege III##62
+34270##SEGA Mega Drive & Genesis Classics##62
+209100##Resident Evil: Operation Raccoon City##60
+714010##Aim Lab##57
+220##Half-Life 2##56
+7830##Men of War##52
+321410##Command: Modern Air / Naval Operations WOTY##50
+17520##Synergy##40
+223750##DCS World Steam Edition##38
+6850##Hitman 2: Silent Assassin##37
+204860##Men of War: Condemned Heroes##33
+130##Half-Life: Blue Shift##28
+380##Half-Life 2: Episode One##18
+7650##X-COM: Terror from the Deep##18
+30##Day of Defeat##16
+6920##Deus Ex: Invisible War##8
+8000##Tomb Raider: Anniversary##7
+6880##Just Cause##6
+3130##Men of War: Red Tide##3
+261030##The Walking Dead: Season Two##2
+340##Half-Life 2: Lost Coast##1
+420##Half-Life 2: Episode Two##1
+11480##Soldiers: Heroes of World War II##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+60##Ricochet##0
+300##Day of Defeat: Source##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+15100##Assassin's Creed##0
+22380##Fallout: New Vegas##0
+8190##Just Cause 2##0
+35130##Lara Croft and the Guardian of Light##0
+212680##FTL: Faster Than Light##0
+220240##Far Cry® 3##0
+208480##Assassin's Creed® III##0
+203160##Tomb Raider##0
+7660##X-COM: Apocalypse##0
+7730##X-COM: Interceptor##0
+7760##X-COM: UFO Defense##0
+7770##X-COM: Enforcer##0
+242050##Assassin's Creed IV Black Flag##0
+409710##BioShock Remastered##0
+282140##SOMA##0
+46340##Theatre of War 2: Africa 1943##0
+46360##Theatre of War 2: Kursk 1943 ##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+298110##Far Cry 4##0
+234140##Mad Max##0
+415800##X Rebirth: Home of Light##0
+418240##Shadow Tactics: Blades of the Shogun##0
+391220##Rise of the Tomb Raider##0
+364360##Total War: WARHAMMER##0
+552520##Far Cry 5##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+882100##XCOM: Chimera Squad##0
+@@REVIEW

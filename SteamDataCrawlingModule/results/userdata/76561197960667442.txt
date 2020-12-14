@@ -1,0 +1,176 @@
+@@GAME
+363970##Clicker Heroes##50608
+550##Left 4 Dead 2##21667
+730##Counter-Strike: Global Offensive##16480
+238960##Path of Exile##8873
+433850##Z1 Battle Royale##5718
+310700##Super Win the Game##4791
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##4468
+244210##Assetto Corsa##3370
+24960##Battlefield: Bad Company™ 2##2469
+233450##Prison Architect##2402
+295110##Just Survive##1508
+102600##Orcs Must Die!##1024
+10##Counter-Strike##681
+242760##The Forest##612
+236110##Dungeon Defenders II##606
+440##Team Fortress 2##598
+220240##Far Cry® 3##518
+220##Half-Life 2##484
+431960##Wallpaper Engine##479
+207140##SpeedRunners##419
+55040##Atom Zombie Smasher ##416
+240##Counter-Strike: Source##408
+313120##Stranded Deep##392
+369000##Pongo##383
+448510##Overcooked##349
+303390##Dead Bits##342
+349580##Burstfire##325
+201790##Orcs Must Die! 2##317
+4000##Garry's Mod##309
+13520##Far Cry##308
+620##Portal 2##294
+278460##Skyborn##256
+383870##Firewatch##256
+248310##Freedom Planet##254
+233130##Shadow Warrior##246
+63380##Sniper Elite V2##243
+8870##BioShock Infinite##243
+222880##Insurgency##243
+329380##Stealth Inc 2##235
+219640##Chivalry: Medieval Warfare##233
+72850##The Elder Scrolls V: Skyrim##230
+300##Day of Defeat: Source##228
+224540##Ace of Spades##228
+203160##Tomb Raider##228
+375710##The Adventures of Mr. Bobley##222
+49520##Borderlands 2##218
+15700##Oddworld: Abe's Oddysee##218
+379720##DOOM##217
+267980##Hostile Waters: Antaeus Rising##216
+264240##CONSORTIUM##216
+233980##Unepic##200
+257890##Frozen Hearth##198
+3700##Sniper Elite##196
+355520##The Albino Hunter##196
+360650##12 Labours of Hercules III: Girl Power##196
+238910##Bionic Dues##192
+314450##Saviors##189
+336610##Outcast 1.1##176
+364270##Lilly and Sasha: Curse of the Immortals##176
+396790##Dracula's Legacy##176
+233720##Surgeon Simulator##175
+234920##Dyscourse##175
+611500##Quake Champions##175
+313020##Soul Gambler##172
+263980##Out There Somewhere##162
+314020##Morphopolis##162
+326180##Sinister City##162
+330350##Robotex##162
+341500##Camera Obscura##162
+351470##Sometimes: Success Requires Sacrifice##162
+213670##South Park™: The Stick of Truth™##160
+92100##DETOUR##156
+96100##Defy Gravity##156
+306040##The Howler##156
+318430##Squishy the Suicidal Pig##156
+344910##Sun Blast##156
+341310##Greyfox##156
+396160##Secret Of Magia##156
+399790##Destiny Warriors##156
+407230##Legend of Mysteria##156
+224760##FEZ##153
+409710##BioShock Remastered##143
+400##Portal##135
+500##Left 4 Dead##133
+388340##Super Hipster Lumberjack##119
+65800##Dungeon Defenders##107
+319630##Life is Strange™##105
+368730##No Time To Explain Remastered##104
+325090##Deep Dungeons of Doom##104
+343100##Overture##104
+34270##SEGA Mega Drive & Genesis Classics##104
+219830##King Arthur's Gold##103
+385270##Jet Racing Extreme##103
+512250##Oh...Sir! The Insult Simulator##103
+57690##Tropico 4##102
+340050##Survivalist##102
+384150##TeraBlaster##102
+223850##3DMark##88
+378860##Project CARS 2##75
+391740##Blaster Shooter GunGuy!##74
+489830##The Elder Scrolls V: Skyrim Special Edition##61
+288470##Fable Anniversary##59
+227700##Firefall##54
+264710##Subnautica##49
+40800##Super Meat Boy##45
+238460##BattleBlock Theater##39
+33930##Arma 2: Operation Arrowhead##38
+9010##Return to Castle Wolfenstein##36
+253710##theHunter Classic##28
+570##Dota 2##21
+204360##Castle Crashers##20
+30##Day of Defeat##12
+976730##Halo: The Master Chief Collection##12
+690790##DiRT Rally 2.0##12
+22370##Fallout 3 - Game of the Year Edition##11
+424840##Little Nightmares##11
+2270##Wolfenstein 3D##10
+337950##The SKIES##8
+397990##Woof Blaster##3
+386360##SMITE##2
+394130##Water Bears VR##1
+205230##Hell Yeah!##1
+20##Team Fortress Classic##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+80##Counter-Strike: Condition Zero##0
+100##Counter-Strike: Condition Zero Deleted Scenes##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+280##Half-Life: Source##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+8000##Tomb Raider: Anniversary##0
+9000##Wolfenstein 3D: Spear of Destiny##0
+7670##BioShock##0
+420##Half-Life 2: Episode Two##0
+33900##Arma 2##0
+219540##Arma 2: Operation Arrowhead Beta (Obsolete)##0
+48000##LIMBO##0
+205790##Dota 2 Test##0
+22380##Fallout: New Vegas##0
+37400##Time Gentlemen, Please!##0
+37420##Ben There, Dan That!##0
+6850##Hitman 2: Silent Assassin##0
+19900##Far Cry 2##0
+243870##Tom Clancy's Ghost Recon Phantoms - NA##0
+239220##The Mighty Quest For Epic Loot##0
+1500##Darwinia##0
+1510##Uplink##0
+1520##DEFCON##0
+1530##Multiwinia##0
+236090##Dust: An Elysian Tail##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+267940##Glacier 3: The Meltdown##0
+201810##Wolfenstein: The New Order##0
+362300##Just Survive Test Server##0
+439700##H1Z1: Test Server##0
+296910##8BitBoy##0
+315260##Space Hack##0
+370190##Ruzh Delta Z##0
+858460##SMITE - Public Test##0
+247730##Nether##0
+272890##Vertiginous Golf##0
+391220##Rise of the Tomb Raider##0
+205950##Jet Set Radio##0
+99300##Renegade Ops##0
+211160##Viking: Battle for Asgard##0
+464170##VRMark##0
+524390##PCMark 10##0
+8850##BioShock 2##0
+409720##BioShock 2 Remastered##0
+@@REVIEW

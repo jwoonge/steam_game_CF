@@ -1,0 +1,85 @@
+@@GAME
+730##Counter-Strike: Global Offensive##70104
+552500##Warhammer: Vermintide 2##18083
+105600##Terraria##16956
+10##Counter-Strike##9339
+49520##Borderlands 2##5145
+424370##Wolcen: Lords of Mayhem##4822
+200710##Torchlight II##4481
+222900##Dead Island: Epidemic##4147
+275850##No Man's Sky##3574
+588650##Dead Cells##3525
+211820##Starbound##2443
+61700##Might & Magic: Clash of Heroes##2347
+238960##Path of Exile##1653
+200170##Worms Revolution##1422
+11020##TrackMania Nations Forever##1370
+201790##Orcs Must Die! 2##1235
+204030##Fable - The Lost Chapters##946
+287680##Pro Evolution Soccer 2015##842
+550##Left 4 Dead 2##801
+35720##Trine 2##746
+261640##Borderlands: The Pre-Sequel##603
+449470##Atulos Online##540
+240##Counter-Strike: Source##463
+239820##Game Dev Tycoon##381
+992640##Pagan: Absent Gods##374
+899770##Last Epoch##315
+233840##Worms Clan Wars##304
+548430##Deep Rock Galactic##301
+230860##Cannon Brawl##276
+205950##Jet Set Radio##263
+219990##Grim Dawn##207
+372800##RPG MO##146
+17080##Tribes: Ascend##144
+7670##BioShock##110
+91310##Dead Island##95
+1263070##Blightbound##79
+531640##Eternal Card Game##78
+1128810##RISK: Global Domination##70
+386360##SMITE##65
+965200##Walking Zombie 2##64
+570##Dota 2##61
+468560##Blind Trust##58
+200210##Realm of the Mad God Exalt##40
+409710##BioShock Remastered##37
+331360##Heavy Metal Machines##35
+273110##Counter-Strike Nexon: Studio##34
+329110##Gems of War##33
+99900##Spiral Knights##32
+34270##SEGA Mega Drive & Genesis Classics##31
+397900##Business Tour - Online Multiplayer Board Game##29
+286690##Metro 2033 Redux##28
+333930##Dirty Bomb##27
+485760##Legend of Numbers##27
+711810##Never Split the Party##26
+222880##Insurgency##23
+109400##MicroVolts Surge##20
+237630##DuckTales Remastered##11
+44350##GRID 2##11
+1281930##tModLoader##8
+317360##Double Action: Boogaloo##6
+218740##Pid ##4
+511800##ONRAID##3
+205790##Dota 2 Test##1
+680360##Regions Of Ruin##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+367540##Starbound - Unstable##0
+287390##Metro: Last Light Redux##0
+200110##Nosgoth##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409720##BioShock 2 Remastered##0
+858460##SMITE - Public Test##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+226840##Age of Wonders III##0
+289690##Lara Croft and the Temple of Osiris##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+1368460##Golden Axed: A Cancelled Prototype##0
+@@REVIEW

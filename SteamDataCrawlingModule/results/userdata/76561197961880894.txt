@@ -1,0 +1,156 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+240##Counter-Strike: Source##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+400##Portal##0
+420##Half-Life 2: Episode Two##0
+1250##Killing Floor##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+550##Left 4 Dead 2##0
+10500##Total War: EMPIRE - Definitive Edition##0
+12210##Grand Theft Auto IV: The Complete Edition##0
+73020##Majesty 2 Collection##0
+107100##Bastion##0
+3170##King's Bounty: Armored Princess##0
+25900##King's Bounty: The Legend##0
+63910##King's Bounty: Crossworlds##0
+72850##The Elder Scrolls V: Skyrim##0
+203770##Crusader Kings II##0
+204880##Sins of a Solar Empire: Rebellion##0
+22380##Fallout: New Vegas##0
+20540##Company of Heroes: Tales of Valor##0
+228200##Company of Heroes ##0
+201790##Orcs Must Die! 2##0
+218680##Scribblenauts Unlimited##0
+4920##Natural Selection 2##0
+236390##War Thunder##0
+39000##Moonbase Alpha##0
+225420##Cities in Motion 2##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+35450##Rising Storm/Red Orchestra 2 Multiplayer##0
+35720##Trine 2##0
+242760##The Forest##0
+25800##Europa Universalis III##0
+218620##PAYDAY 2##0
+251570##7 Days to Die##0
+15320##IL-2 Sturmovik: 1946##0
+219990##Grim Dawn##0
+209000##Batman™: Arkham Origins##0
+242700##Injustice: Gods Among Us Ultimate Edition##0
+265550##Dead Rising 3##0
+211820##Starbound##0
+367540##Starbound - Unstable##0
+8930##Sid Meier's Civilization V##0
+25890##Hearts of Iron III##0
+244850##Space Engineers##0
+281990##Stellaris##0
+286000##Tooth and Tail##0
+245620##Tropico 5##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+206420##Saints Row IV##0
+322680##BLACKHOLE##0
+241930##Middle-earth™: Shadow of Mordor™##0
+730##Counter-Strike: Global Offensive##0
+346110##ARK: Survival Evolved##0
+407530##ARK: Survival Of The Fittest##0
+230190##War for the Overworld##0
+291650##Pillars of Eternity##0
+354500##PAYDAY: The Web Series##0
+354510##PAYDAY: The Web Series: The Vault##0
+354520##PAYDAY: The Web Series: Hector##0
+354530##PAYDAY: The Web Series: The Elephant##0
+354540##PAYDAY: The Web Series: Greta: The Assassin##0
+354550##PAYDAY: The Web Series: Vlad & Gage##0
+494710##PAYDAY: The Web Series: First World Bank##0
+355000##GlassWire##0
+255710##Cities: Skylines##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+365720##Skyrim Script Extender (SKSE)##0
+367520##Hollow Knight##0
+238370##Magicka 2##0
+397080##Magicka 2: Spell Balance Beta##0
+386070##Planetary Annihilation: TITANS##0
+234140##Mad Max##0
+405900##Disgaea PC##0
+394510##HELLDIVERS™##0
+236110##Dungeon Defenders II##0
+413150##Stardew Valley##0
+423580##Project Highrise##0
+427520##Factorio##0
+429660##Tales of Berseria##0
+434460##Rock of Ages 2##0
+310380##Fractured Space##0
+374320##DARK SOULS™ III##0
+365590##Tom Clancy's The Division##0
+524440##Tom Clancy's The Division PTS##0
+275850##No Man's Sky##0
+460790##Bayonetta##0
+223100##Homefront: The Revolution##0
+377160##Fallout 4##0
+379720##DOOM##0
+489830##The Elder Scrolls V: Skyrim Special Edition##0
+363680##Battlefleet Gothic: Armada##0
+513560##Hunger Dungeon##0
+292030##The Witcher 3: Wild Hunt##0
+7670##BioShock##0
+8850##BioShock 2##0
+8870##BioShock Infinite##0
+409710##BioShock Remastered##0
+409720##BioShock 2 Remastered##0
+392110##Endless Space® 2 - Digital Deluxe Edition##0
+287700##METAL GEAR SOLID V: THE PHANTOM PAIN##0
+311340##METAL GEAR SOLID V: GROUND ZEROES##0
+249050##Dungeon of the Endless™ - Crystal Edition##0
+289130##Endless Legend™ - Emperor Edition##0
+563560##Alien Swarm: Reactive Drop##0
+208140##Endless Space##0
+584210##Tom Clancy's Ghost Recon Wildlands Open Beta##0
+588430##Fallout Shelter##0
+598700##The Vagrant##0
+601150##Devil May Cry 5##0
+572410##Steel Division: Normandy 44##0
+644560##Mirror##0
+644930##They Are Billions##0
+367500##Dragon's Dogma: Dark Arisen##0
+584400##Sonic Mania##0
+368420##Mirage: Arcane Warfare##0
+435150##Divinity: Original Sin 2##0
+587620##Okami HD##0
+440900##Conan Exiles##0
+931180##Conan Exiles - Testlive Client##0
+638970##Yakuza 0##0
+582010##Monster Hunter: World##0
+714010##Aim Lab##0
+304390##For Honor##0
+654310##For Honor - Public Test##0
+973760##Thronebreaker: The Witcher Tales##0
+20900##The Witcher: Enhanced Edition##0
+738540##Tales of Vesperia: Definitive Edition##0
+231430##Company of Heroes 2##0
+1018830##Element TD 2##0
+690790##DiRT Rally 2.0##0
+632360##Risk of Rain 2##0
+275390##Guacamelee! Super Turbo Championship Edition##0
+44350##GRID 2##0
+1085660##Destiny 2##0
+226840##Age of Wonders III##0
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##0
+15620##Warhammer 40,000: Dawn of War II##0
+462770##Pyre##0
+1237970##Titanfall® 2##0
+34330##Total War: SHOGUN 2##0
+1151340##Fallout 76##0
+@@REVIEW

@@ -1,0 +1,223 @@
+@@GAME
+1085660##Destiny 2##11077
+435150##Divinity: Original Sin 2##9550
+440##Team Fortress 2##9270
+4920##Natural Selection 2##6756
+230230##Divinity: Original Sin (Classic)##5877
+413150##Stardew Valley##5595
+105600##Terraria##5238
+211820##Starbound##4704
+294100##RimWorld##4663
+253250##Stonehearth##3117
+38220##Section 8##2942
+630##Alien Swarm##2906
+240##Counter-Strike: Source##2787
+264710##Subnautica##2718
+8980##Borderlands GOTY##2680
+646570##Slay the Spire##2444
+41500##Torchlight##2117
+4000##Garry's Mod##2030
+730##Counter-Strike: Global Offensive##1850
+814370##Monster Sanctuary##1593
+379720##DOOM##1365
+244160##Homeworld Remastered Collection##1275
+8930##Sid Meier's Civilization V##1262
+394510##HELLDIVERS™##1184
+253230##A Hat in Time##1170
+362890##Black Mesa##1132
+445980##Wizard of Legend##1099
+1086940##Baldur's Gate 3##1040
+39160##Dungeon Siege III##985
+570##Dota 2##968
+620##Portal 2##841
+1144970##Necronator: Dead Wrong##819
+200710##Torchlight II##732
+466560##Northgard##708
+42910##Magicka##685
+241600##Rogue Legacy##676
+292030##The Witcher 3: Wild Hunt##634
+10##Counter-Strike##633
+40100##Supreme Commander 2##617
+599140##Graveyard Keeper##615
+500##Left 4 Dead##593
+274190##Broforce##588
+239070##Hammerwatch##578
+208670##Blades of Time##526
+269210##Hero Siege##517
+35720##Trine 2##514
+560130##Pillars of Eternity II: Deadfire##488
+300380##Road Redemption##484
+1161580##Hardspace: Shipbreaker##433
+677120##Heroes of Hammerwatch##432
+40800##Super Meat Boy##431
+237930##Transistor##423
+233980##Unepic##405
+528230##SYNTHETIK##371
+48240##Anno 2070##358
+35700##Trine##310
+17470##Dead Space##307
+346110##ARK: Survival Evolved##303
+400##Portal##302
+251470##TowerFall Ascension##285
+70##Half-Life##268
+373420##Divinity: Original Sin Enhanced Edition##252
+248820##Risk of Rain##245
+65800##Dungeon Defenders##242
+98800##Dungeons of Dredmor##242
+330820##2064: Read Only Memories##240
+550##Left 4 Dead 2##231
+20500##Red Faction: Guerrilla Steam Edition##230
+244850##Space Engineers##219
+397060##Faeria##213
+1250##Killing Floor##208
+107200##Space Pirates and Zombies##204
+250110##Assault Android Cactus##204
+242920##Banished##196
+91600##Sanctum##191
+41210##Eufloria##175
+607890##Sword Art Online: Hollow Realization Deluxe Edition##170
+35450##Rising Storm/Red Orchestra 2 Multiplayer##167
+9460##Frontlines: Fuel of War##165
+632360##Risk of Rain 2##151
+227860##Castle Story##149
+322110##20XX##141
+43110##Metro 2033##140
+19980##Prince of Persia##138
+91700##E.Y.E: Divine Cybermancy##138
+330020##Children of Morta##133
+49900##Plain Sight##122
+322330##Don't Starve Together##116
+493200##RiME##108
+250180##METAL SLUG 3##102
+881100##Noita##101
+33460##From Dust##98
+236370##Interstellar Marines##82
+367520##Hollow Knight##80
+221180##Eufloria HD##79
+8190##Just Cause 2##76
+17710##Nuclear Dawn##71
+249050##Dungeon of the Endless™ - Crystal Edition##60
+55040##Atom Zombie Smasher ##59
+92800##SpaceChem##53
+367540##Starbound - Unstable##50
+233250##Planetary Annihilation##46
+219740##Don't Starve##45
+271290##HAWKEN##44
+219830##King Arthur's Gold##40
+204360##Castle Crashers##39
+324810##TOXIKK##35
+41070##Serious Sam 3: BFE##34
+386070##Planetary Annihilation: TITANS##34
+32370##STAR WARS™: Knights of the Old Republic™##30
+247000##Talisman: Digital Edition##30
+92##Codename Gordon##30
+100##Counter-Strike: Condition Zero Deleted Scenes##29
+40700##Machinarium##28
+99900##Spiral Knights##26
+18700##And Yet It Moves##23
+57300##Amnesia: The Dark Descent##21
+22180##Penumbra: Overture##19
+215530##The Incredible Adventures of Van Helsing##18
+96200##Steel Storm: Burning Retribution##16
+211##Source SDK##15
+1520##DEFCON##11
+1510##Uplink##9
+41100##Hammerfight##9
+70300##VVVVVV##4
+227680##StarForge##1
+400630##Wuppo - Definitive Edition##1
+829590##CryoFall##1
+984110##SYNTHETIK: Arena##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+130##Half-Life: Blue Shift##0
+220##Half-Life 2##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+80##Counter-Strike: Condition Zero##0
+360##Half-Life Deathmatch: Source##0
+380##Half-Life 2: Episode One##0
+420##Half-Life 2: Episode Two##0
+667720##Red Faction Guerrilla Re-Mars-tered##0
+41300##Altitude##0
+1500##Darwinia##0
+1530##Multiwinia##0
+9500##Gish##0
+22000##World of Goo##0
+24420##Aquaria##0
+25010##Lugaru HD ##0
+40720##Samorost 2##0
+729040##Borderlands GOTY Enhanced##0
+31700##Iron Grip: Warlord##0
+57800##Doc Clock: The Toasted Sandwich of Time##0
+26800##Braid##0
+29180##Osmos##0
+93200##Revenge of the Titans##0
+26500##Cogs##0
+2500##Shadowgrounds##0
+11200##Shadowgrounds: Survivor##0
+70000##Dino D-Day##0
+300##Day of Defeat: Source##0
+92000##Hydrophobia: Prophecy##0
+26900##Crayon Physics Deluxe##0
+236830##Red Orchestra 2: Heroes of Stalingrad - Single Player##0
+48000##LIMBO##0
+98100##TRAUMA##0
+98200##Frozen Synapse##0
+205790##Dota 2 Test##0
+564310##Serious Sam Fusion 2017 (beta)##0
+80330##The Blackwell Legacy##0
+80340##Blackwell Unbound##0
+80350##Blackwell Convergence##0
+6120##Shank##0
+63710##BIT.TRIP RUNNER##0
+94200##Jamestown##0
+99700##NightSky##0
+204880##Sins of a Solar Empire: Rebellion##0
+37400##Time Gentlemen, Please!##0
+37420##Ben There, Dan That!##0
+49520##Borderlands 2##0
+4560##Company of Heroes - Legacy Edition##0
+9340##Company of Heroes: Opposing Fronts##0
+20540##Company of Heroes: Tales of Valor##0
+50620##Darksiders##0
+55110##Red Faction: Armageddon##0
+228200##Company of Heroes ##0
+462780##Darksiders Warmastered Edition##0
+47410##Stronghold Kingdoms##0
+113400##APB Reloaded##0
+230410##Warframe##0
+3483##Peggle Extreme##0
+233450##Prison Architect##0
+234650##Shadowrun Returns##0
+206190##Gunpoint##0
+239030##Papers, Please##0
+252410##SteamWorld Dig##0
+252490##Rust##0
+700580##Rust - Staging Branch##0
+262060##Darkest Dungeon®##0
+265210##Viscera Cleanup Detail: Santa's Rampage##0
+233150##LUFTRAUSERS##0
+304030##ArcheAge##0
+291480##Warface##0
+232430##Gone Home##0
+261640##Borderlands: The Pre-Sequel##0
+331181##Hero Siege - Avenger Paladin (Class + Skin)##0
+407530##ARK: Survival Of The Fittest##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+232090##Killing Floor 2##0
+232150##Killing Floor 2 - SDK##0
+394970##DEADBOLT##0
+214490##Alien: Isolation##0
+558990##Opus Magnum##0
+218620##PAYDAY 2##0
+414340##Hellblade: Senua's Sacrifice##0
+747350##Hellblade: Senua's Sacrifice VR Edition##0
+308600##Geneshift##0
+760620##Deiland##0
+203160##Tomb Raider##0
+729660##Blackout Z: Slaughterhouse Edition##0
+@@REVIEW

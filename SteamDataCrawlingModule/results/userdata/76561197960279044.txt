@@ -1,0 +1,16 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+205790##Dota 2 Test##0
+268850##EVGA Precision X1##0
+323370##TERA##0
+730##Counter-Strike: Global Offensive##0
+755790##Ring of Elysium##0
+893520##CreativeDestruction##0
+@@REVIEW

@@ -1,0 +1,20 @@
+@@GAME
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+9480##Saints Row 2##0
+47870##Need for Speed: Hot Pursuit##0
+205790##Dota 2 Test##0
+201700##DiRT Showdown##0
+730##Counter-Strike: Global Offensive##0
+207890##Football Manager 2013##0
+202970##Call of Duty: Black Ops II##0
+202990##Call of Duty: Black Ops II - Multiplayer##0
+212910##Call of Duty: Black Ops II - Zombies##0
+226700##Infestation: Survivor Stories 2020##0
+@@REVIEW

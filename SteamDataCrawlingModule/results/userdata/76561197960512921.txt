@@ -1,0 +1,194 @@
+@@GAME
+550##Left 4 Dead 2##120039
+594650##Hunt: Showdown##116187
+273350##Evolve Stage 2##56963
+236850##Europa Universalis IV##48693
+226700##Infestation: Survivor Stories 2020##25759
+730##Counter-Strike: Global Offensive##19353
+24960##Battlefield: Bad Company™ 2##8522
+70##Half-Life##5949
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##5847
+219640##Chivalry: Medieval Warfare##4596
+281990##Stellaris##3630
+268500##XCOM 2##3483
+535230##Domina##2776
+200510##XCOM: Enemy Unknown##2637
+282070##This War of Mine##2510
+223630##AirBuccaneers##2209
+366910##The Long Journey Home##2157
+630##Alien Swarm##1884
+770720##Hunt: Showdown (Test Server)##1859
+207610##The Walking Dead##1463
+320##Half-Life 2: Deathmatch##1366
+219740##Don't Starve##1275
+1097150##Fall Guys: Ultimate Knockout##1180
+10##Counter-Strike##1171
+427470##Democracy 3 Africa##1087
+318600##The Flame in the Flood##1056
+65980##Sid Meier's Civilization: Beyond Earth##1026
+245470##Democracy 3##1017
+17520##Synergy##985
+255710##Cities: Skylines##957
+305620##The Long Dark##909
+500##Left 4 Dead##900
+238430##Contagion##863
+250400##How to Survive##843
+235620##Small World##843
+322330##Don't Starve Together##795
+632470##Disco Elysium##759
+220##Half-Life 2##757
+261030##The Walking Dead: Season Two##753
+35700##Trine##704
+374060##Stairs##701
+389570##Mitos.is: The Game##694
+212680##FTL: Faster Than Light##684
+307780##Mortal Kombat X##659
+24240##PAYDAY: The Heist##649
+239030##Papers, Please##638
+535930##Two Point Hospital##614
+380840##Teeworlds##591
+22120##Penumbra: Black Plague##577
+35720##Trine 2##494
+620##Portal 2##475
+307110##We Need To Go Deeper##427
+22140##Penumbra: Requiem##412
+570##Dota 2##354
+429570##The Walking Dead: Michonne##333
+91310##Dead Island##331
+322210##Guns, Gore & Cannoli##319
+298050##Master of Orion##316
+8930##Sid Meier's Civilization V##300
+221100##DayZ##296
+288860##Realms of Arkania: Star Trail##292
+240##Counter-Strike: Source##285
+295790##Never Alone (Kisima Ingitchuna)##278
+6120##Shank##276
+3590##Plants vs. Zombies: Game of the Year##256
+223710##Cry of Fear##234
+326410##Windward##230
+559100##Phantom Doctrine##205
+235540##Warhammer: End Times - Vermintide##198
+251170##Damned##190
+400##Portal##152
+57300##Amnesia: The Dark Descent##137
+258970##Gauntlet™ ##137
+220240##Far Cry® 3##119
+48000##LIMBO##96
+102840##Shank 2##96
+293780##Crawl##95
+222880##Insurgency##93
+544750##SOULCALIBUR VI##93
+260230##Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™##86
+253650##Sparkle 2 Evo##85
+233190##Final Exam##80
+209080##Guns of Icarus Online##79
+224220##Pressure##70
+306660##Ultimate General: Gettysburg##65
+304650##Sunless Sea##62
+7760##X-COM: UFO Defense##54
+8500##EVE Online##54
+43110##Metro 2033##52
+227940##Heroes & Generals##51
+10090##Call of Duty: World at War##44
+42120##Lead and Gold - Gangs of the Wild West##44
+42160##War of the Roses##42
+253750##Ikaruga##42
+297760##Qvadriga##42
+380##Half-Life 2: Episode One##32
+4920##Natural Selection 2##30
+354240##Please, Don’t Touch Anything##30
+347030##The Bluecoats: North vs South##29
+247730##Nether##27
+339230##ZOMBI##27
+4000##Garry's Mod##25
+248610##Door Kickers##25
+221810##The Cave##24
+349210##The Art of Playing##24
+360##Half-Life Deathmatch: Source##20
+270150##RUNNING WITH RIFLES##20
+242920##Banished##19
+1115690##Yes, Your Grace##19
+96300##Ravaged Zombie Apocalypse##17
+321270##UNLOVED##17
+60##Ricochet##16
+7650##X-COM: Terror from the Deep##16
+17410##Mirror's Edge##16
+47790##Medal of Honor(TM) Single Player##16
+312990##The Expendabros##14
+314450##Saviors##14
+340##Half-Life 2: Lost Coast##13
+423950##Deadlight Director’s Cut##11
+1840##Source Filmmaker##11
+104900##ORION: Prelude##10
+236370##Interstellar Marines##10
+440##Team Fortress 2##9
+1250##Killing Floor##8
+211280##Primal Fears##7
+242760##The Forest##7
+17510##Age of Chivalry##7
+319910##Trine 3: The Artifacts of Power##6
+410980##Master of Orion 2##5
+382620##Good Game##5
+50##Half-Life: Opposing Force##4
+39000##Moonbase Alpha##4
+7770##X-COM: Enforcer##3
+107900##War Inc. Battlezone##3
+130##Half-Life: Blue Shift##2
+215670##Home##2
+113420##Fallen Earth##1
+224260##No More Room in Hell##1
+291480##Warface##1
+314420##Company of Heroes: The Great War 1918##1
+352460##Dead Realm##1
+552990##World of Warships##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+420##Half-Life 2: Episode Two##0
+7660##X-COM: Apocalypse##0
+7730##X-COM: Interceptor##0
+17470##Dead Space##0
+22180##Penumbra: Overture##0
+24740##Burnout Paradise: The Ultimate Box##0
+25860##Sword of the Stars##0
+25920##Sword of the Stars: Argos Naval Yard Expansion##0
+42890##Sword of the Stars Complete Collection##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+44340##Operation Flashpoint: Red River##0
+33440##Driver San Francisco##0
+41070##Serious Sam 3: BFE##0
+564310##Serious Sam Fusion 2017 (beta)##0
+204340##Serious Sam 2##0
+108800##Crysis 2 Maximum Edition##0
+108710##Alan Wake##0
+202750##Alan Wake's American Nightmare##0
+219150##Hotline Miami##0
+205790##Dota 2 Test##0
+272350##Tom Clancy's Ghost Recon Phantoms - EU##0
+241640##Haunted Memories##0
+47830##Medal of Honor(TM) Multiplayer##0
+238320##Outlast##0
+264060##Full Bore##0
+269890##AR-K##0
+273110##Counter-Strike Nexon: Studio##0
+233290##MURDERED: SOUL SUSPECT™##0
+63380##Sniper Elite V2##0
+410970##Master of Orion 1##0
+410990##Master of Orion 3##0
+388390##"Glow Ball" - The billiard puzzle game##0
+394310##Punch Club##0
+394360##Hearts of Iron IV##0
+319630##Life is Strange™##0
+536220##The Walking Dead: A New Frontier##0
+563560##Alien Swarm: Reactive Drop##0
+@@REVIEW
+1304600##Recommended
+281990##Recommended
+1097150##Recommended
+1228530##Recommended
+305620##Recommended
+1143840##Recommended
+410980##Recommended
+282070##Recommended
+235540##Not Recommended
+594650##Recommended

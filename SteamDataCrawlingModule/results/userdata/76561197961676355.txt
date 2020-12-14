@@ -1,0 +1,109 @@
+@@GAME
+550##Left 4 Dead 2##53429
+377160##Fallout 4##40176
+72850##The Elder Scrolls V: Skyrim##29345
+22380##Fallout: New Vegas##28408
+7520##Two Worlds II##25752
+289070##Sid Meier's Civilization VI##25088
+307880##Savage Lands##23127
+239140##Dying Light##22226
+8930##Sid Meier's Civilization V##21138
+48700##Mount & Blade: Warband##17430
+392110##Endless Space® 2 - Digital Deluxe Edition##15690
+682990##Drug Dealer Simulator##15409
+208140##Endless Space##13655
+91310##Dead Island##13652
+216250##Dead Island Riptide##12162
+240##Counter-Strike: Source##9881
+49520##Borderlands 2##8073
+552520##Far Cry 5##8071
+105400##Fable III##7788
+292030##The Witcher 3: Wild Hunt##7773
+435150##Divinity: Original Sin 2##7576
+356190##Middle-earth™: Shadow of War™##7156
+241930##Middle-earth™: Shadow of Mordor™##5044
+960090##Bloons TD 6##4420
+1250##Killing Floor##4390
+213670##South Park™: The Stick of Truth™##4317
+12210##Grand Theft Auto IV: The Complete Edition##4124
+238960##Path of Exile##3248
+489830##The Elder Scrolls V: Skyrim Special Edition##2895
+597220##West of Loathing##2538
+552500##Warhammer: Vermintide 2##2106
+594570##Total War: WARHAMMER II##1700
+4570##Warhammer 40,000: Dawn of War - Game of the Year Edition##1384
+219990##Grim Dawn##1168
+321800##Icewind Dale: Enhanced Edition##1135
+4000##Garry's Mod##1098
+22370##Fallout 3 - Game of the Year Edition##1036
+13240##Unreal Tournament: Game of the Year Edition##977
+225260##Brütal Legend##907
+10##Counter-Strike##900
+13210##Unreal Tournament 3: Black Edition##828
+67370##The Darkness II##809
+257350##Baldur's Gate II: Enhanced Edition##605
+232090##Killing Floor 2##538
+13230##Unreal Tournament 2004##501
+212500##The Lord of the Rings Online™##404
+39140##FINAL FANTASY VII##402
+552620##ATOM RPG##393
+273110##Counter-Strike Nexon: Studio##364
+233130##Shadow Warrior##347
+7530##Two Worlds II Castle Defense##298
+261640##Borderlands: The Pre-Sequel##247
+389730##TEKKEN 7##241
+22330##The Elder Scrolls IV: Oblivion ##210
+252950##Rocket League##186
+24460##King Arthur - Fallen Champions##148
+47810##Dragon Age: Origins - Ultimate Edition##132
+201790##Orcs Must Die! 2##112
+319630##Life is Strange™##112
+226560##Escape Dead Island##110
+265930##Goat Simulator##99
+3710##Judge Dredd: Dredd vs Death##72
+2310##Quake##53
+326460##ShellShock Live##51
+269210##Hero Siege##48
+429570##The Walking Dead: Michonne##35
+50300##Spec Ops: The Line##30
+2320##Quake II##28
+211420##DARK SOULS™: Prepare To Die Edition##25
+222900##Dead Island: Epidemic##25
+2200##Quake III Arena##22
+531640##Eternal Card Game##12
+39200##Dungeon Siege 2##8
+365720##Skyrim Script Extender (SKSE)##1
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+70##Half-Life##0
+130##Half-Life: Blue Shift##0
+2330##Quake II: The Reckoning##0
+2340##Quake II: Ground Zero##0
+2350##Quake III: Team Arena##0
+9030##Quake Mission Pack 2: Dissolution of Eternity##0
+9040##Quake Mission Pack 1: Scourge of Armagon##0
+13200##Unreal II: The Awakening##0
+13250##Unreal Gold##0
+11450##Overlord##0
+12710##Overlord: Raising Hell##0
+12810##Overlord II##0
+3730##Aliens versus Predator Classic 2000##0
+8190##Just Cause 2##0
+42910##Magicka##0
+2990##FlatOut 2##0
+35420##Killing Floor Mod: Defence Alliance 2##0
+22320##The Elder Scrolls III: Morrowind##0
+4580##Warhammer 40,000: Dawn of War - Dark Crusade##0
+9310##Warhammer 40,000: Dawn of War - Winter Assault##0
+9450##Warhammer 40,000: Dawn of War - Soulstorm##0
+255520##Viscera Cleanup Detail: Shadow Warrior##0
+232150##Killing Floor 2 - SDK##0
+383870##Firewatch##0
+218620##PAYDAY 2##0
+220240##Far Cry® 3##0
+737010##Warhammer: Vermintide 2 Closed Test##0
+582660##Black Desert Online##0
+@@REVIEW

@@ -1,0 +1,29 @@
+@@GAME
+730##Counter-Strike: Global Offensive##152662
+240##Counter-Strike: Source##111598
+42690##Call of Duty: Modern Warfare 3 - Multiplayer##40266
+578080##PLAYERUNKNOWN'S BATTLEGROUNDS##13116
+10190##Call of Duty: Modern Warfare 2 - Multiplayer##9732
+42680##Call of Duty: Modern Warfare 3##2788
+220##Half-Life 2##1287
+282660##Easy eSports##1194
+10180##Call of Duty: Modern Warfare 2##802
+202990##Call of Duty: Black Ops II - Multiplayer##704
+212910##Call of Duty: Black Ops II - Zombies##419
+202970##Call of Duty: Black Ops II##31
+755790##Ring of Elysium##22
+70##Half-Life##13
+130##Half-Life: Blue Shift##1
+479130##ESEA##1
+10##Counter-Strike##0
+20##Team Fortress Classic##0
+30##Day of Defeat##0
+40##Deathmatch Classic##0
+50##Half-Life: Opposing Force##0
+60##Ricochet##0
+320##Half-Life 2: Deathmatch##0
+340##Half-Life 2: Lost Coast##0
+98300##Toy Soldiers##0
+298260##Only If##0
+@@REVIEW
+730##Recommended
