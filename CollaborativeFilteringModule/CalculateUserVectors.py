@@ -92,8 +92,8 @@ if __name__=='__main__':
     tf = open('user_tag_vectors.csv', 'w', newline='\n')
     gw = csv.writer(gf)
     tw = csv.writer(tf)
-    #for filename in os.listdir(user_data_dir):
-    for filename in os.listdir(user_data_dir_test):
+    for filename in os.listdir(user_data_dir):
+    #for filename in os.listdir(user_data_dir_test):
         user_id = filename[:-4]
         user_game_dict, user_tag_dict = get_user_dict(user_id, game_datas)
         user_game_vector = cal_user_game_vector(user_game_dict, game_range)
