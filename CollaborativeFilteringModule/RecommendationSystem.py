@@ -64,18 +64,49 @@ def normalize(vectors):
     mean_of_col = np.where(mean_of_col==0, 0.01, mean_of_col)
     return vectors / mean_of_col
 
-
 if __name__=='__main__':
     ## Read Data & Normalize
-    game_datas, game_range, tag_range = get_game_data()
+    game_datas, game_range, tag_range = get_game_data('gamedata.txt')
     user_game_vectors = np.array(np.loadtxt('user_game_vectors.csv', dtype=np.float, delimiter=','))
     user_tag_vectors = np.array(np.loadtxt('user_tag_vectors.csv', dtype=np.float, delimiter=','))
     user_tag_vectors = normalize(user_tag_vectors)
     ## Separate test-train set
-    test_set_g = user_game_vectors[:5, :]
-    train_set_g = user_game_vectors[5:,:]
-    test_set_t = user_tag_vectors[:5, :]
-    train_set_t = user_tag_vectors[5:,:]
+    test_size = 5
+    test_set_g = user_game_vectors[:test_size, :]
+    train_set_g = user_game_vectors[test_size:,:]
+    test_set_t = user_tag_vectors[:test_size, :]
+    train_set_t = user_tag_vectors[test_size:,:]
     ## Find most similar user by tag
-    recommend_game_id = recommend_CF(3, train_set_g, test_set_g, train_set_t, test_set_t, game_datas, game_range, tag_range)
-    print(recommend_game_id)
+    recommend_game_id = recommend_CF(5, train_set_g, test_set_g, train_set_t, test_set_t, game_datas, game_range, tag_range)
+    origin_game_id = np.array(game_range)[(-test_set_g).argsort(axis=1)[:,:5]]
+
+    for i in range(test_size):
+        recommend_game_name = []
+        recommend_game_tags = []
+        origin_game_name = []
+        origin_game_tags = []
+        for j in range(len(recommend_game_id[i])):
+            recommend_game_name.append(game_datas[recommend_game_id[i][j]].game_name)
+            tags = ""
+            for t in (game_datas[recommend_game_id[i][j]].tags):
+                tags += t + '/'
+            recommend_game_tags.append(tags)
+        for j in range(len(origin_game_id[i])):
+            origin_game_name.append(game_datas[origin_game_id[i][j]].game_name)
+            tags = ""
+            for t in (game_datas[origin_game_id[i][j]].tags):
+                tags += t + '/'
+            origin_game_tags.append(tags)
+        print('==================================\nfor test user',i)
+        print('who like to play')
+        print('-------------------------------')
+        for j in range(len(origin_game_name)):
+            print('  - ',origin_game_name[j])
+            print('\t\t',origin_game_tags[j],'\n')
+        print('-------------------------------')
+        print('we recommend')
+        print('-------------------------------')
+        for j in range(len(recommend_game_name)):
+            print('  - ',recommend_game_name[j])
+            print('\t\t',recommend_game_tags[j],'\n')
+        
