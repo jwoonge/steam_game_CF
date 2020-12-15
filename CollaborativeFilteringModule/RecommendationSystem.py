@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from CalculateUserVectors import get_game_data
 import random
 
-def recommend_CF(k, train_set_g, test_set_g, train_set_t, test_set_t, game_datas, game_range, tag_range):
+def recommend_CF(k, num_retrieve, train_set_g, test_set_g, train_set_t, test_set_t, game_datas, game_range, tag_range):
     num_test = len(test_set_g)
     game_range = np.array(game_range); tag_range = np.array(tag_range)
     recommend_rates = []
@@ -26,7 +26,7 @@ def recommend_CF(k, train_set_g, test_set_g, train_set_t, test_set_t, game_datas
         count = 0
         sim_user = 0
         topn = 0
-        while count<k:
+        while count<num_retrieve:
             sim_user_vector = train_set_g[int(sim_user_index[i][sim_user])]
             sim_user_vector = sim_user_vector * recommend_rates
             sim_user_vector_index = (-sim_user_vector).argsort()
